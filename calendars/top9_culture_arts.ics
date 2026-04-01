@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 9 – Culture & Arts
+X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London this week.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:02da315076c2@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260410
+SUMMARY:AIM\, SHOOT\, STOP\, FIX Photography Exhibition
+DESCRIPTION:An exhibition featuring the work of influential music photograp
+ hers like Peter Anderson\, Chris Clunn\, David Corio\, and Lawrence Watson
+ \, with snaps of music royalty.\n\nPrice: Check site\n\nTickets/Info: http
+ s://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Worldly Wicked & Wise Gallery\, Shoreditch\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fa94750ec54f@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260413
+SUMMARY:Sour Loop: Laurel Halo & Hanne Lippard
+DESCRIPTION:A sound installation by musician Laurel Halo and artist Hanne L
+ ippard\, part of Assembly 2026.\n\nPrice: Check site\n\nTickets/Info: http
+ s://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.somersethouse.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:7260ef62af8b@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260426
+SUMMARY:Choir Boy
+DESCRIPTION:Nancy Medina's production of Tarell Alvin McCraney's play tells
+  the story of Pharus\, a gifted singer navigating his identity.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.stratfordeast.com
+LOCATION:Stratford East\, Stratford\, London
+URL:https://www.stratfordeast.com
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:358c6b200077@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260504
+SUMMARY:In the Print
+DESCRIPTION:A politically-charged play documenting the 'Battle of Wapping'\
+ , where trade union leader Brenda Dean confronts Rupert Murdoch's newspape
+ r empire.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.
+ substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:King's Head Theatre\, Islington\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:19f4d3ba6a3d@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260419
+SUMMARY:Welcome to Pemfort
+DESCRIPTION:A theatrical production written by Sarah Power and directed by 
+ Ed Madden.\n\nPrice: From £13\n\nTickets/Info: https://sohotheatre.com/al
+ l-shows/
+LOCATION:Soho Theatre\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c54405dda8@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260419
+SUMMARY:THIS IS NOT ABOUT ME.
+DESCRIPTION:A performance or show titled 'THIS IS NOT ABOUT ME.'\n\nPrice: 
+ From £19\n\nTickets/Info: https://sohotheatre.com/all-shows/
+LOCATION:Soho Upstairs\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9bab3595e9a6@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260430
+SUMMARY:Cold War Visions: Ikarie XB-1
+DESCRIPTION:Barbican Cinema launches 'Cold War Visions\,' a film season exp
+ loring nuclear anxiety in the Eastern Bloc\, starting with 'Ikarie XB-1\,'
+  a futuristic film from 2163.\n\nPrice: Check site\n\nTickets/Info: https:
+ //londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-mar
+ ch-5-april-2026
+LOCATION:Barbican Cinema\, Barbican\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:72cfccc0c341@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Hidden Women of the City of London Talk
+DESCRIPTION:Rebecca Couper presents an illustrated talk at The London Archi
+ ves\, exploring nearly 2\,000 years of women connected to the Square Mile.
+ \n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack.
+ com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The London Archives\, Clerkenwell\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:4db6c12dff2a@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Hayward Gallery Lates
+DESCRIPTION:Enjoy after-hours access to Hayward Gallery exhibitions\, spotl
+ ight tours\, poetry performances\, and creative activities during this lat
+ e opening event.\n\nPrice: Check site\n\nTickets/Info: https://londonistli
+ stings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-20
+ 26
+LOCATION:Hayward Gallery\, South Bank\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+END:VCALENDAR
