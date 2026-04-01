@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 9 – All London Events
+X-WR-CALDESC:London's top 36 picks this week across Date Night\, Only in London\, Culture & Arts and Going Out.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:7a2465b78378@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260407
+SUMMARY:Date Night · Sounds of Blossom at Kew Gardens
+DESCRIPTION:Experience cherry blossom and magnolia displays enhanced by spe
+ cially commissioned musical compositions at Kew Gardens.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://londontravelplanning.com/events-in-london-in-
+ april/
+LOCATION:Royal Botanic Gardens\, Kew\, Kew\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:bd55d219094e@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260405
+SUMMARY:Date Night · Easter At The Chocolate Cocktail Club
+DESCRIPTION:Celebrate Easter at The Chocolate Cocktail Club with festive\, 
+ chocolate-infused cocktails and treats.\n\nPrice: £11.50\n\nTickets/Info:
+  https://feverup.com/en/london
+LOCATION:Chocolate Cocktail Club\, Farringdon\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:579496cca5bc@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Date Night · Floating Jazz at St Katharine Docks
+DESCRIPTION:Enjoy live jazz on Marina’s Floating Pontoon at St Katharine 
+ Docks\, with a complimentary glass of bubbles and blankets amidst twinklin
+ g yacht lights.\n\nPrice: Check site\n\nTickets/Info: https://londonistlis
+ tings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-202
+ 6
+LOCATION:Marina’s Floating Pontoon at St Katharine Docks\, St Katharine D
+ ocks\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:1be6300c130c@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Date Night · Teeth 'n' Smiles
+DESCRIPTION:Rebecca Lucy Taylor stars as rocker Maggie Frisby in the 50th-a
+ nniversary production of David Hare’s rebellious play about disillusionm
+ ent in the Swinging Sixties.\n\nPrice: Check site\n\nTickets/Info: https:/
+ /discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-we
+ ek-64229/
+LOCATION:The Duke Of York’s Theatre\, Westminster\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:587c619534d7@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260531
+SUMMARY:Date Night · Dim Sum Masterclass at Chino Latino
+DESCRIPTION:Join Head Chef Ederson for a dim sum masterclass where you'll l
+ earn to roll\, fill\, and shape dumplings\, followed by a tasting.\n\nPric
+ e: £55 per person\n\nTickets/Info: https://www.countryandtownhouse.com/cu
+ lture/what-to-do-in-london-this-weekend/
+LOCATION:Chino Latino\, Park Plaza Riverbank\, Vauxhall\, London
+URL:https://www.countryandtownhouse.com/culture/what-to-do-in-london-this-w
+ eekend/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:915036668f3d@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260405
+SUMMARY:Date Night · Waitress the Musical
+DESCRIPTION:Carrie Hope Fletcher stars in this musical about a pie-making w
+ aitress whose life takes an unexpected turn with the arrival of a new doct
+ or.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:New Wimbledon Theatre\, Wimbledon\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:71bddf4d9fde@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260413
+SUMMARY:Date Night · Eggs Aren’t That Easy To Make
+DESCRIPTION:A queer rom-com about two friends who make good on a drunken pr
+ omise to be sperm donors.\n\nPrice: Check site\n\nTickets/Info: https://lo
+ ndonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5
+ -april-2026
+LOCATION:Riverside Studios Hammersmith\, Hammersmith\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3e4c362258@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Date Night · Shakespeare's Globe Outdoor Theatre Season
+DESCRIPTION:Experience distinctive cultural performances in the open-air ya
+ rd of Shakespeare's Globe\, with Shakespearean and contemporary plays.\n\n
+ Price: From £5\n\nTickets/Info: https://londontravelplanning.com/events-i
+ n-london-in-april/
+LOCATION:Shakespeare’s Globe\, Bankside\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfa2670e7b5@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:Date Night · One Flew Over The Cuckoo’s Nest
+DESCRIPTION:Clint Dyer directs a new staging of Ken Kesey’s novel 'One Fl
+ ew Over The Cuckoo’s Nest' at The Old Vic\, starring Aaron Pierre and Gi
+ les Terera.\n\nPrice: Check site\n\nTickets/Info: https://londonistlisting
+ s.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Old Vic\, Waterloo\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:23e20ff70008@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260427
+SUMMARY:Only in London · Museum of Edible Earth
+DESCRIPTION:A temporary museum exploring 'geophagy\,' the practice of eatin
+ g earth for health\, customary\, or culinary benefit\, with hands-on activ
+ ities.\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-
+ to-do-in-london-march-2026/
+LOCATION:Somerset House\, Aldwych\, London
+URL:https://secretldn.com/things-to-do-in-london-march-2026/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:1631d2ae0af4@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260407
+SUMMARY:Only in London · Woolwich Works’ Luminarium
+DESCRIPTION:Explore Woolwich Works’ Luminarium\, a monumental inflatable 
+ sculpture filled with a labyrinth of tunnels and radiant colors.\n\nPrice:
+  Check site\n\nTickets/Info: https://www.woolwich.works
+LOCATION:Woolwich Works\, Woolwich\, London
+URL:https://www.woolwich.works
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:cee8004755ec@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Only in London · Bongo’s Bingo
+DESCRIPTION:A unique and wild bingo experience combining traditional bingo 
+ with rave intervals\, dance-offs\, and crazy prizes.\n\nPrice: £20\n\nTic
+ kets/Info: https://electricballroom.co.uk/whats-on/
+LOCATION:Electric Ballroom\, Camden\, London
+URL:https://electricballroom.co.uk/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:037c456577d0@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260501
+SUMMARY:Only in London · Bubble Planet: An Immersive Experience
+DESCRIPTION:Dive into an immersive experience featuring bubbles and interac
+ tive installations\, perfect for celebrations.\n\nPrice: From £25.90\n\nT
+ ickets/Info: https://feverup.com/en/london
+LOCATION:Unit 20 Fulton Road\, Wembley\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:59e0caa54015@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Only in London · Punchdrunk's LANDER 23
+DESCRIPTION:Punchdrunk introduces LANDER 23\, a new live-action video game 
+ experience that blends immersive theatre with gaming\, transforming audien
+ ces into players in a stealth mission.\n\nPrice: Check site\n\nTickets/Inf
+ o: https://lander23.com
+LOCATION:One Cartridge Place\, Woolwich\, London
+URL:https://lander23.com
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:2562900e67be@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Only in London · Silent Disco at Natural History Museum
+DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
+  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
+ tps://londoncheapo.com/events/april/
+LOCATION:Natural History Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/april/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:17a43564709f@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260406
+SUMMARY:Only in London · Unfortunate: The Untold Story of Ursula
+DESCRIPTION:A satirical new musical about Disney’s Ursula\, featuring pop
+  songwriting and adult humour\, closes this week.\n\nPrice: Check site\n\n
+ Tickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lon
+ don-this-week-30-march-5-april-2026
+LOCATION:The Other Palace\, Westminster\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:2631a8dac403@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260416
+SUMMARY:Only in London · Greenwich Park Cherry Blossoms
+DESCRIPTION:Greenwich Park becomes scenic during cherry blossom season\, wi
+ th pink blooms lining pathways and offering views over Canary Wharf.\n\nPr
+ ice: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
+ n-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
+LOCATION:Greenwich Park\, Greenwich\, London
+URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
+ guide-to-50-major-events-sports-attractions/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:af9b4fb37e10@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260427
+SUMMARY:Only in London · I Was A Teenage She-Devil
+DESCRIPTION:A new comedy-horror rock musical about Nancy Nelson's transform
+ ation into a revenge-seeking rocker by the Devil\, opening at The Other Pa
+ lace.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.subs
+ tack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Other Palace\, Victoria\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:02da315076c2@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260410
+SUMMARY:Culture & Arts · AIM\, SHOOT\, STOP\, FIX Photography Exhibition
+DESCRIPTION:An exhibition featuring the work of influential music photograp
+ hers like Peter Anderson\, Chris Clunn\, David Corio\, and Lawrence Watson
+ \, with snaps of music royalty.\n\nPrice: Check site\n\nTickets/Info: http
+ s://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Worldly Wicked & Wise Gallery\, Shoreditch\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fa94750ec54f@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260413
+SUMMARY:Culture & Arts · Sour Loop: Laurel Halo & Hanne Lippard
+DESCRIPTION:A sound installation by musician Laurel Halo and artist Hanne L
+ ippard\, part of Assembly 2026.\n\nPrice: Check site\n\nTickets/Info: http
+ s://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.somersethouse.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:7260ef62af8b@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260426
+SUMMARY:Culture & Arts · Choir Boy
+DESCRIPTION:Nancy Medina's production of Tarell Alvin McCraney's play tells
+  the story of Pharus\, a gifted singer navigating his identity.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.stratfordeast.com
+LOCATION:Stratford East\, Stratford\, London
+URL:https://www.stratfordeast.com
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:358c6b200077@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260504
+SUMMARY:Culture & Arts · In the Print
+DESCRIPTION:A politically-charged play documenting the 'Battle of Wapping'\
+ , where trade union leader Brenda Dean confronts Rupert Murdoch's newspape
+ r empire.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.
+ substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:King's Head Theatre\, Islington\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:19f4d3ba6a3d@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260419
+SUMMARY:Culture & Arts · Welcome to Pemfort
+DESCRIPTION:A theatrical production written by Sarah Power and directed by 
+ Ed Madden.\n\nPrice: From £13\n\nTickets/Info: https://sohotheatre.com/al
+ l-shows/
+LOCATION:Soho Theatre\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c54405dda8@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260419
+SUMMARY:Culture & Arts · THIS IS NOT ABOUT ME.
+DESCRIPTION:A performance or show titled 'THIS IS NOT ABOUT ME.'\n\nPrice: 
+ From £19\n\nTickets/Info: https://sohotheatre.com/all-shows/
+LOCATION:Soho Upstairs\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9bab3595e9a6@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260430
+SUMMARY:Culture & Arts · Cold War Visions: Ikarie XB-1
+DESCRIPTION:Barbican Cinema launches 'Cold War Visions\,' a film season exp
+ loring nuclear anxiety in the Eastern Bloc\, starting with 'Ikarie XB-1\,'
+  a futuristic film from 2163.\n\nPrice: Check site\n\nTickets/Info: https:
+ //londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-mar
+ ch-5-april-2026
+LOCATION:Barbican Cinema\, Barbican\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:72cfccc0c341@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Culture & Arts · Hidden Women of the City of London Talk
+DESCRIPTION:Rebecca Couper presents an illustrated talk at The London Archi
+ ves\, exploring nearly 2\,000 years of women connected to the Square Mile.
+ \n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack.
+ com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The London Archives\, Clerkenwell\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:4db6c12dff2a@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Culture & Arts · Hayward Gallery Lates
+DESCRIPTION:Enjoy after-hours access to Hayward Gallery exhibitions\, spotl
+ ight tours\, poetry performances\, and creative activities during this lat
+ e opening event.\n\nPrice: Check site\n\nTickets/Info: https://londonistli
+ stings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-20
+ 26
+LOCATION:Hayward Gallery\, South Bank\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:8b545dd1deb6@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260405
+SUMMARY:Going Out · Gobby Girls: The After Party
+DESCRIPTION:An after-party event following the 'Gobby Girls' show.\n\nPrice
+ : From £24\n\nTickets/Info: https://sohotheatre.com/all-shows/
+LOCATION:Soho Downstairs\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ccabb66ca5@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Going Out · Grndation: Afro House\, Amapiano & Tribal House
+DESCRIPTION:A high-energy night presented by GRNDOU7 REKORDZ & SOUND SOURCE
+  RADIO\, celebrating Afro House\, Amapiano\, and Tribal House music.\n\nPr
+ ice: Free\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/eve
+ nts
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a1885b3af902@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Going Out · BBT Events
+DESCRIPTION:BBT Events presents a night of music and entertainment at E1 Lo
+ ndon.\n\nPrice: Check site\n\nTickets/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0f3d070bda@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Going Out · Brazilian Funk Masters Mu540 & DJ RaMeMes
+DESCRIPTION:A bank holiday special club night featuring Brazilian Funk mast
+ ers Mu540 and DJ RaMeMes.\n\nPrice: Check site\n\nTickets/Info: https://th
+ ejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:711e32496f9f@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Going Out · Brother Act: Drag Cabaret
+DESCRIPTION:Jamie Fuxx leads a line-up of London drag and cabaret performer
+ s in a one-night show inspired by 'Sister Act\,' featuring soul\, disco\, 
+ and comic confession.\n\nPrice: Check site\n\nTickets/Info: https://london
+ istlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-apr
+ il-2026
+LOCATION:Pleasance Theatre\, Islington\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7be00e3c96@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Going Out · Luma: Rooftop Afrohouse & More
+DESCRIPTION:Step into the glow of LUMA\, an elevated music experience featu
+ ring Afrohouse and more\, set above the Shoreditch skyline.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a1343029ff2e@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Going Out · ALIVE: Alex Farell\, Vladimir Cauchemar & Parsa Jafari
+DESCRIPTION:Experience a night of techno music with performances by Alex Fa
+ rell\, Vladimir Cauchemar\, and Parsa Jafari.\n\nPrice: Check site\n\nTick
+ ets/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:997d0d9eba76@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Going Out · SHIFTY: Clive Henry\, Leroy Roberts\, La Gosse
+DESCRIPTION:A night dedicated to house and tech house music\, featuring DJs
+  Clive Henry\, Leroy Roberts\, and La Gosse.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a1ff1453a3@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Going Out · Japan's Hip-Hop Wizard - DJ Koco
+DESCRIPTION:An exciting club night with Japan's Hip-Hop Wizard\, DJ Koco\, 
+ spinning tracks for the audience.\n\nPrice: Check site\n\nTickets/Info: ht
+ tps://thejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+END:VCALENDAR
