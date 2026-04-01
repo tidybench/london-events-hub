@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 9 – Date Night
+X-WR-CALDESC:London's top date night experiences this week\, curated for you.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:7a2465b78378@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260407
+SUMMARY:Sounds of Blossom at Kew Gardens
+DESCRIPTION:Experience cherry blossom and magnolia displays enhanced by spe
+ cially commissioned musical compositions at Kew Gardens.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://londontravelplanning.com/events-in-london-in-
+ april/
+LOCATION:Royal Botanic Gardens\, Kew\, Kew\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:bd55d219094e@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260405
+SUMMARY:Easter At The Chocolate Cocktail Club
+DESCRIPTION:Celebrate Easter at The Chocolate Cocktail Club with festive\, 
+ chocolate-infused cocktails and treats.\n\nPrice: £11.50\n\nTickets/Info:
+  https://feverup.com/en/london
+LOCATION:Chocolate Cocktail Club\, Farringdon\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:579496cca5bc@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Floating Jazz at St Katharine Docks
+DESCRIPTION:Enjoy live jazz on Marina’s Floating Pontoon at St Katharine 
+ Docks\, with a complimentary glass of bubbles and blankets amidst twinklin
+ g yacht lights.\n\nPrice: Check site\n\nTickets/Info: https://londonistlis
+ tings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-202
+ 6
+LOCATION:Marina’s Floating Pontoon at St Katharine Docks\, St Katharine D
+ ocks\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:1be6300c130c@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:Rebecca Lucy Taylor stars as rocker Maggie Frisby in the 50th-a
+ nniversary production of David Hare’s rebellious play about disillusionm
+ ent in the Swinging Sixties.\n\nPrice: Check site\n\nTickets/Info: https:/
+ /discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-we
+ ek-64229/
+LOCATION:The Duke Of York’s Theatre\, Westminster\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:587c619534d7@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260531
+SUMMARY:Dim Sum Masterclass at Chino Latino
+DESCRIPTION:Join Head Chef Ederson for a dim sum masterclass where you'll l
+ earn to roll\, fill\, and shape dumplings\, followed by a tasting.\n\nPric
+ e: £55 per person\n\nTickets/Info: https://www.countryandtownhouse.com/cu
+ lture/what-to-do-in-london-this-weekend/
+LOCATION:Chino Latino\, Park Plaza Riverbank\, Vauxhall\, London
+URL:https://www.countryandtownhouse.com/culture/what-to-do-in-london-this-w
+ eekend/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:915036668f3d@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260405
+SUMMARY:Waitress the Musical
+DESCRIPTION:Carrie Hope Fletcher stars in this musical about a pie-making w
+ aitress whose life takes an unexpected turn with the arrival of a new doct
+ or.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:New Wimbledon Theatre\, Wimbledon\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:71bddf4d9fde@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260413
+SUMMARY:Eggs Aren’t That Easy To Make
+DESCRIPTION:A queer rom-com about two friends who make good on a drunken pr
+ omise to be sperm donors.\n\nPrice: Check site\n\nTickets/Info: https://lo
+ ndonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5
+ -april-2026
+LOCATION:Riverside Studios Hammersmith\, Hammersmith\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3e4c362258@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Shakespeare's Globe Outdoor Theatre Season
+DESCRIPTION:Experience distinctive cultural performances in the open-air ya
+ rd of Shakespeare's Globe\, with Shakespearean and contemporary plays.\n\n
+ Price: From £5\n\nTickets/Info: https://londontravelplanning.com/events-i
+ n-london-in-april/
+LOCATION:Shakespeare’s Globe\, Bankside\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfa2670e7b5@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:One Flew Over The Cuckoo’s Nest
+DESCRIPTION:Clint Dyer directs a new staging of Ken Kesey’s novel 'One Fl
+ ew Over The Cuckoo’s Nest' at The Old Vic\, starring Aaron Pierre and Gi
+ les Terera.\n\nPrice: Check site\n\nTickets/Info: https://londonistlisting
+ s.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Old Vic\, Waterloo\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+END:VCALENDAR
