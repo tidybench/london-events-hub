@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 9 – Going Out
+X-WR-CALDESC:London's best live music\, comedy and nights out this week.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:8b545dd1deb6@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260405
+SUMMARY:Gobby Girls: The After Party
+DESCRIPTION:An after-party event following the 'Gobby Girls' show.\n\nPrice
+ : From £24\n\nTickets/Info: https://sohotheatre.com/all-shows/
+LOCATION:Soho Downstairs\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ccabb66ca5@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Grndation: Afro House\, Amapiano & Tribal House
+DESCRIPTION:A high-energy night presented by GRNDOU7 REKORDZ & SOUND SOURCE
+  RADIO\, celebrating Afro House\, Amapiano\, and Tribal House music.\n\nPr
+ ice: Free\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/eve
+ nts
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a1885b3af902@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:BBT Events
+DESCRIPTION:BBT Events presents a night of music and entertainment at E1 Lo
+ ndon.\n\nPrice: Check site\n\nTickets/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0f3d070bda@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Brazilian Funk Masters Mu540 & DJ RaMeMes
+DESCRIPTION:A bank holiday special club night featuring Brazilian Funk mast
+ ers Mu540 and DJ RaMeMes.\n\nPrice: Check site\n\nTickets/Info: https://th
+ ejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:711e32496f9f@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Brother Act: Drag Cabaret
+DESCRIPTION:Jamie Fuxx leads a line-up of London drag and cabaret performer
+ s in a one-night show inspired by 'Sister Act\,' featuring soul\, disco\, 
+ and comic confession.\n\nPrice: Check site\n\nTickets/Info: https://london
+ istlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-apr
+ il-2026
+LOCATION:Pleasance Theatre\, Islington\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7be00e3c96@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Luma: Rooftop Afrohouse & More
+DESCRIPTION:Step into the glow of LUMA\, an elevated music experience featu
+ ring Afrohouse and more\, set above the Shoreditch skyline.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a1343029ff2e@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:ALIVE: Alex Farell\, Vladimir Cauchemar & Parsa Jafari
+DESCRIPTION:Experience a night of techno music with performances by Alex Fa
+ rell\, Vladimir Cauchemar\, and Parsa Jafari.\n\nPrice: Check site\n\nTick
+ ets/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:997d0d9eba76@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:SHIFTY: Clive Henry\, Leroy Roberts\, La Gosse
+DESCRIPTION:A night dedicated to house and tech house music\, featuring DJs
+  Clive Henry\, Leroy Roberts\, and La Gosse.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a1ff1453a3@london-events-scraper
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Japan's Hip-Hop Wizard - DJ Koco
+DESCRIPTION:An exciting club night with Japan's Hip-Hop Wizard\, DJ Koco\, 
+ spinning tracks for the audience.\n\nPrice: Check site\n\nTickets/Info: ht
+ tps://thejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+END:VCALENDAR
