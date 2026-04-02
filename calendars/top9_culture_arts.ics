@@ -8,130 +8,132 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:02da315076c2@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260410
-SUMMARY:AIM\, SHOOT\, STOP\, FIX Photography Exhibition
-DESCRIPTION:An exhibition featuring the work of influential music photograp
- hers like Peter Anderson\, Chris Clunn\, David Corio\, and Lawrence Watson
- \, with snaps of music royalty.\n\nPrice: Check site\n\nTickets/Info: http
- s://secretldn.com/things-to-do-london-april-2026/
-LOCATION:Worldly Wicked & Wise Gallery\, Shoreditch\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
+UID:aed3a737125e@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Tracey Emin: A Second Life
+DESCRIPTION:Tate Modern presents the largest ever Tracey Emin exhibition\, 
+ featuring over 90 works that explore love\, passion\, trauma\, and healing
+  through art and the female body.\n\nPrice: Check site\n\nTickets/Info: ht
+ tps://tate.org.uk
+LOCATION:Tate Modern\, Bankside\, London
+URL:https://tate.org.uk
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:fa94750ec54f@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260326
+UID:98651b1c6f5d@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:New Works by David Hockney at Serpentine
+DESCRIPTION:Serpentine North Gallery hosts David Hockney's first exhibition
+ \, featuring new still lifes and portraits from 'A Year in Normandie'.\n\n
+ Price: Check site\n\nTickets/Info: https://londontheinside.com/whats-on-th
+ is-weekend/
+LOCATION:Serpentine North Gallery\, Kensington Gardens\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:14ecba71e9c6@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Good Friday concert: Handel’s Messiah
+DESCRIPTION:The Royal Choral Society and Royal Philharmonic Orchestra perfo
+ rm Handel's Messiah\, celebrating their 150th consecutive Easter performan
+ ce.\n\nPrice: From £24\n\nTickets/Info: https://londontravelplanning.com/
+ events-in-london-in-april/
+LOCATION:The Royal Albert Hall\, South Kensington\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:780175690783@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Black Chronicles launch event
+DESCRIPTION:Attend a free launch event for Black Chronicles at the Courtaul
+ d Gallery\, featuring studio portraits that highlight the Black presence i
+ n Victorian Britain.\n\nPrice: Free\n\nTickets/Info: https://londonistcity
+ keys.substack.com/p/free-things-to-do-in-london-this-week-30-march-5-april
+ -2026
+LOCATION:Courtauld Gallery\, Strand\, London
+URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
+ is-week-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:947372a98ab5@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Portraits by Catherine Opie
+DESCRIPTION:The National Portrait Gallery hosts the first major UK exhibiti
+ on of American artist Catherine Opie's work\, exploring themes of home\, f
+ amily\, intimacy\, and identity.\n\nPrice: Check site\n\nTickets/Info: htt
+ ps://londontheinside.com/whats-on-this-weekend/
+LOCATION:National Portrait Gallery\, West End\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:af9b4fb37e10@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260427
+SUMMARY:I Was A Teenage She-Devil
+DESCRIPTION:A new comedy-horror rock musical about Nancy Nelson's transform
+ ation into a revenge-seeking rocker by the Devil\, opening at The Other Pa
+ lace.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.subs
+ tack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Other Palace\, Victoria\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9f1846563835@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Rebecca Lucy Taylor on Stage
+DESCRIPTION:Rebecca Lucy Taylor\, also known as Self Esteem\, takes the lea
+ d role in the 50th-anniversary revival of David Hare’s 'Teeth ‘N’ Sm
+ iles'.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/w
+ hats-on-this-weekend/
+LOCATION:Duke of York’s Theatre\, Covent Garden\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1f72a36dcf@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260517
+SUMMARY:Heart Wall Play
+DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
+ amily secrets and grief resurface when she returns to her familiar local p
+ ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Bush Theatre\, Shepherd's Bush\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:42c567b371c7@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260413
-SUMMARY:Sour Loop: Laurel Halo & Hanne Lippard
-DESCRIPTION:A sound installation by musician Laurel Halo and artist Hanne L
- ippard\, part of Assembly 2026.\n\nPrice: Check site\n\nTickets/Info: http
- s://www.somersethouse.org.uk/whats-on
-LOCATION:Somerset House\, Strand\, London
-URL:https://www.somersethouse.org.uk/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:7260ef62af8b@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260426
-SUMMARY:Choir Boy
-DESCRIPTION:Nancy Medina's production of Tarell Alvin McCraney's play tells
-  the story of Pharus\, a gifted singer navigating his identity.\n\nPrice: 
- Check site\n\nTickets/Info: https://www.stratfordeast.com
-LOCATION:Stratford East\, Stratford\, London
-URL:https://www.stratfordeast.com
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:358c6b200077@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260504
-SUMMARY:In the Print
-DESCRIPTION:A politically-charged play documenting the 'Battle of Wapping'\
- , where trade union leader Brenda Dean confronts Rupert Murdoch's newspape
- r empire.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.
- substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:King's Head Theatre\, Islington\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:19f4d3ba6a3d@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260419
-SUMMARY:Welcome to Pemfort
-DESCRIPTION:A theatrical production written by Sarah Power and directed by 
- Ed Madden.\n\nPrice: From £13\n\nTickets/Info: https://sohotheatre.com/al
- l-shows/
-LOCATION:Soho Theatre\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d0c54405dda8@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260419
-SUMMARY:THIS IS NOT ABOUT ME.
-DESCRIPTION:A performance or show titled 'THIS IS NOT ABOUT ME.'\n\nPrice: 
- From £19\n\nTickets/Info: https://sohotheatre.com/all-shows/
-LOCATION:Soho Upstairs\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:9bab3595e9a6@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260430
-SUMMARY:Cold War Visions: Ikarie XB-1
-DESCRIPTION:Barbican Cinema launches 'Cold War Visions\,' a film season exp
- loring nuclear anxiety in the Eastern Bloc\, starting with 'Ikarie XB-1\,'
-  a futuristic film from 2163.\n\nPrice: Check site\n\nTickets/Info: https:
- //londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-mar
- ch-5-april-2026
-LOCATION:Barbican Cinema\, Barbican\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:72cfccc0c341@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:Hidden Women of the City of London Talk
-DESCRIPTION:Rebecca Couper presents an illustrated talk at The London Archi
- ves\, exploring nearly 2\,000 years of women connected to the Square Mile.
- \n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack.
- com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:The London Archives\, Clerkenwell\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:4db6c12dff2a@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:Hayward Gallery Lates
-DESCRIPTION:Enjoy after-hours access to Hayward Gallery exhibitions\, spotl
- ight tours\, poetry performances\, and creative activities during this lat
- e opening event.\n\nPrice: Check site\n\nTickets/Info: https://londonistli
- stings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-20
- 26
-LOCATION:Hayward Gallery\, South Bank\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+SUMMARY:Back to the Future: The Musical
+DESCRIPTION:Watch the stage adaptation of the iconic movie\, 'Back to the F
+ uture'\, featuring classic songs and new additions.\n\nPrice: From £25.00
+ \n\nTickets/Info: https://feverup.com/en/london
+LOCATION:Adelphi Theatre\, Covent Garden\, London
+URL:https://feverup.com/en/london
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
