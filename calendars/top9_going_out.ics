@@ -8,20 +8,75 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:8b545dd1deb6@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260405
-SUMMARY:Gobby Girls: The After Party
-DESCRIPTION:An after-party event following the 'Gobby Girls' show.\n\nPrice
- : From £24\n\nTickets/Info: https://sohotheatre.com/all-shows/
-LOCATION:Soho Downstairs\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+UID:97c93517f38a@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Garage Nation
+DESCRIPTION:Garage Nation returns to the O2 for a massive rave with over 10
+ 0 UKG artists\, including Artful Dodger and Lisa Maffia.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/th
+ ings-to-do-in-london-this-week-64229/
+LOCATION:The O2\, North Greenwich\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:be5339b56c1b@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:PROJECT X - London's Wildest Bank Holiday Party
+DESCRIPTION:London's wildest bank holiday party featuring Afro House and Af
+ ro Tech\, continuing until 5 AM.\n\nPrice: Check site\n\nTickets/Info: htt
+ ps://e1ldn.co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0f3d070bda@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Brazilian Funk Masters Mu540 & DJ RaMeMes
+DESCRIPTION:A bank holiday special club night featuring Brazilian Funk mast
+ ers Mu540 and DJ RaMeMes.\n\nPrice: Check site\n\nTickets/Info: https://th
+ ejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:b38bd6e67a8a@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:House Gospel Choir presents: Church
+DESCRIPTION:An euphoric rave collective\, House Gospel Choir\, presents the
+ ir 'Church' event for a vibrant club night experience.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://thejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:5997dea85b0b@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Godfathers of DnB Fabio & Grooverider (All Night Long)
+DESCRIPTION:A club night featuring the godfathers of Drum & Bass\, Fabio & 
+ Grooverider\, performing an all-night-long set.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://thejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:f5ccabb66ca5@london-events-scraper
-DTSTAMP:20260401T000000Z
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Grndation: Afro House\, Amapiano & Tribal House
@@ -34,49 +89,33 @@ URL:https://www.boxpark.co.uk/venues/shoreditch/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a1885b3af902@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:BBT Events
-DESCRIPTION:BBT Events presents a night of music and entertainment at E1 Lo
- ndon.\n\nPrice: Check site\n\nTickets/Info: https://e1ldn.co/events
+UID:5fd6792237cb@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:25.4 Years of Logan D - London All Dayer
+DESCRIPTION:Celebrate over 25 years of Logan D with a drum & bass all-dayer
+  event in London.\n\nPrice: Check site\n\nTickets/Info: https://e1ldn.co/e
+ vents
 LOCATION:E1 London\, Wapping\, London
 URL:https://e1ldn.co/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:9e0f3d070bda@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Brazilian Funk Masters Mu540 & DJ RaMeMes
-DESCRIPTION:A bank holiday special club night featuring Brazilian Funk mast
- ers Mu540 and DJ RaMeMes.\n\nPrice: Check site\n\nTickets/Info: https://th
- ejazzcafe.com/whats-on/
-LOCATION:The Jazz Cafe\, Camden Town\, London
-URL:https://thejazzcafe.com/whats-on/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:711e32496f9f@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Brother Act: Drag Cabaret
-DESCRIPTION:Jamie Fuxx leads a line-up of London drag and cabaret performer
- s in a one-night show inspired by 'Sister Act\,' featuring soul\, disco\, 
- and comic confession.\n\nPrice: Check site\n\nTickets/Info: https://london
- istlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-apr
- il-2026
-LOCATION:Pleasance Theatre\, Islington\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+UID:36c722fbbb0c@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:FULL FAT EASTER FEST
+DESCRIPTION:A music festival celebrating Easter.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://www.studio338.co.uk/events
+LOCATION:Studio 338\, Greenwich\, London
+URL:https://www.studio338.co.uk/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:fd7be00e3c96@london-events-scraper
-DTSTAMP:20260401T000000Z
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Luma: Rooftop Afrohouse & More
@@ -85,45 +124,6 @@ DESCRIPTION:Step into the glow of LUMA\, an elevated music experience featu
  k site\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
 LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
 URL:https://www.boxpark.co.uk/venues/shoreditch/events
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:a1343029ff2e@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:ALIVE: Alex Farell\, Vladimir Cauchemar & Parsa Jafari
-DESCRIPTION:Experience a night of techno music with performances by Alex Fa
- rell\, Vladimir Cauchemar\, and Parsa Jafari.\n\nPrice: Check site\n\nTick
- ets/Info: https://e1ldn.co/events
-LOCATION:E1 London\, Wapping\, London
-URL:https://e1ldn.co/events
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:997d0d9eba76@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:SHIFTY: Clive Henry\, Leroy Roberts\, La Gosse
-DESCRIPTION:A night dedicated to house and tech house music\, featuring DJs
-  Clive Henry\, Leroy Roberts\, and La Gosse.\n\nPrice: Check site\n\nTicke
- ts/Info: https://e1ldn.co/events
-LOCATION:E1 London\, Wapping\, London
-URL:https://e1ldn.co/events
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:e0a1ff1453a3@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:Japan's Hip-Hop Wizard - DJ Koco
-DESCRIPTION:An exciting club night with Japan's Hip-Hop Wizard\, DJ Koco\, 
- spinning tracks for the audience.\n\nPrice: Check site\n\nTickets/Info: ht
- tps://thejazzcafe.com/whats-on/
-LOCATION:The Jazz Cafe\, Camden Town\, London
-URL:https://thejazzcafe.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
