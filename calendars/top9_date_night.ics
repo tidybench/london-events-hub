@@ -8,22 +8,21 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:7a2465b78378@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260407
-SUMMARY:Sounds of Blossom at Kew Gardens
-DESCRIPTION:Experience cherry blossom and magnolia displays enhanced by spe
- cially commissioned musical compositions at Kew Gardens.\n\nPrice: Check s
- ite\n\nTickets/Info: https://londontravelplanning.com/events-in-london-in-
- april/
-LOCATION:Royal Botanic Gardens\, Kew\, Kew\, London
-URL:https://londontravelplanning.com/events-in-london-in-april/
+UID:acb21aa94573@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:David Helbock & Julia Hofer
+DESCRIPTION:A captivating performance by Austria's flagship jazz pianist Da
+ vid Helbock and Julia Hofer.\n\nPrice: Check site\n\nTickets/Info: https:/
+ /www.ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie Scott's\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:bd55d219094e@london-events-scraper
-DTSTAMP:20260401T000000Z
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260405
 SUMMARY:Easter At The Chocolate Cocktail Club
@@ -35,8 +34,61 @@ URL:https://feverup.com/en/london
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
+UID:657a8044cab4@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Gabriel Gosse
+DESCRIPTION:The French guitarist and vocalist presents a dynamic mix of jaz
+ z\, funk\, and electronic textures in his performance.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:70cf181f7fe0@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Aidan Turner and Lesley Manville on Stage
+DESCRIPTION:Watch Aidan Turner\, Lesley Manville\, and Monica Barbaro star 
+ in a new production of 'Les Liaisons Dangereuses' at the National Theatre.
+ \n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/whats-o
+ n-this-weekend/
+LOCATION:National Theatre\, South Bank\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:5049d8ee732f@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Buff Bingo Drag Bottomless Brunch
+DESCRIPTION:Enjoy a bottomless brunch with 90 minutes of free-flowing drink
+ s\, drag hosts\, live DJ sets\, bingo\, and games.\n\nPrice: Check site\n\
+ nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:The Garden Vauxhall\, Vauxhall\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:b105c78f98ed@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Dracula starring Cynthia Erivo
+DESCRIPTION:Cynthia Erivo stars in a radical one-actor production of Dracul
+ a\, playing all 23 characters in her first stage appearance in nearly a de
+ cade.\n\nPrice: Check site\n\nTickets/Info: https://draculawestend.com
+LOCATION:Noël Coward Theatre\, West End\, London
+URL:https://draculawestend.com
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
 UID:579496cca5bc@london-events-scraper
-DTSTAMP:20260401T000000Z
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:Floating Jazz at St Katharine Docks
@@ -52,93 +104,31 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:Rebecca Lucy Taylor stars as rocker Maggie Frisby in the 50th-a
- nniversary production of David Hare’s rebellious play about disillusionm
- ent in the Swinging Sixties.\n\nPrice: Check site\n\nTickets/Info: https:/
- /discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-we
- ek-64229/
-LOCATION:The Duke Of York’s Theatre\, Westminster\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
+UID:e4de025aabf0@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Interstellar in Concert
+DESCRIPTION:Experience Christopher Nolan’s 'Interstellar' on the big scre
+ en with Hans Zimmer’s score performed live by the Royal Philharmonic Con
+ cert Orchestra.\n\nPrice: Check site\n\nTickets/Info: https://www.factlond
+ on.com/united-kingdom/london/things-to-do/fabulous-things-to-do-in-london-
+ this-month?redirection=cms-fact
+LOCATION:Royal Albert Hall\, South Kensington\, London
+URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulous-
+ things-to-do-in-london-this-month?redirection=cms-fact
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:587c619534d7@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260531
-SUMMARY:Dim Sum Masterclass at Chino Latino
-DESCRIPTION:Join Head Chef Ederson for a dim sum masterclass where you'll l
- earn to roll\, fill\, and shape dumplings\, followed by a tasting.\n\nPric
- e: £55 per person\n\nTickets/Info: https://www.countryandtownhouse.com/cu
- lture/what-to-do-in-london-this-weekend/
-LOCATION:Chino Latino\, Park Plaza Riverbank\, Vauxhall\, London
-URL:https://www.countryandtownhouse.com/culture/what-to-do-in-london-this-w
- eekend/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:915036668f3d@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260405
-SUMMARY:Waitress the Musical
-DESCRIPTION:Carrie Hope Fletcher stars in this musical about a pie-making w
- aitress whose life takes an unexpected turn with the arrival of a new doct
- or.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
- ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:New Wimbledon Theatre\, Wimbledon\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:71bddf4d9fde@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260413
-SUMMARY:Eggs Aren’t That Easy To Make
-DESCRIPTION:A queer rom-com about two friends who make good on a drunken pr
- omise to be sperm donors.\n\nPrice: Check site\n\nTickets/Info: https://lo
- ndonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5
- -april-2026
-LOCATION:Riverside Studios Hammersmith\, Hammersmith\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:ec3e4c362258@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:Shakespeare's Globe Outdoor Theatre Season
-DESCRIPTION:Experience distinctive cultural performances in the open-air ya
- rd of Shakespeare's Globe\, with Shakespearean and contemporary plays.\n\n
- Price: From £5\n\nTickets/Info: https://londontravelplanning.com/events-i
- n-london-in-april/
-LOCATION:Shakespeare’s Globe\, Bankside\, London
-URL:https://londontravelplanning.com/events-in-london-in-april/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:7dfa2670e7b5@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260524
-SUMMARY:One Flew Over The Cuckoo’s Nest
-DESCRIPTION:Clint Dyer directs a new staging of Ken Kesey’s novel 'One Fl
- ew Over The Cuckoo’s Nest' at The Old Vic\, starring Aaron Pierre and Gi
- les Terera.\n\nPrice: Check site\n\nTickets/Info: https://londonistlisting
- s.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:The Old Vic\, Waterloo\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+UID:93816975aa48@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260628
+SUMMARY:Magical Brunch: The Experience
+DESCRIPTION:An immersive magical brunch experience.\n\nPrice: £49.00\n\nTi
+ ckets/Info: https://feverup.com/en/london
+LOCATION:The Last Talisman\, Borough\, London
+URL:https://feverup.com/en/london
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
