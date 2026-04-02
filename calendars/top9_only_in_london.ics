@@ -8,61 +8,21 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:23e20ff70008@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260427
-SUMMARY:Museum of Edible Earth
-DESCRIPTION:A temporary museum exploring 'geophagy\,' the practice of eatin
- g earth for health\, customary\, or culinary benefit\, with hands-on activ
- ities.\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-
- to-do-in-london-march-2026/
-LOCATION:Somerset House\, Aldwych\, London
-URL:https://secretldn.com/things-to-do-in-london-march-2026/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:1631d2ae0af4@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260407
-SUMMARY:Woolwich Works’ Luminarium
-DESCRIPTION:Explore Woolwich Works’ Luminarium\, a monumental inflatable 
- sculpture filled with a labyrinth of tunnels and radiant colors.\n\nPrice:
-  Check site\n\nTickets/Info: https://www.woolwich.works
-LOCATION:Woolwich Works\, Woolwich\, London
-URL:https://www.woolwich.works
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:cee8004755ec@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:Bongo’s Bingo
-DESCRIPTION:A unique and wild bingo experience combining traditional bingo 
- with rave intervals\, dance-offs\, and crazy prizes.\n\nPrice: £20\n\nTic
- kets/Info: https://electricballroom.co.uk/whats-on/
-LOCATION:Electric Ballroom\, Camden\, London
-URL:https://electricballroom.co.uk/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:037c456577d0@london-events-scraper
-DTSTAMP:20260401T000000Z
+UID:2562900e67be@london-events-scraper
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260501
-SUMMARY:Bubble Planet: An Immersive Experience
-DESCRIPTION:Dive into an immersive experience featuring bubbles and interac
- tive installations\, perfect for celebrations.\n\nPrice: From £25.90\n\nT
- ickets/Info: https://feverup.com/en/london
-LOCATION:Unit 20 Fulton Road\, Wembley\, London
-URL:https://feverup.com/en/london
+DTEND;VALUE=DATE:20260405
+SUMMARY:Silent Disco at Natural History Museum
+DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
+  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
+ tps://londoncheapo.com/events/april/
+LOCATION:Natural History Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/april/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:59e0caa54015@london-events-scraper
-DTSTAMP:20260401T000000Z
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:Punchdrunk's LANDER 23
@@ -75,59 +35,106 @@ URL:https://lander23.com
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:2562900e67be@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Silent Disco at Natural History Museum
-DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
-  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
- tps://londoncheapo.com/events/april/
-LOCATION:Natural History Museum\, South Kensington\, London
-URL:https://londoncheapo.com/events/april/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:17a43564709f@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260406
-SUMMARY:Unfortunate: The Untold Story of Ursula
-DESCRIPTION:A satirical new musical about Disney’s Ursula\, featuring pop
-  songwriting and adult humour\, closes this week.\n\nPrice: Check site\n\n
- Tickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lon
- don-this-week-30-march-5-april-2026
-LOCATION:The Other Palace\, Westminster\, London
+UID:f9a2b81db39d@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Pirate Takeover at Golden Hinde
+DESCRIPTION:A pirate-themed museum late at the Golden Hinde featuring talks
+ \, tours\, a coin-embossing workshop\, and a bar serving rum.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://londonistlistings.substack.com/p/things-
+ to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Golden Hinde\, Bankside\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ek-30-march-5-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:2631a8dac403@london-events-scraper
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260416
-SUMMARY:Greenwich Park Cherry Blossoms
-DESCRIPTION:Greenwich Park becomes scenic during cherry blossom season\, wi
- th pink blooms lining pathways and offering views over Canary Wharf.\n\nPr
- ice: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
- n-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
-LOCATION:Greenwich Park\, Greenwich\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
+UID:a40e01da653c@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260407
+SUMMARY:Luminarium
+DESCRIPTION:Luminarium opens at Woolwich Works for five days\, offering a w
+ alk-through inflatable installation that is a colour-changing labyrinth of
+  winding pathways and domes.\n\nPrice: Check site\n\nTickets/Info: https:/
+ /londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-marc
+ h-5-april-2026
+LOCATION:Woolwich Works\, Woolwich\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:af9b4fb37e10@london-events-scraper
-DTSTAMP:20260401T000000Z
+UID:cee8004755ec@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Bongo’s Bingo
+DESCRIPTION:A unique and wild bingo experience combining traditional bingo 
+ with rave intervals\, dance-offs\, and crazy prizes.\n\nPrice: £20\n\nTic
+ kets/Info: https://electricballroom.co.uk/whats-on/
+LOCATION:Electric Ballroom\, Camden\, London
+URL:https://electricballroom.co.uk/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed82bb25683@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Egg Day at The Cock Tavern
+DESCRIPTION:Egg Day returns to The Cock Tavern in Hackney\, featuring egg r
+ acing\, a judged egg-tasting competition\, documentary screenings\, and li
+ ve music.\n\nPrice: Free\, £1 per egg to race\n\nTickets/Info: https://lo
+ ndonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5
+ -april-2026
+LOCATION:The Cock Tavern\, Hackney\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:037c456577d0@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260501
+SUMMARY:Bubble Planet: An Immersive Experience
+DESCRIPTION:Dive into an immersive experience featuring bubbles and interac
+ tive installations\, perfect for celebrations.\n\nPrice: From £25.90\n\nT
+ ickets/Info: https://feverup.com/en/london
+LOCATION:Unit 20 Fulton Road\, Wembley\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:711e32496f9f@london-events-scraper
+DTSTAMP:20260402T000000Z
 DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260427
-SUMMARY:I Was A Teenage She-Devil
-DESCRIPTION:A new comedy-horror rock musical about Nancy Nelson's transform
- ation into a revenge-seeking rocker by the Devil\, opening at The Other Pa
- lace.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.subs
- tack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:The Other Palace\, Victoria\, London
+DTEND;VALUE=DATE:20260403
+SUMMARY:Brother Act: Drag Cabaret
+DESCRIPTION:Jamie Fuxx leads a line-up of London drag and cabaret performer
+ s in a one-night show inspired by 'Sister Act\,' featuring soul\, disco\, 
+ and comic confession.\n\nPrice: Check site\n\nTickets/Info: https://london
+ istlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-apr
+ il-2026
+LOCATION:Pleasance Theatre\, Islington\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:63ad6f8a78f2@london-events-scraper
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260413
+SUMMARY:A Glimmer Daze Gambit by Revel Puck Circus
+DESCRIPTION:Revel Puck Circus pitches its tent at Queen Elizabeth Olympic P
+ ark\, celebrating hope\, arrival\, and community with acrobatics\, clownin
+ g\, and chaos for all ages.\n\nPrice: Check site\n\nTickets/Info: https://
+ londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march
+ -5-april-2026
+LOCATION:Queen Elizabeth Olympic Park\, Stratford\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ek-30-march-5-april-2026
 CATEGORIES:Only in London
