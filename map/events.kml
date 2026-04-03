@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>London Events — 30 Mar 26 to 5 Apr 26 TEST-1700</name>
-    <description>Weekend events in London, 30 Mar 26 to 5 Apr 26 TEST-1700. Pins coloured by category.</description>
+    <name>London Events — 30 Mar 26 to 5 Apr 26 TEST-0931</name>
+    <description>Weekend events in London, 30 Mar 26 to 5 Apr 26 TEST-0931. Pins coloured by category.</description>
   <Style id="blue-dot.png">
     <IconStyle>
       <Icon><href>https://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
@@ -39,27 +39,11 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>David Helbock &amp; Julia Hofer</name>
-      <description><![CDATA[<b>David Helbock &amp; Julia Hofer</b><br><i>Music</i><br>Thu 2nd Apr<br>Upstairs at Ronnie Scott's, Soho<br>Check site<br><br>A captivating performance by Austria's flagship jazz pianist David Helbock and Julia Hofer.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <name>Floating Jazz at St Katharine Docks</name>
+      <description><![CDATA[<b>Floating Jazz at St Katharine Docks</b><br><i>Music</i><br>Sat 4th Apr – Sun 5th Apr<br>Marina’s Floating Pontoon at St Katharine Docks, St Katharine Docks<br>Check site<br><br>Enjoy live jazz on Marina’s Floating Pontoon at St Katharine Docks, with a complimentary glass of bubbles and blankets amidst twinkling yacht lights.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.136524,51.513546,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Easter At The Chocolate Cocktail Club</name>
-      <description><![CDATA[<b>Easter At The Chocolate Cocktail Club</b><br><i>Food &amp; Drink</i><br>Thu 2nd Apr – Sat 4th Apr<br>Chocolate Cocktail Club, Farringdon<br>£11.50<br><br>Celebrate Easter at The Chocolate Cocktail Club with festive, chocolate-infused cocktails and treats.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0842522,51.5221663,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Gabriel Gosse</name>
-      <description><![CDATA[<b>Gabriel Gosse</b><br><i>Music</i><br>Fri 3rd Apr<br>Upstairs at Ronnie's, Soho<br>Check site<br><br>The French guitarist and vocalist presents a dynamic mix of jazz, funk, and electronic textures in his performance.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.131599,51.513446,0</coordinates>
+        <coordinates>-0.07165,51.506541,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -71,14 +55,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Buff Bingo Drag Bottomless Brunch</name>
-      <description><![CDATA[<b>Buff Bingo Drag Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 4th Apr<br>The Garden Vauxhall, Vauxhall<br>Check site<br><br>Enjoy a bottomless brunch with 90 minutes of free-flowing drinks, drag hosts, live DJ sets, bingo, and games.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1236627,51.4850715,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Dracula starring Cynthia Erivo</name>
       <description><![CDATA[<b>Dracula starring Cynthia Erivo</b><br><i>Theatre</i><br>Sat 4th Apr<br>Noël Coward Theatre, West End<br>Check site<br><br>Cynthia Erivo stars in a radical one-actor production of Dracula, playing all 23 characters in her first stage appearance in nearly a decade.<br><br><a href="https://draculawestend.com">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -87,11 +63,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Floating Jazz at St Katharine Docks</name>
-      <description><![CDATA[<b>Floating Jazz at St Katharine Docks</b><br><i>Music</i><br>Sat 4th Apr – Sun 5th Apr<br>Marina’s Floating Pontoon at St Katharine Docks, St Katharine Docks<br>Check site<br><br>Enjoy live jazz on Marina’s Floating Pontoon at St Katharine Docks, with a complimentary glass of bubbles and blankets amidst twinkling yacht lights.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
+      <name>Gabriel Gosse</name>
+      <description><![CDATA[<b>Gabriel Gosse</b><br><i>Music</i><br>Fri 3rd Apr<br>Upstairs at Ronnie's, Soho<br>Check site<br><br>The French guitarist and vocalist presents a dynamic mix of jazz, funk, and electronic textures in his performance.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.07165,51.506541,0</coordinates>
+        <coordinates>-0.131599,51.513446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>50% Off Your Bill at Aram by Imad Alarnab</name>
+      <description><![CDATA[<b>50% Off Your Bill at Aram by Imad Alarnab</b><br><i>Food &amp; Drink</i><br>Sat 4th Apr – Sun 5th Apr<br>Somerset House, Aldwych<br>Check site<br><br>Enjoy 50% off your bill at Aram by Imad Alarnab, serving Eastern Mediterranean food at Somerset House.<br><br><a href="https://arambyimad.co.uk">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11562325197031986,51.51321780614844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marie &amp; Rosetta</name>
+      <description><![CDATA[<b>Marie &amp; Rosetta</b><br><i>Theatre</i><br>Thu 5th Mar – Sat 11th Apr<br>@sohoplace, Central London<br>from £30.00<br><br>This musical tells the story of Sister Rosetta Tharpe, the godmother of rock and roll, and her collaboration with singer Marie Knight.<br><br><a href="https://sohoplace.org">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1305145,51.5154993,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -103,11 +95,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Magical Brunch: The Experience</name>
-      <description><![CDATA[<b>Magical Brunch: The Experience</b><br><i>Food &amp; Drink</i><br>Sat 4th Apr – Sat 27th Jun<br>The Last Talisman, Borough<br>£49.00<br><br>An immersive magical brunch experience.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
+      <name>Heart Wall Play</name>
+      <description><![CDATA[<b>Heart Wall Play</b><br><i>Theatre</i><br>Sat 4th Apr – Sat 16th May<br>Bush Theatre, Shepherd's Bush<br>Check site<br><br>Kit Withington’s play 'Heart Wall' follows Franky as buried family secrets and grief resurface when she returns to her familiar local pub.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.080908,51.499037,0</coordinates>
+        <coordinates>-0.2183251,51.5043576,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -127,22 +119,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Pirate Takeover at Golden Hinde</name>
-      <description><![CDATA[<b>Pirate Takeover at Golden Hinde</b><br><i>Nightlife</i><br>Thu 2nd Apr<br>Golden Hinde, Bankside<br>Check site<br><br>A pirate-themed museum late at the Golden Hinde featuring talks, tours, a coin-embossing workshop, and a bar serving rum.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0903252,51.5068867,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Luminarium</name>
-      <description><![CDATA[<b>Luminarium</b><br><i>Family</i><br>Thu 2nd Apr – Mon 6th Apr<br>Woolwich Works, Woolwich<br>Check site<br><br>Luminarium opens at Woolwich Works for five days, offering a walk-through inflatable installation that is a colour-changing labyrinth of winding pathways and domes.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.0699897,51.4943602,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Bongo’s Bingo</name>
       <description><![CDATA[<b>Bongo’s Bingo</b><br><i>Nightlife</i><br>Fri 3rd Apr<br>Electric Ballroom, Camden<br>£20<br><br>A unique and wild bingo experience combining traditional bingo with rave intervals, dance-offs, and crazy prizes.<br><br><a href="https://electricballroom.co.uk/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
@@ -151,11 +127,35 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Egg Day at The Cock Tavern</name>
-      <description><![CDATA[<b>Egg Day at The Cock Tavern</b><br><i>Community</i><br>Fri 3rd Apr<br>The Cock Tavern, Hackney<br>Free, £1 per egg to race<br><br>Egg Day returns to The Cock Tavern in Hackney, featuring egg racing, a judged egg-tasting competition, documentary screenings, and live music.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
+      <name>Buff Bingo Drag Bottomless Brunch</name>
+      <description><![CDATA[<b>Buff Bingo Drag Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 4th Apr<br>The Garden Vauxhall, Vauxhall<br>Check site<br><br>Enjoy a bottomless brunch with 90 minutes of free-flowing drinks, drag hosts, live DJ sets, bingo, and games.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1413916,51.5167594,0</coordinates>
+        <coordinates>-0.1236627,51.4850715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Magical Brunch: The Experience</name>
+      <description><![CDATA[<b>Magical Brunch: The Experience</b><br><i>Food &amp; Drink</i><br>Sat 4th Apr – Sat 27th Jun<br>The Last Talisman, Borough<br>£49.00<br><br>An immersive magical brunch experience.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.080908,51.499037,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tirami-sin at Mercato Mayfair</name>
+      <description><![CDATA[<b>Tirami-sin at Mercato Mayfair</b><br><i>Food &amp; Drink</i><br>Sat 4th Apr<br>Mercato Metropolitano Mayfair, Mayfair<br>£6.50 (advance sales)<br><br>Confess your 'sins' at the Tirami-Sin confessional booth, enjoying sweet treats at Mercato Metropolitano Mayfair.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098501,51.498599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>House Gospel Choir presents: Church</name>
+      <description><![CDATA[<b>House Gospel Choir presents: Church</b><br><i>Nightlife</i><br>Fri 3rd Apr<br>The Jazz Cafe, Camden Town<br>Check site<br><br>An euphoric rave collective, House Gospel Choir, presents their 'Church' event for a vibrant club night experience.<br><br><a href="https://thejazzcafe.com/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1430336,51.5385824,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -167,19 +167,19 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Brother Act: Drag Cabaret</name>
-      <description><![CDATA[<b>Brother Act: Drag Cabaret</b><br><i>Nightlife</i><br>Thu 2nd Apr<br>Pleasance Theatre, Islington<br>Check site<br><br>Jamie Fuxx leads a line-up of London drag and cabaret performers in a one-night show inspired by 'Sister Act,' featuring soul, disco, and comic confession.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Tulleys Tulip Fest</name>
+      <description><![CDATA[<b>Tulleys Tulip Fest</b><br><i>Festival</i><br>Fri 3rd Apr – Sun 26th Apr<br>Tulleys Farm<br>Check site<br><br>Explore 1.5 million tulips across over 100 varieties, plus enjoy a 33m observation wheel, light trail, and live performers.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1213017,51.549184,0</coordinates>
+        <coordinates>-0.147597,51.509478,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>A Glimmer Daze Gambit by Revel Puck Circus</name>
-      <description><![CDATA[<b>A Glimmer Daze Gambit by Revel Puck Circus</b><br><i>Family</i><br>Thu 2nd Apr – Sun 12th Apr<br>Queen Elizabeth Olympic Park, Stratford<br>Check site<br><br>Revel Puck Circus pitches its tent at Queen Elizabeth Olympic Park, celebrating hope, arrival, and community with acrobatics, clowning, and chaos for all ages.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
+      <name>BucketRace's Easter Scavenger Hunt</name>
+      <description><![CDATA[<b>BucketRace's Easter Scavenger Hunt</b><br><i>Community</i><br>Sat 4th Apr<br>Golden Square, Soho<br>£15.00<br><br>Participate in an exciting Easter-themed scavenger hunt, exploring the city and solving clues.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0109649,51.5396692,0</coordinates>
+        <coordinates>-0.137183,51.511655,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -199,35 +199,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Good Friday concert: Handel’s Messiah</name>
-      <description><![CDATA[<b>Good Friday concert: Handel’s Messiah</b><br><i>Music</i><br>Fri 3rd Apr<br>The Royal Albert Hall, South Kensington<br>From £24<br><br>The Royal Choral Society and Royal Philharmonic Orchestra perform Handel's Messiah, celebrating their 150th consecutive Easter performance.<br><br><a href="https://londontravelplanning.com/events-in-london-in-april/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.177966,51.5006181,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Black Chronicles launch event</name>
-      <description><![CDATA[<b>Black Chronicles launch event</b><br><i>Arts &amp; Culture</i><br>Thu 2nd Apr<br>Courtauld Gallery, Strand<br>Free<br><br>Attend a free launch event for Black Chronicles at the Courtauld Gallery, featuring studio portraits that highlight the Black presence in Victorian Britain.<br><br><a href="https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
+      <name>Veronica Ryan Retrospective</name>
+      <description><![CDATA[<b>Veronica Ryan Retrospective</b><br><i>Arts &amp; Culture</i><br>Mon 30th Mar – Sun 14th Jun<br>Whitechapel Gallery, Whitechapel<br>Check site<br><br>Experience a major exhibition showcasing the extensive work of Turner Prize-winning artist Veronica Ryan at the Whitechapel Gallery.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1177,51.511624,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Portraits by Catherine Opie</name>
-      <description><![CDATA[<b>Portraits by Catherine Opie</b><br><i>Arts &amp; Culture</i><br>Sat 4th Apr – Sun 5th Apr<br>National Portrait Gallery, West End<br>Check site<br><br>The National Portrait Gallery hosts the first major UK exhibition of American artist Catherine Opie's work, exploring themes of home, family, intimacy, and identity.<br><br><a href="https://londontheinside.com/whats-on-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>I Was A Teenage She-Devil</name>
-      <description><![CDATA[<b>I Was A Teenage She-Devil</b><br><i>Theatre</i><br>Thu 2nd Apr – Sun 26th Apr<br>The Other Palace, Victoria<br>Check site<br><br>A new comedy-horror rock musical about Nancy Nelson's transformation into a revenge-seeking rocker by the Devil, opening at The Other Palace.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1423506,51.4987814,0</coordinates>
+        <coordinates>-0.0703132444698357,51.51617175,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -239,19 +215,43 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Heart Wall Play</name>
-      <description><![CDATA[<b>Heart Wall Play</b><br><i>Theatre</i><br>Sat 4th Apr – Sat 16th May<br>Bush Theatre, Shepherd's Bush<br>Check site<br><br>Kit Withington’s play 'Heart Wall' follows Franky as buried family secrets and grief resurface when she returns to her familiar local pub.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>Good Friday concert: Handel’s Messiah</name>
+      <description><![CDATA[<b>Good Friday concert: Handel’s Messiah</b><br><i>Music</i><br>Fri 3rd Apr<br>The Royal Albert Hall, South Kensington<br>From £24<br><br>The Royal Choral Society and Royal Philharmonic Orchestra perform Handel's Messiah, celebrating their 150th consecutive Easter performance.<br><br><a href="https://londontravelplanning.com/events-in-london-in-april/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2183251,51.5043576,0</coordinates>
+        <coordinates>-0.177966,51.5006181,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Back to the Future: The Musical</name>
-      <description><![CDATA[<b>Back to the Future: The Musical</b><br><i>Theatre</i><br>Thu 2nd Apr – Sun 12th Apr<br>Adelphi Theatre, Covent Garden<br>From £25.00<br><br>Watch the stage adaptation of the iconic movie, 'Back to the Future', featuring classic songs and new additions.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>Portraits by Catherine Opie</name>
+      <description><![CDATA[<b>Portraits by Catherine Opie</b><br><i>Arts &amp; Culture</i><br>Sat 4th Apr – Sun 5th Apr<br>National Portrait Gallery, West End<br>Check site<br><br>The National Portrait Gallery hosts the first major UK exhibition of American artist Catherine Opie's work, exploring themes of home, family, intimacy, and identity.<br><br><a href="https://londontheinside.com/whats-on-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1230784,51.5102364,0</coordinates>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viva Cuba Late Late Show</name>
+      <description><![CDATA[<b>Viva Cuba Late Late Show</b><br><i>Music</i><br>Fri 3rd Apr – Fri 29th May<br>Ronnie Scott's, Soho<br>Check site<br><br>Enjoy a sensational evening featuring live Cuban music.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Misty In Roots (50th anniversary show)</name>
+      <description><![CDATA[<b>Misty In Roots (50th anniversary show)</b><br><i>Music</i><br>Sat 4th Apr<br>Electric Ballroom, Camden Town<br>£50<br><br>Celebrate 50 years of reggae music with Misty In Roots at their anniversary show.<br><br><a href="https://electricballroom.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.14294300439723384,51.53972445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Photos Chosen by Wolf Alice, Geese, Fontaines DC</name>
+      <description><![CDATA[<b>Photos Chosen by Wolf Alice, Geese, Fontaines DC</b><br><i>Arts &amp; Culture</i><br>Sat 4th Apr – Sun 5th Apr<br>Royal Albert Hall, South Kensington<br>Check site<br><br>View an art exhibition and print series, 'Good Energy', featuring photos chosen by popular bands, supporting Teenage Cancer Trust.<br><br><a href="https://londontheinside.com/whats-on-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.176829,51.50113,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -271,43 +271,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Brazilian Funk Masters Mu540 &amp; DJ RaMeMes</name>
-      <description><![CDATA[<b>Brazilian Funk Masters Mu540 &amp; DJ RaMeMes</b><br><i>Nightlife</i><br>Thu 2nd Apr<br>The Jazz Cafe, Camden Town<br>Check site<br><br>A bank holiday special club night featuring Brazilian Funk masters Mu540 and DJ RaMeMes.<br><br><a href="https://thejazzcafe.com/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1430336,51.5385824,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>House Gospel Choir presents: Church</name>
-      <description><![CDATA[<b>House Gospel Choir presents: Church</b><br><i>Nightlife</i><br>Fri 3rd Apr<br>The Jazz Cafe, Camden Town<br>Check site<br><br>An euphoric rave collective, House Gospel Choir, presents their 'Church' event for a vibrant club night experience.<br><br><a href="https://thejazzcafe.com/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1430336,51.5385824,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Godfathers of DnB Fabio &amp; Grooverider (All Night Long)</name>
-      <description><![CDATA[<b>Godfathers of DnB Fabio &amp; Grooverider (All Night Long)</b><br><i>Nightlife</i><br>Sun 5th Apr<br>The Jazz Cafe, Camden Town<br>Check site<br><br>A club night featuring the godfathers of Drum &amp; Bass, Fabio &amp; Grooverider, performing an all-night-long set.<br><br><a href="https://thejazzcafe.com/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1430336,51.5385824,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Grndation: Afro House, Amapiano &amp; Tribal House</name>
-      <description><![CDATA[<b>Grndation: Afro House, Amapiano &amp; Tribal House</b><br><i>Nightlife</i><br>Thu 2nd Apr<br>BOXPARK Shoreditch, Shoreditch<br>Free<br><br>A high-energy night presented by GRNDOU7 REKORDZ &amp; SOUND SOURCE RADIO, celebrating Afro House, Amapiano, and Tribal House music.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events">More info / tickets</a>]]></description>
+      <name>Luma: Rooftop Afrohouse &amp; More</name>
+      <description><![CDATA[<b>Luma: Rooftop Afrohouse &amp; More</b><br><i>Nightlife</i><br>Fri 3rd Apr<br>BOXPARK Shoreditch, Shoreditch<br>Check site<br><br>Step into the glow of LUMA, an elevated music experience featuring Afrohouse and more, set above the Shoreditch skyline.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>25.4 Years of Logan D - London All Dayer</name>
-      <description><![CDATA[<b>25.4 Years of Logan D - London All Dayer</b><br><i>Nightlife</i><br>Sat 4th Apr<br>E1 London, Wapping<br>Check site<br><br>Celebrate over 25 years of Logan D with a drum &amp; bass all-dayer event in London.<br><br><a href="https://e1ldn.co/events">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.053749,51.514357,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -319,8 +287,40 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Luma: Rooftop Afrohouse &amp; More</name>
-      <description><![CDATA[<b>Luma: Rooftop Afrohouse &amp; More</b><br><i>Nightlife</i><br>Fri 3rd Apr<br>BOXPARK Shoreditch, Shoreditch<br>Check site<br><br>Step into the glow of LUMA, an elevated music experience featuring Afrohouse and more, set above the Shoreditch skyline.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events">More info / tickets</a>]]></description>
+      <name>Godfathers of DnB Fabio &amp; Grooverider (All Night Long)</name>
+      <description><![CDATA[<b>Godfathers of DnB Fabio &amp; Grooverider (All Night Long)</b><br><i>Nightlife</i><br>Sun 5th Apr<br>The Jazz Cafe, Camden Town<br>Check site<br><br>A club night featuring the godfathers of Drum &amp; Bass, Fabio &amp; Grooverider, performing an all-night-long set.<br><br><a href="https://thejazzcafe.com/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1430336,51.5385824,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Japan's Hip-Hop Wizard - DJ Koco</name>
+      <description><![CDATA[<b>Japan's Hip-Hop Wizard - DJ Koco</b><br><i>Nightlife</i><br>Fri 3rd Apr<br>The Jazz Cafe, Camden Town<br>Check site<br><br>An exciting club night with Japan's Hip-Hop Wizard, DJ Koco, spinning tracks for the audience.<br><br><a href="https://thejazzcafe.com/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1430336,51.5385824,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>25.4 Years of Logan D - London All Dayer</name>
+      <description><![CDATA[<b>25.4 Years of Logan D - London All Dayer</b><br><i>Nightlife</i><br>Sat 4th Apr<br>E1 London, Wapping<br>Check site<br><br>Celebrate over 25 years of Logan D with a drum &amp; bass all-dayer event in London.<br><br><a href="https://e1ldn.co/events">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.053749,51.514357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Latin Candy: Reggaeton Party, Easter Sunday E1 Nightclub</name>
+      <description><![CDATA[<b>Latin Candy: Reggaeton Party, Easter Sunday E1 Nightclub</b><br><i>Nightlife</i><br>Sun 5th Apr<br>E1 London, Wapping<br>Check site<br><br>A Reggaeton Party on Easter Sunday at E1 Nightclub, featuring disco and funk music.<br><br><a href="https://e1ldn.co/events">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.053749,51.514357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Throw It Back Easter Special</name>
+      <description><![CDATA[<b>Throw It Back Easter Special</b><br><i>Nightlife</i><br>Sun 5th Apr<br>BOXPARK Shoreditch, Shoreditch<br>Check site<br><br>Celebrate the Easter bank holiday in style at BOXPARK Shoreditch with a special 'Throw It Back' event.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
