@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
 UID:97c93517f38a@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Garage Nation
@@ -24,7 +24,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:be5339b56c1b@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:PROJECT X - London's Wildest Bank Holiday Party
@@ -36,34 +36,33 @@ URL:https://e1ldn.co/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:9e0f3d070bda@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Brazilian Funk Masters Mu540 & DJ RaMeMes
-DESCRIPTION:A bank holiday special club night featuring Brazilian Funk mast
- ers Mu540 and DJ RaMeMes.\n\nPrice: Check site\n\nTickets/Info: https://th
- ejazzcafe.com/whats-on/
-LOCATION:The Jazz Cafe\, Camden Town\, London
-URL:https://thejazzcafe.com/whats-on/
+UID:fd7be00e3c96@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Luma: Rooftop Afrohouse & More
+DESCRIPTION:Step into the glow of LUMA\, an elevated music experience featu
+ ring Afrohouse and more\, set above the Shoreditch skyline.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:b38bd6e67a8a@london-events-scraper
-DTSTAMP:20260402T000000Z
+UID:36c722fbbb0c@london-events-scraper
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
-SUMMARY:House Gospel Choir presents: Church
-DESCRIPTION:An euphoric rave collective\, House Gospel Choir\, presents the
- ir 'Church' event for a vibrant club night experience.\n\nPrice: Check sit
- e\n\nTickets/Info: https://thejazzcafe.com/whats-on/
-LOCATION:The Jazz Cafe\, Camden Town\, London
-URL:https://thejazzcafe.com/whats-on/
+SUMMARY:FULL FAT EASTER FEST
+DESCRIPTION:A music festival celebrating Easter.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://www.studio338.co.uk/events
+LOCATION:Studio 338\, Greenwich\, London
+URL:https://www.studio338.co.uk/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:5997dea85b0b@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:Godfathers of DnB Fabio & Grooverider (All Night Long)
@@ -75,22 +74,21 @@ URL:https://thejazzcafe.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f5ccabb66ca5@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Grndation: Afro House\, Amapiano & Tribal House
-DESCRIPTION:A high-energy night presented by GRNDOU7 REKORDZ & SOUND SOURCE
-  RADIO\, celebrating Afro House\, Amapiano\, and Tribal House music.\n\nPr
- ice: Free\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/eve
- nts
-LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
-URL:https://www.boxpark.co.uk/venues/shoreditch/events
+UID:e0a1ff1453a3@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Japan's Hip-Hop Wizard - DJ Koco
+DESCRIPTION:An exciting club night with Japan's Hip-Hop Wizard\, DJ Koco\, 
+ spinning tracks for the audience.\n\nPrice: Check site\n\nTickets/Info: ht
+ tps://thejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:5fd6792237cb@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
 SUMMARY:25.4 Years of Logan D - London All Dayer
@@ -102,26 +100,27 @@ URL:https://e1ldn.co/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:36c722fbbb0c@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:FULL FAT EASTER FEST
-DESCRIPTION:A music festival celebrating Easter.\n\nPrice: Check site\n\nTi
- ckets/Info: https://www.studio338.co.uk/events
-LOCATION:Studio 338\, Greenwich\, London
-URL:https://www.studio338.co.uk/events
+UID:01005c3bfbbe@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Latin Candy: Reggaeton Party\, Easter Sunday E1 Nightclub
+DESCRIPTION:A Reggaeton Party on Easter Sunday at E1 Nightclub\, featuring 
+ disco and funk music.\n\nPrice: Check site\n\nTickets/Info: https://e1ldn.
+ co/events
+LOCATION:E1 London\, Wapping\, London
+URL:https://e1ldn.co/events
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:fd7be00e3c96@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:Luma: Rooftop Afrohouse & More
-DESCRIPTION:Step into the glow of LUMA\, an elevated music experience featu
- ring Afrohouse and more\, set above the Shoreditch skyline.\n\nPrice: Chec
- k site\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+UID:96ae1cadbf45@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Throw It Back Easter Special
+DESCRIPTION:Celebrate the Easter bank holiday in style at BOXPARK Shoreditc
+ h with a special 'Throw It Back' event.\n\nPrice: Check site\n\nTickets/In
+ fo: https://www.boxpark.co.uk/venues/shoreditch/events
 LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
 URL:https://www.boxpark.co.uk/venues/shoreditch/events
 CATEGORIES:Going Out
