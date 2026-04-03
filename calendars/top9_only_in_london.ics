@@ -8,17 +8,17 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:59e0caa54015@london-events-scraper
+UID:2830865325ea@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
-SUMMARY:Punchdrunk's LANDER 23
-DESCRIPTION:Punchdrunk introduces LANDER 23\, a new live-action video game 
- experience that blends immersive theatre with gaming\, transforming audien
- ces into players in a stealth mission.\n\nPrice: Check site\n\nTickets/Inf
- o: https://lander23.com
+SUMMARY:LANDER 23
+DESCRIPTION:Punchdrunk presents a new live-action video game experience\, b
+ lurring the lines between theatre and gaming as audiences become players i
+ n a stealth mission.\n\nPrice: Check site\n\nTickets/Info: https://londont
+ heinside.com/whats-on-this-weekend/
 LOCATION:One Cartridge Place\, Woolwich\, London
-URL:https://lander23.com
+URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
@@ -35,16 +35,18 @@ URL:https://electricballroom.co.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:5049d8ee732f@london-events-scraper
+UID:a40e01da653c@london-events-scraper
 DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Buff Bingo Drag Bottomless Brunch
-DESCRIPTION:Enjoy a bottomless brunch with 90 minutes of free-flowing drink
- s\, drag hosts\, live DJ sets\, bingo\, and games.\n\nPrice: Check site\n\
- nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
-LOCATION:The Garden Vauxhall\, Vauxhall\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260407
+SUMMARY:Luminarium
+DESCRIPTION:A feast for the senses\, this walk-through inflatable installat
+ ion is a colour-changing labyrinth of winding pathways and colourful domes
+ .\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack
+ .com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Woolwich Works\, Woolwich\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
@@ -56,6 +58,19 @@ SUMMARY:Magical Brunch: The Experience
 DESCRIPTION:An immersive magical brunch experience.\n\nPrice: £49.00\n\nTi
  ckets/Info: https://feverup.com/en/london
 LOCATION:The Last Talisman\, Borough\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:037c456577d0@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260501
+SUMMARY:Bubble Planet: An Immersive Experience
+DESCRIPTION:Dive into an immersive experience featuring bubbles and interac
+ tive installations\, perfect for celebrations.\n\nPrice: From £25.90\n\nT
+ ickets/Info: https://feverup.com/en/london
+LOCATION:Unit 20 Fulton Road\, Wembley\, London
 URL:https://feverup.com/en/london
 CATEGORIES:Only in London
 END:VEVENT
@@ -86,43 +101,31 @@ URL:https://thejazzcafe.com/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:037c456577d0@london-events-scraper
+UID:eb8d6030bed1@london-events-scraper
 DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260501
-SUMMARY:Bubble Planet: An Immersive Experience
-DESCRIPTION:Dive into an immersive experience featuring bubbles and interac
- tive installations\, perfect for celebrations.\n\nPrice: From £25.90\n\nT
- ickets/Info: https://feverup.com/en/london
-LOCATION:Unit 20 Fulton Road\, Wembley\, London
-URL:https://feverup.com/en/london
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260413
+SUMMARY:Revel Puck Circus: A Glimmer Daze Gambit
+DESCRIPTION:A tented touring show celebrating hope and community with acrob
+ atics\, clowning\, and chaos\, perfect for the whole family.\n\nPrice: Che
+ ck site\n\nTickets/Info: https://londonistlistings.substack.com/p/things-t
+ o-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Queen Elizabeth Olympic Park\, Stratford\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:e7689c8a797d@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260427
-SUMMARY:Tulleys Tulip Fest
-DESCRIPTION:Explore 1.5 million tulips across over 100 varieties\, plus enj
- oy a 33m observation wheel\, light trail\, and live performers.\n\nPrice: 
- Check site\n\nTickets/Info: https://secretldn.com/things-to-do-london-apri
- l-2026/
-LOCATION:Tulleys Farm\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:9b4069a200cf@london-events-scraper
+UID:5049d8ee732f@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
-SUMMARY:BucketRace's Easter Scavenger Hunt
-DESCRIPTION:Participate in an exciting Easter-themed scavenger hunt\, explo
- ring the city and solving clues.\n\nPrice: £15.00\n\nTickets/Info: https:
- //feverup.com/en/london
-LOCATION:Golden Square\, Soho\, London
-URL:https://feverup.com/en/london
+SUMMARY:Buff Bingo Drag Bottomless Brunch
+DESCRIPTION:Enjoy a bottomless brunch with 90 minutes of free-flowing drink
+ s\, drag hosts\, live DJ sets\, bingo\, and games.\n\nPrice: Check site\n\
+ nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:The Garden Vauxhall\, Vauxhall\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
