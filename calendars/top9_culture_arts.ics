@@ -8,30 +8,45 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
+UID:f9994d62ff43@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Dracula
+DESCRIPTION:Cynthia Erivo stars in a radical one-actor production of Bram S
+ toker’s gothic tale\, playing all 23 characters in this Sydney Theatre C
+ ompany adaptation.\n\nPrice: Check site\n\nTickets/Info: https://londonthe
+ inside.com/whats-on-this-weekend/
+LOCATION:Noël Coward Theatre\, West End\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8620effae0@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260430
+SUMMARY:Cold War Visions Film Season
+DESCRIPTION:A film season exploring nuclear anxiety in the Eastern Bloc\, m
+ arking the 40th anniversary of the Chernobyl disaster\, starting with a fu
+ turistic film.\n\nPrice: Check site\n\nTickets/Info: https://londonistlist
+ ings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Barbican Cinema\, Barbican\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:aed3a737125e@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:Tracey Emin: A Second Life
-DESCRIPTION:Tate Modern presents the largest ever Tracey Emin exhibition\, 
- featuring over 90 works that explore love\, passion\, trauma\, and healing
-  through art and the female body.\n\nPrice: Check site\n\nTickets/Info: ht
- tps://tate.org.uk
+DESCRIPTION:The biggest show of Tracey Emin’s career\, featuring over 90 
+ works exploring love\, passion\, trauma\, and healing through art and the 
+ female body.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside
+ .com/whats-on-this-weekend/
 LOCATION:Tate Modern\, Bankside\, London
-URL:https://tate.org.uk
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:98651b1c6f5d@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260406
-SUMMARY:New Works by David Hockney at Serpentine
-DESCRIPTION:Serpentine North Gallery hosts David Hockney's first exhibition
- \, featuring new still lifes and portraits from 'A Year in Normandie'.\n\n
- Price: Check site\n\nTickets/Info: https://londontheinside.com/whats-on-th
- is-weekend/
-LOCATION:Serpentine North Gallery\, Kensington Gardens\, London
 URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
@@ -41,27 +56,42 @@ DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260615
 SUMMARY:Veronica Ryan Retrospective
-DESCRIPTION:Experience a major exhibition showcasing the extensive work of 
- Turner Prize-winning artist Veronica Ryan at the Whitechapel Gallery.\n\nP
- rice: Check site\n\nTickets/Info: https://www.timeout.com/london/things-to
- -do/things-to-do-in-london-this-week
+DESCRIPTION:Explore one of the biggest presentations of work by Turner Priz
+ e-winning artist Veronica Ryan\, known for her thought-provoking sculpture
+ s and installations.\n\nPrice: Check site\n\nTickets/Info: https://www.tim
+ eout.com/london/things-to-do/things-to-do-in-london-this-week
 LOCATION:Whitechapel Gallery\, Whitechapel\, London
 URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
  -week
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:9f1846563835@london-events-scraper
+UID:66d3286fe54c@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Rebecca Lucy Taylor on Stage
-DESCRIPTION:Rebecca Lucy Taylor\, also known as Self Esteem\, takes the lea
- d role in the 50th-anniversary revival of David Hare’s 'Teeth ‘N’ Sm
- iles'.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/w
- hats-on-this-weekend/
-LOCATION:Duke of York’s Theatre\, Covent Garden\, London
+DTEND;VALUE=DATE:20260406
+SUMMARY:David Hockney: A Year in Normandie
+DESCRIPTION:David Hockney's exhibition features new works including still l
+ ifes and portraits\, alongside a ninety-metre-long frieze depicting changi
+ ng seasons.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.
+ com/whats-on-this-weekend/
+LOCATION:Serpentine North Gallery\, Kensington Gardens\, London
 URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfa2670e7b5@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:One Flew Over The Cuckoo’s Nest
+DESCRIPTION:Clint Dyer directs a new staging of Ken Kesey’s novel\, a sto
+ ry of rebellion\, colonialism\, and social structures set inside a psychia
+ tric facility.\n\nPrice: Check site\n\nTickets/Info: https://londonistlist
+ ings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Old Vic\, Waterloo\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -79,55 +109,30 @@ URL:https://londontravelplanning.com/events-in-london-in-april/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:947372a98ab5@london-events-scraper
+UID:91be6eebd317@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260406
-SUMMARY:Portraits by Catherine Opie
-DESCRIPTION:The National Portrait Gallery hosts the first major UK exhibiti
- on of American artist Catherine Opie's work\, exploring themes of home\, f
- amily\, intimacy\, and identity.\n\nPrice: Check site\n\nTickets/Info: htt
- ps://londontheinside.com/whats-on-this-weekend/
-LOCATION:National Portrait Gallery\, West End\, London
+DTEND;VALUE=DATE:20260405
+SUMMARY:Teeth ‘N’ Smiles
+DESCRIPTION:Rebecca Lucy Taylor (Self Esteem) stars in the 50th-anniversary
+  revival of David Hare’s play\, playing the lead singer of a failing roc
+ k band.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/
+ whats-on-this-weekend/
+LOCATION:Duke of York’s Theatre\, Covent Garden\, London
 URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2435b4d0fef5@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260530
-SUMMARY:Viva Cuba Late Late Show
-DESCRIPTION:Enjoy a sensational evening featuring live Cuban music.\n\nPric
- e: Check site\n\nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Ronnie Scott's\, Soho\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:43d9bfc1935d@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Misty In Roots (50th anniversary show)
-DESCRIPTION:Celebrate 50 years of reggae music with Misty In Roots at their
-  anniversary show.\n\nPrice: £50\n\nTickets/Info: https://electricballroo
- m.co.uk/whats-on/
-LOCATION:Electric Ballroom\, Camden Town\, London
-URL:https://electricballroom.co.uk/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:16f2318d846f@london-events-scraper
+UID:f6f0fc5ce77d@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
-SUMMARY:Photos Chosen by Wolf Alice\, Geese\, Fontaines DC
-DESCRIPTION:View an art exhibition and print series\, 'Good Energy'\, featu
- ring photos chosen by popular bands\, supporting Teenage Cancer Trust.\n\n
- Price: Check site\n\nTickets/Info: https://londontheinside.com/whats-on-th
- is-weekend/
-LOCATION:Royal Albert Hall\, South Kensington\, London
+SUMMARY:Catherine Opie: To Be Seen
+DESCRIPTION:The first major UK museum exhibition of American artist Catheri
+ ne Opie's work\, exploring themes of home\, family\, intimacy\, and identi
+ ty.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/what
+ s-on-this-weekend/
+LOCATION:National Portrait Gallery\, Trafalgar Square\, London
 URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
