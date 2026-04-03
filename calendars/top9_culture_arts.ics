@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
 UID:aed3a737125e@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:Tracey Emin: A Second Life
@@ -23,7 +23,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:98651b1c6f5d@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:New Works by David Hockney at Serpentine
@@ -36,67 +36,23 @@ URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:14ecba71e9c6@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:Good Friday concert: Handel’s Messiah
-DESCRIPTION:The Royal Choral Society and Royal Philharmonic Orchestra perfo
- rm Handel's Messiah\, celebrating their 150th consecutive Easter performan
- ce.\n\nPrice: From £24\n\nTickets/Info: https://londontravelplanning.com/
- events-in-london-in-april/
-LOCATION:The Royal Albert Hall\, South Kensington\, London
-URL:https://londontravelplanning.com/events-in-london-in-april/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:780175690783@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Black Chronicles launch event
-DESCRIPTION:Attend a free launch event for Black Chronicles at the Courtaul
- d Gallery\, featuring studio portraits that highlight the Black presence i
- n Victorian Britain.\n\nPrice: Free\n\nTickets/Info: https://londonistcity
- keys.substack.com/p/free-things-to-do-in-london-this-week-30-march-5-april
- -2026
-LOCATION:Courtauld Gallery\, Strand\, London
-URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
- is-week-30-march-5-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:947372a98ab5@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260406
-SUMMARY:Portraits by Catherine Opie
-DESCRIPTION:The National Portrait Gallery hosts the first major UK exhibiti
- on of American artist Catherine Opie's work\, exploring themes of home\, f
- amily\, intimacy\, and identity.\n\nPrice: Check site\n\nTickets/Info: htt
- ps://londontheinside.com/whats-on-this-weekend/
-LOCATION:National Portrait Gallery\, West End\, London
-URL:https://londontheinside.com/whats-on-this-weekend/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:af9b4fb37e10@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260427
-SUMMARY:I Was A Teenage She-Devil
-DESCRIPTION:A new comedy-horror rock musical about Nancy Nelson's transform
- ation into a revenge-seeking rocker by the Devil\, opening at The Other Pa
- lace.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.subs
- tack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:The Other Palace\, Victoria\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+UID:0bfa33f3ba87@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260615
+SUMMARY:Veronica Ryan Retrospective
+DESCRIPTION:Experience a major exhibition showcasing the extensive work of 
+ Turner Prize-winning artist Veronica Ryan at the Whitechapel Gallery.\n\nP
+ rice: Check site\n\nTickets/Info: https://www.timeout.com/london/things-to
+ -do/things-to-do-in-london-this-week
+LOCATION:Whitechapel Gallery\, Whitechapel\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:9f1846563835@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
 SUMMARY:Rebecca Lucy Taylor on Stage
@@ -109,31 +65,70 @@ URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:ee1f72a36dcf@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260517
-SUMMARY:Heart Wall Play
-DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
- amily secrets and grief resurface when she returns to her familiar local p
- ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
- ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:Bush Theatre\, Shepherd's Bush\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+UID:14ecba71e9c6@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Good Friday concert: Handel’s Messiah
+DESCRIPTION:The Royal Choral Society and Royal Philharmonic Orchestra perfo
+ rm Handel's Messiah\, celebrating their 150th consecutive Easter performan
+ ce.\n\nPrice: From £24\n\nTickets/Info: https://londontravelplanning.com/
+ events-in-london-in-april/
+LOCATION:The Royal Albert Hall\, South Kensington\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:42c567b371c7@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260413
-SUMMARY:Back to the Future: The Musical
-DESCRIPTION:Watch the stage adaptation of the iconic movie\, 'Back to the F
- uture'\, featuring classic songs and new additions.\n\nPrice: From £25.00
- \n\nTickets/Info: https://feverup.com/en/london
-LOCATION:Adelphi Theatre\, Covent Garden\, London
-URL:https://feverup.com/en/london
+UID:947372a98ab5@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Portraits by Catherine Opie
+DESCRIPTION:The National Portrait Gallery hosts the first major UK exhibiti
+ on of American artist Catherine Opie's work\, exploring themes of home\, f
+ amily\, intimacy\, and identity.\n\nPrice: Check site\n\nTickets/Info: htt
+ ps://londontheinside.com/whats-on-this-weekend/
+LOCATION:National Portrait Gallery\, West End\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2435b4d0fef5@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260530
+SUMMARY:Viva Cuba Late Late Show
+DESCRIPTION:Enjoy a sensational evening featuring live Cuban music.\n\nPric
+ e: Check site\n\nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
+LOCATION:Ronnie Scott's\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:43d9bfc1935d@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Misty In Roots (50th anniversary show)
+DESCRIPTION:Celebrate 50 years of reggae music with Misty In Roots at their
+  anniversary show.\n\nPrice: £50\n\nTickets/Info: https://electricballroo
+ m.co.uk/whats-on/
+LOCATION:Electric Ballroom\, Camden Town\, London
+URL:https://electricballroom.co.uk/whats-on/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:16f2318d846f@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Photos Chosen by Wolf Alice\, Geese\, Fontaines DC
+DESCRIPTION:View an art exhibition and print series\, 'Good Energy'\, featu
+ ring photos chosen by popular bands\, supporting Teenage Cancer Trust.\n\n
+ Price: Check site\n\nTickets/Info: https://londontheinside.com/whats-on-th
+ is-weekend/
+LOCATION:Royal Albert Hall\, South Kensington\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
