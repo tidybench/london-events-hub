@@ -8,21 +8,8 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:2562900e67be@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Silent Disco at Natural History Museum
-DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
-  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
- tps://londoncheapo.com/events/april/
-LOCATION:Natural History Museum\, South Kensington\, London
-URL:https://londoncheapo.com/events/april/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:59e0caa54015@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
 SUMMARY:Punchdrunk's LANDER 23
@@ -35,39 +22,8 @@ URL:https://lander23.com
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a2b81db39d@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Pirate Takeover at Golden Hinde
-DESCRIPTION:A pirate-themed museum late at the Golden Hinde featuring talks
- \, tours\, a coin-embossing workshop\, and a bar serving rum.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://londonistlistings.substack.com/p/things-
- to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:Golden Hinde\, Bankside\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:a40e01da653c@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260407
-SUMMARY:Luminarium
-DESCRIPTION:Luminarium opens at Woolwich Works for five days\, offering a w
- alk-through inflatable installation that is a colour-changing labyrinth of
-  winding pathways and domes.\n\nPrice: Check site\n\nTickets/Info: https:/
- /londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-marc
- h-5-april-2026
-LOCATION:Woolwich Works\, Woolwich\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:cee8004755ec@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Bongo’s Bingo
@@ -79,24 +35,59 @@ URL:https://electricballroom.co.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:0ed82bb25683@london-events-scraper
-DTSTAMP:20260402T000000Z
+UID:5049d8ee732f@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Buff Bingo Drag Bottomless Brunch
+DESCRIPTION:Enjoy a bottomless brunch with 90 minutes of free-flowing drink
+ s\, drag hosts\, live DJ sets\, bingo\, and games.\n\nPrice: Check site\n\
+ nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:The Garden Vauxhall\, Vauxhall\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:93816975aa48@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260628
+SUMMARY:Magical Brunch: The Experience
+DESCRIPTION:An immersive magical brunch experience.\n\nPrice: £49.00\n\nTi
+ ckets/Info: https://feverup.com/en/london
+LOCATION:The Last Talisman\, Borough\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:9f0da6f388b1@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Tirami-sin at Mercato Mayfair
+DESCRIPTION:Confess your 'sins' at the Tirami-Sin confessional booth\, enjo
+ ying sweet treats at Mercato Metropolitano Mayfair.\n\nPrice: £6.50 (adva
+ nce sales)\n\nTickets/Info: https://londoncheapo.com/events/april/
+LOCATION:Mercato Metropolitano Mayfair\, Mayfair\, London
+URL:https://londoncheapo.com/events/april/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b38bd6e67a8a@london-events-scraper
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
-SUMMARY:Egg Day at The Cock Tavern
-DESCRIPTION:Egg Day returns to The Cock Tavern in Hackney\, featuring egg r
- acing\, a judged egg-tasting competition\, documentary screenings\, and li
- ve music.\n\nPrice: Free\, £1 per egg to race\n\nTickets/Info: https://lo
- ndonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5
- -april-2026
-LOCATION:The Cock Tavern\, Hackney\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+SUMMARY:House Gospel Choir presents: Church
+DESCRIPTION:An euphoric rave collective\, House Gospel Choir\, presents the
+ ir 'Church' event for a vibrant club night experience.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://thejazzcafe.com/whats-on/
+LOCATION:The Jazz Cafe\, Camden Town\, London
+URL:https://thejazzcafe.com/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:037c456577d0@london-events-scraper
-DTSTAMP:20260402T000000Z
+DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260501
 SUMMARY:Bubble Planet: An Immersive Experience
@@ -108,35 +99,30 @@ URL:https://feverup.com/en/london
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:711e32496f9f@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Brother Act: Drag Cabaret
-DESCRIPTION:Jamie Fuxx leads a line-up of London drag and cabaret performer
- s in a one-night show inspired by 'Sister Act\,' featuring soul\, disco\, 
- and comic confession.\n\nPrice: Check site\n\nTickets/Info: https://london
- istlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5-apr
- il-2026
-LOCATION:Pleasance Theatre\, Islington\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+UID:e7689c8a797d@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260427
+SUMMARY:Tulleys Tulip Fest
+DESCRIPTION:Explore 1.5 million tulips across over 100 varieties\, plus enj
+ oy a 33m observation wheel\, light trail\, and live performers.\n\nPrice: 
+ Check site\n\nTickets/Info: https://secretldn.com/things-to-do-london-apri
+ l-2026/
+LOCATION:Tulleys Farm\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:63ad6f8a78f2@london-events-scraper
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260413
-SUMMARY:A Glimmer Daze Gambit by Revel Puck Circus
-DESCRIPTION:Revel Puck Circus pitches its tent at Queen Elizabeth Olympic P
- ark\, celebrating hope\, arrival\, and community with acrobatics\, clownin
- g\, and chaos for all ages.\n\nPrice: Check site\n\nTickets/Info: https://
- londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march
- -5-april-2026
-LOCATION:Queen Elizabeth Olympic Park\, Stratford\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+UID:9b4069a200cf@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:BucketRace's Easter Scavenger Hunt
+DESCRIPTION:Participate in an exciting Easter-themed scavenger hunt\, explo
+ ring the city and solving clues.\n\nPrice: £15.00\n\nTickets/Info: https:
+ //feverup.com/en/london
+LOCATION:Golden Square\, Soho\, London
+URL:https://feverup.com/en/london
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
