@@ -8,16 +8,15 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:579496cca5bc@london-events-scraper
+UID:965ab7f4ce97@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260406
-SUMMARY:Floating Jazz at St Katharine Docks
+SUMMARY:Floating Jazz
 DESCRIPTION:Enjoy live jazz on Marina’s Floating Pontoon at St Katharine 
- Docks\, with a complimentary glass of bubbles and blankets amidst twinklin
- g yacht lights.\n\nPrice: Check site\n\nTickets/Info: https://londonistlis
- tings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-202
- 6
+ Docks\, complete with a free glass of bubbles\, blankets\, and yacht views
+ .\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack
+ .com/p/things-to-do-in-london-this-week-30-march-5-april-2026
 LOCATION:Marina’s Floating Pontoon at St Katharine Docks\, St Katharine D
  ocks\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
@@ -25,30 +24,60 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:70cf181f7fe0@london-events-scraper
+UID:5dc6dbf02484@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Interstellar Live with Orchestra
+DESCRIPTION:Experience Christopher Nolan’s epic film Interstellar on the 
+ big screen\, accompanied by Hans Zimmer’s score performed live by the Ro
+ yal Philharmonic Concert Orchestra.\n\nPrice: Check site\n\nTickets/Info: 
+ https://www.factlondon.com/united-kingdom/london/things-to-do/fabulous-thi
+ ngs-to-do-in-london-this-month?redirection=cms-fact
+LOCATION:Royal Albert Hall\, South Kensington\, London
+URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulous-
+ things-to-do-in-london-this-month?redirection=cms-fact
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:9dbad99074b1@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
-SUMMARY:Aidan Turner and Lesley Manville on Stage
-DESCRIPTION:Watch Aidan Turner\, Lesley Manville\, and Monica Barbaro star 
- in a new production of 'Les Liaisons Dangereuses' at the National Theatre.
- \n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/whats-o
- n-this-weekend/
-LOCATION:National Theatre\, South Bank\, London
+SUMMARY:Decorate Your Own Choccy Eggs
+DESCRIPTION:An exclusive masterclass where participants can decorate premiu
+ m chocolate eggs using melted coloured chocolate and edible embellishments
+ .\n\nPrice: Book your spot here\n\nTickets/Info: https://londontheinside.c
+ om/whats-on-this-weekend/
+LOCATION:Sir Devonshire Square\, London EC2M 4YE\, London
 URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b105c78f98ed@london-events-scraper
+UID:b3f16c04c5c0@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:50% Off Your Bill at Aram by Imad Alarnab
+DESCRIPTION:Enjoy Eastern Mediterranean food with 50% off your bill at Imad
+  Alarnab's café\, deli\, and restaurant at Somerset House\, overlooking t
+ he river.\n\nPrice: 50% off\n\nTickets/Info: https://londontheinside.com/w
+ hats-on-this-weekend/
+LOCATION:Aram by Imad Alarnab\, Somerset House\, Strand\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:2562900e67be@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
-SUMMARY:Dracula starring Cynthia Erivo
-DESCRIPTION:Cynthia Erivo stars in a radical one-actor production of Dracul
- a\, playing all 23 characters in her first stage appearance in nearly a de
- cade.\n\nPrice: Check site\n\nTickets/Info: https://draculawestend.com
-LOCATION:Noël Coward Theatre\, West End\, London
-URL:https://draculawestend.com
+SUMMARY:Silent Disco at Natural History Museum
+DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
+  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
+ tps://londoncheapo.com/events/april/
+LOCATION:Natural History Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/april/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -62,48 +91,6 @@ DESCRIPTION:The French guitarist and vocalist presents a dynamic mix of jaz
  e\n\nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
 LOCATION:Upstairs at Ronnie's\, Soho\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:b3f16c04c5c0@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260406
-SUMMARY:50% Off Your Bill at Aram by Imad Alarnab
-DESCRIPTION:Enjoy 50% off your bill at Aram by Imad Alarnab\, serving Easte
- rn Mediterranean food at Somerset House.\n\nPrice: Check site\n\nTickets/I
- nfo: https://arambyimad.co.uk
-LOCATION:Somerset House\, Aldwych\, London
-URL:https://arambyimad.co.uk
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:cb170791fd74@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260305
-DTEND;VALUE=DATE:20260412
-SUMMARY:Marie & Rosetta
-DESCRIPTION:This musical tells the story of Sister Rosetta Tharpe\, the god
- mother of rock and roll\, and her collaboration with singer Marie Knight.\
- n\nPrice: from £30.00\n\nTickets/Info: https://sohoplace.org
-LOCATION:@sohoplace\, Central London\, London
-URL:https://sohoplace.org
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:e4de025aabf0@london-events-scraper
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260406
-SUMMARY:Interstellar in Concert
-DESCRIPTION:Experience Christopher Nolan’s 'Interstellar' on the big scre
- en with Hans Zimmer’s score performed live by the Royal Philharmonic Con
- cert Orchestra.\n\nPrice: Check site\n\nTickets/Info: https://www.factlond
- on.com/united-kingdom/london/things-to-do/fabulous-things-to-do-in-london-
- this-month?redirection=cms-fact
-LOCATION:Royal Albert Hall\, South Kensington\, London
-URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulous-
- things-to-do-in-london-this-month?redirection=cms-fact
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -122,16 +109,32 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2562900e67be@london-events-scraper
+UID:95d5d223d435@london-events-scraper
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260404
+SUMMARY:Jazz In The Round
+DESCRIPTION:An Easter special five-day run of Jazz In The Round shows\, fea
+ turing live music by international supergroup lvdf and the Noah Ojumu Quar
+ tet.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.subst
+ ack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Cockpit Theatre\, Marylebone\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:12917db7b7ef@london-events-scraper
 DTSTAMP:20260403T000000Z
 DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Silent Disco at Natural History Museum
-DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
-  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
- tps://londoncheapo.com/events/april/
-LOCATION:Natural History Museum\, South Kensington\, London
-URL:https://londoncheapo.com/events/april/
+DTEND;VALUE=DATE:20260406
+SUMMARY:Phed Mark Pop-Up
+DESCRIPTION:Experience the famous pad kaprao from Bangkok's Phed Mark\, tak
+ ing over Platapian in Soho for two months with various spice levels and a 
+ London special.\n\nPrice: Check site\n\nTickets/Info: https://londontheins
+ ide.com/whats-on-this-weekend/
+LOCATION:Platapian\, Soho\, London
+URL:https://londontheinside.com/whats-on-this-weekend/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
