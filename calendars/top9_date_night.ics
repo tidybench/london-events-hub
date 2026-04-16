@@ -7,4 +7,124 @@ X-WR-CALNAME:🇬🇧 Top 9 – Date Night
 X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:0feca2cacb66@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Floating Hot Tub Tour Of London's Docklands
+DESCRIPTION:Hot tub tour of London's docklands.\n\nPrice: from £39.00\n\nT
+ ickets/Info: https://www.designmynight.com/london/whats-on/best-events-in-
+ april
+LOCATION:Skuna Boats\, Docklands\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:656b080d3c08@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260607
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:Stage adaptation of the classic novel starring Lesley Manville 
+ and Aidan Turner.\n\nPrice: from £92 per person\n\nTickets/Info: https://
+ www.designmynight.com/london/blog/things-to-do-in-london-this-weekend
+LOCATION:Lyttelton Theatre\, South Bank\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:31ba937c6ef2@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:An immersive murder mystery dinner on a train with a three-cour
+ se meal.\n\nPrice: from £92.90 - £99.50\n\nTickets/Info: https://www.des
+ ignmynight.com/london/event-space/bethnal-green/pedley-street-station/the-
+ murdr-express-part-deux-jewel-of-the-empire
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/event-space/bethnal-green/pedley-s
+ treet-station/the-murdr-express-part-deux-jewel-of-the-empire
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:3a77b1e1b842@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Joia Rooftop Party
+DESCRIPTION:A rooftop party with DJs\, cocktails\, and Iberian-inspired dis
+ hes.\n\nPrice: Not specified\n\nTickets/Info: https://www.cntraveller.com/
+ gallery/things-to-do-in-london-this-weekend
+LOCATION:Joia Rooftop\, art’otel Battersea\, Nine Elms\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:7483df9f4ae6@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260605
+SUMMARY:The Jazz Room
+DESCRIPTION:Live jazz performance inspired by New Orleans.\n\nPrice: £40.9
+ 5\n\nTickets/Info: https://feverup.com/en/london
+LOCATION:Phoenix Arts Club\, London\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:342642ccc2e6@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260503
+SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
+DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
+ ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
+LOCATION:Studio 1\, London\, London
+URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a987c4aa99@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Pour Choices Wine Fair
+DESCRIPTION:A showcase of low-intervention wines with tastings and talks.\n
+ \nPrice: Included in ticket\n\nTickets/Info: https://www.cntraveller.com/g
+ allery/things-to-do-in-london-this-weekend
+LOCATION:Hackney Bridge\, Hackney\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:6e57823da7ea@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260621
+SUMMARY:Romeo & Juliet
+DESCRIPTION:A West End revival of Shakespeare’s love story.\n\nPrice: fro
+ m £20 per ticket\n\nTickets/Info: https://www.designmynight.com/london/bl
+ og/things-to-do-in-london-this-weekend
+LOCATION:The Harold Pinter Theatre\, Panton Street\, SW1Y 4DN\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc4a8ab2d02@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:R&B Lovers: The Lovers Brunch
+DESCRIPTION:Bottomless brunch with R&B music in Liverpool Street.\n\nPrice:
+  £55.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Boxhall-
+ City/RB-Lovers-The-Lovers-Brunch---BOXHALL/42072112/
+LOCATION:Boxhall City\, Liverpool Street\, London
+URL:https://www.skiddle.com/whats-on/London/Boxhall-City/RB-Lovers-The-Love
+ rs-Brunch---BOXHALL/42072112/
+CATEGORIES:Date Night
+END:VEVENT
 END:VCALENDAR
