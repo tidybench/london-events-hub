@@ -7,4 +7,123 @@ X-WR-CALNAME:🇬🇧 Top 9 – Culture & Arts
 X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:844b9256f621@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:V&A East Museum Opening
+DESCRIPTION:A new cultural hub showcasing creative history and contemporary
+  voices.\n\nPrice: £–££\n\nTickets/Info: https://www.londonbackpacker
+ s.com/blog/london-in-april-2026-a-complete-guide-to-50-major-events-sports
+ -attractions/
+LOCATION:East Bank\, Queen Elizabeth Olympic Park\, East London\, London
+URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
+ guide-to-50-major-events-sports-attractions/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:32c92bd61a32@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260713
+SUMMARY:Ramses And The Pharaohs' Gold: The Exhibition
+DESCRIPTION:Explore artifacts from King Ramses II's reign.\n\nPrice: from 
+ £26.05 per adult and £24.05 per child\n\nTickets/Info: https://www.desig
+ nmynight.com/london/blog/things-to-do-in-london-this-weekend
+LOCATION:NEON at Battersea Power Station\, Battersea\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7980232bff@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Beatriz González
+DESCRIPTION:Retrospective of Colombian artist Beatriz González.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, City of London\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6856ec58d487@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:One Flew Over the Cuckoo’s Nest
+DESCRIPTION:Stage revival of Ken Kesey's countercultural classic.\n\nPrice:
+  Check site\n\nTickets/Info: https://www.timeout.com/london/things-to-do/l
+ ondon-events-in-april
+LOCATION:Old Vic\, Southwark\, London
+URL:https://www.timeout.com/london/things-to-do/london-events-in-april
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e268dd1a2b31@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260524
+SUMMARY:A Doll's House
+DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
+  site\n\nTickets/Info: https://almeida.co.uk/whats-on
+LOCATION:Almeida Theatre\, Islington\, London
+URL:https://almeida.co.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:faaf6e367633@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260505
+SUMMARY:Sony World Photography Awards Exhibition
+DESCRIPTION:Exhibition featuring 300+ award-winning photographs.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.timeout.com/london/things-to-do/lo
+ ndon-events-in-april
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.timeout.com/london/things-to-do/london-events-in-april
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:99cd09af6ef3@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260420
+SUMMARY:Divine Jewels
+DESCRIPTION:Exhibition of jewellery from the Albion Art Collection.\n\nPric
+ e: Free\n\nTickets/Info: https://www.vam.ac.uk/event/0DoNmK0qqD8/divine-je
+ wels-jan-apr-2026
+LOCATION:Victoria and Albert Museum\, South Kensington\, London
+URL:https://www.vam.ac.uk/event/0DoNmK0qqD8/divine-jewels-jan-apr-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:d50cf4b76a0a@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260510
+SUMMARY:Between the River and the Sea
+DESCRIPTION:Autobiographical play about Palestinian-Israeli heritage.\n\nPr
+ ice: Check site\n\nTickets/Info: https://www.timeout.com/london/things-to-
+ do/london-events-in-april
+LOCATION:Royal Court Theatre\, Westminster\, London
+URL:https://www.timeout.com/london/things-to-do/london-events-in-april
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc7ad6263b3@london-events-scraper
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Choral Performance
+DESCRIPTION:Cantata Dramatica performs a choral adaptation of The Conferenc
+ e of the Birds.\n\nPrice: Check site\n\nTickets/Info: https://londonistlis
+ tings.substack.com/p/things-to-do-in-london-this-week-eb9
+LOCATION:Leighton House\, Holland Park\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-eb9
+CATEGORIES:Culture & Arts
+END:VEVENT
 END:VCALENDAR
