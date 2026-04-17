@@ -8,119 +8,119 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:0986a9193670@london-events-scraper
-DTSTAMP:20260416T000000Z
+UID:c615fe0b884e@london-events-scraper
+DTSTAMP:20260417T000000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:Euphoric Rave Collective
-DESCRIPTION:High-energy rave music and dance.\n\nPrice: Check site\n\nTicke
- ts/Info: https://thejazzcafe.com/whats-on/
-LOCATION:Euphoric Rave Collective\, London
-URL:https://thejazzcafe.com/whats-on/
+SUMMARY:fabric: Agents Of Time\, Olympe\, Alex Wann
+DESCRIPTION:Club night featuring Agents Of Time\, Olympe\, and Alex Wann.\n
+ \nPrice: Check site\n\nTickets/Info: https://www.fabriclondon.com/event/fa
+ bric-agents-of-time-alex-wann-more-tba
+LOCATION:London
+URL:https://www.fabriclondon.com/event/fabric-agents-of-time-alex-wann-more
+ -tba
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:e79394d2898c@london-events-scraper
-DTSTAMP:20260416T000000Z
+UID:ac19e241078d@london-events-scraper
+DTSTAMP:20260417T000000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:JOIA Rooftop Opening Party
-DESCRIPTION:Rooftop party with DJs and skyline views.\n\nPrice: from £48.6
- 0\n\nTickets/Info: https://www.designmynight.com/london/bars/battersea/joi
- a/joia-rooftop-opening-party-2
-LOCATION:Joia\, Battersea\, London
-URL:https://www.designmynight.com/london/bars/battersea/joia/joia-rooftop-o
- pening-party-2
+SUMMARY:EGG LDN PRES: ALL ABOUT HOUSE
+DESCRIPTION:House music event at Egg London.\n\nPrice: Check site\n\nTicket
+ s/Info: https://egglondon.co.uk/events/
+LOCATION:Egg London\, London\, London
+URL:https://egglondon.co.uk/events/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:8bec38ebad25@london-events-scraper
-DTSTAMP:20260416T000000Z
-DTSTART;VALUE=DATE:20260418
+UID:1bf2f8e6deef@london-events-scraper
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Booker T. Jones
+DESCRIPTION:Performance by leader of Booker T. & The MG's.\n\nPrice: Check 
+ site\n\nTickets/Info: https://koko.co.uk/whats-on
+LOCATION:KOKO\, Camden\, London
+URL:https://koko.co.uk/whats-on
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:c64b20e21d30@london-events-scraper
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Teletech London
+DESCRIPTION:A hard techno and techno music event.\n\nPrice: Check site\n\nT
+ ickets/Info: https://e1ldn.co/events
+LOCATION:E1 London\, Whitechapel\, London
+URL:https://e1ldn.co/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:6f7068a8d342@london-events-scraper
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:5 World-Class Stand Up Comedians
+DESCRIPTION:Stand-up comedy show featuring five top comedians.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://london.thecomedystore.co.uk/whats-on
+LOCATION:The Comedy Store\, London\, London
+URL:https://london.thecomedystore.co.uk/whats-on
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:2783e89cdd15@london-events-scraper
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260419
-SUMMARY:El Baho
-DESCRIPTION:Spring dancefloor experience blending Latin rhythms with electr
- onic beats.\n\nPrice: Check site\n\nTickets/Info: https://londonistlisting
- s.substack.com/p/things-to-do-in-london-this-week-eb9
-LOCATION:Colour Factory\, Shoreditch\, London
+SUMMARY:Banana Cabaret
+DESCRIPTION:Comedy club night with stand-up performances.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://www.eventbrite.co.uk/e/banana-cabaret-170426-
+ tickets-1981744994626
+LOCATION:The Bedford\, London\, London
+URL:https://www.eventbrite.co.uk/e/banana-cabaret-170426-tickets-1981744994
+ 626
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:60e85649eba2@london-events-scraper
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Bloodsucking Comedy
+DESCRIPTION:Late-night vampiric comedy show.\n\nPrice: Check site\n\nTicket
+ s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
+ is-week-eb9
+LOCATION:The Bill Murray\, Shoreditch\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ek-eb9
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:9c8b892af6fe@london-events-scraper
-DTSTAMP:20260416T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:FOLD presents Voicedrone B2B James Newmarch - All Night long (EXTEN
- DED)
-DESCRIPTION:Extended techno music event with DJs.\n\nPrice: Check site\n\nT
- ickets/Info: https://www.fold.london/tickets
-LOCATION:FOLD London\, Shoreditch\, London
-URL:https://www.fold.london/tickets
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:73a9a837d642@london-events-scraper
-DTSTAMP:20260416T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Ibiza Classics in The Garden
-DESCRIPTION:Outdoor party with Ibiza-style music and dancing.\n\nPrice: £5
- .00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Vauxhall-Food
- -And-Beer-Garden/Ibiza-Classics-in-The-Garden/42274643/
-LOCATION:Vauxhall Food And Beer Garden\, Vauxhall\, London
-URL:https://www.skiddle.com/whats-on/London/Vauxhall-Food-And-Beer-Garden/I
- biza-Classics-in-The-Garden/42274643/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:a08cb3bc83b2@london-events-scraper
-DTSTAMP:20260416T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260430
-SUMMARY:Roundhouse Three Sixty
-DESCRIPTION:Spring festival with music\, arts\, and club nights.\n\nPrice: 
- from £5\n\nTickets/Info: https://www.timeout.com/london/things-to-do/lond
- on-events-in-april
-LOCATION:Roundhouse\, Camden\, London
-URL:https://www.timeout.com/london/things-to-do/london-events-in-april
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:37121c2ebb0c@london-events-scraper
-DTSTAMP:20260416T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Don't Try
-DESCRIPTION:A live music event at New Cross Inn.\n\nPrice: Check site\n\nTi
- ckets/Info: https://www.newcrossinn.com/gigs/
-LOCATION:New Cross Inn\, New Cross\, London
-URL:https://www.newcrossinn.com/gigs/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:d5d5e12a652d@london-events-scraper
-DTSTAMP:20260416T000000Z
+UID:546aae2cc928@london-events-scraper
+DTSTAMP:20260417T000000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:Call Me Malcolm
-DESCRIPTION:A live music event at New Cross Inn.\n\nPrice: Check site\n\nTi
- ckets/Info: https://www.newcrossinn.com/gigs/
-LOCATION:New Cross Inn\, New Cross\, London
-URL:https://www.newcrossinn.com/gigs/
+SUMMARY:Dan O’Reilly: Let’s Have It
+DESCRIPTION:Uncensored comedy roast by Daniel O’Reilly.\n\nPrice: Free\n\
+ nTickets/Info: https://discover.ticketmaster.co.uk/special-events/things-t
+ o-do-in-london-this-week-64229/
+LOCATION:O2 Shepherd’s Bush Empire\, Shepherd's Bush\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:663215d6e3cb@london-events-scraper
-DTSTAMP:20260416T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:The Restarts
-DESCRIPTION:A live music event at New Cross Inn.\n\nPrice: Check site\n\nTi
- ckets/Info: https://www.newcrossinn.com/gigs/
-LOCATION:New Cross Inn\, New Cross\, London
-URL:https://www.newcrossinn.com/gigs/
+UID:3960760ed8e0@london-events-scraper
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:DOO WOP EXPLOSION
+DESCRIPTION:Live music event.\n\nPrice: £20 adv +bf\n\nTickets/Info: https
+ ://www.the100club.co.uk/100club-events/
+LOCATION:100 Club\, London\, London
+URL:https://www.the100club.co.uk/100club-events/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
