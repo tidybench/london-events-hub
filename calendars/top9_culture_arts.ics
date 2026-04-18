@@ -8,120 +8,130 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:26236a34e604@london-events-scraper
+UID:02da315076c2@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:V&A East Museum opening weekend
-DESCRIPTION:Opening weekend of London's newest museum.\n\nPrice: Free\n\nTi
- ckets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260410
+SUMMARY:AIM\, SHOOT\, STOP\, FIX Photography Exhibition
+DESCRIPTION:An exhibition featuring the work of influential music photograp
+ hers like Peter Anderson\, Chris Clunn\, David Corio\, and Lawrence Watson
+ \, with snaps of music royalty.\n\nPrice: Check site\n\nTickets/Info: http
+ s://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Worldly Wicked & Wise Gallery\, Shoreditch\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:d5b4a41c47f2@london-events-scraper
+UID:fa94750ec54f@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:ARCA EXHIBITION
-DESCRIPTION:A solo exhibition of multidisciplinary artist Arca.\n\nPrice: C
- heck site\n\nTickets/Info: https://londonistlistings.substack.com/p/things
- -to-do-in-london-this-weekend-18-19-april-2026
-LOCATION:ICA\, Covent Garden\, London
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260413
+SUMMARY:Sour Loop: Laurel Halo & Hanne Lippard
+DESCRIPTION:A sound installation by musician Laurel Halo and artist Hanne L
+ ippard\, part of Assembly 2026.\n\nPrice: Check site\n\nTickets/Info: http
+ s://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.somersethouse.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:7260ef62af8b@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260426
+SUMMARY:Choir Boy
+DESCRIPTION:Nancy Medina's production of Tarell Alvin McCraney's play tells
+  the story of Pharus\, a gifted singer navigating his identity.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.stratfordeast.com
+LOCATION:Stratford East\, Stratford\, London
+URL:https://www.stratfordeast.com
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:358c6b200077@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260504
+SUMMARY:In the Print
+DESCRIPTION:A politically-charged play documenting the 'Battle of Wapping'\
+ , where trade union leader Brenda Dean confronts Rupert Murdoch's newspape
+ r empire.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.
+ substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:King's Head Theatre\, Islington\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:ca84e8018db8@london-events-scraper
+UID:19f4d3ba6a3d@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Beatriz González
-DESCRIPTION:First UK retrospective of the Colombian artist.\n\nPrice: Free\
- n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e97bf58b2958@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:Cornwallis Cloth
-DESCRIPTION:Film installation on British Caribbean lives in WWII.\n\nPrice:
-  Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ed57be6fd1cd@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:Open City Documentary Festival
-DESCRIPTION:A festival showcasing non-fiction films from around the world.\
- n\nPrice: Free\n\nTickets/Info: https://www.timeout.com/london/things-to-d
- o/london-events-in-april
-LOCATION:Various cinemas\, London\, London
-URL:https://www.timeout.com/london/things-to-do/london-events-in-april
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5fdd68df7abd@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260414
+DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260419
-SUMMARY:THE OTHER MOZART
-DESCRIPTION:Play about Nannerl Mozart\, sister of Amadeus.\n\nPrice: Check 
- site\n\nTickets/Info: https://www.omnibus-clapham.org/whats-on/
-LOCATION:Omnibus Theatre\, Clapham\, London
-URL:https://www.omnibus-clapham.org/whats-on/
+SUMMARY:Welcome to Pemfort
+DESCRIPTION:A theatrical production written by Sarah Power and directed by 
+ Ed Madden.\n\nPrice: From £13\n\nTickets/Info: https://sohotheatre.com/al
+ l-shows/
+LOCATION:Soho Theatre\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:7f8889beb454@london-events-scraper
+UID:d0c54405dda8@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Black Is… Black Ain’t
-DESCRIPTION:A screening of Marlon Riggs’ final film.\n\nPrice: Free\n\nTi
- ckets/Info: https://londonistlistings.substack.com/p/things-to-do-in-londo
- n-this-weekend-18-19-april-2026
-LOCATION:The Horse Hospital\, Bloomsbury\, London
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260419
+SUMMARY:THIS IS NOT ABOUT ME.
+DESCRIPTION:A performance or show titled 'THIS IS NOT ABOUT ME.'\n\nPrice: 
+ From £19\n\nTickets/Info: https://sohotheatre.com/all-shows/
+LOCATION:Soho Upstairs\, Soho\, London
+URL:https://sohotheatre.com/all-shows/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9bab3595e9a6@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260430
+SUMMARY:Cold War Visions: Ikarie XB-1
+DESCRIPTION:Barbican Cinema launches 'Cold War Visions\,' a film season exp
+ loring nuclear anxiety in the Eastern Bloc\, starting with 'Ikarie XB-1\,'
+  a futuristic film from 2163.\n\nPrice: Check site\n\nTickets/Info: https:
+ //londonistlistings.substack.com/p/things-to-do-in-london-this-week-30-mar
+ ch-5-april-2026
+LOCATION:Barbican Cinema\, Barbican\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:495a56ca6e9e@london-events-scraper
+UID:72cfccc0c341@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260420
-SUMMARY:5th TNB XPO
-DESCRIPTION:An annual film convention hosted by The New Black Film Collecti
- ve.\n\nPrice: From £16\n\nTickets/Info: https://todolist.london/unmissabl
- e-things-to-do-in-london-in-april-2026/
-LOCATION:BLOC\, Mile End\, London
-URL:https://todolist.london/unmissable-things-to-do-in-london-in-april-2026
- /
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Hidden Women of the City of London Talk
+DESCRIPTION:Rebecca Couper presents an illustrated talk at The London Archi
+ ves\, exploring nearly 2\,000 years of women connected to the Square Mile.
+ \n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack.
+ com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The London Archives\, Clerkenwell\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:bc3bfcbcc892@london-events-scraper
+UID:4db6c12dff2a@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260422
-SUMMARY:An exploration of Yorùbá spirituality
-DESCRIPTION:Exhibition reflecting Yorùbá spirituality.\n\nPrice: Check si
- te\n\nTickets/Info: https://londonistcitykeys.substack.com/p/free-things-t
- o-do-in-london-this-week-13-19-april-2026
-LOCATION:Unit G19\, The Sidings at Waterloo station\, Waterloo\, London
-URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
- is-week-13-19-april-2026
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Hayward Gallery Lates
+DESCRIPTION:Enjoy after-hours access to Hayward Gallery exhibitions\, spotl
+ ight tours\, poetry performances\, and creative activities during this lat
+ e opening event.\n\nPrice: Check site\n\nTickets/Info: https://londonistli
+ stings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-20
+ 26
+LOCATION:Hayward Gallery\, South Bank\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
