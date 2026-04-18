@@ -8,96 +8,29 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:9cdc6d87aea5@london-events-scraper
+UID:72ec6272c7e3@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Vaisakhi Festival
-DESCRIPTION:A lively free festival celebrating Sikh New Year with processio
- ns and food.\n\nPrice: Free (food paid)\n\nTickets/Info: https://www.londo
- nbackpackers.com/blog/london-in-april-2026-a-complete-guide-to-50-major-ev
- ents-sports-attractions/
-LOCATION:Trafalgar Square / City Hall\, Central London\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
+SUMMARY:The Best in Stand Up
+DESCRIPTION:Top stand-up comedians performing at The Comedy Store.\n\nPrice
+ : Check site\n\nTickets/Info: https://london.thecomedystore.co.uk/event/th
+ e-best-in-stand-up
+LOCATION:The Comedy Store London\, London\, London
+URL:https://london.thecomedystore.co.uk/event/the-best-in-stand-up
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
+UID:2b93573a6451@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:46b73df1a8fe@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:St George’s Day Celebrations
-DESCRIPTION:Music and entertainment honouring England’s patron saint.\n\n
- Price: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/london
- -in-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
-LOCATION:Trafalgar Square & central London\, Central London\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:48d1498d7407@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Film Tour: Wigs\, Weddings\, Powder and Palaces
-DESCRIPTION:Tour of period drama filming locations.\n\nPrice: Check site\n\
- nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:867c9e0ea6d2@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-SUMMARY:London History Festival
-DESCRIPTION:Talks and exhibitions celebrating British history.\n\nPrice: Ap
- prox £35\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
- n-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
-LOCATION:Somerset House & Central London venues\, Central London\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:6bee103af084@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Strange Central 2026: Mysteries\, Monsters\, Ghosts and UFOs
-DESCRIPTION:Talks on the paranormal\, including ghost hunting and UFOs.\n\n
- Price: £25\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/202
- 6/04/
-LOCATION:Conway Hall\, Holborn\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:9ba876c41279@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Ethical Matters: A History of Protest and Public Space in England
-DESCRIPTION:Explore the radical history of protest in England’s public sp
- aces.\n\nPrice: £12\n\nTickets/Info: https://www.ianvisits.co.uk/calendar
- /date/2026/04/
-LOCATION:Conway Hall\, Holborn\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Improv comedy show at The Comedy Store.\n\nPrice: Check site\n\
+ nTickets/Info: https://london.thecomedystore.co.uk/event/the-comedy-store-
+ players
+LOCATION:The Comedy Store\, London\, London
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
