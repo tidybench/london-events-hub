@@ -8,29 +8,66 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:72ec6272c7e3@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:The Best in Stand Up
-DESCRIPTION:Top stand-up comedians performing at The Comedy Store.\n\nPrice
- : Check site\n\nTickets/Info: https://london.thecomedystore.co.uk/event/th
- e-best-in-stand-up
-LOCATION:The Comedy Store London\, London\, London
-URL:https://london.thecomedystore.co.uk/event/the-best-in-stand-up
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:2b93573a6451@london-events-scraper
+UID:c8af02394dd2@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:The Comedy Store Players
-DESCRIPTION:Improv comedy show at The Comedy Store.\n\nPrice: Check site\n\
- nTickets/Info: https://london.thecomedystore.co.uk/event/the-comedy-store-
- players
-LOCATION:The Comedy Store\, London\, London
-URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players
+SUMMARY:St George's Day at Trafalgar Square
+DESCRIPTION:Celebrate English culture with live music\, dance\, and perform
+ ances.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calenda
+ r/date/2026/04/
+LOCATION:Trafalgar Square\, Trafalgar Square\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:01a7fd54064a@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Tudor Takeover
+DESCRIPTION:A historical reenactment of Tudor England.\n\nPrice: Check site
+ \n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd4f2c630f1@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260430
+SUMMARY:Roundhouse Three Sixty
+DESCRIPTION:A spring arts festival featuring live music\, visual arts\, spo
+ ken word\, and club nights.\n\nPrice: Check site\n\nTickets/Info: https://
+ www.timeout.com/london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Roundhouse\, Chalk Farm\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:f823da944dad@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Concrete and Clay: Archiving the Barbican
+DESCRIPTION:Free installation exploring the Barbican's history.\n\nPrice: F
+ ree\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Tours & Public Spaces\, Art & Design\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:1336396c2c21@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Form Presents: H Hunt\, Tara Cunningham
+DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
+ kets/Info: https://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/events/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
