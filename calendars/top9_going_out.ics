@@ -8,60 +8,47 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:c615fe0b884e@london-events-scraper
+UID:9101f1a337b8@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:fabric: Agents Of Time\, Olympe\, Alex Wann
-DESCRIPTION:Club night featuring Agents Of Time\, Olympe\, and Alex Wann.\n
- \nPrice: Check site\n\nTickets/Info: https://www.fabriclondon.com/event/fa
- bric-agents-of-time-alex-wann-more-tba
-LOCATION:London
-URL:https://www.fabriclondon.com/event/fabric-agents-of-time-alex-wann-more
- -tba
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:ac19e241078d@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:EGG LDN PRES: ALL ABOUT HOUSE
-DESCRIPTION:House music event at Egg London.\n\nPrice: Check site\n\nTicket
- s/Info: https://egglondon.co.uk/events/
-LOCATION:Egg London\, London\, London
-URL:https://egglondon.co.uk/events/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:1bf2f8e6deef@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Booker T. Jones
-DESCRIPTION:Performance by leader of Booker T. & The MG's.\n\nPrice: Check 
- site\n\nTickets/Info: https://koko.co.uk/whats-on
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Dimitri from Paris (All Night Long)
+DESCRIPTION:Disco legend's all-night performance.\n\nPrice: Check site\n\nT
+ ickets/Info: https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
 LOCATION:KOKO\, Camden\, London
-URL:https://koko.co.uk/whats-on
+URL:https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:c64b20e21d30@london-events-scraper
+UID:f511d98727a3@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Teletech London
-DESCRIPTION:A hard techno and techno music event.\n\nPrice: Check site\n\nT
- ickets/Info: https://e1ldn.co/events
-LOCATION:E1 London\, Whitechapel\, London
-URL:https://e1ldn.co/events
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Quantic (All Day Long)
+DESCRIPTION:Live performance by Quantic at Phonox.\n\nPrice: £5+ advance\n
+ \nTickets/Info: https://phonox.co.uk/whats-on/
+LOCATION:Phonox\, Brixton\, London
+URL:https://phonox.co.uk/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:6f7068a8d342@london-events-scraper
+UID:e736bb983017@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Mamma Mia! ABBA Afterparty
+DESCRIPTION:An ABBA-themed dance party.\n\nPrice: Free\n\nTickets/Info: htt
+ ps://www.designmynight.com/london/free-things-to-do-london-this-weekend
+LOCATION:Snoozebox Olympic Park\, Stratford\, London
+URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
+ end
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:86ac9c17e1f3@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
 SUMMARY:5 World-Class Stand Up Comedians
 DESCRIPTION:Stand-up comedy show featuring five top comedians.\n\nPrice: Ch
  eck site\n\nTickets/Info: https://london.thecomedystore.co.uk/whats-on
@@ -70,57 +57,66 @@ URL:https://london.thecomedystore.co.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:2783e89cdd15@london-events-scraper
+UID:3a4400e608b7@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
+DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Banana Cabaret
-DESCRIPTION:Comedy club night with stand-up performances.\n\nPrice: Check s
- ite\n\nTickets/Info: https://www.eventbrite.co.uk/e/banana-cabaret-170426-
- tickets-1981744994626
-LOCATION:The Bedford\, London\, London
-URL:https://www.eventbrite.co.uk/e/banana-cabaret-170426-tickets-1981744994
- 626
+SUMMARY:AZMARI BET: HABESHA EASTER PARTY!
+DESCRIPTION:Easter celebration with Ethiopian music and dance.\n\nPrice: FR
+ EE\n\nTickets/Info: https://richmix.org.uk/whats-on
+LOCATION:Rich Mix\, Shoreditch\, London
+URL:https://richmix.org.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:60e85649eba2@london-events-scraper
+UID:69ced1fe23ab@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Bloodsucking Comedy
-DESCRIPTION:Late-night vampiric comedy show.\n\nPrice: Check site\n\nTicket
- s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
- is-week-eb9
-LOCATION:The Bill Murray\, Shoreditch\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:King Rastafari Son Presents Ruben Affair – Earthstrong Celebratio
+ n!
+DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
+ fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
+ ffair-earthstrong-celebration/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
+ fair-earthstrong-celebration/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:546aae2cc928@london-events-scraper
+UID:3b03ad60b500@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Dan O’Reilly: Let’s Have It
-DESCRIPTION:Uncensored comedy roast by Daniel O’Reilly.\n\nPrice: Free\n\
- nTickets/Info: https://discover.ticketmaster.co.uk/special-events/things-t
- o-do-in-london-this-week-64229/
-LOCATION:O2 Shepherd’s Bush Empire\, Shepherd's Bush\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Saturday Night Comedy
+DESCRIPTION:Stand-up comedy show in Leicester Square.\n\nPrice: £13.00\n\n
+ Tickets/Info: https://jkcomedyclub.co.uk/whats-on/
+LOCATION:LEICESTER SQUARE\, Leicester Square\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:3960760ed8e0@london-events-scraper
+UID:76d0717135cd@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:DOO WOP EXPLOSION
-DESCRIPTION:Live music event.\n\nPrice: £20 adv +bf\n\nTickets/Info: https
- ://www.the100club.co.uk/100club-events/
-LOCATION:100 Club\, London\, London
-URL:https://www.the100club.co.uk/100club-events/
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Siesta - Opening Party
+DESCRIPTION:House music opening party event.\n\nPrice: Check site\n\nTicket
+ s/Info: https://e1ldn.co/events/siesta-opening-party
+LOCATION:E1 London\, Whitechapel\, London
+URL:https://e1ldn.co/events/siesta-opening-party
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:331555c43fac@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Heels & Feels Takeover - International Dance Day Special
+DESCRIPTION:Dance event celebrating International Dance Day.\n\nPrice: TICK
+ ETS\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
