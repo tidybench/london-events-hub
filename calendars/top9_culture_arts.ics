@@ -8,120 +8,119 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:26236a34e604@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:V&A East Museum opening weekend
-DESCRIPTION:Opening weekend of London's newest museum.\n\nPrice: Free\n\nTi
- ckets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d5b4a41c47f2@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:ARCA EXHIBITION
-DESCRIPTION:A solo exhibition of multidisciplinary artist Arca.\n\nPrice: C
- heck site\n\nTickets/Info: https://londonistlistings.substack.com/p/things
- -to-do-in-london-this-weekend-18-19-april-2026
-LOCATION:ICA\, Covent Garden\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ca84e8018db8@london-events-scraper
+UID:d20d6e749ab3@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Beatriz González
-DESCRIPTION:First UK retrospective of the Colombian artist.\n\nPrice: Free\
- n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e97bf58b2958@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:Cornwallis Cloth
-DESCRIPTION:Film installation on British Caribbean lives in WWII.\n\nPrice:
-  Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ed57be6fd1cd@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-SUMMARY:Open City Documentary Festival
-DESCRIPTION:A festival showcasing non-fiction films from around the world.\
- n\nPrice: Free\n\nTickets/Info: https://www.timeout.com/london/things-to-d
- o/london-events-in-april
-LOCATION:Various cinemas\, London\, London
-URL:https://www.timeout.com/london/things-to-do/london-events-in-april
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5fdd68df7abd@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260419
-SUMMARY:THE OTHER MOZART
-DESCRIPTION:Play about Nannerl Mozart\, sister of Amadeus.\n\nPrice: Check 
- site\n\nTickets/Info: https://www.omnibus-clapham.org/whats-on/
-LOCATION:Omnibus Theatre\, Clapham\, London
-URL:https://www.omnibus-clapham.org/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:7f8889beb454@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Black Is… Black Ain’t
-DESCRIPTION:A screening of Marlon Riggs’ final film.\n\nPrice: Free\n\nTi
- ckets/Info: https://londonistlistings.substack.com/p/things-to-do-in-londo
- n-this-weekend-18-19-april-2026
-LOCATION:The Horse Hospital\, Bloomsbury\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:495a56ca6e9e@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260420
-SUMMARY:5th TNB XPO
-DESCRIPTION:An annual film convention hosted by The New Black Film Collecti
- ve.\n\nPrice: From £16\n\nTickets/Info: https://todolist.london/unmissabl
- e-things-to-do-in-london-in-april-2026/
-LOCATION:BLOC\, Mile End\, London
+SUMMARY:Black Athena Festival: RONiN
+DESCRIPTION:A dance performance combining swordplay and digital projections
+ .\n\nPrice: £20\n\nTickets/Info: https://todolist.london/unmissable-thing
+ s-to-do-in-london-in-april-2026/
+LOCATION:The Place\, Euston\, London
 URL:https://todolist.london/unmissable-things-to-do-in-london-in-april-2026
  /
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:bc3bfcbcc892@london-events-scraper
+UID:faaf6e367633@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260422
-SUMMARY:An exploration of Yorùbá spirituality
-DESCRIPTION:Exhibition reflecting Yorùbá spirituality.\n\nPrice: Check si
- te\n\nTickets/Info: https://londonistcitykeys.substack.com/p/free-things-t
- o-do-in-london-this-week-13-19-april-2026
-LOCATION:Unit G19\, The Sidings at Waterloo station\, Waterloo\, London
-URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
- is-week-13-19-april-2026
+DTEND;VALUE=DATE:20260505
+SUMMARY:Sony World Photography Awards Exhibition
+DESCRIPTION:An exhibition of award-winning photography.\n\nPrice: Free\n\nT
+ ickets/Info: https://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.somersethouse.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:46dde08a2d1c@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Antonia: Behind the Myth of Marie Antoinette
+DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
+ heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
+ berata_collective/
+LOCATION:Chiswick House & Gardens\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:4e491f539d6d@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:JAPANESE FILM CLUB: LINDA LINDA LINDA
+DESCRIPTION:Screening of Japanese film Linda Linda Linda.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.d
+ ll/WhatsOn
+LOCATION:Phoenix Cinema\, East Finchley\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:c7b5691e93b8@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260607
+SUMMARY:Mass
+DESCRIPTION:Play about two couples reconciling after a high school shooting
+ .\n\nPrice: Check site\n\nTickets/Info: https://www.hackneyempire.co.uk/ev
+ ents/bismil-ki-mehfil
+LOCATION:Donmar Warehouse\, Covent Garden\, London
+URL:https://www.hackneyempire.co.uk/events/bismil-ki-mehfil
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2d65d891ff@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:OPEN CITY DOCUMENTARY FESTIVAL 2026: SUMMONING THE SILENCED: THE WO
+ RK OF TOMIYAMA TAEKO
+DESCRIPTION:Screening of works by Japanese filmmaker Tomiyama Taeko.\n\nPri
+ ce: FREE\n\nTickets/Info: https://www.genesiscinema.co.uk/event/101942
+LOCATION:Rich Mix\, Shoreditch\, London
+URL:https://www.genesiscinema.co.uk/event/101942
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:3a599c526512@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260619
+SUMMARY:The Music is Black: A British Story
+DESCRIPTION:An exhibition exploring the impact of Black British music on cu
+ lture.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.com/londo
+ n/things-to-do/things-to-do-in-london-this-week
+LOCATION:Olympic Park\, Olympic Park\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:70771441eb27@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+SUMMARY:V&A East Museum opening weekend
+DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
+  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:V&A East Museum\, Olympic Park\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:c4bcdaa2ce36@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:New Work: Making East London
+DESCRIPTION:An exhibition showcasing new work from East London artists.\n\n
+ Price: Free\n\nTickets/Info: https://www.vam.ac.uk/whatson
+LOCATION:London
+URL:https://www.vam.ac.uk/whatson
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
