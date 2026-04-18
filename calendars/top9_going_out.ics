@@ -8,15 +8,27 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:9101f1a337b8@london-events-scraper
+UID:3a4400e608b7@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Dimitri from Paris (All Night Long)
-DESCRIPTION:Disco legend's all-night performance.\n\nPrice: Check site\n\nT
- ickets/Info: https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
+SUMMARY:AZMARI BET: HABESHA EASTER PARTY!
+DESCRIPTION:Easter celebration with Ethiopian music and dance.\n\nPrice: FR
+ EE\n\nTickets/Info: https://richmix.org.uk/whats-on
+LOCATION:Rich Mix\, Shoreditch\, London
+URL:https://richmix.org.uk/whats-on
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:146cba8610b6@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Dimitri from Paris
+DESCRIPTION:A rare all-night disco session with the legendary DJ.\n\nPrice:
+  Check site\n\nTickets/Info: https://koko.co.uk/whats-on
 LOCATION:KOKO\, Camden\, London
-URL:https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
+URL:https://koko.co.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -32,16 +44,28 @@ URL:https://phonox.co.uk/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:e736bb983017@london-events-scraper
+UID:ef2acb4bdd3d@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Mamma Mia! ABBA Afterparty
-DESCRIPTION:An ABBA-themed dance party.\n\nPrice: Free\n\nTickets/Info: htt
- ps://www.designmynight.com/london/free-things-to-do-london-this-weekend
-LOCATION:Snoozebox Olympic Park\, Stratford\, London
-URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
- end
+SUMMARY:Saturday Sessions
+DESCRIPTION:Weekend party with music and drinks.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://www.boxpark.co.uk/venues/shoreditch/events/saturday-se
+ ssions
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events/saturday-sessions
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:3639e48ecbfc@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:1996: A Celebration of Cool Britannia
+DESCRIPTION:Relive the 90s with music\, fashion\, and football.\n\nPrice: F
+ ree\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Tours & Public Spaces\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -57,66 +81,39 @@ URL:https://london.thecomedystore.co.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:3a4400e608b7@london-events-scraper
+UID:fab5fd9ab115@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:AZMARI BET: HABESHA EASTER PARTY!
-DESCRIPTION:Easter celebration with Ethiopian music and dance.\n\nPrice: FR
- EE\n\nTickets/Info: https://richmix.org.uk/whats-on
-LOCATION:Rich Mix\, Shoreditch\, London
-URL:https://richmix.org.uk/whats-on
+SUMMARY:AMY MATTHEWS: DEFINITIONS OF TOAST (WIP)
+DESCRIPTION:Comedy show by Amy Matthews.\n\nPrice: Check site\n\nTickets/In
+ fo: https://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:69ced1fe23ab@london-events-scraper
+UID:06b256cf08b1@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:King Rastafari Son Presents Ruben Affair – Earthstrong Celebratio
- n!
-DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
- fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
- ffair-earthstrong-celebration/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
- fair-earthstrong-celebration/
+SUMMARY:Big Fat Cabaret
+DESCRIPTION:Cabaret and variety show.\n\nPrice: Check site\n\nTickets/Info:
+  https://www.pleasance.co.uk/events/location/London
+LOCATION:Pleasance Theatre\, LONDON\, London
+URL:https://www.pleasance.co.uk/events/location/London
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:3b03ad60b500@london-events-scraper
+UID:5f4e242911dc@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Saturday Night Comedy
-DESCRIPTION:Stand-up comedy show in Leicester Square.\n\nPrice: £13.00\n\n
- Tickets/Info: https://jkcomedyclub.co.uk/whats-on/
-LOCATION:LEICESTER SQUARE\, Leicester Square\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:76d0717135cd@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Siesta - Opening Party
-DESCRIPTION:House music opening party event.\n\nPrice: Check site\n\nTicket
- s/Info: https://e1ldn.co/events/siesta-opening-party
-LOCATION:E1 London\, Whitechapel\, London
-URL:https://e1ldn.co/events/siesta-opening-party
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:331555c43fac@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Heels & Feels Takeover - International Dance Day Special
-DESCRIPTION:Dance event celebrating International Dance Day.\n\nPrice: TICK
- ETS\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
-LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
-URL:https://www.boxpark.co.uk/venues/shoreditch/events
+SUMMARY:Butt Toot King
+DESCRIPTION:A live music event at the Electric Ballroom.\n\nPrice: From £3
+ 5\n\nTickets/Info: https://electricballroom.co.uk/whats-on/
+LOCATION:Electric Ballroom\, Camden\, London
+URL:https://electricballroom.co.uk/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
