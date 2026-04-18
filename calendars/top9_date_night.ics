@@ -8,119 +8,137 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:e79394d2898c@london-events-scraper
+UID:7a2465b78378@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:JOIA Rooftop Opening Party
-DESCRIPTION:Rooftop party with DJ Fat Tony and skyline views.\n\nPrice: fre
- e - £48.60\n\nTickets/Info: https://www.designmynight.com/london/whats-on
- /best-events-in-april
-LOCATION:Joia\, Battersea\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260407
+SUMMARY:Sounds of Blossom at Kew Gardens
+DESCRIPTION:Experience cherry blossom and magnolia displays enhanced by spe
+ cially commissioned musical compositions at Kew Gardens.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://londontravelplanning.com/events-in-london-in-
+ april/
+LOCATION:Royal Botanic Gardens\, Kew\, Kew\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:033f88333087@london-events-scraper
+UID:bd55d219094e@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-SUMMARY:Bollywood Boat Event
-DESCRIPTION:Bollywood-themed party on a Thames river cruise.\n\nPrice: £20
- .00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Crown-Piers/B
- ollywood-boat-event/42258134/
-LOCATION:Crown Piers\, London\, London
-URL:https://www.skiddle.com/whats-on/London/Crown-Piers/Bollywood-boat-even
- t/42258134/
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260405
+SUMMARY:Easter At The Chocolate Cocktail Club
+DESCRIPTION:Celebrate Easter at The Chocolate Cocktail Club with festive\, 
+ chocolate-infused cocktails and treats.\n\nPrice: £11.50\n\nTickets/Info:
+  https://feverup.com/en/london
+LOCATION:Chocolate Cocktail Club\, Farringdon\, London
+URL:https://feverup.com/en/london
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:41db3a7ca4fb@london-events-scraper
+UID:579496cca5bc@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Evening Garden Tours
-DESCRIPTION:Explore historic gardens in the early evening when they're clos
- ed to the public.\n\nPrice: Check site\n\nTickets/Info: https://www.englis
- h-heritage.org.uk/visit/whats-on/
-LOCATION:Eltham Palace and Gardens\, Eltham\, London
-URL:https://www.english-heritage.org.uk/visit/whats-on/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:3b0038625602@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Pour Choices Wine Festival
-DESCRIPTION:A celebration of low-intervention wines with tastings\, worksho
- ps\, and discussions.\n\nPrice: From £22\n\nTickets/Info: https://secretl
- dn.com/things-to-do-in-london-weekend/
-LOCATION:Hackney Bridge\, Echo Building Block C\, Hackney Wick\, London
-URL:https://secretldn.com/things-to-do-in-london-weekend/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:2f3be50350ef@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260712
-SUMMARY:Kinky Boots
-DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
- \n\nPrice: Check site\n\nTickets/Info: https://londoncoliseum.org/whats-on
-LOCATION:London Coliseum\, Covent Garden\, London
-URL:https://londoncoliseum.org/whats-on
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:fc91bebeda7f@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Nicola Benedetti Plays Elgar
-DESCRIPTION:A performance of Elgar’s Violin Concerto.\n\nPrice: Free\n\nT
- ickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lond
- on-this-weekend-18-19-april-2026
-LOCATION:Royal Festival Hall\, Southbank\, London
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Floating Jazz at St Katharine Docks
+DESCRIPTION:Enjoy live jazz on Marina’s Floating Pontoon at St Katharine 
+ Docks\, with a complimentary glass of bubbles and blankets amidst twinklin
+ g yacht lights.\n\nPrice: Check site\n\nTickets/Info: https://londonistlis
+ tings.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-202
+ 6
+LOCATION:Marina’s Floating Pontoon at St Katharine Docks\, St Katharine D
+ ocks\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
+ ek-30-march-5-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9e7f1f44bd7f@london-events-scraper
+UID:1be6300c130c@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:The Rocky Horror Picture Show 50th Anniversary Spectacular
-DESCRIPTION:A special 50th anniversary screening of The Rocky Horror Pictur
- e Show.\n\nPrice: Check site\n\nTickets/Info: https://www.dominiontheatre.
- com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:Rebecca Lucy Taylor stars as rocker Maggie Frisby in the 50th-a
+ nniversary production of David Hare’s rebellious play about disillusionm
+ ent in the Swinging Sixties.\n\nPrice: Check site\n\nTickets/Info: https:/
+ /discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-we
+ ek-64229/
+LOCATION:The Duke Of York’s Theatre\, Westminster\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9c21bccc1554@london-events-scraper
+UID:587c619534d7@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Father Mother Sister Brother
-DESCRIPTION:Jim Jarmusch film about emotionally detached siblings.\n\nPrice
- : Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260531
+SUMMARY:Dim Sum Masterclass at Chino Latino
+DESCRIPTION:Join Head Chef Ederson for a dim sum masterclass where you'll l
+ earn to roll\, fill\, and shape dumplings\, followed by a tasting.\n\nPric
+ e: £55 per person\n\nTickets/Info: https://www.countryandtownhouse.com/cu
+ lture/what-to-do-in-london-this-weekend/
+LOCATION:Chino Latino\, Park Plaza Riverbank\, Vauxhall\, London
+URL:https://www.countryandtownhouse.com/culture/what-to-do-in-london-this-w
+ eekend/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:14fc43714f90@london-events-scraper
+UID:915036668f3d@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Imaani's Soul Providence Band
-DESCRIPTION:Soul performance by Imaani and her band.\n\nPrice: Check site\n
- \nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Ronnie Scott's\, Soho\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260405
+SUMMARY:Waitress the Musical
+DESCRIPTION:Carrie Hope Fletcher stars in this musical about a pie-making w
+ aitress whose life takes an unexpected turn with the arrival of a new doct
+ or.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:New Wimbledon Theatre\, Wimbledon\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:71bddf4d9fde@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260413
+SUMMARY:Eggs Aren’t That Easy To Make
+DESCRIPTION:A queer rom-com about two friends who make good on a drunken pr
+ omise to be sperm donors.\n\nPrice: Check site\n\nTickets/Info: https://lo
+ ndonistlistings.substack.com/p/things-to-do-in-london-this-week-30-march-5
+ -april-2026
+LOCATION:Riverside Studios Hammersmith\, Hammersmith\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3e4c362258@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Shakespeare's Globe Outdoor Theatre Season
+DESCRIPTION:Experience distinctive cultural performances in the open-air ya
+ rd of Shakespeare's Globe\, with Shakespearean and contemporary plays.\n\n
+ Price: From £5\n\nTickets/Info: https://londontravelplanning.com/events-i
+ n-london-in-april/
+LOCATION:Shakespeare’s Globe\, Bankside\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfa2670e7b5@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:One Flew Over The Cuckoo’s Nest
+DESCRIPTION:Clint Dyer directs a new staging of Ken Kesey’s novel 'One Fl
+ ew Over The Cuckoo’s Nest' at The Old Vic\, starring Aaron Pierre and Gi
+ les Terera.\n\nPrice: Check site\n\nTickets/Info: https://londonistlisting
+ s.substack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Old Vic\, Waterloo\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
