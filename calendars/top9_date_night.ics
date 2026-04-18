@@ -8,19 +8,6 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:e79394d2898c@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:JOIA Rooftop Opening Party
-DESCRIPTION:Rooftop party with DJ Fat Tony and skyline views.\n\nPrice: fre
- e - £48.60\n\nTickets/Info: https://www.designmynight.com/london/whats-on
- /best-events-in-april
-LOCATION:Joia\, Battersea\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:033f88333087@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
@@ -35,41 +22,54 @@ URL:https://www.skiddle.com/whats-on/London/Crown-Piers/Bollywood-boat-even
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:41db3a7ca4fb@london-events-scraper
+UID:bb9cf4eb6c91@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Evening Garden Tours
-DESCRIPTION:Explore historic gardens in the early evening when they're clos
- ed to the public.\n\nPrice: Check site\n\nTickets/Info: https://www.englis
- h-heritage.org.uk/visit/whats-on/
-LOCATION:Eltham Palace and Gardens\, Eltham\, London
-URL:https://www.english-heritage.org.uk/visit/whats-on/
+SUMMARY:In The Mood For Love
+DESCRIPTION:A classic romantic drama set in 1962 Hong Kong.\n\nPrice: Check
+  site\n\nTickets/Info: https://princecharlescinema.com
+LOCATION:Prince Charles Cinema\, Leicester Square\, London
+URL:https://princecharlescinema.com
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:3b0038625602@london-events-scraper
+UID:7c579f673d4b@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Pour Choices Wine Festival
-DESCRIPTION:A celebration of low-intervention wines with tastings\, worksho
- ps\, and discussions.\n\nPrice: From £22\n\nTickets/Info: https://secretl
- dn.com/things-to-do-in-london-weekend/
-LOCATION:Hackney Bridge\, Echo Building Block C\, Hackney Wick\, London
-URL:https://secretldn.com/things-to-do-in-london-weekend/
+SUMMARY:Scratch Menu at Spring
+DESCRIPTION:Earth Day special menu with overlooked ingredients.\n\nPrice: F
+ ree\n\nTickets/Info: https://www.somersethouse.org.uk/whats-on
+LOCATION:Spring\, London\, London
+URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2f3be50350ef@london-events-scraper
+UID:df366292e192@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260712
-SUMMARY:Kinky Boots
-DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
- \n\nPrice: Check site\n\nTickets/Info: https://londoncoliseum.org/whats-on
-LOCATION:London Coliseum\, Covent Garden\, London
-URL:https://londoncoliseum.org/whats-on
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
+ om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
+ /whats-on/best-events-in-april
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:c85eb65bd396@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260607
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:A production of the classic play starring Lesley Manville and A
+ idan Turner.\n\nPrice: Check site\n\nTickets/Info: https://ticketing.timeo
+ ut.com/london/shows/45580-les-liaisons-dangereuses
+LOCATION:South Bank\, South Bank\, London
+URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
+ es
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -79,48 +79,49 @@ DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
 SUMMARY:Nicola Benedetti Plays Elgar
 DESCRIPTION:A performance of Elgar’s Violin Concerto.\n\nPrice: Free\n\nT
- ickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lond
- on-this-weekend-18-19-april-2026
+ ickets/Info: https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn
 LOCATION:Royal Festival Hall\, Southbank\, London
+URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:e239c053b118@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Tony Ann
+DESCRIPTION:A one-off concert of contemporary piano music.\n\nPrice: Free\n
+ \nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-l
+ ondon-this-weekend-18-19-april-2026
+LOCATION:Theatre Royal Drury Lane\, Covent Garden\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ekend-18-19-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9e7f1f44bd7f@london-events-scraper
+UID:48d1498d7407@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:The Rocky Horror Picture Show 50th Anniversary Spectacular
-DESCRIPTION:A special 50th anniversary screening of The Rocky Horror Pictur
- e Show.\n\nPrice: Check site\n\nTickets/Info: https://www.dominiontheatre.
- com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Film Tour: Wigs\, Weddings\, Powder and Palaces
+DESCRIPTION:Tour of period drama filming locations.\n\nPrice: Check site\n\
+ nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9c21bccc1554@london-events-scraper
+UID:0b80506ae739@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Father Mother Sister Brother
-DESCRIPTION:Jim Jarmusch film about emotionally detached siblings.\n\nPrice
- : Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:14fc43714f90@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Imaani's Soul Providence Band
-DESCRIPTION:Soul performance by Imaani and her band.\n\nPrice: Check site\n
- \nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Ronnie Scott's\, Soho\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:The Music of The Lord of The Rings
+DESCRIPTION:Concert featuring music from The Lord of the Rings films.\n\nPr
+ ice: £29\n\nTickets/Info: https://www.hackneyempire.co.uk/events/the-musi
+ c-of-the-lord-of-the-rings
+LOCATION:London
+URL:https://www.hackneyempire.co.uk/events/the-music-of-the-lord-of-the-rin
+ gs
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
