@@ -8,96 +8,128 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:9cdc6d87aea5@london-events-scraper
+UID:23e20ff70008@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Vaisakhi Festival
-DESCRIPTION:A lively free festival celebrating Sikh New Year with processio
- ns and food.\n\nPrice: Free (food paid)\n\nTickets/Info: https://www.londo
- nbackpackers.com/blog/london-in-april-2026-a-complete-guide-to-50-major-ev
- ents-sports-attractions/
-LOCATION:Trafalgar Square / City Hall\, Central London\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260427
+SUMMARY:Museum of Edible Earth
+DESCRIPTION:A temporary museum exploring 'geophagy\,' the practice of eatin
+ g earth for health\, customary\, or culinary benefit\, with hands-on activ
+ ities.\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-
+ to-do-in-london-march-2026/
+LOCATION:Somerset House\, Aldwych\, London
+URL:https://secretldn.com/things-to-do-in-london-march-2026/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
+UID:1631d2ae0af4@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260407
+SUMMARY:Woolwich Works’ Luminarium
+DESCRIPTION:Explore Woolwich Works’ Luminarium\, a monumental inflatable 
+ sculpture filled with a labyrinth of tunnels and radiant colors.\n\nPrice:
+  Check site\n\nTickets/Info: https://www.woolwich.works
+LOCATION:Woolwich Works\, Woolwich\, London
+URL:https://www.woolwich.works
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:46b73df1a8fe@london-events-scraper
+UID:cee8004755ec@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:St George’s Day Celebrations
-DESCRIPTION:Music and entertainment honouring England’s patron saint.\n\n
- Price: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/london
- -in-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
-LOCATION:Trafalgar Square & central London\, Central London\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Bongo’s Bingo
+DESCRIPTION:A unique and wild bingo experience combining traditional bingo 
+ with rave intervals\, dance-offs\, and crazy prizes.\n\nPrice: £20\n\nTic
+ kets/Info: https://electricballroom.co.uk/whats-on/
+LOCATION:Electric Ballroom\, Camden\, London
+URL:https://electricballroom.co.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:48d1498d7407@london-events-scraper
+UID:037c456577d0@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Film Tour: Wigs\, Weddings\, Powder and Palaces
-DESCRIPTION:Tour of period drama filming locations.\n\nPrice: Check site\n\
- nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260501
+SUMMARY:Bubble Planet: An Immersive Experience
+DESCRIPTION:Dive into an immersive experience featuring bubbles and interac
+ tive installations\, perfect for celebrations.\n\nPrice: From £25.90\n\nT
+ ickets/Info: https://feverup.com/en/london
+LOCATION:Unit 20 Fulton Road\, Wembley\, London
+URL:https://feverup.com/en/london
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:867c9e0ea6d2@london-events-scraper
+UID:59e0caa54015@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-SUMMARY:London History Festival
-DESCRIPTION:Talks and exhibitions celebrating British history.\n\nPrice: Ap
- prox £35\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Punchdrunk's LANDER 23
+DESCRIPTION:Punchdrunk introduces LANDER 23\, a new live-action video game 
+ experience that blends immersive theatre with gaming\, transforming audien
+ ces into players in a stealth mission.\n\nPrice: Check site\n\nTickets/Inf
+ o: https://lander23.com
+LOCATION:One Cartridge Place\, Woolwich\, London
+URL:https://lander23.com
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:2562900e67be@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Silent Disco at Natural History Museum
+DESCRIPTION:Experience an unusual late-night silent disco inside the iconic
+  Natural History Museum.\n\nPrice: £36.00 – £42.00\n\nTickets/Info: ht
+ tps://londoncheapo.com/events/april/
+LOCATION:Natural History Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/april/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:17a43564709f@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260406
+SUMMARY:Unfortunate: The Untold Story of Ursula
+DESCRIPTION:A satirical new musical about Disney’s Ursula\, featuring pop
+  songwriting and adult humour\, closes this week.\n\nPrice: Check site\n\n
+ Tickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lon
+ don-this-week-30-march-5-april-2026
+LOCATION:The Other Palace\, Westminster\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:2631a8dac403@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260416
+SUMMARY:Greenwich Park Cherry Blossoms
+DESCRIPTION:Greenwich Park becomes scenic during cherry blossom season\, wi
+ th pink blooms lining pathways and offering views over Canary Wharf.\n\nPr
+ ice: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
  n-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
-LOCATION:Somerset House & Central London venues\, Central London\, London
+LOCATION:Greenwich Park\, Greenwich\, London
 URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
  guide-to-50-major-events-sports-attractions/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6bee103af084@london-events-scraper
+UID:af9b4fb37e10@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Strange Central 2026: Mysteries\, Monsters\, Ghosts and UFOs
-DESCRIPTION:Talks on the paranormal\, including ghost hunting and UFOs.\n\n
- Price: £25\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/202
- 6/04/
-LOCATION:Conway Hall\, Holborn\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:9ba876c41279@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Ethical Matters: A History of Protest and Public Space in England
-DESCRIPTION:Explore the radical history of protest in England’s public sp
- aces.\n\nPrice: £12\n\nTickets/Info: https://www.ianvisits.co.uk/calendar
- /date/2026/04/
-LOCATION:Conway Hall\, Holborn\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260427
+SUMMARY:I Was A Teenage She-Devil
+DESCRIPTION:A new comedy-horror rock musical about Nancy Nelson's transform
+ ation into a revenge-seeking rocker by the Devil\, opening at The Other Pa
+ lace.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.subs
+ tack.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:The Other Palace\, Victoria\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
