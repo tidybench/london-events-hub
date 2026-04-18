@@ -8,29 +8,29 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:d20d6e749ab3@london-events-scraper
+UID:70771441eb27@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260419
-SUMMARY:Black Athena Festival: RONiN
-DESCRIPTION:A dance performance combining swordplay and digital projections
- .\n\nPrice: £20\n\nTickets/Info: https://todolist.london/unmissable-thing
- s-to-do-in-london-in-april-2026/
-LOCATION:The Place\, Euston\, London
-URL:https://todolist.london/unmissable-things-to-do-in-london-in-april-2026
- /
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+SUMMARY:V&A East Museum opening weekend
+DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
+  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:V&A East Museum\, Olympic Park\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:faaf6e367633@london-events-scraper
+UID:1118f37e7b5e@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260505
-SUMMARY:Sony World Photography Awards Exhibition
-DESCRIPTION:An exhibition of award-winning photography.\n\nPrice: Free\n\nT
- ickets/Info: https://www.somersethouse.org.uk/whats-on
-LOCATION:Somerset House\, Strand\, London
-URL:https://www.somersethouse.org.uk/whats-on
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260426
+SUMMARY:John Proctor Is the Villain
+DESCRIPTION:A play about girlhood and power.\n\nPrice: Check site\n\nTicket
+ s/Info: https://ticketing.timeout.com/london/shows/45671-john-proctor-is-t
+ he-villain
+LOCATION:Royal Court\, Sloane Square\, London
+URL:https://ticketing.timeout.com/london/shows/45671-john-proctor-is-the-vi
+ llain
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -47,80 +47,81 @@ URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:4e491f539d6d@london-events-scraper
+UID:cea3ab6773a4@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:JAPANESE FILM CLUB: LINDA LINDA LINDA
-DESCRIPTION:Screening of Japanese film Linda Linda Linda.\n\nPrice: Check s
- ite\n\nTickets/Info: https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.d
- ll/WhatsOn
-LOCATION:Phoenix Cinema\, East Finchley\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:The Rocky Horror Picture Show 50th Anniversary
+DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
+LOCATION:Dominion Theatre\, West End\, London
+URL:https://www.dominiontheatre.com
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:c7b5691e93b8@london-events-scraper
+UID:1be6300c130c@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
+DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260607
-SUMMARY:Mass
-DESCRIPTION:Play about two couples reconciling after a high school shooting
- .\n\nPrice: Check site\n\nTickets/Info: https://www.hackneyempire.co.uk/ev
- ents/bismil-ki-mehfil
-LOCATION:Donmar Warehouse\, Covent Garden\, London
-URL:https://www.hackneyempire.co.uk/events/bismil-ki-mehfil
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
+ \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
+ -smiles
+LOCATION:Duke of York's Theatre\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1b2d65d891ff@london-events-scraper
+UID:d20d6e749ab3@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260419
+SUMMARY:Black Athena Festival: RONiN
+DESCRIPTION:A dance performance combining swordplay and digital projections
+ .\n\nPrice: £20\n\nTickets/Info: https://todolist.london/unmissable-thing
+ s-to-do-in-london-in-april-2026/
+LOCATION:The Place\, London
+URL:https://todolist.london/unmissable-things-to-do-in-london-in-april-2026
+ /
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:d51daf189899@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260531
+SUMMARY:Adrian Ghenie
+DESCRIPTION:An art exhibition by Adrian Ghenie.\n\nPrice: Check site\n\nTic
+ kets/Info: https://ropac.net/exhibitions/
+LOCATION:Paris Marais\, London
+URL:https://ropac.net/exhibitions/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5ce5c46167@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:OPEN CITY DOCUMENTARY FESTIVAL 2026: SUMMONING THE SILENCED: THE WO
- RK OF TOMIYAMA TAEKO
-DESCRIPTION:Screening of works by Japanese filmmaker Tomiyama Taeko.\n\nPri
- ce: FREE\n\nTickets/Info: https://www.genesiscinema.co.uk/event/101942
-LOCATION:Rich Mix\, Shoreditch\, London
-URL:https://www.genesiscinema.co.uk/event/101942
+SUMMARY:Colours of Time
+DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
+ a/
+LOCATION:Chiswick Cinema\, Chiswick\, London
+URL:https://www.institut-francais.org.uk/cinema/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:3a599c526512@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260619
-SUMMARY:The Music is Black: A British Story
-DESCRIPTION:An exhibition exploring the impact of Black British music on cu
- lture.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.com/londo
- n/things-to-do/things-to-do-in-london-this-week
-LOCATION:Olympic Park\, Olympic Park\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
- -week
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:70771441eb27@london-events-scraper
+UID:867c9e0ea6d2@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260420
-SUMMARY:V&A East Museum opening weekend
-DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
-  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:V&A East Museum\, Olympic Park\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:c4bcdaa2ce36@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:New Work: Making East London
-DESCRIPTION:An exhibition showcasing new work from East London artists.\n\n
- Price: Free\n\nTickets/Info: https://www.vam.ac.uk/whatson
-LOCATION:London
-URL:https://www.vam.ac.uk/whatson
+SUMMARY:London History Festival
+DESCRIPTION:Talks and exhibitions celebrating British history.\n\nPrice: Ap
+ prox £35\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
+ n-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
+LOCATION:Somerset House & Central London venues\, Central London\, London
+URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
+ guide-to-50-major-events-sports-attractions/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
