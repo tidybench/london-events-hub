@@ -22,39 +22,15 @@ URL:https://www.skiddle.com/whats-on/London/Crown-Piers/Bollywood-boat-even
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:bb9cf4eb6c91@london-events-scraper
+UID:2aa6b7aa45ff@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:In The Mood For Love
-DESCRIPTION:A classic romantic drama set in 1962 Hong Kong.\n\nPrice: Check
-  site\n\nTickets/Info: https://princecharlescinema.com
-LOCATION:Prince Charles Cinema\, Leicester Square\, London
-URL:https://princecharlescinema.com
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:7c579f673d4b@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Scratch Menu at Spring
-DESCRIPTION:Earth Day special menu with overlooked ingredients.\n\nPrice: F
- ree\n\nTickets/Info: https://www.somersethouse.org.uk/whats-on
-LOCATION:Spring\, London\, London
-URL:https://www.somersethouse.org.uk/whats-on
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:df366292e192@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:The Murdér Express Part Deux
-DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
- om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
- /whats-on/best-events-in-april
-LOCATION:Pedley Street Station\, Bethnal Green\, London
+SUMMARY:Alcotraz London
+DESCRIPTION:Immersive prison-themed drinking experience.\n\nPrice: from £3
+ 9.22 - £69.00\n\nTickets/Info: https://www.designmynight.com/london/whats
+ -on/best-events-in-april
+LOCATION:Alcotraz Penitentiary: London\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
@@ -73,55 +49,82 @@ URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:fc91bebeda7f@london-events-scraper
+UID:a6d2baeabc72@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Nicola Benedetti Plays Elgar
-DESCRIPTION:A performance of Elgar’s Violin Concerto.\n\nPrice: Free\n\nT
- ickets/Info: https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn
-LOCATION:Royal Festival Hall\, Southbank\, London
-URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Eric Lu in Recital
+DESCRIPTION:Piano recital by Chopin Competition winner.\n\nPrice: From £20
+ \n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/eric-lu-
+ in-recital
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/eric-lu-in-recital
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e239c053b118@london-events-scraper
+UID:b7a987c4aa99@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Tony Ann
-DESCRIPTION:A one-off concert of contemporary piano music.\n\nPrice: Free\n
- \nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-l
- ondon-this-weekend-18-19-april-2026
-LOCATION:Theatre Royal Drury Lane\, Covent Garden\, London
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Pour Choices Wine Fair
+DESCRIPTION:A showcase of low-intervention wines with tastings and talks.\n
+ \nPrice: Included in ticket\n\nTickets/Info: https://www.cntraveller.com/g
+ allery/things-to-do-in-london-this-weekend
+LOCATION:Hackney Bridge\, Hackney\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:0b3aca20106e@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:The West End Tenors
+DESCRIPTION:A vocal performance by West End stars.\n\nPrice: Free\n\nTicket
+ s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
+ is-weekend-18-19-april-2026
+LOCATION:Greenwich Theatre\, Greenwich\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ekend-18-19-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:48d1498d7407@london-events-scraper
+UID:fc91bebeda7f@london-events-scraper
 DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Film Tour: Wigs\, Weddings\, Powder and Palaces
-DESCRIPTION:Tour of period drama filming locations.\n\nPrice: Check site\n\
- nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Nicola Benedetti Plays Elgar
+DESCRIPTION:A classical concert featuring Elgar's Violin Concerto.\n\nPrice
+ : Free\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to
+ -do-in-london-this-weekend-18-19-april-2026
+LOCATION:Royal Festival Hall\, Southbank\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ekend-18-19-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:0b80506ae739@london-events-scraper
+UID:955780a007a1@london-events-scraper
 DTSTAMP:20260418T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:The Music of The Lord of The Rings
-DESCRIPTION:Concert featuring music from The Lord of the Rings films.\n\nPr
- ice: £29\n\nTickets/Info: https://www.hackneyempire.co.uk/events/the-musi
- c-of-the-lord-of-the-rings
-LOCATION:London
-URL:https://www.hackneyempire.co.uk/events/the-music-of-the-lord-of-the-rin
- gs
+SUMMARY:Throw It Back Bottomless Brunch
+DESCRIPTION:R&B-themed brunch with unlimited drinks.\n\nPrice: Check site\n
+ \nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://www.boxpark.co.uk/venues/shoreditch/events
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:bebd1a7f0c9d@london-events-scraper
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:King Rastafari Son Presents Ruben Affair
+DESCRIPTION:Roots\, culture\, dancehall\, and revival music night.\n\nPrice
+ : £5 Early Bird / £7 Standard / £10 On The Door\n\nTickets/Info: https:
+ //www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
