@@ -47,30 +47,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>In The Mood For Love</name>
-      <description><![CDATA[<b>In The Mood For Love</b><br><i>Theatre</i><br>Sat 18th Apr<br>Prince Charles Cinema, Leicester Square<br>Check site<br><br>A classic romantic drama set in 1962 Hong Kong.<br><br><a href="https://princecharlescinema.com">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1304091,51.5109335,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Scratch Menu at Spring</name>
-      <description><![CDATA[<b>Scratch Menu at Spring</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>Spring, London<br>Free<br><br>Earth Day special menu with overlooked ingredients.<br><br><a href="https://www.somersethouse.org.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Murdér Express Part Deux</name>
-      <description><![CDATA[<b>The Murdér Express Part Deux</b><br><i>Nightlife</i><br>Sat 18th Apr<br>Pedley Street Station, Bethnal Green<br>from £92.90 - £99.50<br><br>Immersive murder mystery with a three-course meal.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0651926,51.5232152,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Les Liaisons Dangereuses</name>
       <description><![CDATA[<b>Les Liaisons Dangereuses</b><br><i>Theatre</i><br>Sun 19th Apr – Sat 6th Jun<br>South Bank, South Bank<br>Check site<br><br>A production of the classic play starring Lesley Manville and Aidan Turner.<br><br><a href="https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereuses">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -79,91 +55,91 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Eric Lu in Recital</name>
+      <description><![CDATA[<b>Eric Lu in Recital</b><br><i>Music</i><br>Sat 18th Apr<br>Barbican Centre, Barbican<br>From £20<br><br>Piano recital by Chopin Competition winner.<br><br><a href="https://www.barbican.org.uk/whats-on/2026/event/eric-lu-in-recital">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pour Choices Wine Fair</name>
+      <description><![CDATA[<b>Pour Choices Wine Fair</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>Hackney Bridge, Hackney<br>Included in ticket<br><br>A showcase of low-intervention wines with tastings and talks.<br><br><a href="https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0212585,51.5442999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The West End Tenors</name>
+      <description><![CDATA[<b>The West End Tenors</b><br><i>Music</i><br>Sat 18th Apr<br>Greenwich Theatre, Greenwich<br>Free<br><br>A vocal performance by West End stars.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0076367053460169665,51.47945155,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Nicola Benedetti Plays Elgar</name>
-      <description><![CDATA[<b>Nicola Benedetti Plays Elgar</b><br><i>Music</i><br>Sun 19th Apr<br>Royal Festival Hall, Southbank<br>Free<br><br>A performance of Elgar’s Violin Concerto.<br><br><a href="https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Nicola Benedetti Plays Elgar</b><br><i>Music</i><br>Sun 19th Apr<br>Royal Festival Hall, Southbank<br>Free<br><br>A classical concert featuring Elgar's Violin Concerto.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.11678697153062867,51.5057791,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Tony Ann</name>
-      <description><![CDATA[<b>Tony Ann</b><br><i>Music</i><br>Sun 19th Apr<br>Theatre Royal Drury Lane, Covent Garden<br>Free<br><br>A one-off concert of contemporary piano music.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Throw It Back Bottomless Brunch</name>
+      <description><![CDATA[<b>Throw It Back Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>BOXPARK Shoreditch, Shoreditch<br>Check site<br><br>R&amp;B-themed brunch with unlimited drinks.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0706571,51.5174584,0</coordinates>
+        <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Film Tour: Wigs, Weddings, Powder and Palaces</name>
-      <description><![CDATA[<b>Film Tour: Wigs, Weddings, Powder and Palaces</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Tour of period drama filming locations.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
+      <name>King Rastafari Son Presents Ruben Affair</name>
+      <description><![CDATA[<b>King Rastafari Son Presents Ruben Affair</b><br><i>Music</i><br>Sat 18th Apr<br>Vortex Jazz Club, London<br>£5 Early Bird / £7 Standard / £10 On The Door<br><br>Roots, culture, dancehall, and revival music night.<br><br><a href="https://www.vortexjazz.co.uk/events/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.07665,51.548794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St George's Day at Trafalgar Square</name>
+      <description><![CDATA[<b>St George's Day at Trafalgar Square</b><br><i>Cultural</i><br>Sun 19th Apr<br>Trafalgar Square, Trafalgar Square<br>Free<br><br>Celebrate English culture with live music, dance, and performances.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0020049,51.4832415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tudor Takeover</name>
+      <description><![CDATA[<b>Tudor Takeover</b><br><i>Cultural</i><br>Sun 19th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>A historical reenactment of Tudor England.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.006268,51.484071,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Comedy Store Players</name>
-      <description><![CDATA[<b>The Comedy Store Players</b><br><i>Comedy</i><br>Sun 19th Apr<br>The Comedy Store, London<br>Check site<br><br>Improv comedy show at The Comedy Store.<br><br><a href="https://london.thecomedystore.co.uk/event/the-comedy-store-players">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1322569,51.5101213,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Black Athena Festival: RONiN</name>
-      <description><![CDATA[<b>Black Athena Festival: RONiN</b><br><i>Theatre</i><br>Fri 17th Apr – Sat 18th Apr<br>The Place, Euston<br>£20<br><br>A dance performance combining swordplay and digital projections.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-april-2026/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1250544,51.5302669,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sony World Photography Awards Exhibition</name>
-      <description><![CDATA[<b>Sony World Photography Awards Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 17th Apr – Mon 4th May<br>Somerset House, Strand<br>Free<br><br>An exhibition of award-winning photography.<br><br><a href="https://www.somersethouse.org.uk/whats-on">More info / tickets</a>]]></description>
+      <name>Roundhouse Three Sixty</name>
+      <description><![CDATA[<b>Roundhouse Three Sixty</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Wed 29th Apr<br>Roundhouse, Chalk Farm<br>Check site<br><br>A spring arts festival featuring live music, visual arts, spoken word, and club nights.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+        <coordinates>-0.1519761,51.5432505,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Antonia: Behind the Myth of Marie Antoinette</name>
-      <description><![CDATA[<b>Antonia: Behind the Myth of Marie Antoinette</b><br><i>Theatre</i><br>Sat 18th Apr<br>Chiswick House &amp; Gardens, Chiswick<br>Check site<br><br>Performance exploring the life of Marie Antoinette.<br><br><a href="https://chiswickhouseandgardens.org.uk/event/liberata_collective/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.246992,51.495397,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>JAPANESE FILM CLUB: LINDA LINDA LINDA</name>
-      <description><![CDATA[<b>JAPANESE FILM CLUB: LINDA LINDA LINDA</b><br><i>Cultural</i><br>Sat 18th Apr<br>Phoenix Cinema, East Finchley<br>Check site<br><br>Screening of Japanese film Linda Linda Linda.<br><br><a href="https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn">More info / tickets</a>]]></description>
+      <name>Concrete and Clay: Archiving the Barbican</name>
+      <description><![CDATA[<b>Concrete and Clay: Archiving the Barbican</b><br><i>Arts &amp; Culture</i><br>Sun 19th Apr<br>Barbican Centre, Tours &amp; Public Spaces, Art &amp; Design<br>Free<br><br>Free installation exploring the Barbican's history.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1637085,51.5885079,0</coordinates>
+        <coordinates>-0.0938978,51.5198645,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Mass</name>
-      <description><![CDATA[<b>Mass</b><br><i>Theatre</i><br>Sat 18th Apr – Sat 6th Jun<br>Donmar Warehouse, Covent Garden<br>Check site<br><br>Play about two couples reconciling after a high school shooting.<br><br><a href="https://www.hackneyempire.co.uk/events/bismil-ki-mehfil">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>Form Presents: H Hunt, Tara Cunningham</name>
+      <description><![CDATA[<b>Form Presents: H Hunt, Tara Cunningham</b><br><i>Music</i><br>Sun 19th Apr<br>Vortex Jazz Club, London<br>£20<br><br>Live music event presented by NTS &amp; FORM.<br><br><a href="https://www.vortexjazz.co.uk/events/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.122534,51.51251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>OPEN CITY DOCUMENTARY FESTIVAL 2026: SUMMONING THE SILENCED: THE WORK OF TOMIYAMA TAEKO</name>
-      <description><![CDATA[<b>OPEN CITY DOCUMENTARY FESTIVAL 2026: SUMMONING THE SILENCED: THE WORK OF TOMIYAMA TAEKO</b><br><i>Cultural</i><br>Sat 18th Apr<br>Rich Mix, Shoreditch<br>FREE<br><br>Screening of works by Japanese filmmaker Tomiyama Taeko.<br><br><a href="https://www.genesiscinema.co.uk/event/101942">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.07321,51.524433,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Music is Black: A British Story</name>
-      <description><![CDATA[<b>The Music is Black: A British Story</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Thu 18th Jun<br>Olympic Park, Olympic Park<br>Check site<br><br>An exhibition exploring the impact of Black British music on culture.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.01665,51.53862,0</coordinates>
+        <coordinates>-0.07665,51.548794,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -175,8 +151,72 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dimitri from Paris (All Night Long)</name>
-      <description><![CDATA[<b>Dimitri from Paris (All Night Long)</b><br><i>Music</i><br>Sat 18th Apr<br>KOKO, Camden<br>Check site<br><br>Disco legend's all-night performance.<br><br><a href="https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef">More info / tickets</a>]]></description>
+      <name>John Proctor Is the Villain</name>
+      <description><![CDATA[<b>John Proctor Is the Villain</b><br><i>Theatre</i><br>Fri 20th Mar – Sat 25th Apr<br>Royal Court, Sloane Square<br>Check site<br><br>A play about girlhood and power.<br><br><a href="https://ticketing.timeout.com/london/shows/45671-john-proctor-is-the-villain">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.072554,51.509244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Antonia: Behind the Myth of Marie Antoinette</name>
+      <description><![CDATA[<b>Antonia: Behind the Myth of Marie Antoinette</b><br><i>Theatre</i><br>Sat 18th Apr<br>Chiswick House &amp; Gardens, Chiswick<br>Check site<br><br>Performance exploring the life of Marie Antoinette.<br><br><a href="https://chiswickhouseandgardens.org.uk/event/liberata_collective/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.246992,51.495397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Rocky Horror Picture Show 50th Anniversary</name>
+      <description><![CDATA[<b>The Rocky Horror Picture Show 50th Anniversary</b><br><i>Music</i><br>Sun 19th Apr<br>Dominion Theatre, West End<br>Check site<br><br>A special performance celebrating the cult classic film.<br><br><a href="https://www.dominiontheatre.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teeth 'n' Smiles</name>
+      <description><![CDATA[<b>Teeth 'n' Smiles</b><br><i>Theatre</i><br>Fri 13th Mar – Sat 6th Jun<br>Duke of York's Theatre, West End<br>from £30<br><br>A theatre production at the Duke of York's.<br><br><a href="https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adrian Ghenie</name>
+      <description><![CDATA[<b>Adrian Ghenie</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sat 30th May<br>Paris Marais<br>Check site<br><br>An art exhibition by Adrian Ghenie.<br><br><a href="https://ropac.net/exhibitions/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1321331,51.5106093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colours of Time</name>
+      <description><![CDATA[<b>Colours of Time</b><br><i>Theatre</i><br>Sat 18th Apr<br>Chiswick Cinema, Chiswick<br>Check site<br><br>French drama exploring family legacy across generations.<br><br><a href="https://www.institut-francais.org.uk/cinema/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.251007,51.4930902,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London History Festival</name>
+      <description><![CDATA[<b>London History Festival</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sun 19th Apr<br>Somerset House &amp; Central London venues, Central London<br>Approx £35<br><br>Talks and exhibitions celebrating British history.<br><br><a href="https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-guide-to-50-major-events-sports-attractions/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.124726,51.499386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZMARI BET: HABESHA EASTER PARTY!</name>
+      <description><![CDATA[<b>AZMARI BET: HABESHA EASTER PARTY!</b><br><i>Festival</i><br>Sat 18th Apr<br>Rich Mix, Shoreditch<br>FREE<br><br>Easter celebration with Ethiopian music and dance.<br><br><a href="https://richmix.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.07321,51.524433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dimitri from Paris</name>
+      <description><![CDATA[<b>Dimitri from Paris</b><br><i>Nightlife</i><br>Sat 18th Apr<br>KOKO, Camden<br>Check site<br><br>A rare all-night disco session with the legendary DJ.<br><br><a href="https://koko.co.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1624803,51.5427966,0</coordinates>
@@ -191,11 +231,19 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Mamma Mia! ABBA Afterparty</name>
-      <description><![CDATA[<b>Mamma Mia! ABBA Afterparty</b><br><i>Nightlife</i><br>Sat 18th Apr<br>Snoozebox Olympic Park, Stratford<br>Free<br><br>An ABBA-themed dance party.<br><br><a href="https://www.designmynight.com/london/free-things-to-do-london-this-weekend">More info / tickets</a>]]></description>
+      <name>Saturday Sessions</name>
+      <description><![CDATA[<b>Saturday Sessions</b><br><i>Nightlife</i><br>Sat 18th Apr<br>BOXPARK Shoreditch, Shoreditch<br>Check site<br><br>Weekend party with music and drinks.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/saturday-sessions">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.013763535952204406,51.5348968,0</coordinates>
+        <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1996: A Celebration of Cool Britannia</name>
+      <description><![CDATA[<b>1996: A Celebration of Cool Britannia</b><br><i>Cultural</i><br>Sat 18th Apr<br>Barbican Centre, Tours &amp; Public Spaces<br>Free<br><br>Relive the 90s with music, fashion, and football.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0938978,51.5198645,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -207,43 +255,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>AZMARI BET: HABESHA EASTER PARTY!</name>
-      <description><![CDATA[<b>AZMARI BET: HABESHA EASTER PARTY!</b><br><i>Festival</i><br>Sat 18th Apr<br>Rich Mix, Shoreditch<br>FREE<br><br>Easter celebration with Ethiopian music and dance.<br><br><a href="https://richmix.org.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.07321,51.524433,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>King Rastafari Son Presents Ruben Affair – Earthstrong Celebration!</name>
-      <description><![CDATA[<b>King Rastafari Son Presents Ruben Affair – Earthstrong Celebration!</b><br><i>Music</i><br>Sat 18th Apr<br>Vortex Jazz Club, London<br>£5<br><br>Roots and reggae music celebration.<br><br><a href="https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-affair-earthstrong-celebration/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.07665,51.548794,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Saturday Night Comedy</name>
-      <description><![CDATA[<b>Saturday Night Comedy</b><br><i>Comedy</i><br>Sat 18th Apr<br>LEICESTER SQUARE, Leicester Square<br>£13.00<br><br>Stand-up comedy show in Leicester Square.<br><br><a href="https://jkcomedyclub.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <name>AMY MATTHEWS: DEFINITIONS OF TOAST (WIP)</name>
+      <description><![CDATA[<b>AMY MATTHEWS: DEFINITIONS OF TOAST (WIP)</b><br><i>Comedy</i><br>Sat 18th Apr<br>The Bill Murray, Islington<br>Check site<br><br>Comedy show by Amy Matthews.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1302749721722639,51.510776565245436,0</coordinates>
+        <coordinates>-0.098819,51.536251,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Siesta - Opening Party</name>
-      <description><![CDATA[<b>Siesta - Opening Party</b><br><i>Nightlife</i><br>Sat 18th Apr<br>E1 London, Whitechapel<br>Check site<br><br>House music opening party event.<br><br><a href="https://e1ldn.co/events/siesta-opening-party">More info / tickets</a>]]></description>
+      <name>Big Fat Cabaret</name>
+      <description><![CDATA[<b>Big Fat Cabaret</b><br><i>Nightlife</i><br>Sat 18th Apr<br>Pleasance Theatre, LONDON<br>Check site<br><br>Cabaret and variety show.<br><br><a href="https://www.pleasance.co.uk/events/location/London">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
+        <coordinates>-0.1213017,51.549184,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Heels &amp; Feels Takeover - International Dance Day Special</name>
-      <description><![CDATA[<b>Heels &amp; Feels Takeover - International Dance Day Special</b><br><i>Nightlife</i><br>Sun 19th Apr<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>Dance event celebrating International Dance Day.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events">More info / tickets</a>]]></description>
+      <name>Butt Toot King</name>
+      <description><![CDATA[<b>Butt Toot King</b><br><i>Music</i><br>Sat 18th Apr<br>Electric Ballroom, Camden<br>From £35<br><br>A live music event at the Electric Ballroom.<br><br><a href="https://electricballroom.co.uk/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
+        <coordinates>-0.142943,51.5397245,0</coordinates>
       </Point>
     </Placemark>
   </Document>
