@@ -34,17 +34,29 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:0b40e554d73f@london-events-scraper
+UID:217f39c62e94@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260426
-SUMMARY:Yoga & Brunch
-DESCRIPTION:Yoga session followed by brunch.\n\nPrice: Check site\n\nTicket
- s/Info: https://www.designmynight.com/london/bars/battersea/joia/yoga-brun
- ch-at-joia-empowered-by-lululemon
-LOCATION:JOIA empowered by lululemon\, Battersea\, London
-URL:https://www.designmynight.com/london/bars/battersea/joia/yoga-brunch-at
- -joia-empowered-by-lululemon
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260601
+SUMMARY:Lynda Benglis - Encounters: Giacometti
+DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
+  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
+ kets/Info: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:5f9880a99fc5@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260511
+SUMMARY:Beatriz González Exhibition
+DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
+  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
+ arbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -84,18 +96,6 @@ URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:342642ccc2e6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260503
-SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
-DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
- ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
-LOCATION:Studio 1\, London\, London
-URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:014b95ae8f97@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260406
@@ -108,17 +108,15 @@ URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:5ec698d6a1e4@london-events-scraper
+UID:14bdc8cab550@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:hannah bahng Live
-DESCRIPTION:Alt-pop singer-songwriter performs her introspective music.\n\n
- Price: Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-e
- vents/things-to-do-in-london-this-week-64229/
-LOCATION:Electric Ballroom\, Camden\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Tom Niblock Big Band
+DESCRIPTION:Jazz performance by Tom Niblock Big Band.\n\nPrice: £17.50\n\n
+ Tickets/Info: https://www.vortexjazz.co.uk/events/2026-04-16/
+LOCATION:Vortex Jazz Club\, London
+URL:https://www.vortexjazz.co.uk/events/2026-04-16/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
