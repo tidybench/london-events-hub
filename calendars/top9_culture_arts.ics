@@ -8,56 +8,16 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:217f39c62e94@london-events-scraper
+UID:806731605438@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260601
-SUMMARY:Lynda Benglis - Encounters: Giacometti
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
- kets/Info: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:b7a773958b57@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260219
-DTEND;VALUE=DATE:20260419
-SUMMARY:Daphne Wright: Expectations
-DESCRIPTION:An exhibition showcasing the works of artist Daphne Wright\, ex
- ploring themes of expectation.\n\nPrice: Free\n\nTickets/Info: https://www
- .frithstreetgallery.com/exhibitions/
-LOCATION:Frith Street Gallery\, Soho\, London
-URL:https://www.frithstreetgallery.com/exhibitions/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5f9880a99fc5@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260511
-SUMMARY:Beatriz González Exhibition
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
- arbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:c4049d99e216@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260430
-SUMMARY:Spotlight: Theatre Conversations
-DESCRIPTION:Discussions about the world of theatre with host Lucy Phelps.\n
- \nPrice: £20\n\nTickets/Info: https://www.nationalgallery.org.uk/events/i
- n-conversation-spotlight-conversations-about-the-world-of-theatre-2026
-LOCATION:The National Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
- versations-about-the-world-of-theatre-2026
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260615
+SUMMARY:Senga Nengudi: Performance Works 1972-1982
+DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
+ 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
+ ry.org/exhibitions/
+LOCATION:Whitechapel Gallery\, Whitechapel\, London
+URL:https://www.whitechapelgallery.org/exhibitions/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -70,6 +30,20 @@ DESCRIPTION:An exhibition examining contemporary landscapes.\n\nPrice: Chec
  k site\n\nTickets/Info: https://www.whitecube.com/exhibitions/london
 LOCATION:Mason’s Yard\, London\, St. James's\, London
 URL:https://www.whitecube.com/exhibitions/london
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4b73eafd31@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:The Elephant Trail
+DESCRIPTION:A free public art trail featuring 21 colourful elephant sculptu
+ res around Battersea Power Station\, with a mobile app to unlock rewards a
+ nd competitions.\n\nPrice: Free\n\nTickets/Info: https://batterseapowersta
+ tion.co.uk/events/elephant-trail/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/elephant-trail/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -99,31 +73,55 @@ URL:https://www.maureenpaley.com/exhibitions
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:806731605438@london-events-scraper
+UID:ee1f72a36dcf@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260615
-SUMMARY:Senga Nengudi: Performance Works 1972-1982
-DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
- 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
- ry.org/exhibitions/
-LOCATION:Whitechapel Gallery\, Whitechapel\, London
-URL:https://www.whitechapelgallery.org/exhibitions/
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260517
+SUMMARY:Heart Wall Play
+DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
+ amily secrets and grief resurface when she returns to her familiar local p
+ ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Bush Theatre\, Shepherd's Bush\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6660f258af9c@london-events-scraper
+UID:480c68bb967c@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260418
-SUMMARY:Bibliomigrancy amongst the Ruins: post-1945 Book Movement
-DESCRIPTION:A conference exploring the cultural heritage of books post-WWII
- .\n\nPrice: £35.0\n\nTickets/Info: https://www.vam.ac.uk/event/rkZrzbDO10
- /bibliomigrancy-conference-april-2026-in-person
-LOCATION:Victoria and Albert Museum South Kensington\, South Kensington\, L
- ondon
-URL:https://www.vam.ac.uk/event/rkZrzbDO10/bibliomigrancy-conference-april-
- 2026-in-person
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:600 Years of History Tour
+DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
+ masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
+ on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e75ea78b6a56@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260415
+SUMMARY:Architecture Tours
+DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
+ 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Barbican Arts Centre\, Barbican\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb877b3c2bd@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260420
+SUMMARY:Cornwallis Cloth Exhibition
+DESCRIPTION:A film installation about British Caribbean lives during WWII.\
+ n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
