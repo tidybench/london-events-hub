@@ -8,123 +8,114 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:033f88333087@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
+UID:2b45fe3d6728@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260420
-SUMMARY:Bollywood Boat Event
-DESCRIPTION:Bollywood-themed party on a Thames river cruise.\n\nPrice: £20
- .00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Crown-Piers/B
- ollywood-boat-event/42258134/
-LOCATION:Crown Piers\, London\, London
-URL:https://www.skiddle.com/whats-on/London/Crown-Piers/Bollywood-boat-even
- t/42258134/
+SUMMARY:Chicken Ruby Pie
+DESCRIPTION:Special dish at Dishoom restaurant.\n\nPrice: Check site\n\nTic
+ kets/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2aa6b7aa45ff@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Alcotraz London
-DESCRIPTION:Immersive prison-themed drinking experience.\n\nPrice: from £3
- 9.22 - £69.00\n\nTickets/Info: https://www.designmynight.com/london/whats
- -on/best-events-in-april
-LOCATION:Alcotraz Penitentiary: London\, London
+UID:707581f87796@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:Complimentary Maki
+DESCRIPTION:Free maki rolls at Sticks n Sushi.\n\nPrice: Free\n\nTickets/In
+ fo: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:e160b1fa69c6@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:Sakura at Sticks n Sushi
+DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
+ ets/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:342642ccc2e6@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260503
+SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
+DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
+ ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
+LOCATION:Studio 1\, London\, London
+URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:014b95ae8f97@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260420
+SUMMARY:Cinnamon Kitchen Menu
+DESCRIPTION:Special menu at Cinnamon Kitchen.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:9d309be92198@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Alcotraz London: Cell Block Two-One-Two
+DESCRIPTION:Immersive cocktail experience with a prison theme.\n\nPrice: fr
+ om £39.22 - £69.00\n\nTickets/Info: https://www.designmynight.com/london
+ /whats-on/best-events-in-april
+LOCATION:Alcotraz Penitentiary: London\, Shoreditch\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:c85eb65bd396@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260607
-SUMMARY:Les Liaisons Dangereuses
-DESCRIPTION:A production of the classic play starring Lesley Manville and A
- idan Turner.\n\nPrice: Check site\n\nTickets/Info: https://ticketing.timeo
- ut.com/london/shows/45580-les-liaisons-dangereuses
-LOCATION:South Bank\, South Bank\, London
-URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
- es
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:a6d2baeabc72@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Eric Lu in Recital
-DESCRIPTION:Piano recital by Chopin Competition winner.\n\nPrice: From £20
- \n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/eric-lu-
- in-recital
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/eric-lu-in-recital
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:b7a987c4aa99@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Pour Choices Wine Fair
-DESCRIPTION:A showcase of low-intervention wines with tastings and talks.\n
- \nPrice: Included in ticket\n\nTickets/Info: https://www.cntraveller.com/g
- allery/things-to-do-in-london-this-weekend
-LOCATION:Hackney Bridge\, Hackney\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:0b3aca20106e@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:The West End Tenors
-DESCRIPTION:A vocal performance by West End stars.\n\nPrice: Free\n\nTicket
- s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
- is-weekend-18-19-april-2026
-LOCATION:Greenwich Theatre\, Greenwich\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:fc91bebeda7f@london-events-scraper
-DTSTAMP:20260418T000000Z
+UID:fa997f97bed8@london-events-scraper
+DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:Nicola Benedetti Plays Elgar
-DESCRIPTION:A classical concert featuring Elgar's Violin Concerto.\n\nPrice
- : Free\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to
- -do-in-london-this-weekend-18-19-april-2026
-LOCATION:Royal Festival Hall\, Southbank\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:955780a007a1@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Throw It Back Bottomless Brunch
-DESCRIPTION:R&B-themed brunch with unlimited drinks.\n\nPrice: Check site\n
- \nTickets/Info: https://www.boxpark.co.uk/venues/shoreditch/events
+SUMMARY:Heels & Feels Dance Takeover
+DESCRIPTION:Celebrate International Dance Day with a lively dance event.\n\
+ nPrice: TICKETS\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoredit
+ ch/events/heels-and-feels-takeover-international-dance-day-special
 LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
-URL:https://www.boxpark.co.uk/venues/shoreditch/events
+URL:https://www.boxpark.co.uk/venues/shoreditch/events/heels-and-feels-take
+ over-international-dance-day-special
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:bebd1a7f0c9d@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:King Rastafari Son Presents Ruben Affair
-DESCRIPTION:Roots\, culture\, dancehall\, and revival music night.\n\nPrice
- : £5 Early Bird / £7 Standard / £10 On The Door\n\nTickets/Info: https:
- //www.vortexjazz.co.uk/events/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/events/
+UID:cea3ab6773a4@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:The Rocky Horror Picture Show 50th Anniversary
+DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
+LOCATION:Dominion Theatre\, West End\, London
+URL:https://www.dominiontheatre.com
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:b2af738901cb@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:London Games Festival
+DESCRIPTION:Multi-day celebration of video games\, art\, and culture.\n\nPr
+ ice: Free\n\nTickets/Info: https://londoncheapo.com/events/
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://londoncheapo.com/events/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
