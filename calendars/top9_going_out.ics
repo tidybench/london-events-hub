@@ -8,35 +8,6 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:59dbf2d119f9@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260428
-SUMMARY:Elixir Festival
-DESCRIPTION:A festival reshaping perceptions around dancing and age.\n\nPri
- ce: Free (some events ticketed)\n\nTickets/Info: https://londonistcitykeys
- .substack.com/p/free-things-to-do-in-london-this-week-6-12-april-2026
-LOCATION:Sadler’s Wells East\, Stratford\, London
-URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
- is-week-6-12-april-2026
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:69ced1fe23ab@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:King Rastafari Son Presents Ruben Affair – Earthstrong Celebratio
- n!
-DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
- fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
- ffair-earthstrong-celebration/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
- fair-earthstrong-celebration/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:9a60da252232@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260418
@@ -50,27 +21,64 @@ URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:76d0717135cd@london-events-scraper
+UID:feb95888723a@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Siesta - Opening Party
-DESCRIPTION:House music opening party event.\n\nPrice: Check site\n\nTicket
- s/Info: https://e1ldn.co/events/siesta-opening-party
+SUMMARY:AWEN
+DESCRIPTION:An afro house and tech house music event.\n\nPrice: Check site\
+ n\nTickets/Info: https://e1ldn.co/events/2026-04-18-awen
 LOCATION:E1 London\, Whitechapel\, London
-URL:https://e1ldn.co/events/siesta-opening-party
+URL:https://e1ldn.co/events/2026-04-18-awen
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
+UID:5fe2af9a0e93@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:RNB MANIA
+DESCRIPTION:R&B music event.\n\nPrice: Check site\n\nTickets/Info: https://
+ www.xoyo.co.uk/events/rnb-mania
+LOCATION:London
+URL:https://www.xoyo.co.uk/events/rnb-mania
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:5b792f27cf68@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:wAFF\, Yousef\, AJ Christou & Evie
+DESCRIPTION:Electronic music event with multiple DJs.\n\nPrice: Check site\
+ n\nTickets/Info: https://www.xoyo.co.uk/events/aj-christou-evie-waff-youse
+ f
+LOCATION:London
+URL:https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:1336396c2c21@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
+SUMMARY:Form Presents: H Hunt\, Tara Cunningham
+DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
+ kets/Info: https://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/events/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:cea3ab6773a4@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:The Rocky Horror Picture Show 50th Anniversary
+DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
+LOCATION:Dominion Theatre\, West End\, London
+URL:https://www.dominiontheatre.com
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -88,43 +96,31 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:03f262069c12@london-events-scraper
+UID:2783e89cdd15@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Haseeb Iqbal Presents: Beats and Boards
-DESCRIPTION:DJ\, games\, and music night with global board games.\n\nPrice:
-  Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/has
- eeb-iqbal-presents-beats-and-boards
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/haseeb-iqbal-presents-b
- eats-and-boards
+DTEND;VALUE=DATE:20260419
+SUMMARY:Banana Cabaret
+DESCRIPTION:Comedy club night with stand-up performances.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://www.eventbrite.co.uk/e/banana-cabaret-170426-
+ tickets-1981744994626
+LOCATION:The Bedford\, London\, London
+URL:https://www.eventbrite.co.uk/e/banana-cabaret-170426-tickets-1981744994
+ 626
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:23bfb30ef59d@london-events-scraper
+UID:60e85649eba2@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:James: Love Is The Answer UK Arena Tour
-DESCRIPTION:Live performance by the band James.\n\nPrice: Free\n\nTickets/I
- nfo: https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lo
- ndon-this-week-64229/
-LOCATION:O2 Arena\, North Greenwich\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:0686ed1d91e2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:OPEN CITY DOCUMENTARY FESTIVAL 2026: FESTIVAL PARTY
-DESCRIPTION:Celebration with music and networking.\n\nPrice: FREE\n\nTicket
- s/Info: https://richmix.org.uk/whats-on
-LOCATION:Rich Mix\, Shoreditch\, London
-URL:https://richmix.org.uk/whats-on
+SUMMARY:Bloodsucking Comedy
+DESCRIPTION:Late-night vampiric comedy show.\n\nPrice: Check site\n\nTicket
+ s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
+ is-week-eb9
+LOCATION:The Bill Murray\, Shoreditch\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-eb9
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
