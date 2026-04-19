@@ -34,6 +34,19 @@ URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:b7a773958b57@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260419
+SUMMARY:Daphne Wright: Expectations
+DESCRIPTION:An exhibition showcasing the works of artist Daphne Wright\, ex
+ ploring themes of expectation.\n\nPrice: Free\n\nTickets/Info: https://www
+ .frithstreetgallery.com/exhibitions/
+LOCATION:Frith Street Gallery\, Soho\, London
+URL:https://www.frithstreetgallery.com/exhibitions/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:5f9880a99fc5@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260225
@@ -47,28 +60,54 @@ URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:5323c9f711f5@london-events-scraper
+UID:264b79494e5c@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260503
-SUMMARY:Copenhagen
-DESCRIPTION:A play exploring the mysterious 1941 meeting between physicists
-  Niels Bohr and Werner Heisenberg in Copenhagen.\n\nPrice: Check site\n\nT
- ickets/Info: https://www.hampsteadtheatre.com/whats-on/all-shows/
-LOCATION:Hampstead Theatre\, Hampstead\, London
-URL:https://www.hampsteadtheatre.com/whats-on/all-shows/
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260510
+SUMMARY:Sarah Morris: Snow Leopards and Skyscrapers
+DESCRIPTION:An exhibition examining contemporary landscapes.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.whitecube.com/exhibitions/london
+LOCATION:Mason’s Yard\, London\, St. James's\, London
+URL:https://www.whitecube.com/exhibitions/london
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:e268dd1a2b31@london-events-scraper
+UID:1be6300c130c@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260331
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
+ \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
+ -smiles
+LOCATION:Duke of York's Theatre\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1666c85c65c1@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260419
+SUMMARY:Vincent in Brixton
+DESCRIPTION:A play by Nicholas Wright\, directed by Georgia Green\, present
+ ed at the Orange Tree Theatre.\n\nPrice: Check site\n\nTickets/Info: https
+ ://orangetreetheatre.co.uk/whats-on/
+LOCATION:Orange Tree Theatre\, Richmond\, London
+URL:https://orangetreetheatre.co.uk/whats-on/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9f77d1ca546f@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260524
-SUMMARY:A Doll's House
-DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
-  site\n\nTickets/Info: https://almeida.co.uk/whats-on
-LOCATION:Almeida Theatre\, Islington\, London
-URL:https://almeida.co.uk/whats-on
+SUMMARY:Michaela Eichwald
+DESCRIPTION:An exhibition showcasing the distinctive works of contemporary 
+ artist Michaela Eichwald.\n\nPrice: Free\n\nTickets/Info: https://www.maur
+ eenpaley.com/exhibitions
+LOCATION:Maureen Paley\, Bethnal Green\, London
+URL:https://www.maureenpaley.com/exhibitions
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -82,46 +121,6 @@ DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from
  ry.org/exhibitions/
 LOCATION:Whitechapel Gallery\, Whitechapel\, London
 URL:https://www.whitechapelgallery.org/exhibitions/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6e07b114c206@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Father Mother Sister Brother
-DESCRIPTION:Jim Jarmusch film starring Cate Blanchett and Adam Driver.\n\nP
- rice: £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event
- /members-screening-father-mother-sister-brother
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/members-screening-fathe
- r-mother-sister-brother
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:54aa0e8c7df3@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Members' Sunday Film Club: Jean Cocteau
-DESCRIPTION:Film screening and Q&A with director Lisa Immordino Vreeland.\n
- \nPrice: £15.0\n\nTickets/Info: https://www.vam.ac.uk/event/VLOLAW3z6X/fi
- lm-screening-jean-cocteau
-LOCATION:Victoria and Albert Museum South Kensington\, South Kensington\, L
- ondon
-URL:https://www.vam.ac.uk/event/VLOLAW3z6X/film-screening-jean-cocteau
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:2a96842b7cc7@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Silent Film & Live Music: My Grandmother
-DESCRIPTION:A Soviet-era satire with live music accompaniment.\n\nPrice: Fr
- ee\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Cinema\, London
-URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
