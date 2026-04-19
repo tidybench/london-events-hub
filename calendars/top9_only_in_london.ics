@@ -8,115 +8,119 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:e75ea78b6a56@london-events-scraper
+UID:978610ded9f8@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
+DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
-SUMMARY:Architecture Tours
-DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
- 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Barbican Arts Centre\, Barbican\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+SUMMARY:Secret Dome Tour
+DESCRIPTION:Explore the Old Royal Naval College's dome and enjoy panoramic 
+ London views.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats
+ -on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:52f9503a4296@london-events-scraper
+UID:a4a72217e770@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:V&A East Museum opening weekend
-DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
-  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:V&A East Museum\, Olympic Park\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:St George's Day 2026
+DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.london.gov.uk/events
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://www.london.gov.uk/events
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:480c68bb967c@london-events-scraper
+UID:e268dd1a2b31@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260524
+SUMMARY:A Doll's House
+DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
+  site\n\nTickets/Info: https://almeida.co.uk/whats-on
+LOCATION:Almeida Theatre\, Islington\, London
+URL:https://almeida.co.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:12bbb2a289c7@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260524
+SUMMARY:Liza Lou
+DESCRIPTION:An exhibition of Liza Lou's artwork.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://ropac.net/exhibitions/
+LOCATION:Ely House\, London\, Mayfair\, London
+URL:https://ropac.net/exhibitions/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:e3bc662b4183@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:600 Years of History Tour
-DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
- masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
- on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTEND;VALUE=DATE:20260503
+SUMMARY:Orders of Magnitude by Sholto Blissett
+DESCRIPTION:Exhibition of fictional landscapes by Sholto Blissett.\n\nPrice
+ : Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events
+ /things-to-do-in-london-this-week-64229/
+LOCATION:Pilar Corrias Gallery\, Mayfair\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6cb877b3c2bd@london-events-scraper
+UID:6b198179158a@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260420
-SUMMARY:Cornwallis Cloth Exhibition
-DESCRIPTION:A film installation about British Caribbean lives during WWII.\
- n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260524
+SUMMARY:Paula Rego: Story Line
+DESCRIPTION:An exhibition of Paula Rego's drawings.\n\nPrice: Check site\n\
+ nTickets/Info: https://www.victoria-miro.com/exhibitions/
+LOCATION:London Gallery I\, London Gallery II\, London\, London
+URL:https://www.victoria-miro.com/exhibitions/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:74048a3cab6f@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Film Tour: Wigs\, Weddings\, Powder and Palaces
-DESCRIPTION:Explore the UK's most filmed heritage site and its role in peri
- od dramas.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on
- /
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:78c3fc350f64@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Painted Hall Talks
-DESCRIPTION:Expert guides introduce the characters on the Painted Hall ceil
- ing.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:3ef87e7094a4@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Secret Dome Tour
-DESCRIPTION:Explore the dome and wartime history of Greenwich.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:215cec37d6a2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260420
-SUMMARY:Women at War Display
-DESCRIPTION:Documents and artefacts of Wrens who trained at the Royal Naval
-  College.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:89c7ce641407@london-events-scraper
+UID:46dde08a2d1c@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Victorian High Life and Low Life
-DESCRIPTION:A walking tour exploring the contrast between wealth and povert
- y in Victorian times.\n\nPrice: Free\n\nTickets/Info: https://londonistlis
- tings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026
-LOCATION:Florence Nightingale Museum\, South Bank\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
+SUMMARY:Antonia: Behind the Myth of Marie Antoinette
+DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
+ heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
+ berata_collective/
+LOCATION:Chiswick House & Gardens\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5ce5c46167@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Colours of Time
+DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
+ a/
+LOCATION:Chiswick Cinema\, Chiswick\, London
+URL:https://www.institut-francais.org.uk/cinema/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:69ced1fe23ab@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:King Rastafari Son Presents Ruben Affair – Earthstrong Celebratio
+ n!
+DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
+ fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
+ ffair-earthstrong-celebration/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
+ fair-earthstrong-celebration/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
