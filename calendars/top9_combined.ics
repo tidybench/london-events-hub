@@ -34,17 +34,29 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:0b40e554d73f@london-events-scraper
+UID:217f39c62e94@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260426
-SUMMARY:Date Night · Yoga & Brunch
-DESCRIPTION:Yoga session followed by brunch.\n\nPrice: Check site\n\nTicket
- s/Info: https://www.designmynight.com/london/bars/battersea/joia/yoga-brun
- ch-at-joia-empowered-by-lululemon
-LOCATION:JOIA empowered by lululemon\, Battersea\, London
-URL:https://www.designmynight.com/london/bars/battersea/joia/yoga-brunch-at
- -joia-empowered-by-lululemon
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260601
+SUMMARY:Date Night · Lynda Benglis - Encounters: Giacometti
+DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
+  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
+ kets/Info: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:5f9880a99fc5@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260511
+SUMMARY:Date Night · Beatriz González Exhibition
+DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
+  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
+ arbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -84,18 +96,6 @@ URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:342642ccc2e6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260503
-SUMMARY:Date Night · Ken Ludwig's Dear Jack\, Dear Louise
-DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
- ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
-LOCATION:Studio 1\, London\, London
-URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:014b95ae8f97@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260406
@@ -108,182 +108,144 @@ URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:5ec698d6a1e4@london-events-scraper
+UID:14bdc8cab550@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:Date Night · hannah bahng Live
-DESCRIPTION:Alt-pop singer-songwriter performs her introspective music.\n\n
- Price: Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-e
- vents/things-to-do-in-london-this-week-64229/
-LOCATION:Electric Ballroom\, Camden\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Date Night · Tom Niblock Big Band
+DESCRIPTION:Jazz performance by Tom Niblock Big Band.\n\nPrice: £17.50\n\n
+ Tickets/Info: https://www.vortexjazz.co.uk/events/2026-04-16/
+LOCATION:Vortex Jazz Club\, London
+URL:https://www.vortexjazz.co.uk/events/2026-04-16/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e75ea78b6a56@london-events-scraper
+UID:978610ded9f8@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
+DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
-SUMMARY:Only in London · Architecture Tours
-DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
- 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Barbican Arts Centre\, Barbican\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+SUMMARY:Only in London · Secret Dome Tour
+DESCRIPTION:Explore the Old Royal Naval College's dome and enjoy panoramic 
+ London views.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats
+ -on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:52f9503a4296@london-events-scraper
+UID:a4a72217e770@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:Only in London · V&A East Museum opening weekend
-DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
-  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:V&A East Museum\, Olympic Park\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:Only in London · St George's Day 2026
+DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.london.gov.uk/events
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://www.london.gov.uk/events
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:480c68bb967c@london-events-scraper
+UID:e268dd1a2b31@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260524
+SUMMARY:Only in London · A Doll's House
+DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
+  site\n\nTickets/Info: https://almeida.co.uk/whats-on
+LOCATION:Almeida Theatre\, Islington\, London
+URL:https://almeida.co.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:12bbb2a289c7@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260524
+SUMMARY:Only in London · Liza Lou
+DESCRIPTION:An exhibition of Liza Lou's artwork.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://ropac.net/exhibitions/
+LOCATION:Ely House\, London\, Mayfair\, London
+URL:https://ropac.net/exhibitions/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:e3bc662b4183@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Only in London · 600 Years of History Tour
-DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
- masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
- on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTEND;VALUE=DATE:20260503
+SUMMARY:Only in London · Orders of Magnitude by Sholto Blissett
+DESCRIPTION:Exhibition of fictional landscapes by Sholto Blissett.\n\nPrice
+ : Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events
+ /things-to-do-in-london-this-week-64229/
+LOCATION:Pilar Corrias Gallery\, Mayfair\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6cb877b3c2bd@london-events-scraper
+UID:6b198179158a@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260420
-SUMMARY:Only in London · Cornwallis Cloth Exhibition
-DESCRIPTION:A film installation about British Caribbean lives during WWII.\
- n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260524
+SUMMARY:Only in London · Paula Rego: Story Line
+DESCRIPTION:An exhibition of Paula Rego's drawings.\n\nPrice: Check site\n\
+ nTickets/Info: https://www.victoria-miro.com/exhibitions/
+LOCATION:London Gallery I\, London Gallery II\, London\, London
+URL:https://www.victoria-miro.com/exhibitions/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:74048a3cab6f@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Only in London · Film Tour: Wigs\, Weddings\, Powder and Palaces
-DESCRIPTION:Explore the UK's most filmed heritage site and its role in peri
- od dramas.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on
- /
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:78c3fc350f64@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Only in London · Painted Hall Talks
-DESCRIPTION:Expert guides introduce the characters on the Painted Hall ceil
- ing.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:3ef87e7094a4@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Only in London · Secret Dome Tour
-DESCRIPTION:Explore the dome and wartime history of Greenwich.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:215cec37d6a2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260420
-SUMMARY:Only in London · Women at War Display
-DESCRIPTION:Documents and artefacts of Wrens who trained at the Royal Naval
-  College.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:89c7ce641407@london-events-scraper
+UID:46dde08a2d1c@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Only in London · Victorian High Life and Low Life
-DESCRIPTION:A walking tour exploring the contrast between wealth and povert
- y in Victorian times.\n\nPrice: Free\n\nTickets/Info: https://londonistlis
- tings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026
-LOCATION:Florence Nightingale Museum\, South Bank\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
+SUMMARY:Only in London · Antonia: Behind the Myth of Marie Antoinette
+DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
+ heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
+ berata_collective/
+LOCATION:Chiswick House & Gardens\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:217f39c62e94@london-events-scraper
+UID:3c5ce5c46167@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260601
-SUMMARY:Culture & Arts · Lynda Benglis - Encounters: Giacometti
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
- kets/Info: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:b7a773958b57@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260219
+DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Culture & Arts · Daphne Wright: Expectations
-DESCRIPTION:An exhibition showcasing the works of artist Daphne Wright\, ex
- ploring themes of expectation.\n\nPrice: Free\n\nTickets/Info: https://www
- .frithstreetgallery.com/exhibitions/
-LOCATION:Frith Street Gallery\, Soho\, London
-URL:https://www.frithstreetgallery.com/exhibitions/
-CATEGORIES:Culture & Arts
+SUMMARY:Only in London · Colours of Time
+DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
+ a/
+LOCATION:Chiswick Cinema\, Chiswick\, London
+URL:https://www.institut-francais.org.uk/cinema/
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:5f9880a99fc5@london-events-scraper
+UID:69ced1fe23ab@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260511
-SUMMARY:Culture & Arts · Beatriz González Exhibition
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
- arbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
-CATEGORIES:Culture & Arts
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Only in London · King Rastafari Son Presents Ruben Affair – Eart
+ hstrong Celebration!
+DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
+ fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
+ ffair-earthstrong-celebration/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
+ fair-earthstrong-celebration/
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:c4049d99e216@london-events-scraper
+UID:806731605438@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260430
-SUMMARY:Culture & Arts · Spotlight: Theatre Conversations
-DESCRIPTION:Discussions about the world of theatre with host Lucy Phelps.\n
- \nPrice: £20\n\nTickets/Info: https://www.nationalgallery.org.uk/events/i
- n-conversation-spotlight-conversations-about-the-world-of-theatre-2026
-LOCATION:The National Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
- versations-about-the-world-of-theatre-2026
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260615
+SUMMARY:Culture & Arts · Senga Nengudi: Performance Works 1972-1982
+DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
+ 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
+ ry.org/exhibitions/
+LOCATION:Whitechapel Gallery\, Whitechapel\, London
+URL:https://www.whitechapelgallery.org/exhibitions/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -296,6 +258,20 @@ DESCRIPTION:An exhibition examining contemporary landscapes.\n\nPrice: Chec
  k site\n\nTickets/Info: https://www.whitecube.com/exhibitions/london
 LOCATION:Mason’s Yard\, London\, St. James's\, London
 URL:https://www.whitecube.com/exhibitions/london
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4b73eafd31@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:Culture & Arts · The Elephant Trail
+DESCRIPTION:A free public art trail featuring 21 colourful elephant sculptu
+ res around Battersea Power Station\, with a mobile app to unlock rewards a
+ nd competitions.\n\nPrice: Free\n\nTickets/Info: https://batterseapowersta
+ tion.co.uk/events/elephant-trail/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/elephant-trail/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -325,62 +301,56 @@ URL:https://www.maureenpaley.com/exhibitions
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:806731605438@london-events-scraper
+UID:ee1f72a36dcf@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260615
-SUMMARY:Culture & Arts · Senga Nengudi: Performance Works 1972-1982
-DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
- 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
- ry.org/exhibitions/
-LOCATION:Whitechapel Gallery\, Whitechapel\, London
-URL:https://www.whitechapelgallery.org/exhibitions/
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260517
+SUMMARY:Culture & Arts · Heart Wall Play
+DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
+ amily secrets and grief resurface when she returns to her familiar local p
+ ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Bush Theatre\, Shepherd's Bush\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-30-march-5-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6660f258af9c@london-events-scraper
+UID:480c68bb967c@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260418
-SUMMARY:Culture & Arts · Bibliomigrancy amongst the Ruins: post-1945 Book 
- Movement
-DESCRIPTION:A conference exploring the cultural heritage of books post-WWII
- .\n\nPrice: £35.0\n\nTickets/Info: https://www.vam.ac.uk/event/rkZrzbDO10
- /bibliomigrancy-conference-april-2026-in-person
-LOCATION:Victoria and Albert Museum South Kensington\, South Kensington\, L
- ondon
-URL:https://www.vam.ac.uk/event/rkZrzbDO10/bibliomigrancy-conference-april-
- 2026-in-person
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Culture & Arts · 600 Years of History Tour
+DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
+ masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
+ on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:59dbf2d119f9@london-events-scraper
+UID:e75ea78b6a56@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260428
-SUMMARY:Going Out · Elixir Festival
-DESCRIPTION:A festival reshaping perceptions around dancing and age.\n\nPri
- ce: Free (some events ticketed)\n\nTickets/Info: https://londonistcitykeys
- .substack.com/p/free-things-to-do-in-london-this-week-6-12-april-2026
-LOCATION:Sadler’s Wells East\, Stratford\, London
-URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
- is-week-6-12-april-2026
-CATEGORIES:Going Out
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260415
+SUMMARY:Culture & Arts · Architecture Tours
+DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
+ 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Barbican Arts Centre\, Barbican\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:69ced1fe23ab@london-events-scraper
+UID:6cb877b3c2bd@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · King Rastafari Son Presents Ruben Affair – Earthstro
- ng Celebration!
-DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
- fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
- ffair-earthstrong-celebration/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
- fair-earthstrong-celebration/
-CATEGORIES:Going Out
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260420
+SUMMARY:Culture & Arts · Cornwallis Cloth Exhibition
+DESCRIPTION:A film installation about British Caribbean lives during WWII.\
+ n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:9a60da252232@london-events-scraper
@@ -396,27 +366,64 @@ URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:76d0717135cd@london-events-scraper
+UID:feb95888723a@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · Siesta - Opening Party
-DESCRIPTION:House music opening party event.\n\nPrice: Check site\n\nTicket
- s/Info: https://e1ldn.co/events/siesta-opening-party
+SUMMARY:Going Out · AWEN
+DESCRIPTION:An afro house and tech house music event.\n\nPrice: Check site\
+ n\nTickets/Info: https://e1ldn.co/events/2026-04-18-awen
 LOCATION:E1 London\, Whitechapel\, London
-URL:https://e1ldn.co/events/siesta-opening-party
+URL:https://e1ldn.co/events/2026-04-18-awen
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
+UID:5fe2af9a0e93@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Going Out · RNB MANIA
+DESCRIPTION:R&B music event.\n\nPrice: Check site\n\nTickets/Info: https://
+ www.xoyo.co.uk/events/rnb-mania
+LOCATION:London
+URL:https://www.xoyo.co.uk/events/rnb-mania
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:5b792f27cf68@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Going Out · wAFF\, Yousef\, AJ Christou & Evie
+DESCRIPTION:Electronic music event with multiple DJs.\n\nPrice: Check site\
+ n\nTickets/Info: https://www.xoyo.co.uk/events/aj-christou-evie-waff-youse
+ f
+LOCATION:London
+URL:https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:1336396c2c21@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:Going Out · St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
+SUMMARY:Going Out · Form Presents: H Hunt\, Tara Cunningham
+DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
+ kets/Info: https://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/events/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:cea3ab6773a4@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Going Out · The Rocky Horror Picture Show 50th Anniversary
+DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
+LOCATION:Dominion Theatre\, West End\, London
+URL:https://www.dominiontheatre.com
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -434,43 +441,31 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:03f262069c12@london-events-scraper
+UID:2783e89cdd15@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Going Out · Haseeb Iqbal Presents: Beats and Boards
-DESCRIPTION:DJ\, games\, and music night with global board games.\n\nPrice:
-  Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/has
- eeb-iqbal-presents-beats-and-boards
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/haseeb-iqbal-presents-b
- eats-and-boards
+DTEND;VALUE=DATE:20260419
+SUMMARY:Going Out · Banana Cabaret
+DESCRIPTION:Comedy club night with stand-up performances.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://www.eventbrite.co.uk/e/banana-cabaret-170426-
+ tickets-1981744994626
+LOCATION:The Bedford\, London\, London
+URL:https://www.eventbrite.co.uk/e/banana-cabaret-170426-tickets-1981744994
+ 626
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:23bfb30ef59d@london-events-scraper
+UID:60e85649eba2@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:Going Out · James: Love Is The Answer UK Arena Tour
-DESCRIPTION:Live performance by the band James.\n\nPrice: Free\n\nTickets/I
- nfo: https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lo
- ndon-this-week-64229/
-LOCATION:O2 Arena\, North Greenwich\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:0686ed1d91e2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Going Out · OPEN CITY DOCUMENTARY FESTIVAL 2026: FESTIVAL PARTY
-DESCRIPTION:Celebration with music and networking.\n\nPrice: FREE\n\nTicket
- s/Info: https://richmix.org.uk/whats-on
-LOCATION:Rich Mix\, Shoreditch\, London
-URL:https://richmix.org.uk/whats-on
+SUMMARY:Going Out · Bloodsucking Comedy
+DESCRIPTION:Late-night vampiric comedy show.\n\nPrice: Check site\n\nTicket
+ s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
+ is-week-eb9
+LOCATION:The Bill Murray\, Shoreditch\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-eb9
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
