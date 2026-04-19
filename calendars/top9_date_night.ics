@@ -8,114 +8,124 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:2b45fe3d6728@london-events-scraper
+UID:0feca2cacb66@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260420
-SUMMARY:Chicken Ruby Pie
-DESCRIPTION:Special dish at Dishoom restaurant.\n\nPrice: Check site\n\nTic
- kets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:707581f87796@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Complimentary Maki
-DESCRIPTION:Free maki rolls at Sticks n Sushi.\n\nPrice: Free\n\nTickets/In
- fo: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:e160b1fa69c6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Sakura at Sticks n Sushi
-DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
- ets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:342642ccc2e6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260503
-SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
-DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
- ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
-LOCATION:Studio 1\, London\, London
-URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:014b95ae8f97@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260420
-SUMMARY:Cinnamon Kitchen Menu
-DESCRIPTION:Special menu at Cinnamon Kitchen.\n\nPrice: Check site\n\nTicke
- ts/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:9d309be92198@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Alcotraz London: Cell Block Two-One-Two
-DESCRIPTION:Immersive cocktail experience with a prison theme.\n\nPrice: fr
- om £39.22 - £69.00\n\nTickets/Info: https://www.designmynight.com/london
- /whats-on/best-events-in-april
-LOCATION:Alcotraz Penitentiary: London\, Shoreditch\, London
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Floating Hot Tub Tour Of London's Docklands
+DESCRIPTION:Hot tub tour of London's docklands.\n\nPrice: from £39.00\n\nT
+ ickets/Info: https://www.designmynight.com/london/whats-on/best-events-in-
+ april
+LOCATION:Skuna Boats\, Docklands\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:fa997f97bed8@london-events-scraper
+UID:e9607891f9b3@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Heels & Feels Dance Takeover
-DESCRIPTION:Celebrate International Dance Day with a lively dance event.\n\
- nPrice: TICKETS\n\nTickets/Info: https://www.boxpark.co.uk/venues/shoredit
- ch/events/heels-and-feels-takeover-international-dance-day-special
-LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
-URL:https://www.boxpark.co.uk/venues/shoreditch/events/heels-and-feels-take
- over-international-dance-day-special
+DTEND;VALUE=DATE:20260421
+SUMMARY:Circe's Cloud 9 Pods
+DESCRIPTION:Private igloos with cocktails and city views.\n\nPrice: Pods fr
+ om £200\n\nTickets/Info: https://www.designmynight.com/london/whats-on/be
+ st-events-in-april
+LOCATION:Circe’s Rooftop Waterloo\, Waterloo\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:cea3ab6773a4@london-events-scraper
+UID:e239c053b118@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:The Rocky Horror Picture Show 50th Anniversary
-DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
+SUMMARY:Tony Ann
+DESCRIPTION:A one-off concert of contemporary piano music.\n\nPrice: Free\n
+ \nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-l
+ ondon-this-weekend-18-19-april-2026
+LOCATION:Theatre Royal Drury Lane\, Covent Garden\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ekend-18-19-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b2af738901cb@london-events-scraper
+UID:656b080d3c08@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:London Games Festival
-DESCRIPTION:Multi-day celebration of video games\, art\, and culture.\n\nPr
- ice: Free\n\nTickets/Info: https://londoncheapo.com/events/
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://londoncheapo.com/events/
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260607
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:A stage adaptation of the classic novel.\n\nPrice: Check site\n
+ \nTickets/Info: https://ticketing.timeout.com/london/shows/45580-les-liais
+ ons-dangereuses
+LOCATION:Lyttelton Theatre\, Southbank\, London
+URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
+ es
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:1b076ffff981@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Earth Day Scratch Menu
+DESCRIPTION:Sustainable three-course menu for Earth Day.\n\nPrice: Check si
+ te\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-
+ in-london-this-week-eb9
+LOCATION:Somerset House\, Strand\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-eb9
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ce75e66fa77f@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Simon Crawford-Phillips and Friends
+DESCRIPTION:Classical music performance.\n\nPrice: £16\n\nTickets/Info: ht
+ tps://www.thecityofldn.com/event/simon-crawford-phillips-and-friends-rebec
+ ca-clarke-a-musical-odyssey/
+LOCATION:161 Old St\, London EC1V 9NG\, Old Street\, London
+URL:https://www.thecityofldn.com/event/simon-crawford-phillips-and-friends-
+ rebecca-clarke-a-musical-odyssey/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:46dde08a2d1c@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Antonia: Behind the Myth of Marie Antoinette
+DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
+ heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
+ berata_collective/
+LOCATION:Chiswick House & Gardens\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5ce5c46167@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Colours of Time
+DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
+ a/
+LOCATION:Chiswick Cinema\, Chiswick\, London
+URL:https://www.institut-francais.org.uk/cinema/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:9a60da252232@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:London Taco Experience
+DESCRIPTION:A Mexican extravaganza with tacos\, DJs\, and live Mariachi.\n\
+ nPrice: £4.50 per dish\n\nTickets/Info: https://www.cntraveller.com/galle
+ ry/things-to-do-in-london-this-weekend
+LOCATION:Freight Brixton\, Brixton\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
