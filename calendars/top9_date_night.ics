@@ -8,6 +8,19 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
+UID:0feca2cacb66@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Floating Hot Tub Tour Of London's Docklands
+DESCRIPTION:Hot tub tour of London's docklands.\n\nPrice: from £39.00\n\nT
+ ickets/Info: https://www.designmynight.com/london/whats-on/best-events-in-
+ april
+LOCATION:Skuna Boats\, Docklands\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
 UID:e9607891f9b3@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
@@ -21,29 +34,17 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:fc91bebeda7f@london-events-scraper
+UID:0b40e554d73f@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Nicola Benedetti Plays Elgar
-DESCRIPTION:A classical concert featuring Elgar's Violin Concerto.\n\nPrice
- : Free\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to
- -do-in-london-this-weekend-18-19-april-2026
-LOCATION:Royal Festival Hall\, Southbank\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-18-19-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:e160b1fa69c6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Sakura at Sticks n Sushi
-DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
- ets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260426
+SUMMARY:Yoga & Brunch
+DESCRIPTION:Yoga session followed by brunch.\n\nPrice: Check site\n\nTicket
+ s/Info: https://www.designmynight.com/london/bars/battersea/joia/yoga-brun
+ ch-at-joia-empowered-by-lululemon
+LOCATION:JOIA empowered by lululemon\, Battersea\, London
+URL:https://www.designmynight.com/london/bars/battersea/joia/yoga-brunch-at
+ -joia-empowered-by-lululemon
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -71,6 +72,30 @@ URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
+UID:e160b1fa69c6@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:Sakura at Sticks n Sushi
+DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
+ ets/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:342642ccc2e6@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260503
+SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
+DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
+ ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
+LOCATION:Studio 1\, London\, London
+URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
 UID:014b95ae8f97@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260406
@@ -83,44 +108,17 @@ URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:cea3ab6773a4@london-events-scraper
+UID:5ec698d6a1e4@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:The Rocky Horror Picture Show 50th Anniversary
-DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:ee1f72a36dcf@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260517
-SUMMARY:Heart Wall Play
-DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
- amily secrets and grief resurface when she returns to her familiar local p
- ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
- ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:Bush Theatre\, Shepherd's Bush\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:6e07b114c206@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Father Mother Sister Brother
-DESCRIPTION:Jim Jarmusch film starring Cate Blanchett and Adam Driver.\n\nP
- rice: £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event
- /members-screening-father-mother-sister-brother
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/members-screening-fathe
- r-mother-sister-brother
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:hannah bahng Live
+DESCRIPTION:Alt-pop singer-songwriter performs her introspective music.\n\n
+ Price: Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-e
+ vents/things-to-do-in-london-this-week-64229/
+LOCATION:Electric Ballroom\, Camden\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
