@@ -2023,27 +2023,35 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Magic, Mystics and Martyrs Tour</name>
-      <description><![CDATA[<b>Magic, Mystics and Martyrs Tour</b><br><i>Cultural</i><br>Mon 13th Apr<br>7 Biggin Way, Upper Norwood<br>£19.50<br><br>A theatrical walk through the spooky stories of the City’s mystics and martyrs.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1027572,51.414619,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>London Games Festival</name>
-      <description><![CDATA[<b>London Games Festival</b><br><i>Cultural</i><br>Mon 13th Apr – Sun 19th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>A celebration of video games with events and exhibitions.<br><br><a href="https://londoncheapo.com/events/london-games-festival/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>London Games Festival</b><br><i>Festival</i><br>Mon 13th Apr – Sun 19th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>A multi-day celebration of video games across London.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.127475,51.50765,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Secret Dome Tour</name>
-      <description><![CDATA[<b>Secret Dome Tour</b><br><i>Cultural</i><br>Mon 13th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Explore the dome and wartime history of Greenwich.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
+      <name>Ramses and the Pharaohs’ Gold</name>
+      <description><![CDATA[<b>Ramses and the Pharaohs’ Gold</b><br><i>Arts &amp; Culture</i><br>Mon 13th Apr<br>NEON at Battersea Power Station, Battersea<br>Check site<br><br>An exhibition of Ancient Egyptian treasures.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.006268,51.484071,0</coordinates>
+        <coordinates>-0.1740176,51.4611779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FRAMELESS</name>
+      <description><![CDATA[<b>FRAMELESS</b><br><i>Arts &amp; Culture</i><br>Mon 13th Apr<br>FRAMELESS, London, W1H 7AP<br>Check site<br><br>An immersive art experience featuring famous masterpieces.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1601476,51.5135262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orders of Magnitude</name>
+      <description><![CDATA[<b>Orders of Magnitude</b><br><i>Arts &amp; Culture</i><br>Mon 13th Apr – Sat 2nd May<br>Pilar Corrias Gallery, London, W1S 3PA<br>Check site<br><br>An exhibition of imaginary landscapes by Sholto Blissett.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1395162,51.5103807,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2073,14 +2081,6 @@
     <Placemark>
       <name>Women at War Display</name>
       <description><![CDATA[<b>Women at War Display</b><br><i>Cultural</i><br>Mon 13th Apr – Sun 19th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Documents and artefacts of Wrens who trained at the Royal Naval College.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.006268,51.484071,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Film Tour: Wigs, Weddings, Powder and Palaces</name>
-      <description><![CDATA[<b>Film Tour: Wigs, Weddings, Powder and Palaces</b><br><i>Cultural</i><br>Mon 13th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Explore the UK's most filmed heritage site and its role in period dramas.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.006268,51.484071,0</coordinates>
@@ -2159,11 +2159,59 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Cycling Electric e-bike Demo Day</name>
-      <description><![CDATA[<b>Cycling Electric e-bike Demo Day</b><br><i>Sport &amp; Fitness</i><br>Tue 14th Apr<br>Lee Valley VeloPark, Queen Elizabeth Olympic Park<br>£9<br><br>Test over 100 e-bikes on a traffic-free circuit in the Olympic Park.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <name>Magic, Mystics and Martyrs Tour</name>
+      <description><![CDATA[<b>Magic, Mystics and Martyrs Tour</b><br><i>Cultural</i><br>Mon 13th Apr<br>7 Biggin Way, Upper Norwood<br>£19.50<br><br>A theatrical walk through the spooky stories of the City’s mystics and martyrs.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1027572,51.414619,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Secret Dome Tour</name>
+      <description><![CDATA[<b>Secret Dome Tour</b><br><i>Cultural</i><br>Tue 14th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Explore the Old Royal Naval College's dome and enjoy panoramic London views.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.006268,51.484071,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E-bike Demo Day</name>
+      <description><![CDATA[<b>E-bike Demo Day</b><br><i>Sport &amp; Fitness</i><br>Tue 14th Apr<br>Lee Valley VeloPark, Queen Elizabeth Olympic Park<br>£9<br><br>Test over 100 e-bikes on a traffic-free circuit in the Olympic Park.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0152394,51.5503768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>International Living History Festival</name>
+      <description><![CDATA[<b>International Living History Festival</b><br><i>Festival</i><br>Tue 14th Apr – Sun 19th Apr<br>Royal Gunpowder Mills, Waltham Abbey<br>£12.94<br><br>Experience hands-on activities and arena displays with 300+ reenactors.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0084489,51.6976648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St Paul's Cathedral at Night</name>
+      <description><![CDATA[<b>St Paul's Cathedral at Night</b><br><i>Cultural</i><br>Tue 14th Apr<br>St Paul's Cathedral, City of London<br>Free<br><br>Free evening access to explore St Paul's Cathedral without the galleries.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0984506,51.5137872,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Wild Elderflower</name>
+      <description><![CDATA[<b>Green Wild Elderflower</b><br><i>Music</i><br>Tue 14th Apr – Sun 19th Apr<br>Hammersmith, Hammersmith<br>£17.00 (advance sales)<br><br>A Polish musical about migration and a woman's journey to freedom.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2278782,51.4983142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aries: WICHITA BLUES</name>
+      <description><![CDATA[<b>Aries: WICHITA BLUES</b><br><i>Music</i><br>Tue 14th Apr<br>HERE at Outernet, London, WC2H 0LA<br>Check site<br><br>A live performance by alternative artist Aries.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12992535,51.5153253,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2175,14 +2223,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>International Living History Festival</name>
-      <description><![CDATA[<b>International Living History Festival</b><br><i>Cultural</i><br>Tue 14th Apr – Sun 19th Apr<br>Royal Gunpowder Mills, Waltham Abbey<br>£12.94<br><br>Reenactors bring history to life with hands-on activities and displays.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0084489,51.6976648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>OmVed Gardens Fundraiser</name>
       <description><![CDATA[<b>OmVed Gardens Fundraiser</b><br><i>Wellness</i><br>Tue 14th Apr<br>OmVed Gardens, Hampstead<br>£10<br><br>Open gardens, tours, and a raffle to support North London Hospice.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
@@ -2191,35 +2231,19 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>St George's Day Celebration</name>
-      <description><![CDATA[<b>St George's Day Celebration</b><br><i>Cultural</i><br>Tue 14th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>Live music and performances celebrating English culture.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.127475,51.50765,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>hannah bahng Live</name>
-      <description><![CDATA[<b>hannah bahng Live</b><br><i>Music</i><br>Tue 14th Apr<br>Electric Ballroom, Camden<br>Check site<br><br>Alt-pop singer-songwriter performs her introspective music.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.142943,51.5397245,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Rich Mix Events</name>
-      <description><![CDATA[<b>Rich Mix Events</b><br><i>Arts &amp; Culture</i><br>Tue 14th Apr<br>Shoreditch<br>Free<br><br>Various performances and activities at Rich Mix.<br><br><a href="https://richmix.org.uk/whats-on/events/families">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0798926,51.5266694,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Model Railway Club Open Day</name>
       <description><![CDATA[<b>Model Railway Club Open Day</b><br><i>Community</i><br>Tue 14th Apr<br>The Model Railway Club, Kensington<br>Free<br><br>See model railway layouts in operation and learn about the club.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
       <styleUrl>#yellow-dot.png</styleUrl>
       <Point>
         <coordinates>-0.116828,51.5315265,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St George's Day Celebration</name>
+      <description><![CDATA[<b>St George's Day Celebration</b><br><i>Cultural</i><br>Tue 14th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>Live music and performances celebrating English culture.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.127475,51.50765,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2260,6 +2284,14 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0578064,51.488096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rich Mix Events</name>
+      <description><![CDATA[<b>Rich Mix Events</b><br><i>Arts &amp; Culture</i><br>Tue 14th Apr<br>Shoreditch<br>Free<br><br>Various performances and activities at Rich Mix.<br><br><a href="https://richmix.org.uk/whats-on/events/families">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0798926,51.5266694,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2351,11 +2383,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vidura Bandara Rajapaksa Stand-Up</name>
-      <description><![CDATA[<b>Vidura Bandara Rajapaksa Stand-Up</b><br><i>Comedy</i><br>Wed 15th Apr<br>Hackney Empire, Hackney<br>Check site<br><br>A deadpan comic explores immigrant life and corporate burnout.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <name>hannah bahng Live</name>
+      <description><![CDATA[<b>hannah bahng Live</b><br><i>Music</i><br>Tue 14th Apr<br>Electric Ballroom, Camden<br>Check site<br><br>Alt-pop singer-songwriter performs her introspective music.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.142943,51.5397245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradise Gothic</name>
+      <description><![CDATA[<b>Paradise Gothic</b><br><i>Comedy</i><br>Wed 15th Apr<br>Hackney Empire, Hackney<br>Check site<br><br>A stand-up comedy show by Vidura Bandara Rajapaksa.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0557025,51.5456229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Comedy Store: Old Rope</name>
+      <description><![CDATA[<b>The Comedy Store: Old Rope</b><br><i>Comedy</i><br>Wed 15th Apr<br>The Comedy Store, London, SW1Y 4EE<br>Check site<br><br>A comedy show featuring fresh and seasoned talent.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1322569,51.5101213,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2484,6 +2532,14 @@
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1024955,51.5196111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vidura Bandara Rajapaksa Stand-Up</name>
+      <description><![CDATA[<b>Vidura Bandara Rajapaksa Stand-Up</b><br><i>Comedy</i><br>Wed 15th Apr<br>Hackney Empire, Hackney<br>Check site<br><br>A deadpan comic explores immigrant life and corporate burnout.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0557025,51.5456229,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3079,11 +3135,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Daniel O’Reilly Comedy Roast</name>
-      <description><![CDATA[<b>Daniel O’Reilly Comedy Roast</b><br><i>Comedy</i><br>Fri 17th Apr<br>O2 Shepherd’s Bush Empire, Shepherd’s Bush<br>Check site<br><br>Unfiltered comedy tackling sobriety, parenthood, and modern life.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>The Cognac Show</name>
+      <description><![CDATA[<b>The Cognac Show</b><br><i>Food &amp; Drink</i><br>Fri 17th Apr – Sat 18th Apr<br>The Cognac Show, The Cognac Show<br>Check site<br><br>A celebration of cognac with tastings and exhibits.<br><br><a href="https://www.londonperfect.com/plan-your-trip/events-in-london/april.php">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.224293,51.503459,0</coordinates>
+        <coordinates>-0.1414246,51.5071911,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3100,6 +3156,22 @@
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1302749721722639,51.510776565245436,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dan O’Reilly: Let’s Have It</name>
+      <description><![CDATA[<b>Dan O’Reilly: Let’s Have It</b><br><i>Comedy</i><br>Fri 17th Apr<br>O2 Shepherd’s Bush Empire, Shepherd's Bush<br>Check site<br><br>Uncensored comedy roast by Daniel O’Reilly.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2244489,51.5034474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>James: Love Is The Answer UK Arena Tour</name>
+      <description><![CDATA[<b>James: Love Is The Answer UK Arena Tour</b><br><i>Music</i><br>Fri 17th Apr<br>O2 Arena, North Greenwich<br>Check site<br><br>Live performance by the band James.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0031839,51.5029316,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3260,14 +3332,6 @@
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0886993,51.5054118,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Dan O’Reilly: Let’s Have It</name>
-      <description><![CDATA[<b>Dan O’Reilly: Let’s Have It</b><br><i>Comedy</i><br>Fri 17th Apr<br>O2 Shepherd’s Bush Empire, Shepherd's Bush<br>Check site<br><br>Uncensored comedy roast by Daniel O’Reilly.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2244489,51.5034474,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3631,14 +3695,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>James: Love Is The Answer UK Arena Tour</name>
-      <description><![CDATA[<b>James: Love Is The Answer UK Arena Tour</b><br><i>Music</i><br>Fri 17th Apr<br>O2 Arena, North Greenwich<br>Check site<br><br>Live performance by the band James.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.0031839,51.5029316,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Bubble Planet: An Immersive Experience</name>
       <description><![CDATA[<b>Bubble Planet: An Immersive Experience</b><br><i>Arts &amp; Culture</i><br>Fri 17th Apr<br>Unit 22 Fulton Road, Wembley, Wembley<br>From £25.90<br><br>Immersive experience in Wembley.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
@@ -3799,19 +3855,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Buster Keaton Fan Gathering</name>
-      <description><![CDATA[<b>Buster Keaton Fan Gathering</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr<br>The Cinema Museum, Kennington<br>Check site<br><br>A meetup for fans of silent film icon Buster Keaton.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Daniel O’Reilly Comedy Roast</name>
+      <description><![CDATA[<b>Daniel O’Reilly Comedy Roast</b><br><i>Comedy</i><br>Fri 17th Apr<br>O2 Shepherd’s Bush Empire, Shepherd’s Bush<br>Check site<br><br>Unfiltered comedy tackling sobriety, parenthood, and modern life.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1051561,51.4924085,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Vaisakhi Festival</name>
-      <description><![CDATA[<b>Vaisakhi Festival</b><br><i>Cultural</i><br>Sat 18th Apr<br>City Hall and The Scoop at More London, Southwark<br>Free<br><br>A Sikh New Year celebration with performances and cultural activities.<br><br><a href="https://www.london.gov.uk/events/vaisakhi-square-2026">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1277653,51.5074456,0</coordinates>
+        <coordinates>-0.224293,51.503459,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3820,6 +3868,38 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.006268,51.484071,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>World Art Day: Collaborative Canvas</name>
+      <description><![CDATA[<b>World Art Day: Collaborative Canvas</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr<br>Royal Hospital Chelsea, Chelsea<br>Free<br><br>Paint a community artwork at the Royal Hospital Chelsea.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.15739429506933544,51.487383949999995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vaisakhi Festival 2026</name>
+      <description><![CDATA[<b>Vaisakhi Festival 2026</b><br><i>Cultural</i><br>Sat 18th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>A free celebration of Sikh culture and heritage with live entertainment and food stalls.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.127475,51.50765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wild Food Walks</name>
+      <description><![CDATA[<b>Wild Food Walks</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>Tower Hamlets, Tower Hamlets<br>£40.00 (advance sales)<br><br>Foraging walks to discover London's wild food.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.04242757865246988,51.51355345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turning Earth Hoxton Spring Market</name>
+      <description><![CDATA[<b>Turning Earth Hoxton Spring Market</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sun 19th Apr<br>Hoxton studio, Hoxton<br>Free<br><br>A vibrant weekend of pottery, music, and food with 80 talented makers.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0763282,51.5302915,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3927,6 +4007,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Buster Keaton Fan Gathering</name>
+      <description><![CDATA[<b>Buster Keaton Fan Gathering</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr<br>The Cinema Museum, Kennington<br>Check site<br><br>A meetup for fans of silent film icon Buster Keaton.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1051561,51.4924085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>The West End Tenors</name>
       <description><![CDATA[<b>The West End Tenors</b><br><i>Music</i><br>Sat 18th Apr<br>Greenwich Theatre, Greenwich<br>Check site<br><br>A vocal performance by West End stars.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
@@ -3991,11 +4079,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>RollerDisco</name>
-      <description><![CDATA[<b>RollerDisco</b><br><i>Nightlife</i><br>Sat 18th Apr – Sun 19th Apr<br>Rollernation, London<br>£19.50<br><br>Disco-themed roller skating with 70s/80s/90s hits.<br><br><a href="https://www.skiddle.com/whats-on/London/Rollernation-/RollerDisco/42166343/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Vaisakhi Festival</name>
+      <description><![CDATA[<b>Vaisakhi Festival</b><br><i>Cultural</i><br>Sat 18th Apr<br>City Hall and The Scoop at More London, Southwark<br>Free<br><br>A Sikh New Year celebration with performances and cultural activities.<br><br><a href="https://www.london.gov.uk/events/vaisakhi-square-2026">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
+        <coordinates>-0.1277653,51.5074456,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4007,19 +4095,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Green Wild Elderflower</name>
-      <description><![CDATA[<b>Green Wild Elderflower</b><br><i>Music</i><br>Sat 18th Apr – Sun 19th Apr<br>Hammersmith, Hammersmith<br>£17.00 (advance sales)<br><br>A Polish musical about migration and a woman's journey to freedom.<br><br><a href="https://londoncheapo.com/events/">More info / tickets</a>]]></description>
+      <name>RollerDisco</name>
+      <description><![CDATA[<b>RollerDisco</b><br><i>Nightlife</i><br>Sat 18th Apr – Sun 19th Apr<br>Rollernation, London<br>£19.50<br><br>Disco-themed roller skating with 70s/80s/90s hits.<br><br><a href="https://www.skiddle.com/whats-on/London/Rollernation-/RollerDisco/42166343/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2278782,51.4983142,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Turning Earth Hoxton Spring Market</name>
-      <description><![CDATA[<b>Turning Earth Hoxton Spring Market</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sun 19th Apr<br>Hoxton, Hoxton<br>Free<br><br>A ceramics market with music and food in Hoxton.<br><br><a href="https://londoncheapo.com/events/turning-earth-hoxton-spring-market/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.086078,51.5323935,0</coordinates>
+        <coordinates>-0.099076,51.509648,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4383,14 +4463,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vaisakhi Festival 2026</name>
-      <description><![CDATA[<b>Vaisakhi Festival 2026</b><br><i>Cultural</i><br>Sat 18th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>Free celebration of Sikh culture and heritage.<br><br><a href="https://londoncheapo.com/events/vaisakhi-festival/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.127475,51.50765,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Wild Food Walks – Foraging in London</name>
       <description><![CDATA[<b>Wild Food Walks – Foraging in London</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>Tower Hamlets, Tower Hamlets<br>£40.00 (advance sales)<br><br>Guided foraging walk in London.<br><br><a href="https://londoncheapo.com/events/wild-food-walks-foraging-in-london/20260418/">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
@@ -4500,6 +4572,14 @@
       <styleUrl>#green-dot.png</styleUrl>
       <Point>
         <coordinates>-0.129486,51.508428,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turning Earth Hoxton Spring Market</name>
+      <description><![CDATA[<b>Turning Earth Hoxton Spring Market</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sun 19th Apr<br>Hoxton, Hoxton<br>Free<br><br>A ceramics market with music and food in Hoxton.<br><br><a href="https://londoncheapo.com/events/turning-earth-hoxton-spring-market/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.086078,51.5323935,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4911,14 +4991,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Turning Earth Hoxton Spring Market</name>
-      <description><![CDATA[<b>Turning Earth Hoxton Spring Market</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sun 19th Apr<br>Hoxton studio, Hoxton<br>Free<br><br>A vibrant weekend of pottery, music, and food with 80 talented makers.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0763282,51.5302915,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Classic Car Boot Sale</name>
       <description><![CDATA[<b>Classic Car Boot Sale</b><br><i>Arts &amp; Social</i><br>Sat 18th Apr – Sun 19th Apr<br>Granary Square, King's Cross<br>Check site<br><br>A vintage treasure hunt with over 100 traders, classic cars, and retro tunes.<br><br><a href="https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
       <styleUrl>#yellow-dot.png</styleUrl>
@@ -5239,22 +5311,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>World Art Day: Collaborative Canvas</name>
-      <description><![CDATA[<b>World Art Day: Collaborative Canvas</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr<br>Royal Hospital Chelsea, Chelsea<br>Free<br><br>Paint a community artwork at the Royal Hospital Chelsea.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.15739429506933544,51.487383949999995,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Wild Food Walks</name>
-      <description><![CDATA[<b>Wild Food Walks</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>Tower Hamlets, Tower Hamlets<br>£40.00 (advance sales)<br><br>Foraging walks to discover London's wild food.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.04242757865246988,51.51355345,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>The London Taco Experience</name>
       <description><![CDATA[<b>The London Taco Experience</b><br><i>Food &amp; Drink</i><br>Sat 18th Apr<br>Brixton Freight, Brixton<br>Free<br><br>A taco-themed food event in Brixton.<br><br><a href="https://www.eventbrite.co.uk/e/the-london-taco-experience-brixton-edition-tickets-1972785202647">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
@@ -5423,11 +5479,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Rocky Horror Picture Show 50th Anniversary</name>
-      <description><![CDATA[<b>The Rocky Horror Picture Show 50th Anniversary</b><br><i>Music</i><br>Sun 19th Apr<br>Dominion Theatre, West End<br>Check site<br><br>A special performance celebrating the cult classic film.<br><br><a href="https://www.dominiontheatre.com">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Film Tour: Wigs, Weddings, Powder and Palaces</name>
+      <description><![CDATA[<b>Film Tour: Wigs, Weddings, Powder and Palaces</b><br><i>Cultural</i><br>Sun 19th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Explore the UK's most filmed heritage site and its role in period dramas.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
+        <coordinates>-0.006268,51.484071,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5455,6 +5511,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Thomas Green’s Sunday Sesh</name>
+      <description><![CDATA[<b>Thomas Green’s Sunday Sesh</b><br><i>Music</i><br>Sun 19th Apr<br>23 Kingsway, Holborn<br>£15<br><br>A live music session with a special guest.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1184056,51.5142025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Sunday Stand Up Comedy 7:30pm Show</name>
       <description><![CDATA[<b>Sunday Stand Up Comedy 7:30pm Show</b><br><i>Comedy</i><br>Sun 19th Apr<br>170 Drury Lane, Covent Garden<br>£1<br><br>A comedy show at 7:30pm.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -5463,11 +5527,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Thomas Green’s Sunday Sesh</name>
-      <description><![CDATA[<b>Thomas Green’s Sunday Sesh</b><br><i>Music</i><br>Sun 19th Apr<br>23 Kingsway, Holborn<br>£15<br><br>A live music session with a special guest.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Cycling Electric e-bike demo day</name>
+      <description><![CDATA[<b>Cycling Electric e-bike demo day</b><br><i>Sport &amp; Fitness</i><br>Sun 19th Apr – Tue 14th Apr<br>Lee Valley VeloPark, Olympic Park<br>£9<br><br>Test and compare e-bikes on a traffic-free circuit.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1184056,51.5142025,0</coordinates>
+        <coordinates>-0.0152394,51.5503768,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5508,6 +5572,22 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.11828118182579667,51.51976105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Feast of St George in Trafalgar Square 2026</name>
+      <description><![CDATA[<b>Feast of St George in Trafalgar Square 2026</b><br><i>Cultural</i><br>Sun 19th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>An annual celebration of St George’s Day with live music and performances.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.127475,51.50765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leadenhall Vintage Furniture &amp; Flea Market</name>
+      <description><![CDATA[<b>Leadenhall Vintage Furniture &amp; Flea Market</b><br><i>Arts &amp; Social</i><br>Sun 19th Apr<br>Leadenhall Market, City of London<br>Free<br><br>A mid-century furniture market in the heart of The Square Mile.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.083484,51.5128179,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5631,6 +5711,22 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Naomi Jon: Strawberry Tour 2026</name>
+      <description><![CDATA[<b>Naomi Jon: Strawberry Tour 2026</b><br><i>Music</i><br>Sun 19th Apr<br>Colours Hoxton, Hoxton<br>Check site<br><br>Electronic pop performance by Naomi Jon.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0817251,51.5274715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Grove DIY Skatepark Car Boot Sale</name>
+      <description><![CDATA[<b>The Grove DIY Skatepark Car Boot Sale</b><br><i>Community</i><br>Sun 19th Apr<br>The Grove DIY, 520 Lordship Lane, London SE22 8LF<br>Free<br><br>Car boot sale supporting a skatepark fund.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.066223,51.44229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Open Age Late Session</name>
       <description><![CDATA[<b>Open Age Late Session</b><br><i>Sport &amp; Fitness</i><br>Sun 19th Apr<br>Rollernation, London<br>£15.00<br><br>Teen-friendly skate session with DJ music.<br><br><a href="https://www.skiddle.com/whats-on/London/Rollernation-/Open-Age-Late-Session/42166345/">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
@@ -5644,14 +5740,6 @@
       <styleUrl>#green-dot.png</styleUrl>
       <Point>
         <coordinates>-0.099496,51.497768,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Grove DIY Skatepark Car Boot Sale</name>
-      <description><![CDATA[<b>The Grove DIY Skatepark Car Boot Sale</b><br><i>Community</i><br>Sun 19th Apr<br>The Grove DIY, 520 Lordship Lane, London SE22 8LF<br>Free<br><br>Car boot sale supporting a skatepark fund.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.066223,51.44229,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5687,14 +5775,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Moonshine Saloon: Western Cocktail Experience</name>
-      <description><![CDATA[<b>Moonshine Saloon: Western Cocktail Experience</b><br><i>Nightlife</i><br>Sun 19th Apr<br>Moonshine Saloon, Houndsditch<br>from £41.80 - £47.52<br><br>Wild West-themed immersive cocktail experience.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0771171,51.5144328,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Hexmoor: Wizarding Prison</name>
       <description><![CDATA[<b>Hexmoor: Wizarding Prison</b><br><i>Arts &amp; Culture</i><br>Sun 19th Apr<br>Hexmoor: London, London<br>from £56.50 - £88.50<br><br>Immersive wizarding-themed experience with cocktails.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
@@ -5703,19 +5783,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Feast of St George in Trafalgar Square 2026</name>
-      <description><![CDATA[<b>Feast of St George in Trafalgar Square 2026</b><br><i>Cultural</i><br>Sun 19th Apr<br>Trafalgar Square, Westminster<br>Free<br><br>Annual celebration of St George's Day.<br><br><a href="https://londoncheapo.com/events/feast-st-george-trafalgar-square/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Moonshine Saloon: Western Cocktail Experience</name>
+      <description><![CDATA[<b>Moonshine Saloon: Western Cocktail Experience</b><br><i>Nightlife</i><br>Sun 19th Apr<br>Moonshine Saloon, Houndsditch<br>from £41.80 - £47.52<br><br>Wild West-themed immersive cocktail experience.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.127475,51.50765,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Leadenhall Vintage Furniture Market</name>
-      <description><![CDATA[<b>Leadenhall Vintage Furniture Market</b><br><i>Arts &amp; Social</i><br>Sun 19th Apr<br>Bank, Bank<br>Free<br><br>A mid-century furniture market in Leadenhall Market.<br><br><a href="https://londoncheapo.com/events/the-leadenhall-vintage-furniture-flea-market/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0893749,51.5131048,0</coordinates>
+        <coordinates>-0.0771171,51.5144328,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -5903,6 +5975,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Leadenhall Vintage Furniture Market</name>
+      <description><![CDATA[<b>Leadenhall Vintage Furniture Market</b><br><i>Arts &amp; Social</i><br>Sun 19th Apr<br>Bank, Bank<br>Free<br><br>A mid-century furniture market in Leadenhall Market.<br><br><a href="https://londoncheapo.com/events/the-leadenhall-vintage-furniture-flea-market/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0893749,51.5131048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Members' Sunday Film Club: Jean Cocteau</name>
       <description><![CDATA[<b>Members' Sunday Film Club: Jean Cocteau</b><br><i>Arts &amp; Culture</i><br>Sun 19th Apr<br>Victoria and Albert Museum South Kensington, South Kensington<br>£15.0<br><br>Film screening and Q&amp;A with director Lisa Immordino Vreeland.<br><br><a href="https://www.vam.ac.uk/event/VLOLAW3z6X/film-screening-jean-cocteau">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
@@ -5999,22 +6079,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Leadenhall Vintage Furniture &amp; Flea Market</name>
-      <description><![CDATA[<b>Leadenhall Vintage Furniture &amp; Flea Market</b><br><i>Arts &amp; Social</i><br>Sun 19th Apr<br>Leadenhall Market, City of London<br>Free<br><br>A mid-century furniture market in the heart of The Square Mile.<br><br><a href="https://londoncheapo.com/events/april/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.083484,51.5128179,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Naomi Jon: Strawberry Tour 2026</name>
-      <description><![CDATA[<b>Naomi Jon: Strawberry Tour 2026</b><br><i>Music</i><br>Sun 19th Apr<br>Colours Hoxton, Hoxton<br>Check site<br><br>Electronic pop performance by Naomi Jon.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0817251,51.5274715,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Think Pink w/ John Lee Bird &amp; Fabrizio Modonese Palumbo</name>
       <description><![CDATA[<b>Think Pink w/ John Lee Bird &amp; Fabrizio Modonese Palumbo</b><br><i>Music</i><br>Sun 19th Apr<br>The Lexington, Islington<br>Check site<br><br>Live performance featuring multiple artists.<br><br><a href="https://www.thelexington.co.uk/events.php?type=gigs">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
@@ -6052,6 +6116,14 @@
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07665,51.548794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Rocky Horror Picture Show 50th Anniversary</name>
+      <description><![CDATA[<b>The Rocky Horror Picture Show 50th Anniversary</b><br><i>Music</i><br>Sun 19th Apr<br>Dominion Theatre, West End<br>Check site<br><br>A special performance celebrating the cult classic film.<br><br><a href="https://www.dominiontheatre.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -6116,14 +6188,6 @@
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1148726,51.4657019,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Heels &amp; Feels Dance Takeover</name>
-      <description><![CDATA[<b>Heels &amp; Feels Dance Takeover</b><br><i>Nightlife</i><br>Sun 19th Apr<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>Dance celebration for International Dance Day.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/heels-and-feels-takeover-international-dance-day-special?eventDate=2026-04-19T10:00:00.000Z">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
