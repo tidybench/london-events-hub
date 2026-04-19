@@ -8,112 +8,68 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:3a4400e608b7@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:AZMARI BET: HABESHA EASTER PARTY!
-DESCRIPTION:Easter celebration with Ethiopian music and dance.\n\nPrice: FR
- EE\n\nTickets/Info: https://richmix.org.uk/whats-on
-LOCATION:Rich Mix\, Shoreditch\, London
-URL:https://richmix.org.uk/whats-on
+UID:4d66b6b05c92@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260420
+SUMMARY:Another Sky Festival
+DESCRIPTION:Experimental music from the SWANA region and diaspora.\n\nPrice
+ : Check site\n\nTickets/Info: https://londonistlistings.substack.com/p/thi
+ ngs-to-do-in-london-this-week-eb9
+LOCATION:Cafe OTO\, Dalston\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-eb9
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:146cba8610b6@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Dimitri from Paris
-DESCRIPTION:A rare all-night disco session with the legendary DJ.\n\nPrice:
-  Check site\n\nTickets/Info: https://koko.co.uk/whats-on
-LOCATION:KOKO\, Camden\, London
-URL:https://koko.co.uk/whats-on
+UID:f535c3c4b503@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260523
+SUMMARY:The Guilty Feminist
+DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
+ nTickets/Info: https://www.museumofcomedy.com/whats-on/
+LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f511d98727a3@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Quantic (All Day Long)
-DESCRIPTION:Live performance by Quantic at Phonox.\n\nPrice: £5+ advance\n
- \nTickets/Info: https://phonox.co.uk/whats-on/
-LOCATION:Phonox\, Brixton\, London
-URL:https://phonox.co.uk/whats-on/
+UID:1336396c2c21@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Form Presents: H Hunt\, Tara Cunningham
+DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
+ kets/Info: https://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/events/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:ef2acb4bdd3d@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Saturday Sessions
-DESCRIPTION:Weekend party with music and drinks.\n\nPrice: Check site\n\nTi
- ckets/Info: https://www.boxpark.co.uk/venues/shoreditch/events/saturday-se
- ssions
-LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
-URL:https://www.boxpark.co.uk/venues/shoreditch/events/saturday-sessions
+UID:591b25327de2@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Naomi Jon
+DESCRIPTION:Pop sensation Naomi Jon performs her new music.\n\nPrice: Free\
+ n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/things
+ -to-do-in-london-this-week-64229/
+LOCATION:Colours Hoxton\, Hoxton\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:3639e48ecbfc@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:1996: A Celebration of Cool Britannia
-DESCRIPTION:Relive the 90s with music\, fashion\, and football.\n\nPrice: F
- ree\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Tours & Public Spaces\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:86ac9c17e1f3@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:5 World-Class Stand Up Comedians
-DESCRIPTION:Stand-up comedy show featuring five top comedians.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://london.thecomedystore.co.uk/whats-on
+UID:2b93573a6451@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Improv comedy show at The Comedy Store.\n\nPrice: Check site\n\
+ nTickets/Info: https://london.thecomedystore.co.uk/event/the-comedy-store-
+ players
 LOCATION:The Comedy Store\, London\, London
-URL:https://london.thecomedystore.co.uk/whats-on
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:fab5fd9ab115@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:AMY MATTHEWS: DEFINITIONS OF TOAST (WIP)
-DESCRIPTION:Comedy show by Amy Matthews.\n\nPrice: Check site\n\nTickets/In
- fo: https://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, Islington\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:06b256cf08b1@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Big Fat Cabaret
-DESCRIPTION:Cabaret and variety show.\n\nPrice: Check site\n\nTickets/Info:
-  https://www.pleasance.co.uk/events/location/London
-LOCATION:Pleasance Theatre\, LONDON\, London
-URL:https://www.pleasance.co.uk/events/location/London
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:5f4e242911dc@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Butt Toot King
-DESCRIPTION:A live music event at the Electric Ballroom.\n\nPrice: From £3
- 5\n\nTickets/Info: https://electricballroom.co.uk/whats-on/
-LOCATION:Electric Ballroom\, Camden\, London
-URL:https://electricballroom.co.uk/whats-on/
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
