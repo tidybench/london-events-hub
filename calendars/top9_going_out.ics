@@ -8,68 +8,121 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4d66b6b05c92@london-events-scraper
+UID:d3b6bb8b9ccb@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260420
-SUMMARY:Another Sky Festival
-DESCRIPTION:Experimental music from the SWANA region and diaspora.\n\nPrice
- : Check site\n\nTickets/Info: https://londonistlistings.substack.com/p/thi
- ngs-to-do-in-london-this-week-eb9
-LOCATION:Cafe OTO\, Dalston\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260430
+SUMMARY:Roundhouse Three-Sixty Festival 2026
+DESCRIPTION:A festival featuring Kae Tempest\, Amaarae\, and more.\n\nPrice
+ : Check site\n\nTickets/Info: https://secretldn.com/things-to-do-london-ap
+ ril-2026/
+LOCATION:The Roundhouse\, Camden\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f535c3c4b503@london-events-scraper
+UID:d5f62fe5c02a@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260523
-SUMMARY:The Guilty Feminist
-DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
- nTickets/Info: https://www.museumofcomedy.com/whats-on/
-LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
-URL:https://www.museumofcomedy.com/whats-on/
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Kim Gordon Live
+DESCRIPTION:Performance by former Sonic Youth star.\n\nPrice: From £30\n\n
+ Tickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Shepherd’s Bush Empire\, Shepherd's Bush\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:1336396c2c21@london-events-scraper
+UID:48e7ef111bd8@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Form Presents: H Hunt\, Tara Cunningham
-DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
- kets/Info: https://www.vortexjazz.co.uk/events/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/events/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:591b25327de2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Naomi Jon
-DESCRIPTION:Pop sensation Naomi Jon performs her new music.\n\nPrice: Free\
- n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/things
- -to-do-in-london-this-week-64229/
-LOCATION:Colours Hoxton\, Hoxton\, London
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Aries
+DESCRIPTION:Genre-blurring performance by alternative artist.\n\nPrice: Fre
+ e\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/thin
+ gs-to-do-in-london-this-week-64229/
+LOCATION:HERE at Outernet\, Camden\, London
 URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
  on-this-week-64229/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:2b93573a6451@london-events-scraper
+UID:194e073de6cc@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:The Comedy Store Players
-DESCRIPTION:Improv comedy show at The Comedy Store.\n\nPrice: Check site\n\
- nTickets/Info: https://london.thecomedystore.co.uk/event/the-comedy-store-
- players
-LOCATION:The Comedy Store\, London\, London
-URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:St George's Day at Trafalgar Square
+DESCRIPTION:Live music\, dance\, and performances celebrating English cultu
+ re.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/d
+ ate/2026/04/
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:c04400c4e170@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Suzi Quatro
+DESCRIPTION:Glam rock performance by trailblazer.\n\nPrice: Free\n\nTickets
+ /Info: https://discover.ticketmaster.co.uk/special-events/things-to-do-in-
+ london-this-week-64229/
+LOCATION:The London Palladium\, Westminster\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a0886e8a84@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Nothing Live
+DESCRIPTION:Post-rock performance by the band.\n\nPrice: From £15\n\nTicke
+ ts/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:MOTH Club\, Hackney\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:e5416951ad07@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Daniel O’Reilly
+DESCRIPTION:Unfiltered comedy about modern life.\n\nPrice: Free\n\nTickets/
+ Info: https://discover.ticketmaster.co.uk/special-events/things-to-do-in-l
+ ondon-this-week-64229/
+LOCATION:O2 Shepherd’s Bush Empire\, Shepherd's Bush\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a597e52122bc@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Teletech LONDON: NATTE VISSTICK\, JOWI + MORE
+DESCRIPTION:Hard techno music event with multiple DJs.\n\nPrice: Check site
+ \n\nTickets/Info: https://e1ldn.co/events/teletech-london-natte-visstick-j
+ owi-more
+LOCATION:London
+URL:https://e1ldn.co/events/teletech-london-natte-visstick-jowi-more
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:cca9e133ae2d@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Wakin Chau Concert
+DESCRIPTION:Mandopop artist Wakin Chau's world tour stop in London.\n\nPric
+ e: Check site\n\nTickets/Info: https://www.ovoarena.co.uk/events/detail/wa
+ kin-chau
+LOCATION:The OVO Arena\, Wembley\, Wembley\, London
+URL:https://www.ovoarena.co.uk/events/detail/wakin-chau
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
