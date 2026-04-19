@@ -21,15 +21,16 @@ URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:084f6e834b12@london-events-scraper
+UID:b7a773958b57@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260503
-SUMMARY:Distancing
-DESCRIPTION:An exhibition exploring themes of distancing.\n\nPrice: Check s
- ite\n\nTickets/Info: https://ropac.net/exhibitions/
-LOCATION:Seoul Fort Hill\, London
-URL:https://ropac.net/exhibitions/
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260419
+SUMMARY:Daphne Wright: Expectations
+DESCRIPTION:An exhibition showcasing the works of artist Daphne Wright\, ex
+ ploring themes of expectation.\n\nPrice: Free\n\nTickets/Info: https://www
+ .frithstreetgallery.com/exhibitions/
+LOCATION:Frith Street Gallery\, Soho\, London
+URL:https://www.frithstreetgallery.com/exhibitions/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -111,15 +112,18 @@ URL:https://www.whitechapelgallery.org/exhibitions/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:faaf6e367633@london-events-scraper
+UID:6660f258af9c@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260505
-SUMMARY:Sony World Photography Awards Exhibition
-DESCRIPTION:An exhibition of award-winning photography.\n\nPrice: Free\n\nT
- ickets/Info: https://www.somersethouse.org.uk/whats-on
-LOCATION:Somerset House\, Strand\, London
-URL:https://www.somersethouse.org.uk/whats-on
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+SUMMARY:Bibliomigrancy amongst the Ruins: post-1945 Book Movement
+DESCRIPTION:A conference exploring the cultural heritage of books post-WWII
+ .\n\nPrice: £35.0\n\nTickets/Info: https://www.vam.ac.uk/event/rkZrzbDO10
+ /bibliomigrancy-conference-april-2026-in-person
+LOCATION:Victoria and Albert Museum South Kensington\, South Kensington\, L
+ ondon
+URL:https://www.vam.ac.uk/event/rkZrzbDO10/bibliomigrancy-conference-april-
+ 2026-in-person
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
