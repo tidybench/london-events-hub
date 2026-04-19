@@ -8,123 +8,115 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:173e72d7ecb6@london-events-scraper
+UID:e75ea78b6a56@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260426
-SUMMARY:From Soundboy to Streaming: Collective and Individual Joy
-DESCRIPTION:A free exhibition exploring London's music community.\n\nPrice:
-  Free\n\nTickets/Info: https://londonistcitykeys.substack.com/p/free-thing
- s-to-do-in-london-this-week-6-12-april-2026
-LOCATION:The Roundhouse\, Camden\, London
-URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
- is-week-6-12-april-2026
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260415
+SUMMARY:Architecture Tours
+DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
+ 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Barbican Arts Centre\, Barbican\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a1197a670d4b@london-events-scraper
+UID:52f9503a4296@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:V&A East Museum opening weekend
+DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
+  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:V&A East Museum\, Olympic Park\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:480c68bb967c@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:600 Years of History Tour
+DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
+ masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
+ on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb877b3c2bd@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260420
+SUMMARY:Cornwallis Cloth Exhibition
+DESCRIPTION:A film installation about British Caribbean lives during WWII.\
+ n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:74048a3cab6f@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Film Tour: Wigs\, Weddings\, Powder and Palaces
+DESCRIPTION:Explore the UK's most filmed heritage site and its role in peri
+ od dramas.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on
+ /
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:78c3fc350f64@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Painted Hall Talks
+DESCRIPTION:Expert guides introduce the characters on the Painted Hall ceil
+ ing.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef87e7094a4@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Secret Dome Tour
+DESCRIPTION:Explore the dome and wartime history of Greenwich.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:215cec37d6a2@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260420
+SUMMARY:Women at War Display
+DESCRIPTION:Documents and artefacts of Wrens who trained at the Royal Naval
+  College.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:89c7ce641407@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-SUMMARY:Classic Car Boot Sale
-DESCRIPTION:A vintage treasure hunt with over 100 traders\, classic cars\, 
- and retro tunes.\n\nPrice: Check site\n\nTickets/Info: https://www.cntrave
- ller.com/gallery/things-to-do-in-london-this-weekend
-LOCATION:Granary Square\, King's Cross\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:1336396c2c21@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Form Presents: H Hunt\, Tara Cunningham
-DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
- kets/Info: https://www.vortexjazz.co.uk/events/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/events/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:9f1a70b63367@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Garden Museum’s Spring Plant Fair
-DESCRIPTION:A plant fair with nurseries from across the UK.\n\nPrice: Free\
- n\nTickets/Info: https://www.timeout.com/london/things-to-do-in-london-thi
- s-weekend
-LOCATION:Garden Museum\, Lambeth\, London
-URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:f1f325de6263@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:London Symphony Orchestra/Sir Antonio Pappano
-DESCRIPTION:Orchestral performance featuring Elgar's deeply emotional music
- .\n\nPrice: £18\n\nTickets/Info: https://www.barbican.org.uk/whats-on/202
- 6/event/london-symphony-orchestrasir-antonio-pappano-2
-LOCATION:Elgar’s oratorio includes some of his most deeply felt music\, s
- umptuously scored and plumbing every emotion from anguish to elation.\, Lo
- ndon
-URL:https://www.barbican.org.uk/whats-on/2026/event/london-symphony-orchest
- rasir-antonio-pappano-2
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:54aa0e8c7df3@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Members' Sunday Film Club: Jean Cocteau
-DESCRIPTION:Film screening and Q&A with director Lisa Immordino Vreeland.\n
- \nPrice: £15.0\n\nTickets/Info: https://www.vam.ac.uk/event/VLOLAW3z6X/fi
- lm-screening-jean-cocteau
-LOCATION:Victoria and Albert Museum South Kensington\, South Kensington\, L
- ondon
-URL:https://www.vam.ac.uk/event/VLOLAW3z6X/film-screening-jean-cocteau
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:4418ae7d01bb@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Naomi Jon: Strawberry Tour 2026
-DESCRIPTION:Electronic pop performance by Naomi Jon.\n\nPrice: Free\n\nTick
- ets/Info: https://discover.ticketmaster.co.uk/special-events/things-to-do-
- in-london-this-week-64229/
-LOCATION:Colours Hoxton\, Hoxton\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:2a96842b7cc7@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Silent Film & Live Music: My Grandmother
-DESCRIPTION:A Soviet-era satire with live music accompaniment.\n\nPrice: Fr
- ee\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Cinema\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
+DTEND;VALUE=DATE:20260419
+SUMMARY:Victorian High Life and Low Life
+DESCRIPTION:A walking tour exploring the contrast between wealth and povert
+ y in Victorian times.\n\nPrice: Free\n\nTickets/Info: https://londonistlis
+ tings.substack.com/p/things-to-do-in-london-this-weekend-18-19-april-2026
+LOCATION:Florence Nightingale Museum\, South Bank\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ekend-18-19-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
