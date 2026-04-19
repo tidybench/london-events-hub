@@ -8,120 +8,120 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:70771441eb27@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-SUMMARY:V&A East Museum opening weekend
-DESCRIPTION:Opening weekend of London's newest museum\, V&A East.\n\nPrice:
-  Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:V&A East Museum\, Olympic Park\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+UID:deb7e7e6a93c@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260601
+SUMMARY:Spring at the Barbican
+DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
+  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
+ fo: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1118f37e7b5e@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260426
-SUMMARY:John Proctor Is the Villain
-DESCRIPTION:A play about girlhood and power.\n\nPrice: Check site\n\nTicket
- s/Info: https://ticketing.timeout.com/london/shows/45671-john-proctor-is-t
- he-villain
-LOCATION:Royal Court\, Sloane Square\, London
-URL:https://ticketing.timeout.com/london/shows/45671-john-proctor-is-the-vi
- llain
+UID:217f39c62e94@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260601
+SUMMARY:Lynda Benglis - Encounters: Giacometti
+DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
+  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
+ kets/Info: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:46dde08a2d1c@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Antonia: Behind the Myth of Marie Antoinette
-DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
- heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
- berata_collective/
-LOCATION:Chiswick House & Gardens\, Chiswick\, London
-URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
+UID:5f9880a99fc5@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260511
+SUMMARY:Beatriz González Exhibition
+DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
+  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
+ arbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:cea3ab6773a4@london-events-scraper
-DTSTAMP:20260418T000000Z
+UID:5323c9f711f5@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260503
+SUMMARY:Copenhagen
+DESCRIPTION:A play exploring the mysterious 1941 meeting between physicists
+  Niels Bohr and Werner Heisenberg in Copenhagen.\n\nPrice: Check site\n\nT
+ ickets/Info: https://www.hampsteadtheatre.com/whats-on/all-shows/
+LOCATION:Hampstead Theatre\, Hampstead\, London
+URL:https://www.hampsteadtheatre.com/whats-on/all-shows/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e268dd1a2b31@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260524
+SUMMARY:A Doll's House
+DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
+  site\n\nTickets/Info: https://almeida.co.uk/whats-on
+LOCATION:Almeida Theatre\, Islington\, London
+URL:https://almeida.co.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:806731605438@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260615
+SUMMARY:Senga Nengudi: Performance Works 1972-1982
+DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
+ 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
+ ry.org/exhibitions/
+LOCATION:Whitechapel Gallery\, Whitechapel\, London
+URL:https://www.whitechapelgallery.org/exhibitions/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6e07b114c206@london-events-scraper
+DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:The Rocky Horror Picture Show 50th Anniversary
-DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
+SUMMARY:Father Mother Sister Brother
+DESCRIPTION:Jim Jarmusch film starring Cate Blanchett and Adam Driver.\n\nP
+ rice: £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event
+ /members-screening-father-mother-sister-brother
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/members-screening-fathe
+ r-mother-sister-brother
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
- \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
- -smiles
-LOCATION:Duke of York's Theatre\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d20d6e749ab3@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260419
-SUMMARY:Black Athena Festival: RONiN
-DESCRIPTION:A dance performance combining swordplay and digital projections
- .\n\nPrice: £20\n\nTickets/Info: https://todolist.london/unmissable-thing
- s-to-do-in-london-in-april-2026/
-LOCATION:The Place\, London
-URL:https://todolist.london/unmissable-things-to-do-in-london-in-april-2026
- /
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d51daf189899@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260531
-SUMMARY:Adrian Ghenie
-DESCRIPTION:An art exhibition by Adrian Ghenie.\n\nPrice: Check site\n\nTic
- kets/Info: https://ropac.net/exhibitions/
-LOCATION:Paris Marais\, London
-URL:https://ropac.net/exhibitions/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:3c5ce5c46167@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Colours of Time
-DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
- a/
-LOCATION:Chiswick Cinema\, Chiswick\, London
-URL:https://www.institut-francais.org.uk/cinema/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:867c9e0ea6d2@london-events-scraper
-DTSTAMP:20260418T000000Z
-DTSTART;VALUE=DATE:20260418
+UID:54aa0e8c7df3@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:London History Festival
-DESCRIPTION:Talks and exhibitions celebrating British history.\n\nPrice: Ap
- prox £35\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-i
- n-april-2026-a-complete-guide-to-50-major-events-sports-attractions/
-LOCATION:Somerset House & Central London venues\, Central London\, London
-URL:https://www.londonbackpackers.com/blog/london-in-april-2026-a-complete-
- guide-to-50-major-events-sports-attractions/
+SUMMARY:Members' Sunday Film Club: Jean Cocteau
+DESCRIPTION:Film screening and Q&A with director Lisa Immordino Vreeland.\n
+ \nPrice: £15.0\n\nTickets/Info: https://www.vam.ac.uk/event/VLOLAW3z6X/fi
+ lm-screening-jean-cocteau
+LOCATION:Victoria and Albert Museum South Kensington\, South Kensington\, L
+ ondon
+URL:https://www.vam.ac.uk/event/VLOLAW3z6X/film-screening-jean-cocteau
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2a96842b7cc7@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Silent Film & Live Music: My Grandmother
+DESCRIPTION:A Soviet-era satire with live music accompaniment.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
