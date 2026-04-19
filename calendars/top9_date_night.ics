@@ -8,19 +8,6 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:0feca2cacb66@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Floating Hot Tub Tour Of London's Docklands
-DESCRIPTION:Hot tub tour of London's docklands.\n\nPrice: from £39.00\n\nT
- ickets/Info: https://www.designmynight.com/london/whats-on/best-events-in-
- april
-LOCATION:Skuna Boats\, Docklands\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:e9607891f9b3@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
@@ -34,98 +21,106 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e239c053b118@london-events-scraper
+UID:fc91bebeda7f@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:Tony Ann
-DESCRIPTION:A one-off concert of contemporary piano music.\n\nPrice: Free\n
- \nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-l
- ondon-this-weekend-18-19-april-2026
-LOCATION:Theatre Royal Drury Lane\, Covent Garden\, London
+SUMMARY:Nicola Benedetti Plays Elgar
+DESCRIPTION:A classical concert featuring Elgar's Violin Concerto.\n\nPrice
+ : Free\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to
+ -do-in-london-this-weekend-18-19-april-2026
+LOCATION:Royal Festival Hall\, Southbank\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ekend-18-19-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:656b080d3c08@london-events-scraper
+UID:e160b1fa69c6@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260607
-SUMMARY:Les Liaisons Dangereuses
-DESCRIPTION:A stage adaptation of the classic novel.\n\nPrice: Check site\n
- \nTickets/Info: https://ticketing.timeout.com/london/shows/45580-les-liais
- ons-dangereuses
-LOCATION:Lyttelton Theatre\, Southbank\, London
-URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
- es
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:Sakura at Sticks n Sushi
+DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
+ ets/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:1b076ffff981@london-events-scraper
+UID:2b45fe3d6728@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Earth Day Scratch Menu
-DESCRIPTION:Sustainable three-course menu for Earth Day.\n\nPrice: Check si
- te\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-
- in-london-this-week-eb9
-LOCATION:Somerset House\, Strand\, London
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260420
+SUMMARY:Chicken Ruby Pie
+DESCRIPTION:Special dish at Dishoom restaurant.\n\nPrice: Check site\n\nTic
+ kets/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:707581f87796@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260427
+SUMMARY:Complimentary Maki
+DESCRIPTION:Free maki rolls at Sticks n Sushi.\n\nPrice: Free\n\nTickets/In
+ fo: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:014b95ae8f97@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260420
+SUMMARY:Cinnamon Kitchen Menu
+DESCRIPTION:Special menu at Cinnamon Kitchen.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:cea3ab6773a4@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:The Rocky Horror Picture Show 50th Anniversary
+DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
+LOCATION:Dominion Theatre\, West End\, London
+URL:https://www.dominiontheatre.com
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1f72a36dcf@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260517
+SUMMARY:Heart Wall Play
+DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
+ amily secrets and grief resurface when she returns to her familiar local p
+ ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
+ ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
+LOCATION:Bush Theatre\, Shepherd's Bush\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
+ ek-30-march-5-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:ce75e66fa77f@london-events-scraper
+UID:6e07b114c206@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Simon Crawford-Phillips and Friends
-DESCRIPTION:Classical music performance.\n\nPrice: £16\n\nTickets/Info: ht
- tps://www.thecityofldn.com/event/simon-crawford-phillips-and-friends-rebec
- ca-clarke-a-musical-odyssey/
-LOCATION:161 Old St\, London EC1V 9NG\, Old Street\, London
-URL:https://www.thecityofldn.com/event/simon-crawford-phillips-and-friends-
- rebecca-clarke-a-musical-odyssey/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:46dde08a2d1c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Antonia: Behind the Myth of Marie Antoinette
-DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
- heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
- berata_collective/
-LOCATION:Chiswick House & Gardens\, Chiswick\, London
-URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:3c5ce5c46167@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Colours of Time
-DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
- a/
-LOCATION:Chiswick Cinema\, Chiswick\, London
-URL:https://www.institut-francais.org.uk/cinema/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:9a60da252232@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:London Taco Experience
-DESCRIPTION:A Mexican extravaganza with tacos\, DJs\, and live Mariachi.\n\
- nPrice: £4.50 per dish\n\nTickets/Info: https://www.cntraveller.com/galle
- ry/things-to-do-in-london-this-weekend
-LOCATION:Freight Brixton\, Brixton\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Father Mother Sister Brother
+DESCRIPTION:Jim Jarmusch film starring Cate Blanchett and Adam Driver.\n\nP
+ rice: £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event
+ /members-screening-father-mother-sister-brother
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/members-screening-fathe
+ r-mother-sister-brother
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
