@@ -8,43 +8,123 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4d66b6b05c92@london-events-scraper
+UID:59dbf2d119f9@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260428
+SUMMARY:Elixir Festival
+DESCRIPTION:A festival reshaping perceptions around dancing and age.\n\nPri
+ ce: Free (some events ticketed)\n\nTickets/Info: https://londonistcitykeys
+ .substack.com/p/free-things-to-do-in-london-this-week-6-12-april-2026
+LOCATION:Sadler’s Wells East\, Stratford\, London
+URL:https://londonistcitykeys.substack.com/p/free-things-to-do-in-london-th
+ is-week-6-12-april-2026
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:69ced1fe23ab@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:King Rastafari Son Presents Ruben Affair – Earthstrong Celebratio
+ n!
+DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
+ fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
+ ffair-earthstrong-celebration/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
+ fair-earthstrong-celebration/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:9a60da252232@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:London Taco Experience
+DESCRIPTION:A Mexican extravaganza with tacos\, DJs\, and live Mariachi.\n\
+ nPrice: £4.50 per dish\n\nTickets/Info: https://www.cntraveller.com/galle
+ ry/things-to-do-in-london-this-weekend
+LOCATION:Freight Brixton\, Brixton\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:76d0717135cd@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Siesta - Opening Party
+DESCRIPTION:House music opening party event.\n\nPrice: Check site\n\nTicket
+ s/Info: https://e1ldn.co/events/siesta-opening-party
+LOCATION:E1 London\, Whitechapel\, London
+URL:https://e1ldn.co/events/siesta-opening-party
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a4a72217e770@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:Another Sky Festival
-DESCRIPTION:Experimental music from the SWANA region and diaspora.\n\nPrice
- : Check site\n\nTickets/Info: https://londonistlistings.substack.com/p/thi
- ngs-to-do-in-london-this-week-eb9
-LOCATION:Cafe OTO\, Dalston\, London
+SUMMARY:St George's Day 2026
+DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.london.gov.uk/events
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://www.london.gov.uk/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:ca18a98ef663@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Country Kings
+DESCRIPTION:Comedy country satire performance in Hackney.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do
+ -in-london-this-week-eb9
+LOCATION:Paper Dress Vintage\, Hackney\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ek-eb9
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f535c3c4b503@london-events-scraper
+UID:03f262069c12@london-events-scraper
 DTSTAMP:20260419T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260523
-SUMMARY:The Guilty Feminist
-DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
- nTickets/Info: https://www.museumofcomedy.com/whats-on/
-LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
-URL:https://www.museumofcomedy.com/whats-on/
+DTEND;VALUE=DATE:20260418
+SUMMARY:Haseeb Iqbal Presents: Beats and Boards
+DESCRIPTION:DJ\, games\, and music night with global board games.\n\nPrice:
+  Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/has
+ eeb-iqbal-presents-beats-and-boards
+LOCATION:Barbican Centre\, City of London\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/haseeb-iqbal-presents-b
+ eats-and-boards
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:55e5709620ed@london-events-scraper
+UID:23bfb30ef59d@london-events-scraper
 DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Pedro Pedro Pedro\, Shut Up Charlie!\, With Who?
-DESCRIPTION:Live music gig at The Windmill.\n\nPrice: €6\,25\n\nTickets/I
- nfo: https://www.windmillbrixton.co.uk/events/2026-04-19-pedro-pedro-pedro
- -shut-up-charlie-with-who-the-windmill
-LOCATION:The Windmill\, London
-URL:https://www.windmillbrixton.co.uk/events/2026-04-19-pedro-pedro-pedro-s
- hut-up-charlie-with-who-the-windmill
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:James: Love Is The Answer UK Arena Tour
+DESCRIPTION:Live performance by the band James.\n\nPrice: Free\n\nTickets/I
+ nfo: https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lo
+ ndon-this-week-64229/
+LOCATION:O2 Arena\, North Greenwich\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:0686ed1d91e2@london-events-scraper
+DTSTAMP:20260419T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:OPEN CITY DOCUMENTARY FESTIVAL 2026: FESTIVAL PARTY
+DESCRIPTION:Celebration with music and networking.\n\nPrice: FREE\n\nTicket
+ s/Info: https://richmix.org.uk/whats-on
+LOCATION:Rich Mix\, Shoreditch\, London
+URL:https://richmix.org.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
