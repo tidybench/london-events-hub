@@ -8,46 +8,6 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4227020ce341@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Circe's Cloud 9 Pods
-DESCRIPTION:Exclusive igloos with cocktails and city views.\n\nPrice: Pods 
- from £200\n\nTickets/Info: https://www.designmynight.com/london/whats-on/
- best-events-in-april
-LOCATION:Circe’s Rooftop Waterloo\, Waterloo\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:23515e3374ec@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Floating Hot Tub Tour
-DESCRIPTION:Relaxing hot tub tour of London's docklands.\n\nPrice: from £3
- 9.00\n\nTickets/Info: https://www.designmynight.com/london/whats-on/best-e
- vents-in-april
-LOCATION:Skuna Boats\, Docklands\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:b6f93ec3ee78@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:British Asparagus Season Dinner
-DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
- £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
- h-table-celebrating-british-asparagus-season-23-04-2026
-LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
-URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
- -british-asparagus-season-23-04-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:7ff8afc507e8@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260421
@@ -60,15 +20,15 @@ URL:https://www.picturehouses.com/cinema/picturehouse-central
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:342642ccc2e6@london-events-scraper
+UID:9295e7ff295d@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260503
-SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
-DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
- ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
-LOCATION:Studio 1\, London\, London
-URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Amelie (25th Anniversary Re-release)
+DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
+ nfo: https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -86,15 +46,27 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:7319d6294f1b@london-events-scraper
+UID:feb26d93c5fa@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260712
-SUMMARY:Kinky Boots
-DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
- \n\nPrice: Check site\n\nTickets/Info: https://londoncoliseum.org/whats-on
-LOCATION:London Coliseum\, West End\, London
-URL:https://londoncoliseum.org/whats-on
+DTEND;VALUE=DATE:20260427
+SUMMARY:Hampton Court Palace Tulip Festival
+DESCRIPTION:Spring festival with thousands of tulips in bloom.\n\nPrice: £
+ 32\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+LOCATION:Hampton Court Palace\, Hampton Court\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:939d50925d30@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:London Symphony Orchestra/Sir Antonio Pappano
+DESCRIPTION:Elgar's oratorio performed by the LSO.\n\nPrice: Free\n\nTicket
+ s/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Classical Music\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -110,15 +82,42 @@ URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9295e7ff295d@london-events-scraper
+UID:d488fe1dcb6a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Surreal Still Life Drink + Draw
+DESCRIPTION:Absinthe workshop inspired by museum curiosities.\n\nPrice: £2
+ 6.2\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:The Last Tuesday Society & Viktor Wynd Museum\, Hackney\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b5ba5c6085@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:Amelie (25th Anniversary Re-release)
-DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
- nfo: https://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
+SUMMARY:Early Evening Gin Tour
+DESCRIPTION:A tour through the history of the Household Cavalry after hours
+ .\n\nPrice: £20.00\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
+ date/2026/04/
+LOCATION:Household Cavalry Museum\, Whitehall\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f93ec3ee78@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:British Asparagus Season Dinner
+DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
+ £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
+ h-table-celebrating-british-asparagus-season-23-04-2026
+LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
+URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
+ -british-asparagus-season-23-04-2026
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
