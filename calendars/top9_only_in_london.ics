@@ -8,119 +8,107 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:978610ded9f8@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:Secret Dome Tour
-DESCRIPTION:Explore the Old Royal Naval College's dome and enjoy panoramic 
- London views.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats
- -on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+UID:8db70a8298df@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Energy Observer at Tower Bridge
+DESCRIPTION:See the zero-emission hydrogen-powered vessel pass through Towe
+ r Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/cale
+ ndar/weekend/
+LOCATION:Tower Bridge\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
+UID:793119219d1f@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:King's Day celebrations
+DESCRIPTION:Street party marking the Dutch King's birthday.\n\nPrice: Free\
+ n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:The Dutch Church\, City of London\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:e268dd1a2b31@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260524
-SUMMARY:A Doll's House
-DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
-  site\n\nTickets/Info: https://almeida.co.uk/whats-on
-LOCATION:Almeida Theatre\, Islington\, London
-URL:https://almeida.co.uk/whats-on
+UID:51bc2abf41ed@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20260422
+SUMMARY:Hidden Holborn and Little Italy Talk
+DESCRIPTION:Explore the history of London’s former Italian Quarter.\n\nPr
+ ice: £11.55\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/20
+ 26/04/
+LOCATION:Hotel Indigo Clerkenwell\, Clerkenwell\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:12bbb2a289c7@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260524
-SUMMARY:Liza Lou
-DESCRIPTION:An exhibition of Liza Lou's artwork.\n\nPrice: Check site\n\nTi
- ckets/Info: https://ropac.net/exhibitions/
-LOCATION:Ely House\, London\, Mayfair\, London
-URL:https://ropac.net/exhibitions/
+UID:a72034f6f40a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:David Garrick: His Life\, His Times and His Temple
+DESCRIPTION:Talk on the life of actor David Garrick.\n\nPrice: £10.78\n\nT
+ ickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Garrick’s Temple to Shakespeare\, Hampton\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:e3bc662b4183@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260503
-SUMMARY:Orders of Magnitude by Sholto Blissett
-DESCRIPTION:Exhibition of fictional landscapes by Sholto Blissett.\n\nPrice
- : Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events
- /things-to-do-in-london-this-week-64229/
-LOCATION:Pilar Corrias Gallery\, Mayfair\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
+UID:3b04a3e8c81a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Energy Observer Passing Tower Bridge
+DESCRIPTION:Watch the zero-emission hydrogen-powered vessel pass through To
+ wer Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/date/2026/04/
+LOCATION:Tower Bridge\, Tower Bridge\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6b198179158a@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260524
-SUMMARY:Paula Rego: Story Line
-DESCRIPTION:An exhibition of Paula Rego's drawings.\n\nPrice: Check site\n\
- nTickets/Info: https://www.victoria-miro.com/exhibitions/
-LOCATION:London Gallery I\, London Gallery II\, London\, London
-URL:https://www.victoria-miro.com/exhibitions/
+UID:3723bd66c555@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20260422
+SUMMARY:David Garrick: His Life and Temple
+DESCRIPTION:Talk on the life of actor David Garrick and his Temple in Hampt
+ on.\n\nPrice: £10.78\n\nTickets/Info: https://www.ianvisits.co.uk/calenda
+ r/date/2026/04/
+LOCATION:Garrick’s Temple to Shakespeare\, Hampton\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:46dde08a2d1c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Antonia: Behind the Myth of Marie Antoinette
-DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
- heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
- berata_collective/
-LOCATION:Chiswick House & Gardens\, Chiswick\, London
-URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
+UID:a710209f8228@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260427
+SUMMARY:Brick Lane Jazz Festival
+DESCRIPTION:Weekend of live music around east London.\n\nPrice: Free\n\nTic
+ kets/Info: https://londonistlistings.substack.com/p/things-to-do-in-london
+ -this-week-20-26-april-2026
+LOCATION:Brick Lane\, Brick Lane\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:3c5ce5c46167@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Colours of Time
-DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
- a/
-LOCATION:Chiswick Cinema\, Chiswick\, London
-URL:https://www.institut-francais.org.uk/cinema/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:69ced1fe23ab@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:King Rastafari Son Presents Ruben Affair – Earthstrong Celebratio
- n!
-DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
- fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
- ffair-earthstrong-celebration/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
- fair-earthstrong-celebration/
+UID:53a13acb14ab@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Shakespeare for All in All
+DESCRIPTION:Shakespeare-themed walking tour.\n\nPrice: From £12.50\n\nTick
+ ets/Info: https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-
+ in-all-tickets-1980638112913
+LOCATION:St Paul’s Station\, St Paul’s\, London
+URL:https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-in-all-
+ tickets-1980638112913
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
