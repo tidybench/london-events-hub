@@ -55,6 +55,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Grace Pervades</name>
+      <description><![CDATA[<b>Grace Pervades</b><br><i>Theatre</i><br>Fri 24th Apr – Sat 11th Jul<br>Theatre Royal Haymarket, Haymarket<br>Free<br><br>New play starring Ralph Fiennes and Miranda Raison.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13201,51.50884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Ken Ludwig's Dear Jack, Dear Louise</name>
       <description><![CDATA[<b>Ken Ludwig's Dear Jack, Dear Louise</b><br><i>Theatre</i><br>Thu 2nd Apr – Sat 2nd May<br>Studio 1, London<br>£15<br><br>Play directed by Simon Reade.<br><br><a href="https://www.arcolatheatre.com/event/dear-jack-dear-louise/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -63,43 +71,19 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Hampton Court Palace Tulip Festival</name>
-      <description><![CDATA[<b>Hampton Court Palace Tulip Festival</b><br><i>Festival</i><br>Sat 11th Apr – Sun 26th Apr<br>Hampton Court Palace, Richmond upon Thames<br>From £29<br><br>A festival celebrating tulips in the palace gardens.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.3376964,51.4036839,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Early Evening Gin Tour</name>
-      <description><![CDATA[<b>Early Evening Gin Tour</b><br><i>Food &amp; Drink</i><br>Wed 22nd Apr<br>Household Cavalry Museum, Whitehall<br>£20.00<br><br>A tour through the history of the Household Cavalry after hours.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0693087,51.6039145,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tales of Love and Loss</name>
-      <description><![CDATA[<b>Tales of Love and Loss</b><br><i>Theatre</i><br>Wed 22nd Apr<br>Clore Studio, Covent Garden<br>Free<br><br>Behind-the-scenes look at Royal Ballet production.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.122534,51.51251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Friends &amp; Family Capsule</name>
-      <description><![CDATA[<b>Friends &amp; Family Capsule</b><br><i>Cultural</i><br>Thu 23rd Apr<br>The London Eye, South Bank<br>Check site<br><br>Private pod experience on the London Eye.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1188456,51.5029722,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Mamma Mia! It's An ABBA Afterparty</name>
-      <description><![CDATA[<b>Mamma Mia! It's An ABBA Afterparty</b><br><i>Nightlife</i><br>Thu 23rd Apr<br>Snoozebox Olympic Park, Olympic Park<br>Free<br><br>ABBA-themed afterparty with food and drinks.<br><br><a href="https://www.designmynight.com/london/free-things-to-do-london-this-weekend">More info / tickets</a>]]></description>
+      <name>Chloe Flower</name>
+      <description><![CDATA[<b>Chloe Flower</b><br><i>Music</i><br>Mon 20th Apr<br>Kings Place, Kings Cross<br>Free<br><br>Korean-American pianist performs at Kings Place.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.012682,51.544854,0</coordinates>
+        <coordinates>-0.092813,51.514993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Surreal Still Life Drink + Draw</name>
+      <description><![CDATA[<b>Surreal Still Life Drink + Draw</b><br><i>Arts &amp; Social</i><br>Tue 21st Apr<br>The Last Tuesday Society &amp; Viktor Wynd Museum, Hackney<br>£26.2<br><br>Absinthe workshop inspired by museum curiosities.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0576431,51.5346988,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -111,59 +95,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Energy Observer at Tower Bridge</name>
-      <description><![CDATA[<b>Energy Observer at Tower Bridge</b><br><i>Cultural</i><br>Mon 20th Apr<br>Tower Bridge, Southwark<br>Free<br><br>See the zero-emission hydrogen-powered vessel pass through Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Early Evening Gin Tour</name>
+      <description><![CDATA[<b>Early Evening Gin Tour</b><br><i>Food &amp; Drink</i><br>Wed 22nd Apr<br>Household Cavalry Museum, Whitehall<br>£20.00<br><br>A tour through the history of the Household Cavalry after hours.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0753662,51.5055166,0</coordinates>
+        <coordinates>-0.0693087,51.6039145,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>King's Day celebrations</name>
-      <description><![CDATA[<b>King's Day celebrations</b><br><i>Cultural</i><br>Mon 20th Apr<br>The Dutch Church, City of London<br>Free<br><br>Street party marking the Dutch King's birthday.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Spring Supermarket Sipping</name>
+      <description><![CDATA[<b>Spring Supermarket Sipping</b><br><i>Food &amp; Drink</i><br>Wed 22nd Apr<br>London Welsh Centre, Clerkenwell<br>Free<br><br>Evening dedicated to finding seasonal wines.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0856283,51.515502,0</coordinates>
+        <coordinates>-0.1168211,51.5249398,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Hidden Holborn and Little Italy Talk</name>
-      <description><![CDATA[<b>Hidden Holborn and Little Italy Talk</b><br><i>Cultural</i><br>Sun 26th Apr – Tue 21st Apr<br>Hotel Indigo Clerkenwell, Clerkenwell<br>£11.55<br><br>Explore the history of London’s former Italian Quarter.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0990416,51.523531,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>David Garrick: His Life, His Times and His Temple</name>
-      <description><![CDATA[<b>David Garrick: His Life, His Times and His Temple</b><br><i>Cultural</i><br>Tue 21st Apr<br>Garrick’s Temple to Shakespeare, Hampton<br>£10.78<br><br>Talk on the life of actor David Garrick.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.359399,51.4123794,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Energy Observer Passing Tower Bridge</name>
-      <description><![CDATA[<b>Energy Observer Passing Tower Bridge</b><br><i>Cultural</i><br>Sat 25th Apr<br>Tower Bridge, Tower Bridge<br>Free<br><br>Watch the zero-emission hydrogen-powered vessel pass through Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0753662,51.5055166,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>David Garrick: His Life and Temple</name>
-      <description><![CDATA[<b>David Garrick: His Life and Temple</b><br><i>Cultural</i><br>Sun 26th Apr – Tue 21st Apr<br>Garrick’s Temple to Shakespeare, Hampton<br>£10.78<br><br>Talk on the life of actor David Garrick and his Temple in Hampton.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.359399,51.4123794,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Brick Lane Jazz Festival</name>
-      <description><![CDATA[<b>Brick Lane Jazz Festival</b><br><i>Music</i><br>Thu 23rd Apr – Sun 26th Apr<br>Brick Lane, Brick Lane<br>Free<br><br>Weekend of live music around east London.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <name>Moonshine Saloon</name>
+      <description><![CDATA[<b>Moonshine Saloon</b><br><i>Nightlife</i><br>Tue 21st Apr<br>Moonshine Saloon, Houndsditch<br>from £41.80 - £47.52<br><br>Wild West-themed immersive cocktail experience.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0706571,51.5174584,0</coordinates>
+        <coordinates>-0.0771171,51.5144328,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -175,35 +127,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Star Trek Exhibition</name>
-      <description><![CDATA[<b>Star Trek Exhibition</b><br><i>Cultural</i><br>Thu 26th Mar – Thu 18th Jun<br>Science Museum, South Kensington<br>Check site<br><br>A celebration of 60 years of Star Trek.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
+      <name>600 Years of History Tour</name>
+      <description><![CDATA[<b>600 Years of History Tour</b><br><i>Cultural</i><br>Mon 20th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Discover the Tudor origins and Wren's architecture at this historic site.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.174233,51.497764,0</coordinates>
+        <coordinates>-0.006268,51.484071,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Sony World Photography Awards Exhibition</name>
-      <description><![CDATA[<b>Sony World Photography Awards Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 17th Apr – Mon 4th May<br>Somerset House, Strand<br>Free<br><br>An exhibition of award-winning photography.<br><br><a href="https://www.somersethouse.org.uk/whats-on">More info / tickets</a>]]></description>
+      <name>Archaeology Tours of Lesnes Abbey</name>
+      <description><![CDATA[<b>Archaeology Tours of Lesnes Abbey</b><br><i>Cultural</i><br>Mon 20th Apr – Sat 25th Apr<br>Lesnes Abbey, Bexley<br>Free<br><br>Visit the ruins and see archaeologists at work.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+        <coordinates>0.1341078,51.4859646,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>A World Without Work</name>
-      <description><![CDATA[<b>A World Without Work</b><br><i>Cultural</i><br>Mon 20th Apr<br>Barnard’s Inn Hall, Holborn<br>FREE<br><br>Economist discusses potential for technological unemployment.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <name>Cornwallis Cloth Exhibition</name>
+      <description><![CDATA[<b>Cornwallis Cloth Exhibition</b><br><i>Cultural</i><br>Mon 20th Apr – Sun 26th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Film installation about British Caribbean lives during WWII.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1097558,51.5175445,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Archaeology tours of Lesnes Abbey</name>
-      <description><![CDATA[<b>Archaeology tours of Lesnes Abbey</b><br><i>Cultural</i><br>Mon 20th Apr – Sat 25th Apr<br>Lesnes Abbey, Abbey Wood<br>Free<br><br>Explore the ruins of Lesnes Abbey with archaeologists.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.134624,51.486554,0</coordinates>
+        <coordinates>-0.006268,51.484071,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -223,11 +167,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>FRAMELESS</name>
-      <description><![CDATA[<b>FRAMELESS</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>FRAMELESS, W1H 7AP<br>Check site<br><br>Immersive art experience with famous paintings.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <name>Painted Hall Talks</name>
+      <description><![CDATA[<b>Painted Hall Talks</b><br><i>Cultural</i><br>Mon 20th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Learn about the 200+ characters depicted on the Painted Hall ceiling.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1601476,51.5135262,0</coordinates>
+        <coordinates>-0.006268,51.484071,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -239,11 +183,75 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Celebrating our Fanniversary</name>
-      <description><![CDATA[<b>Celebrating our Fanniversary</b><br><i>Cultural</i><br>Tue 21st Apr<br>The Vagina Museum, Bethnal Green<br>FREE<br><br>Hybrid conference on feminism and gender justice.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <name>Spring at the Barbican</name>
+      <description><![CDATA[<b>Spring at the Barbican</b><br><i>Arts &amp; Culture</i><br>Sun 1st Feb – Sun 31st May<br>Barbican Centre, Barbican<br>Check site<br><br>The Barbican Centre presents its program for Spring, featuring a variety of arts and cultural events.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.077084,51.523692,0</coordinates>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jaja’s African Hair Braiding</name>
+      <description><![CDATA[<b>Jaja’s African Hair Braiding</b><br><i>Theatre</i><br>Wed 18th Mar – Sat 25th Apr<br>Lyric Hammersmith Theatre, Hammersmith<br>From £10<br><br>Welcome to Jaja’s, a bustling Harlem braiding salon where West African immigrant braiders bring hairstyle dreams to life.<br><br><a href="https://lyric.co.uk/shows/jajas-african-hair-braiding/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.22654427084830048,51.49304955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIFELINE</name>
+      <description><![CDATA[<b>LIFELINE</b><br><i>Theatre</i><br>Sat 28th Mar – Sat 2nd May<br>Southwark Playhouse Elephant, Elephant and Castle<br>Free<br><br>See 'LIFELINE,' a play by Robin Hiley and Becky Hope-Palmer, at Southwark Playhouse Elephant.<br><br><a href="https://southwarkplayhouse.co.uk">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.10278508687097637,51.49242345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Museum of London Docklands highlights tour</name>
+      <description><![CDATA[<b>Museum of London Docklands highlights tour</b><br><i>Cultural</i><br>Sat 4th Apr – Sun 26th Apr<br>Museum of London Docklands, Canary Wharf<br>Free<br><br>A guided tour showcasing the very best bits and highlights of the Museum of London Docklands.<br><br><a href="https://www.londonmuseum.org.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0238687,51.5076342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>My Uncle is Not Pablo Escobar</name>
+      <description><![CDATA[<b>My Uncle is Not Pablo Escobar</b><br><i>Theatre</i><br>Fri 17th Apr – Sun 3rd May<br>Brixton House, Brixton<br>Not specified<br><br>A play about South London’s Latinx women uncovering a scandal.<br><br><a href="https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1109459,51.4620286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sony World Photography Awards Exhibition</name>
+      <description><![CDATA[<b>Sony World Photography Awards Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 17th Apr – Mon 4th May<br>Somerset House, Strand<br>Free<br><br>An exhibition of award-winning photography.<br><br><a href="https://www.somersethouse.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FRAMELESS</name>
+      <description><![CDATA[<b>FRAMELESS</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>FRAMELESS, W1H 7AP<br>Free<br><br>Immersive art experience with famous paintings.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1601476,51.5135262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Double Indemnity</name>
+      <description><![CDATA[<b>Double Indemnity</b><br><i>Theatre</i><br>Tue 21st Apr – Sat 25th Apr<br>Churchill Theatre, London<br>from £31<br><br>A stage adaptation of James M Cain's crime novel about a woman plotting her husband's murder.<br><br><a href="https://www.london-theatreland.co.uk/dates/2026/04">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0323584,51.5422748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oh, Mary!</name>
+      <description><![CDATA[<b>Oh, Mary!</b><br><i>Theatre</i><br>Wed 22nd Apr<br>Trafalgar Theatre, West End<br>Check site<br><br>Fast-paced comedy performance.<br><br><a href="https://www.skiddle.com/whats-on/London/Trafalgar-Theatre/Oh-Mary/41988361/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -255,14 +263,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Big Top 90'S VS 00'S Brunch</name>
-      <description><![CDATA[<b>Big Top 90'S VS 00'S Brunch</b><br><i>Food &amp; Drink</i><br>Sat 25th Apr<br>Trapeze, East London<br>from £43.94 - £49.62<br><br>Throwback fun with lip sync battles and bottomless booze.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0833109,51.5257616,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>The Guilty Feminist</name>
       <description><![CDATA[<b>The Guilty Feminist</b><br><i>Comedy</i><br>Fri 17th Apr – Fri 22nd May<br>The Undercroft, St George's Church, Bloomsbury<br>£1.25<br><br>Comedy show exploring feminism with humour.<br><br><a href="https://www.museumofcomedy.com/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -271,35 +271,59 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Moonshine Saloon</name>
-      <description><![CDATA[<b>Moonshine Saloon</b><br><i>Nightlife</i><br>Tue 21st Apr<br>Moonshine Saloon, Houndsditch<br>from £41.80 - £47.52<br><br>Wild West-themed immersive cocktail experience.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0771171,51.5144328,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Good Ship Comedy</name>
-      <description><![CDATA[<b>Good Ship Comedy</b><br><i>Comedy</i><br>Wed 22nd Apr<br>The Thieves, London<br>£12.00<br><br>Comedy club featuring UK circuit comics.<br><br><a href="https://www.skiddle.com/whats-on/events/London/?eventType=COMEDY&amp;">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1789312,51.4696435,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Glassy 'n' Bingo</name>
-      <description><![CDATA[<b>Glassy 'n' Bingo</b><br><i>Nightlife</i><br>Fri 24th Apr<br>Dabbers Social Bingo, London<br>£10.00<br><br>Bingo night with DJs playing Bhangra and RnB.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.055081,51.545047,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>OZORA One Day in London</name>
-      <description><![CDATA[<b>OZORA One Day in London</b><br><i>Festival</i><br>Fri 24th Apr – Sat 25th Apr<br>Unit 2, 110 Pennington St, Pennington Street<br>Check site<br><br>One-day music festival.<br><br><a href="https://www.skiddle.com/whats-on/London/april-events/">More info / tickets</a>]]></description>
+      <name>Elixir Festival</name>
+      <description><![CDATA[<b>Elixir Festival</b><br><i>Festival</i><br>Sun 19th Apr – Mon 27th Apr<br>Sadler’s Wells, Islington<br>Free<br><br>Performances spanning Bollywood, flamenco, jazz, and more.<br><br><a href="https://www.sadlerswells.com/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0612435,51.508859,0</coordinates>
+        <coordinates>-0.1061453,51.5294595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ABBA Afterparty</name>
+      <description><![CDATA[<b>ABBA Afterparty</b><br><i>Nightlife</i><br>Fri 24th Apr<br>Snoozebox Olympic Park, Stratford<br>Free<br><br>ABBA-themed dance party with food and drinks.<br><br><a href="https://www.designmynight.com/london/free-things-to-do-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.013763535952204406,51.5348968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Top 90'S VS 00'S Brunch</name>
+      <description><![CDATA[<b>Big Top 90'S VS 00'S Brunch</b><br><i>Food &amp; Drink</i><br>Sat 25th Apr<br>Trapeze, East London<br>from £43.94 - £49.62<br><br>Throwback fun with lip sync battles and bottomless booze.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0833109,51.5257616,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Free Live Music and Vinyl Night</name>
+      <description><![CDATA[<b>Free Live Music and Vinyl Night</b><br><i>Music</i><br>Sat 25th Apr<br>St. Christopher's Inn, London Bridge<br>Free<br><br>Live bands and DJs playing funk and disco.<br><br><a href="https://www.designmynight.com/london/free-things-to-do-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0886993,51.5054118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mozey - Cowboys In Space</name>
+      <description><![CDATA[<b>Mozey - Cowboys In Space</b><br><i>Music</i><br>Sat 25th Apr – Sun 26th Apr<br>Troxy, Stepney Green<br>£22.25<br><br>Live music performance.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.046801,51.519039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Captain’s Beard</name>
+      <description><![CDATA[<b>The Captain’s Beard</b><br><i>Music</i><br>Fri 24th Apr<br>New Cross Inn, New Cross<br>Varies<br><br>Folk-rock night with maritime-themed music.<br><br><a href="https://pit.live/events/the-captains-beard">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0370911,51.4757953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ana Carla Maza Live</name>
+      <description><![CDATA[<b>Ana Carla Maza Live</b><br><i>Music</i><br>Sun 26th Apr<br>KOKO, Camden<br>Check site<br><br>Live performance by Ana Carla Maza.<br><br><a href="https://www.skiddle.com/whats-on/London/april-events/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1624803,51.5427966,0</coordinates>
       </Point>
     </Placemark>
   </Document>
