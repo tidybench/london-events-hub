@@ -8,69 +8,30 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:deb7e7e6a93c@london-events-scraper
+UID:c4049d99e216@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260601
-SUMMARY:Spring at the Barbican
-DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
-  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
- fo: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260430
+SUMMARY:Spotlight: Theatre Conversations
+DESCRIPTION:Discussions about the world of theatre with host Lucy Phelps.\n
+ \nPrice: £20\n\nTickets/Info: https://www.nationalgallery.org.uk/events/i
+ n-conversation-spotlight-conversations-about-the-world-of-theatre-2026
+LOCATION:The National Gallery\, London
+URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
+ versations-about-the-world-of-theatre-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:e488044f66c9@london-events-scraper
+UID:1be6300c130c@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260426
-SUMMARY:Jaja’s African Hair Braiding
-DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
- st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
- om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
- ding/
-LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
-URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6bf9365c317a@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260503
-SUMMARY:LIFELINE
-DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
- at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
- outhwarkplayhouse.co.uk
-LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
-URL:https://southwarkplayhouse.co.uk
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:c0bce1a650dc@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260427
-SUMMARY:Museum of London Docklands highlights tour
-DESCRIPTION:A guided tour showcasing the very best bits and highlights of t
- he Museum of London Docklands.\n\nPrice: Free\n\nTickets/Info: https://www
- .londonmuseum.org.uk/whats-on/
-LOCATION:Museum of London Docklands\, Canary Wharf\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:cda6f4de57b0@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260504
-SUMMARY:My Uncle is Not Pablo Escobar
-DESCRIPTION:A play about South London’s Latinx women uncovering a scandal
- .\n\nPrice: Not specified\n\nTickets/Info: https://www.cntraveller.com/gal
- lery/things-to-do-in-london-this-weekend
-LOCATION:Brixton House\, Brixton\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
+ \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
+ -smiles
+LOCATION:Duke of York's Theatre\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -86,44 +47,76 @@ URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:ab1927b92e22@london-events-scraper
+UID:e2e3b6fb52c8@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:FRAMELESS
-DESCRIPTION:Immersive art experience with famous paintings.\n\nPrice: Free\
- n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/things
- -to-do-in-london-this-week-64229/
-LOCATION:FRAMELESS\, W1H 7AP\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
+SUMMARY:1996: A celebration of the wildest year of Britain’s wildest
+DESCRIPTION:Relive 90s music\, fashion\, and football.\n\nPrice: Free\n\nTi
+ ckets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Tours & Public Spaces\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:e3ce84d2bfa9@london-events-scraper
+UID:f5bd77fee9b8@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260426
-SUMMARY:Double Indemnity
-DESCRIPTION:A stage adaptation of James M Cain's crime novel about a woman 
- plotting her husband's murder.\n\nPrice: from £31\n\nTickets/Info: https:
- //www.london-theatreland.co.uk/dates/2026/04
-LOCATION:Churchill Theatre\, London\, London
-URL:https://www.london-theatreland.co.uk/dates/2026/04
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Akira
+DESCRIPTION:Screening of the cyberpunk anime classic.\n\nPrice: £1 MEM\n\n
+ Tickets/Info: https://princecharlescinema.com
+LOCATION:Prince Charles Cinema\, Leicester Square\, London
+URL:https://princecharlescinema.com
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:b9acfaad0280@london-events-scraper
+UID:278c89e39180@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Oh\, Mary!
-DESCRIPTION:Fast-paced comedy performance.\n\nPrice: Check site\n\nTickets/
- Info: https://www.skiddle.com/whats-on/London/Trafalgar-Theatre/Oh-Mary/41
- 988361/
-LOCATION:Trafalgar Theatre\, West End\, London
-URL:https://www.skiddle.com/whats-on/London/Trafalgar-Theatre/Oh-Mary/41988
- 361/
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Dazed And Confused
+DESCRIPTION:Coming-of-age film about rowdy teenagers on their last day of h
+ igh school.\n\nPrice: Check site\n\nTickets/Info: https://princecharlescin
+ ema.com
+LOCATION:Prince Charles Cinema\, Leicester Square\, London
+URL:https://princecharlescinema.com
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:19b445847681@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Father Mother Sister Brother
+DESCRIPTION:Jim Jarmusch film about emotionally detached siblings.\n\nPrice
+ : £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:17d54e033ebe@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:How High
+DESCRIPTION:Comedy film about two friends who pass exams after smoking magi
+ c weed.\n\nPrice: £1 MEM\n\nTickets/Info: https://princecharlescinema.com
+LOCATION:Prince Charles Cinema\, Leicester Square\, London
+URL:https://princecharlescinema.com
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:66adf055acef@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Paris\, Texas
+DESCRIPTION:A man with amnesia reunites with his brother in this classic fi
+ lm.\n\nPrice: Check site\n\nTickets/Info: https://princecharlescinema.com
+LOCATION:Prince Charles Cinema\, Leicester Square\, London
+URL:https://princecharlescinema.com
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
