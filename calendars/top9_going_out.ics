@@ -8,119 +8,92 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:9a60da252232@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:London Taco Experience
-DESCRIPTION:A Mexican extravaganza with tacos\, DJs\, and live Mariachi.\n\
- nPrice: £4.50 per dish\n\nTickets/Info: https://www.cntraveller.com/galle
- ry/things-to-do-in-london-this-weekend
-LOCATION:Freight Brixton\, Brixton\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+UID:fc1471ae8e77@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:1Xtra Takeover
+DESCRIPTION:Club night featuring 1Xtra DJs and live performances.\n\nPrice:
+  Free\n\nTickets/Info: https://earthackney.co.uk/events/1xtra-takeover-25t
+ h-apr-earth-london-tickets-wwe22n/
+LOCATION:EartH Hall\, Hackney\, London
+URL:https://earthackney.co.uk/events/1xtra-takeover-25th-apr-earth-london-t
+ ickets-wwe22n/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:feb95888723a@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:AWEN
-DESCRIPTION:An afro house and tech house music event.\n\nPrice: Check site\
- n\nTickets/Info: https://e1ldn.co/events/2026-04-18-awen
-LOCATION:E1 London\, Whitechapel\, London
-URL:https://e1ldn.co/events/2026-04-18-awen
+UID:5fdd60f8f9f4@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Big Top 90'S VS 00'S Brunch
+DESCRIPTION:Throwback fun with lip sync battles and bottomless booze.\n\nPr
+ ice: from £43.94 - £49.62\n\nTickets/Info: https://www.designmynight.com
+ /london/whats-on/best-events-in-april
+LOCATION:Trapeze\, East London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:5fe2af9a0e93@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:RNB MANIA
-DESCRIPTION:R&B music event.\n\nPrice: Check site\n\nTickets/Info: https://
- www.xoyo.co.uk/events/rnb-mania
-LOCATION:London
-URL:https://www.xoyo.co.uk/events/rnb-mania
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:5b792f27cf68@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:wAFF\, Yousef\, AJ Christou & Evie
-DESCRIPTION:Electronic music event with multiple DJs.\n\nPrice: Check site\
- n\nTickets/Info: https://www.xoyo.co.uk/events/aj-christou-evie-waff-youse
- f
-LOCATION:London
-URL:https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:1336396c2c21@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Form Presents: H Hunt\, Tara Cunningham
-DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
- kets/Info: https://www.vortexjazz.co.uk/events/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/events/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:cea3ab6773a4@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:The Rocky Horror Picture Show 50th Anniversary
-DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:ca18a98ef663@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Country Kings
-DESCRIPTION:Comedy country satire performance in Hackney.\n\nPrice: Check s
- ite\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do
- -in-london-this-week-eb9
-LOCATION:Paper Dress Vintage\, Hackney\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:2783e89cdd15@london-events-scraper
-DTSTAMP:20260419T000000Z
+UID:f535c3c4b503@london-events-scraper
+DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260419
-SUMMARY:Banana Cabaret
-DESCRIPTION:Comedy club night with stand-up performances.\n\nPrice: Check s
- ite\n\nTickets/Info: https://www.eventbrite.co.uk/e/banana-cabaret-170426-
- tickets-1981744994626
-LOCATION:The Bedford\, London\, London
-URL:https://www.eventbrite.co.uk/e/banana-cabaret-170426-tickets-1981744994
- 626
+DTEND;VALUE=DATE:20260523
+SUMMARY:The Guilty Feminist
+DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
+ nTickets/Info: https://www.museumofcomedy.com/whats-on/
+LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:60e85649eba2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Bloodsucking Comedy
-DESCRIPTION:Late-night vampiric comedy show.\n\nPrice: Check site\n\nTicket
- s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
- is-week-eb9
-LOCATION:The Bill Murray\, Shoreditch\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
+UID:56dd67912269@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Moonshine Saloon
+DESCRIPTION:Wild West-themed immersive cocktail experience.\n\nPrice: from 
+ £41.80 - £47.52\n\nTickets/Info: https://www.designmynight.com/london/wh
+ ats-on/best-events-in-april
+LOCATION:Moonshine Saloon\, Houndsditch\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:07da05d8b2e8@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Good Ship Comedy
+DESCRIPTION:Comedy club featuring UK circuit comics.\n\nPrice: £12.00\n\nT
+ ickets/Info: https://www.skiddle.com/whats-on/events/London/?eventType=COM
+ EDY&
+LOCATION:The Thieves\, London\, London
+URL:https://www.skiddle.com/whats-on/events/London/?eventType=COMEDY&
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:55fe5c31ed91@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Glassy 'n' Bingo
+DESCRIPTION:Bingo night with DJs playing Bhangra and RnB.\n\nPrice: £10.00
+ \n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:Dabbers Social Bingo\, London\, London
+URL:https://www.skiddle.com/whats-on/London/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:71c5cfbd32d4@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260426
+SUMMARY:OZORA One Day in London
+DESCRIPTION:One-day music festival.\n\nPrice: Check site\n\nTickets/Info: h
+ ttps://www.skiddle.com/whats-on/London/april-events/
+LOCATION:Unit 2\, 110 Pennington St\, Pennington Street\, London
+URL:https://www.skiddle.com/whats-on/London/april-events/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
