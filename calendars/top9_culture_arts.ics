@@ -8,120 +8,120 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:806731605438@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260615
-SUMMARY:Senga Nengudi: Performance Works 1972-1982
-DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
- 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
- ry.org/exhibitions/
-LOCATION:Whitechapel Gallery\, Whitechapel\, London
-URL:https://www.whitechapelgallery.org/exhibitions/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:264b79494e5c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260510
-SUMMARY:Sarah Morris: Snow Leopards and Skyscrapers
-DESCRIPTION:An exhibition examining contemporary landscapes.\n\nPrice: Chec
- k site\n\nTickets/Info: https://www.whitecube.com/exhibitions/london
-LOCATION:Mason’s Yard\, London\, St. James's\, London
-URL:https://www.whitecube.com/exhibitions/london
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:0e4b73eafd31@london-events-scraper
-DTSTAMP:20260419T000000Z
+UID:4d1a2753b05e@london-events-scraper
+DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:The Elephant Trail
-DESCRIPTION:A free public art trail featuring 21 colourful elephant sculptu
- res around Battersea Power Station\, with a mobile app to unlock rewards a
- nd competitions.\n\nPrice: Free\n\nTickets/Info: https://batterseapowersta
- tion.co.uk/events/elephant-trail/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/elephant-trail/
+DTEND;VALUE=DATE:20260619
+SUMMARY:Star Trek Exhibition
+DESCRIPTION:A celebration of 60 years of Star Trek.\n\nPrice: Check site\n\
+ nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Science Museum\, South Kensington\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:5323c9f711f5@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260503
-SUMMARY:Copenhagen
-DESCRIPTION:A play exploring the mysterious 1941 meeting between physicists
-  Niels Bohr and Werner Heisenberg in Copenhagen.\n\nPrice: Check site\n\nT
- ickets/Info: https://www.hampsteadtheatre.com/whats-on/all-shows/
-LOCATION:Hampstead Theatre\, Hampstead\, London
-URL:https://www.hampsteadtheatre.com/whats-on/all-shows/
+UID:faaf6e367633@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260505
+SUMMARY:Sony World Photography Awards Exhibition
+DESCRIPTION:An exhibition of award-winning photography.\n\nPrice: Free\n\nT
+ ickets/Info: https://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:9f77d1ca546f@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260524
-SUMMARY:Michaela Eichwald
-DESCRIPTION:An exhibition showcasing the distinctive works of contemporary 
- artist Michaela Eichwald.\n\nPrice: Free\n\nTickets/Info: https://www.maur
- eenpaley.com/exhibitions
-LOCATION:Maureen Paley\, Bethnal Green\, London
-URL:https://www.maureenpaley.com/exhibitions
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ee1f72a36dcf@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260517
-SUMMARY:Heart Wall Play
-DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
- amily secrets and grief resurface when she returns to her familiar local p
- ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
- ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:Bush Theatre\, Shepherd's Bush\, London
+UID:0abb5904f6b4@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:A World Without Work
+DESCRIPTION:Economist discusses potential for technological unemployment.\n
+ \nPrice: FREE\n\nTickets/Info: https://londonistlistings.substack.com/p/th
+ ings-to-do-in-london-this-week-20-26-april-2026
+LOCATION:Barnard’s Inn Hall\, Holborn\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+ ek-20-26-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:480c68bb967c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:600 Years of History Tour
-DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
- masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
- on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+UID:2d5dd6602d2d@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260426
+SUMMARY:Archaeology tours of Lesnes Abbey
+DESCRIPTION:Explore the ruins of Lesnes Abbey with archaeologists.\n\nPrice
+ : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:Lesnes Abbey\, Abbey Wood\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:e75ea78b6a56@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260415
-SUMMARY:Architecture Tours
-DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
- 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Barbican Arts Centre\, Barbican\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+UID:9d91238bf230@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Curiosity to Prosperity Talk
+DESCRIPTION:A talk on how curiosity-driven research delivers value beyond t
+ he lab.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calend
+ ar/date/2026/04/
+LOCATION:London School of Economics and Political Science (LSE)\, Holborn\,
+  London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6cb877b3c2bd@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260420
-SUMMARY:Cornwallis Cloth Exhibition
-DESCRIPTION:A film installation about British Caribbean lives during WWII.\
- n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+UID:7c5b2178e0e6@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Dovetail Building Archaeology Session
+DESCRIPTION:Explore the hidden history beneath the City of London.\n\nPrice
+ : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:Artizan Street Library and Community Centre\, Whitechapel\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:ab1927b92e22@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:FRAMELESS
+DESCRIPTION:Immersive art experience with famous paintings.\n\nPrice: Check
+  site\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/
+ things-to-do-in-london-this-week-64229/
+LOCATION:FRAMELESS\, W1H 7AP\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9d83c67a94e2@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Science of the Sky Talk
+DESCRIPTION:A journey through the sky as a dynamic living laboratory.\n\nPr
+ ice: £17.27\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/20
+ 26/04/
+LOCATION:Royal Institution (inc Faraday Museum)\, Mayfair\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b4bc5a0a5a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Celebrating our Fanniversary
+DESCRIPTION:Hybrid conference on feminism and gender justice.\n\nPrice: FRE
+ E\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-i
+ n-london-this-week-20-26-april-2026
+LOCATION:The Vagina Museum\, Bethnal Green\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
