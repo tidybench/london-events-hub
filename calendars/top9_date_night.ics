@@ -34,6 +34,20 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
+UID:65dfd80e6917@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260712
+SUMMARY:Grace Pervades
+DESCRIPTION:New play starring Ralph Fiennes and Miranda Raison.\n\nPrice: F
+ ree\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do
+ -in-london-this-week-20-26-april-2026
+LOCATION:Theatre Royal Haymarket\, Haymarket\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
 UID:342642ccc2e6@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260402
@@ -46,17 +60,42 @@ URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:78788921e85f@london-events-scraper
+UID:c595c045b654@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260427
-SUMMARY:Hampton Court Palace Tulip Festival
-DESCRIPTION:A festival celebrating tulips in the palace gardens.\n\nPrice: 
- From £29\n\nTickets/Info: https://www.timeout.com/london/things-to-do/thi
- ngs-to-do-in-london-this-week
-LOCATION:Hampton Court Palace\, Richmond upon Thames\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
- -week
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Chloe Flower
+DESCRIPTION:Korean-American pianist performs at Kings Place.\n\nPrice: Free
+ \n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in
+ -london-this-week-20-26-april-2026
+LOCATION:Kings Place\, Kings Cross\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:d488fe1dcb6a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Surreal Still Life Drink + Draw
+DESCRIPTION:Absinthe workshop inspired by museum curiosities.\n\nPrice: £2
+ 6.2\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:The Last Tuesday Society & Viktor Wynd Museum\, Hackney\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:42d57b8c0aa8@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
+ om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
+ /whats-on/best-events-in-april
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -73,56 +112,17 @@ URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:ef63498734ce@london-events-scraper
+UID:6f98854fedb1@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:Tales of Love and Loss
-DESCRIPTION:Behind-the-scenes look at Royal Ballet production.\n\nPrice: Fr
- ee\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-
- in-london-this-week-20-26-april-2026
-LOCATION:Clore Studio\, Covent Garden\, London
+SUMMARY:Spring Supermarket Sipping
+DESCRIPTION:Evening dedicated to finding seasonal wines.\n\nPrice: Free\n\n
+ Tickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lon
+ don-this-week-20-26-april-2026
+LOCATION:London Welsh Centre\, Clerkenwell\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ek-20-26-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:23725c679e84@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:Friends & Family Capsule
-DESCRIPTION:Private pod experience on the London Eye.\n\nPrice: Check site\
- n\nTickets/Info: https://www.skiddle.com/whats-on/London/
-LOCATION:The London Eye\, South Bank\, London
-URL:https://www.skiddle.com/whats-on/London/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:fa945d25f624@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:Mamma Mia! It's An ABBA Afterparty
-DESCRIPTION:ABBA-themed afterparty with food and drinks.\n\nPrice: Free\n\n
- Tickets/Info: https://www.designmynight.com/london/free-things-to-do-londo
- n-this-weekend
-LOCATION:Snoozebox Olympic Park\, Olympic Park\, London
-URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
- end
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:42d57b8c0aa8@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:The Murdér Express Part Deux
-DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
- om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
- /whats-on/best-events-in-april
-LOCATION:Pedley Street Station\, Bethnal Green\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
