@@ -8,464 +8,432 @@ X-WR-CALDESC:London's top 36 picks this week across Date Night\, Only in London\
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:0feca2cacb66@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Date Night · Floating Hot Tub Tour Of London's Docklands
-DESCRIPTION:Hot tub tour of London's docklands.\n\nPrice: from £39.00\n\nT
- ickets/Info: https://www.designmynight.com/london/whats-on/best-events-in-
- april
-LOCATION:Skuna Boats\, Docklands\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:e9607891f9b3@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
+UID:4227020ce341@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Date Night · Circe's Cloud 9 Pods
-DESCRIPTION:Private igloos with cocktails and city views.\n\nPrice: Pods fr
- om £200\n\nTickets/Info: https://www.designmynight.com/london/whats-on/be
- st-events-in-april
+DESCRIPTION:Exclusive igloos with cocktails and city views.\n\nPrice: Pods 
+ from £200\n\nTickets/Info: https://www.designmynight.com/london/whats-on/
+ best-events-in-april
 LOCATION:Circe’s Rooftop Waterloo\, Waterloo\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:217f39c62e94@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260601
-SUMMARY:Date Night · Lynda Benglis - Encounters: Giacometti
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
- kets/Info: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
+UID:23515e3374ec@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Date Night · Floating Hot Tub Tour
+DESCRIPTION:Relaxing hot tub tour of London's docklands.\n\nPrice: from £3
+ 9.00\n\nTickets/Info: https://www.designmynight.com/london/whats-on/best-e
+ vents-in-april
+LOCATION:Skuna Boats\, Docklands\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:5f9880a99fc5@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260511
-SUMMARY:Date Night · Beatriz González Exhibition
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
- arbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:2b45fe3d6728@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260420
-SUMMARY:Date Night · Chicken Ruby Pie
-DESCRIPTION:Special dish at Dishoom restaurant.\n\nPrice: Check site\n\nTic
- kets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:707581f87796@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Date Night · Complimentary Maki
-DESCRIPTION:Free maki rolls at Sticks n Sushi.\n\nPrice: Free\n\nTickets/In
- fo: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:e160b1fa69c6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Date Night · Sakura at Sticks n Sushi
-DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
- ets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:014b95ae8f97@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260420
-SUMMARY:Date Night · Cinnamon Kitchen Menu
-DESCRIPTION:Special menu at Cinnamon Kitchen.\n\nPrice: Check site\n\nTicke
- ts/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:14bdc8cab550@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Date Night · Tom Niblock Big Band
-DESCRIPTION:Jazz performance by Tom Niblock Big Band.\n\nPrice: £17.50\n\n
- Tickets/Info: https://www.vortexjazz.co.uk/events/2026-04-16/
-LOCATION:Vortex Jazz Club\, London
-URL:https://www.vortexjazz.co.uk/events/2026-04-16/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:978610ded9f8@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:Only in London · Secret Dome Tour
-DESCRIPTION:Explore the Old Royal Naval College's dome and enjoy panoramic 
- London views.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats
- -on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:a4a72217e770@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Only in London · St George's Day 2026
-DESCRIPTION:Celebration of English culture and heritage.\n\nPrice: Free\n\n
- Tickets/Info: https://www.london.gov.uk/events
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.london.gov.uk/events
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:e268dd1a2b31@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260524
-SUMMARY:Only in London · A Doll's House
-DESCRIPTION:Ibsen's feminist classic starring Romola Garai.\n\nPrice: Check
-  site\n\nTickets/Info: https://almeida.co.uk/whats-on
-LOCATION:Almeida Theatre\, Islington\, London
-URL:https://almeida.co.uk/whats-on
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:12bbb2a289c7@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260524
-SUMMARY:Only in London · Liza Lou
-DESCRIPTION:An exhibition of Liza Lou's artwork.\n\nPrice: Check site\n\nTi
- ckets/Info: https://ropac.net/exhibitions/
-LOCATION:Ely House\, London\, Mayfair\, London
-URL:https://ropac.net/exhibitions/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:e3bc662b4183@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
+UID:342642ccc2e6@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260503
-SUMMARY:Only in London · Orders of Magnitude by Sholto Blissett
-DESCRIPTION:Exhibition of fictional landscapes by Sholto Blissett.\n\nPrice
- : Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events
- /things-to-do-in-london-this-week-64229/
-LOCATION:Pilar Corrias Gallery\, Mayfair\, London
+SUMMARY:Date Night · Ken Ludwig's Dear Jack\, Dear Louise
+DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
+ ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
+LOCATION:Studio 1\, London\, London
+URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:78788921e85f@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260427
+SUMMARY:Date Night · Hampton Court Palace Tulip Festival
+DESCRIPTION:A festival celebrating tulips in the palace gardens.\n\nPrice: 
+ From £29\n\nTickets/Info: https://www.timeout.com/london/things-to-do/thi
+ ngs-to-do-in-london-this-week
+LOCATION:Hampton Court Palace\, Richmond upon Thames\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b5ba5c6085@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Date Night · Early Evening Gin Tour
+DESCRIPTION:A tour through the history of the Household Cavalry after hours
+ .\n\nPrice: £20.00\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
+ date/2026/04/
+LOCATION:Household Cavalry Museum\, Whitehall\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:ef63498734ce@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Date Night · Tales of Love and Loss
+DESCRIPTION:Behind-the-scenes look at Royal Ballet production.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-
+ in-london-this-week-20-26-april-2026
+LOCATION:Clore Studio\, Covent Garden\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:23725c679e84@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Date Night · Friends & Family Capsule
+DESCRIPTION:Private pod experience on the London Eye.\n\nPrice: Check site\
+ n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:The London Eye\, South Bank\, London
+URL:https://www.skiddle.com/whats-on/London/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:fa945d25f624@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Date Night · Mamma Mia! It's An ABBA Afterparty
+DESCRIPTION:ABBA-themed afterparty with food and drinks.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.designmynight.com/london/free-things-to-do-londo
+ n-this-weekend
+LOCATION:Snoozebox Olympic Park\, Olympic Park\, London
+URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
+ end
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:42d57b8c0aa8@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Date Night · The Murdér Express Part Deux
+DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
+ om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
+ /whats-on/best-events-in-april
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:8db70a8298df@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Only in London · Energy Observer at Tower Bridge
+DESCRIPTION:See the zero-emission hydrogen-powered vessel pass through Towe
+ r Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/cale
+ ndar/weekend/
+LOCATION:Tower Bridge\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:793119219d1f@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Only in London · King's Day celebrations
+DESCRIPTION:Street party marking the Dutch King's birthday.\n\nPrice: Free\
+ n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:The Dutch Church\, City of London\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:51bc2abf41ed@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20260422
+SUMMARY:Only in London · Hidden Holborn and Little Italy Talk
+DESCRIPTION:Explore the history of London’s former Italian Quarter.\n\nPr
+ ice: £11.55\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/20
+ 26/04/
+LOCATION:Hotel Indigo Clerkenwell\, Clerkenwell\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:a72034f6f40a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Only in London · David Garrick: His Life\, His Times and His Templ
+ e
+DESCRIPTION:Talk on the life of actor David Garrick.\n\nPrice: £10.78\n\nT
+ ickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Garrick’s Temple to Shakespeare\, Hampton\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:3b04a3e8c81a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Only in London · Energy Observer Passing Tower Bridge
+DESCRIPTION:Watch the zero-emission hydrogen-powered vessel pass through To
+ wer Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/date/2026/04/
+LOCATION:Tower Bridge\, Tower Bridge\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:3723bd66c555@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20260422
+SUMMARY:Only in London · David Garrick: His Life and Temple
+DESCRIPTION:Talk on the life of actor David Garrick and his Temple in Hampt
+ on.\n\nPrice: £10.78\n\nTickets/Info: https://www.ianvisits.co.uk/calenda
+ r/date/2026/04/
+LOCATION:Garrick’s Temple to Shakespeare\, Hampton\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:a710209f8228@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260427
+SUMMARY:Only in London · Brick Lane Jazz Festival
+DESCRIPTION:Weekend of live music around east London.\n\nPrice: Free\n\nTic
+ kets/Info: https://londonistlistings.substack.com/p/things-to-do-in-london
+ -this-week-20-26-april-2026
+LOCATION:Brick Lane\, Brick Lane\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:53a13acb14ab@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Only in London · Shakespeare for All in All
+DESCRIPTION:Shakespeare-themed walking tour.\n\nPrice: From £12.50\n\nTick
+ ets/Info: https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-
+ in-all-tickets-1980638112913
+LOCATION:St Paul’s Station\, St Paul’s\, London
+URL:https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-in-all-
+ tickets-1980638112913
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1a2753b05e@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260619
+SUMMARY:Culture & Arts · Star Trek Exhibition
+DESCRIPTION:A celebration of 60 years of Star Trek.\n\nPrice: Check site\n\
+ nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Science Museum\, South Kensington\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:faaf6e367633@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260505
+SUMMARY:Culture & Arts · Sony World Photography Awards Exhibition
+DESCRIPTION:An exhibition of award-winning photography.\n\nPrice: Free\n\nT
+ ickets/Info: https://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.somersethouse.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:0abb5904f6b4@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Culture & Arts · A World Without Work
+DESCRIPTION:Economist discusses potential for technological unemployment.\n
+ \nPrice: FREE\n\nTickets/Info: https://londonistlistings.substack.com/p/th
+ ings-to-do-in-london-this-week-20-26-april-2026
+LOCATION:Barnard’s Inn Hall\, Holborn\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5dd6602d2d@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260426
+SUMMARY:Culture & Arts · Archaeology tours of Lesnes Abbey
+DESCRIPTION:Explore the ruins of Lesnes Abbey with archaeologists.\n\nPrice
+ : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:Lesnes Abbey\, Abbey Wood\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9d91238bf230@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Culture & Arts · Curiosity to Prosperity Talk
+DESCRIPTION:A talk on how curiosity-driven research delivers value beyond t
+ he lab.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calend
+ ar/date/2026/04/
+LOCATION:London School of Economics and Political Science (LSE)\, Holborn\,
+  London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5b2178e0e6@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Culture & Arts · Dovetail Building Archaeology Session
+DESCRIPTION:Explore the hidden history beneath the City of London.\n\nPrice
+ : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:Artizan Street Library and Community Centre\, Whitechapel\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:ab1927b92e22@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Culture & Arts · FRAMELESS
+DESCRIPTION:Immersive art experience with famous paintings.\n\nPrice: Check
+  site\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/
+ things-to-do-in-london-this-week-64229/
+LOCATION:FRAMELESS\, W1H 7AP\, London
 URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
  on-this-week-64229/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:6b198179158a@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260524
-SUMMARY:Only in London · Paula Rego: Story Line
-DESCRIPTION:An exhibition of Paula Rego's drawings.\n\nPrice: Check site\n\
- nTickets/Info: https://www.victoria-miro.com/exhibitions/
-LOCATION:London Gallery I\, London Gallery II\, London\, London
-URL:https://www.victoria-miro.com/exhibitions/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:46dde08a2d1c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Only in London · Antonia: Behind the Myth of Marie Antoinette
-DESCRIPTION:Performance exploring the life of Marie Antoinette.\n\nPrice: C
- heck site\n\nTickets/Info: https://chiswickhouseandgardens.org.uk/event/li
- berata_collective/
-LOCATION:Chiswick House & Gardens\, Chiswick\, London
-URL:https://chiswickhouseandgardens.org.uk/event/liberata_collective/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:3c5ce5c46167@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Only in London · Colours of Time
-DESCRIPTION:French drama exploring family legacy across generations.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.institut-francais.org.uk/cinem
- a/
-LOCATION:Chiswick Cinema\, Chiswick\, London
-URL:https://www.institut-francais.org.uk/cinema/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:69ced1fe23ab@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Only in London · King Rastafari Son Presents Ruben Affair – Eart
- hstrong Celebration!
-DESCRIPTION:Roots and reggae music celebration.\n\nPrice: £5\n\nTickets/In
- fo: https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-a
- ffair-earthstrong-celebration/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/king-rastafari-son-presents-ruben-af
- fair-earthstrong-celebration/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:806731605438@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260615
-SUMMARY:Culture & Arts · Senga Nengudi: Performance Works 1972-1982
-DESCRIPTION:An exhibition featuring Senga Nengudi's performance works from 
- 1972 to 1982.\n\nPrice: Free\n\nTickets/Info: https://www.whitechapelgalle
- ry.org/exhibitions/
-LOCATION:Whitechapel Gallery\, Whitechapel\, London
-URL:https://www.whitechapelgallery.org/exhibitions/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:264b79494e5c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260510
-SUMMARY:Culture & Arts · Sarah Morris: Snow Leopards and Skyscrapers
-DESCRIPTION:An exhibition examining contemporary landscapes.\n\nPrice: Chec
- k site\n\nTickets/Info: https://www.whitecube.com/exhibitions/london
-LOCATION:Mason’s Yard\, London\, St. James's\, London
-URL:https://www.whitecube.com/exhibitions/london
+UID:9d83c67a94e2@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Culture & Arts · Science of the Sky Talk
+DESCRIPTION:A journey through the sky as a dynamic living laboratory.\n\nPr
+ ice: £17.27\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/20
+ 26/04/
+LOCATION:Royal Institution (inc Faraday Museum)\, Mayfair\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:0e4b73eafd31@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Culture & Arts · The Elephant Trail
-DESCRIPTION:A free public art trail featuring 21 colourful elephant sculptu
- res around Battersea Power Station\, with a mobile app to unlock rewards a
- nd competitions.\n\nPrice: Free\n\nTickets/Info: https://batterseapowersta
- tion.co.uk/events/elephant-trail/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/elephant-trail/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5323c9f711f5@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260503
-SUMMARY:Culture & Arts · Copenhagen
-DESCRIPTION:A play exploring the mysterious 1941 meeting between physicists
-  Niels Bohr and Werner Heisenberg in Copenhagen.\n\nPrice: Check site\n\nT
- ickets/Info: https://www.hampsteadtheatre.com/whats-on/all-shows/
-LOCATION:Hampstead Theatre\, Hampstead\, London
-URL:https://www.hampsteadtheatre.com/whats-on/all-shows/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:9f77d1ca546f@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260524
-SUMMARY:Culture & Arts · Michaela Eichwald
-DESCRIPTION:An exhibition showcasing the distinctive works of contemporary 
- artist Michaela Eichwald.\n\nPrice: Free\n\nTickets/Info: https://www.maur
- eenpaley.com/exhibitions
-LOCATION:Maureen Paley\, Bethnal Green\, London
-URL:https://www.maureenpaley.com/exhibitions
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ee1f72a36dcf@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260517
-SUMMARY:Culture & Arts · Heart Wall Play
-DESCRIPTION:Kit Withington’s play 'Heart Wall' follows Franky as buried f
- amily secrets and grief resurface when she returns to her familiar local p
- ub.\n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substa
- ck.com/p/things-to-do-in-london-this-week-30-march-5-april-2026
-LOCATION:Bush Theatre\, Shepherd's Bush\, London
+UID:a5b4bc5a0a5a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Culture & Arts · Celebrating our Fanniversary
+DESCRIPTION:Hybrid conference on feminism and gender justice.\n\nPrice: FRE
+ E\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-i
+ n-london-this-week-20-26-april-2026
+LOCATION:The Vagina Museum\, Bethnal Green\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-30-march-5-april-2026
+ ek-20-26-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:480c68bb967c@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Culture & Arts · 600 Years of History Tour
-DESCRIPTION:A guided tour of the site's history from Tudor times to Wren's 
- masterpiece.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-
- on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e75ea78b6a56@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260415
-SUMMARY:Culture & Arts · Architecture Tours
-DESCRIPTION:Explore the heart of London’s Brutalist legacy.\n\nPrice: £1
- 8\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Barbican Arts Centre\, Barbican\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6cb877b3c2bd@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260420
-SUMMARY:Culture & Arts · Cornwallis Cloth Exhibition
-DESCRIPTION:A film installation about British Caribbean lives during WWII.\
- n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:9a60da252232@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · London Taco Experience
-DESCRIPTION:A Mexican extravaganza with tacos\, DJs\, and live Mariachi.\n\
- nPrice: £4.50 per dish\n\nTickets/Info: https://www.cntraveller.com/galle
- ry/things-to-do-in-london-this-weekend
-LOCATION:Freight Brixton\, Brixton\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+UID:fc1471ae8e77@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Going Out · 1Xtra Takeover
+DESCRIPTION:Club night featuring 1Xtra DJs and live performances.\n\nPrice:
+  Free\n\nTickets/Info: https://earthackney.co.uk/events/1xtra-takeover-25t
+ h-apr-earth-london-tickets-wwe22n/
+LOCATION:EartH Hall\, Hackney\, London
+URL:https://earthackney.co.uk/events/1xtra-takeover-25th-apr-earth-london-t
+ ickets-wwe22n/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:feb95888723a@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · AWEN
-DESCRIPTION:An afro house and tech house music event.\n\nPrice: Check site\
- n\nTickets/Info: https://e1ldn.co/events/2026-04-18-awen
-LOCATION:E1 London\, Whitechapel\, London
-URL:https://e1ldn.co/events/2026-04-18-awen
+UID:5fdd60f8f9f4@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Going Out · Big Top 90'S VS 00'S Brunch
+DESCRIPTION:Throwback fun with lip sync battles and bottomless booze.\n\nPr
+ ice: from £43.94 - £49.62\n\nTickets/Info: https://www.designmynight.com
+ /london/whats-on/best-events-in-april
+LOCATION:Trapeze\, East London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:5fe2af9a0e93@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · RNB MANIA
-DESCRIPTION:R&B music event.\n\nPrice: Check site\n\nTickets/Info: https://
- www.xoyo.co.uk/events/rnb-mania
-LOCATION:London
-URL:https://www.xoyo.co.uk/events/rnb-mania
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:5b792f27cf68@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · wAFF\, Yousef\, AJ Christou & Evie
-DESCRIPTION:Electronic music event with multiple DJs.\n\nPrice: Check site\
- n\nTickets/Info: https://www.xoyo.co.uk/events/aj-christou-evie-waff-youse
- f
-LOCATION:London
-URL:https://www.xoyo.co.uk/events/aj-christou-evie-waff-yousef
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:1336396c2c21@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Going Out · Form Presents: H Hunt\, Tara Cunningham
-DESCRIPTION:Live music event presented by NTS & FORM.\n\nPrice: £20\n\nTic
- kets/Info: https://www.vortexjazz.co.uk/events/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/events/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:cea3ab6773a4@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Going Out · The Rocky Horror Picture Show 50th Anniversary
-DESCRIPTION:A special performance celebrating the cult classic film.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.dominiontheatre.com
-LOCATION:Dominion Theatre\, West End\, London
-URL:https://www.dominiontheatre.com
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:ca18a98ef663@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Going Out · Country Kings
-DESCRIPTION:Comedy country satire performance in Hackney.\n\nPrice: Check s
- ite\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do
- -in-london-this-week-eb9
-LOCATION:Paper Dress Vintage\, Hackney\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:2783e89cdd15@london-events-scraper
-DTSTAMP:20260419T000000Z
+UID:f535c3c4b503@london-events-scraper
+DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260419
-SUMMARY:Going Out · Banana Cabaret
-DESCRIPTION:Comedy club night with stand-up performances.\n\nPrice: Check s
- ite\n\nTickets/Info: https://www.eventbrite.co.uk/e/banana-cabaret-170426-
- tickets-1981744994626
-LOCATION:The Bedford\, London\, London
-URL:https://www.eventbrite.co.uk/e/banana-cabaret-170426-tickets-1981744994
- 626
+DTEND;VALUE=DATE:20260523
+SUMMARY:Going Out · The Guilty Feminist
+DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
+ nTickets/Info: https://www.museumofcomedy.com/whats-on/
+LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/whats-on/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:60e85649eba2@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Going Out · Bloodsucking Comedy
-DESCRIPTION:Late-night vampiric comedy show.\n\nPrice: Check site\n\nTicket
- s/Info: https://londonistlistings.substack.com/p/things-to-do-in-london-th
- is-week-eb9
-LOCATION:The Bill Murray\, Shoreditch\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-eb9
+UID:56dd67912269@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Going Out · Moonshine Saloon
+DESCRIPTION:Wild West-themed immersive cocktail experience.\n\nPrice: from 
+ £41.80 - £47.52\n\nTickets/Info: https://www.designmynight.com/london/wh
+ ats-on/best-events-in-april
+LOCATION:Moonshine Saloon\, Houndsditch\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:07da05d8b2e8@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Going Out · Good Ship Comedy
+DESCRIPTION:Comedy club featuring UK circuit comics.\n\nPrice: £12.00\n\nT
+ ickets/Info: https://www.skiddle.com/whats-on/events/London/?eventType=COM
+ EDY&
+LOCATION:The Thieves\, London\, London
+URL:https://www.skiddle.com/whats-on/events/London/?eventType=COMEDY&
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:55fe5c31ed91@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Going Out · Glassy 'n' Bingo
+DESCRIPTION:Bingo night with DJs playing Bhangra and RnB.\n\nPrice: £10.00
+ \n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:Dabbers Social Bingo\, London\, London
+URL:https://www.skiddle.com/whats-on/London/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:71c5cfbd32d4@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260426
+SUMMARY:Going Out · OZORA One Day in London
+DESCRIPTION:One-day music festival.\n\nPrice: Check site\n\nTickets/Info: h
+ ttps://www.skiddle.com/whats-on/London/april-events/
+LOCATION:Unit 2\, 110 Pennington St\, Pennington Street\, London
+URL:https://www.skiddle.com/whats-on/London/april-events/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
