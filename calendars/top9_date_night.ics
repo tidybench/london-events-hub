@@ -8,115 +8,121 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:0feca2cacb66@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Floating Hot Tub Tour Of London's Docklands
-DESCRIPTION:Hot tub tour of London's docklands.\n\nPrice: from £39.00\n\nT
- ickets/Info: https://www.designmynight.com/london/whats-on/best-events-in-
- april
-LOCATION:Skuna Boats\, Docklands\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:e9607891f9b3@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260419
+UID:4227020ce341@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Circe's Cloud 9 Pods
-DESCRIPTION:Private igloos with cocktails and city views.\n\nPrice: Pods fr
- om £200\n\nTickets/Info: https://www.designmynight.com/london/whats-on/be
- st-events-in-april
+DESCRIPTION:Exclusive igloos with cocktails and city views.\n\nPrice: Pods 
+ from £200\n\nTickets/Info: https://www.designmynight.com/london/whats-on/
+ best-events-in-april
 LOCATION:Circe’s Rooftop Waterloo\, Waterloo\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:217f39c62e94@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260601
-SUMMARY:Lynda Benglis - Encounters: Giacometti
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Lynda Benglis in dialogue with Giacometti.\n\nPrice: Check site\n\nTic
- kets/Info: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
+UID:23515e3374ec@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Floating Hot Tub Tour
+DESCRIPTION:Relaxing hot tub tour of London's docklands.\n\nPrice: from £3
+ 9.00\n\nTickets/Info: https://www.designmynight.com/london/whats-on/best-e
+ vents-in-april
+LOCATION:Skuna Boats\, Docklands\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:5f9880a99fc5@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260511
-SUMMARY:Beatriz González Exhibition
-DESCRIPTION:This Barbican Centre exhibition showcases the Art & Design work
-  of Beatriz González.\n\nPrice: Check site\n\nTickets/Info: https://www.b
- arbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
+UID:342642ccc2e6@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260503
+SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
+DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
+ ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
+LOCATION:Studio 1\, London\, London
+URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2b45fe3d6728@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260420
-SUMMARY:Chicken Ruby Pie
-DESCRIPTION:Special dish at Dishoom restaurant.\n\nPrice: Check site\n\nTic
- kets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:707581f87796@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
+UID:78788921e85f@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260427
-SUMMARY:Complimentary Maki
-DESCRIPTION:Free maki rolls at Sticks n Sushi.\n\nPrice: Free\n\nTickets/In
- fo: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
+SUMMARY:Hampton Court Palace Tulip Festival
+DESCRIPTION:A festival celebrating tulips in the palace gardens.\n\nPrice: 
+ From £29\n\nTickets/Info: https://www.timeout.com/london/things-to-do/thi
+ ngs-to-do-in-london-this-week
+LOCATION:Hampton Court Palace\, Richmond upon Thames\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e160b1fa69c6@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260427
-SUMMARY:Sakura at Sticks n Sushi
-DESCRIPTION:Cherry blossom-themed sushi event.\n\nPrice: Check site\n\nTick
- ets/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
+UID:d3b5ba5c6085@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Early Evening Gin Tour
+DESCRIPTION:A tour through the history of the Household Cavalry after hours
+ .\n\nPrice: £20.00\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
+ date/2026/04/
+LOCATION:Household Cavalry Museum\, Whitehall\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:014b95ae8f97@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260420
-SUMMARY:Cinnamon Kitchen Menu
-DESCRIPTION:Special menu at Cinnamon Kitchen.\n\nPrice: Check site\n\nTicke
- ts/Info: https://batterseapowerstation.co.uk/events/
-LOCATION:Battersea Power Station\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/
+UID:ef63498734ce@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Tales of Love and Loss
+DESCRIPTION:Behind-the-scenes look at Royal Ballet production.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-
+ in-london-this-week-20-26-april-2026
+LOCATION:Clore Studio\, Covent Garden\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:14bdc8cab550@london-events-scraper
-DTSTAMP:20260419T000000Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-SUMMARY:Tom Niblock Big Band
-DESCRIPTION:Jazz performance by Tom Niblock Big Band.\n\nPrice: £17.50\n\n
- Tickets/Info: https://www.vortexjazz.co.uk/events/2026-04-16/
-LOCATION:Vortex Jazz Club\, London
-URL:https://www.vortexjazz.co.uk/events/2026-04-16/
+UID:23725c679e84@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Friends & Family Capsule
+DESCRIPTION:Private pod experience on the London Eye.\n\nPrice: Check site\
+ n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:The London Eye\, South Bank\, London
+URL:https://www.skiddle.com/whats-on/London/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:fa945d25f624@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Mamma Mia! It's An ABBA Afterparty
+DESCRIPTION:ABBA-themed afterparty with food and drinks.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.designmynight.com/london/free-things-to-do-londo
+ n-this-weekend
+LOCATION:Snoozebox Olympic Park\, Olympic Park\, London
+URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
+ end
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:42d57b8c0aa8@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
+ om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
+ /whats-on/best-events-in-april
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
