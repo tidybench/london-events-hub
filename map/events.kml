@@ -39,67 +39,11 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>Circe's Cloud 9 Pods</name>
-      <description><![CDATA[<b>Circe's Cloud 9 Pods</b><br><i>Nightlife</i><br>Mon 20th Apr<br>Circe’s Rooftop Waterloo, Waterloo<br>Pods from £200<br><br>Exclusive igloos with cocktails and city views.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1100617,51.5026643,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Floating Hot Tub Tour</name>
-      <description><![CDATA[<b>Floating Hot Tub Tour</b><br><i>Cultural</i><br>Wed 22nd Apr<br>Skuna Boats, Docklands<br>from £39.00<br><br>Relaxing hot tub tour of London's docklands.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.3189441,51.3486909,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>British Asparagus Season Dinner</name>
-      <description><![CDATA[<b>British Asparagus Season Dinner</b><br><i>Food &amp; Drink</i><br>Thu 23rd Apr<br>In Gallery | Supporters' House Dining Room, Westminster<br>From £50<br><br>Celebratory dinner featuring British asparagus.<br><br><a href="https://www.nationalgallery.org.uk/events/the-english-table-celebrating-british-asparagus-season-23-04-2026">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0863251,51.4459604,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Bridget Jones's Diary (25th Anniversary)</name>
       <description><![CDATA[<b>Bridget Jones's Diary (25th Anniversary)</b><br><i>Arts &amp; Culture</i><br>Tue 21st Apr<br>PICTUREHOUSE CENTRAL, Leicester Square<br>£15<br><br>A romantic comedy film re-released.<br><br><a href="https://www.picturehouses.com/cinema/picturehouse-central">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1290964,51.5105059,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ken Ludwig's Dear Jack, Dear Louise</name>
-      <description><![CDATA[<b>Ken Ludwig's Dear Jack, Dear Louise</b><br><i>Theatre</i><br>Thu 2nd Apr – Sat 2nd May<br>Studio 1, London<br>£15<br><br>Play directed by Simon Reade.<br><br><a href="https://www.arcolatheatre.com/event/dear-jack-dear-louise/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.128549,51.510135,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Chloe Flower</name>
-      <description><![CDATA[<b>Chloe Flower</b><br><i>Music</i><br>Mon 20th Apr<br>Kings Place, Kings Cross<br>Free<br><br>Korean-American pianist performs at Kings Place.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.092813,51.514993,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Kinky Boots</name>
-      <description><![CDATA[<b>Kinky Boots</b><br><i>Theatre</i><br>Mon 20th Apr – Sat 11th Jul<br>London Coliseum, West End<br>Check site<br><br>Award-winning musical starring Johannes Radebe and Matt Cardle.<br><br><a href="https://londoncoliseum.org/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>RBO Live: The Magic Flute</name>
-      <description><![CDATA[<b>RBO Live: The Magic Flute</b><br><i>Music</i><br>Tue 21st Apr<br>Barbican Centre, Cinema<br>Free<br><br>Mozart's opera in an enchanting production.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0937556,51.5197763,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -111,43 +55,67 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Energy Observer at Tower Bridge</name>
-      <description><![CDATA[<b>Energy Observer at Tower Bridge</b><br><i>Cultural</i><br>Mon 20th Apr<br>Tower Bridge, Southwark<br>Free<br><br>See the zero-emission hydrogen-powered vessel pass through Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Chloe Flower</name>
+      <description><![CDATA[<b>Chloe Flower</b><br><i>Music</i><br>Mon 20th Apr<br>Kings Place, Kings Cross<br>Free<br><br>Korean-American pianist performs at Kings Place.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0753662,51.5055166,0</coordinates>
+        <coordinates>-0.092813,51.514993,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dark Secrets: The Esoteric Exhibition</name>
-      <description><![CDATA[<b>Dark Secrets: The Esoteric Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 23rd Apr – Sun 26th Apr<br>Vaults - Leake Street, Waterloo<br>£23<br><br>Exploration of magic, occultism, science, and folklore across 27 rooms.<br><br><a href="https://feverup.com/m/427444">More info / tickets</a>]]></description>
+      <name>Hampton Court Palace Tulip Festival</name>
+      <description><![CDATA[<b>Hampton Court Palace Tulip Festival</b><br><i>Festival</i><br>Mon 20th Apr – Sun 26th Apr<br>Hampton Court Palace, Hampton Court<br>£32<br><br>Spring festival with thousands of tulips in bloom.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/25/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1147409,51.5013532,0</coordinates>
+        <coordinates>-0.3418637,51.4043494,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Camden Archives Highlights Tour</name>
-      <description><![CDATA[<b>Camden Archives Highlights Tour</b><br><i>Cultural</i><br>Fri 24th Apr<br>Camden Archives, Camden<br>Varies<br><br>90-minute tour of historical documents and artefacts.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>London Symphony Orchestra/Sir Antonio Pappano</name>
+      <description><![CDATA[<b>London Symphony Orchestra/Sir Antonio Pappano</b><br><i>Music</i><br>Tue 21st Apr<br>Barbican Centre, Classical Music<br>Free<br><br>Elgar's oratorio performed by the LSO.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.141847,51.541993,0</coordinates>
+        <coordinates>-0.0938065,51.5206514,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Walking London’s queer history</name>
-      <description><![CDATA[<b>Walking London’s queer history</b><br><i>Cultural</i><br>Fri 24th Apr<br>London-wide, London-wide<br>Free<br><br>Uncover hidden queer histories in London.<br><br><a href="https://www.londonmuseum.org.uk/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>RBO Live: The Magic Flute</name>
+      <description><![CDATA[<b>RBO Live: The Magic Flute</b><br><i>Music</i><br>Tue 21st Apr<br>Barbican Centre, Cinema<br>Free<br><br>Mozart's opera in an enchanting production.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
+        <coordinates>-0.0937556,51.5197763,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Energy Observer Passing Tower Bridge</name>
-      <description><![CDATA[<b>Energy Observer Passing Tower Bridge</b><br><i>Cultural</i><br>Sat 25th Apr<br>Tower Bridge, Tower Bridge<br>Free<br><br>Watch the zero-emission hydrogen-powered vessel pass through Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <name>Surreal Still Life Drink + Draw</name>
+      <description><![CDATA[<b>Surreal Still Life Drink + Draw</b><br><i>Arts &amp; Social</i><br>Tue 21st Apr<br>The Last Tuesday Society &amp; Viktor Wynd Museum, Hackney<br>£26.2<br><br>Absinthe workshop inspired by museum curiosities.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0576431,51.5346988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Early Evening Gin Tour</name>
+      <description><![CDATA[<b>Early Evening Gin Tour</b><br><i>Food &amp; Drink</i><br>Wed 22nd Apr<br>Household Cavalry Museum, Whitehall<br>£20.00<br><br>A tour through the history of the Household Cavalry after hours.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0693087,51.6039145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>British Asparagus Season Dinner</name>
+      <description><![CDATA[<b>British Asparagus Season Dinner</b><br><i>Food &amp; Drink</i><br>Thu 23rd Apr<br>In Gallery | Supporters' House Dining Room, Westminster<br>From £50<br><br>Celebratory dinner featuring British asparagus.<br><br><a href="https://www.nationalgallery.org.uk/events/the-english-table-celebrating-british-asparagus-season-23-04-2026">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0863251,51.4459604,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hidden Holborn and Little Italy Talk</name>
+      <description><![CDATA[<b>Hidden Holborn and Little Italy Talk</b><br><i>Cultural</i><br>Sun 26th Apr<br>Wilderness Kitchen<br>£25<br><br>Explore the history of London’s former Italian Quarter.<br><br><a href="https://www.eventbrite.co.uk/e/hidden-holborn-and-little-italy-talk-led-by-diane-burstein-tickets-1982887212029">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0753662,51.5055166,0</coordinates>
+        <coordinates>-0.0990363,51.5233727,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -159,51 +127,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Spring at the Barbican</name>
-      <description><![CDATA[<b>Spring at the Barbican</b><br><i>Arts &amp; Culture</i><br>Sun 1st Feb – Sun 31st May<br>Barbican Centre, Barbican<br>Check site<br><br>The Barbican Centre presents its program for Spring, featuring a variety of arts and cultural events.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <name>Camden Archives</name>
+      <description><![CDATA[<b>Camden Archives</b><br><i>Arts &amp; Culture</i><br>Fri 24th Apr<br>Camden Archives, Camden<br>Free<br><br>Highlights tour of Camden’s historical collections.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Jaja’s African Hair Braiding</name>
-      <description><![CDATA[<b>Jaja’s African Hair Braiding</b><br><i>Theatre</i><br>Wed 18th Mar – Sat 25th Apr<br>Lyric Hammersmith Theatre, Hammersmith<br>From £10<br><br>Welcome to Jaja’s, a bustling Harlem braiding salon where West African immigrant braiders bring hairstyle dreams to life.<br><br><a href="https://lyric.co.uk/shows/jajas-african-hair-braiding/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.22654427084830048,51.49304955,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>LIFELINE</name>
-      <description><![CDATA[<b>LIFELINE</b><br><i>Theatre</i><br>Sat 28th Mar – Sat 2nd May<br>Southwark Playhouse Elephant, Elephant and Castle<br>Free<br><br>See 'LIFELINE,' a play by Robin Hiley and Becky Hope-Palmer, at Southwark Playhouse Elephant.<br><br><a href="https://southwarkplayhouse.co.uk">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.10278508687097637,51.49242345,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Spotlight: Theatre Conversations</name>
-      <description><![CDATA[<b>Spotlight: Theatre Conversations</b><br><i>Theatre</i><br>Wed 25th Feb – Wed 29th Apr<br>The National Gallery<br>£20<br><br>Discussions about the world of theatre with host Lucy Phelps.<br><br><a href="https://www.nationalgallery.org.uk/events/in-conversation-spotlight-conversations-about-the-world-of-theatre-2026">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.129486,51.508428,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Teeth 'n' Smiles</name>
-      <description><![CDATA[<b>Teeth 'n' Smiles</b><br><i>Theatre</i><br>Fri 13th Mar – Sat 6th Jun<br>Duke of York's Theatre, West End<br>from £30<br><br>A theatre production at the Duke of York's.<br><br><a href="https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sony World Photography Awards Exhibition</name>
-      <description><![CDATA[<b>Sony World Photography Awards Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 17th Apr – Mon 4th May<br>Somerset House, Strand<br>Free<br><br>An exhibition of award-winning photography.<br><br><a href="https://www.somersethouse.org.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+        <coordinates>-0.141847,51.541993,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -215,22 +143,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Akira</name>
-      <description><![CDATA[<b>Akira</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Prince Charles Cinema, Leicester Square<br>£1 MEM<br><br>Screening of the cyberpunk anime classic.<br><br><a href="https://princecharlescinema.com">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1304091,51.5109335,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Dazed And Confused</name>
-      <description><![CDATA[<b>Dazed And Confused</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Prince Charles Cinema, Leicester Square<br>Check site<br><br>Coming-of-age film about rowdy teenagers on their last day of high school.<br><br><a href="https://princecharlescinema.com">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1304091,51.5109335,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Father Mother Sister Brother</name>
       <description><![CDATA[<b>Father Mother Sister Brother</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Barbican Centre, Cinema<br>£6<br><br>Jim Jarmusch film about emotionally detached siblings.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
@@ -239,59 +151,155 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>How High</name>
-      <description><![CDATA[<b>How High</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Prince Charles Cinema, Leicester Square<br>£1 MEM<br><br>Comedy film about two friends who pass exams after smoking magic weed.<br><br><a href="https://princecharlescinema.com">More info / tickets</a>]]></description>
+      <name>Project Hail Mary</name>
+      <description><![CDATA[<b>Project Hail Mary</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Barbican Centre, Cinema<br>Free<br><br>Sci-fi film about an astronaut on a mission.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1304091,51.5109335,0</coordinates>
+        <coordinates>-0.0937556,51.5197763,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Paris, Texas</name>
-      <description><![CDATA[<b>Paris, Texas</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Prince Charles Cinema, Leicester Square<br>Check site<br><br>A man with amnesia reunites with his brother in this classic film.<br><br><a href="https://princecharlescinema.com">More info / tickets</a>]]></description>
+      <name>Relaxed Screening: The Last Blossom</name>
+      <description><![CDATA[<b>Relaxed Screening: The Last Blossom</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Barbican Centre, Cinema<br>Free<br><br>Relaxed screening of a yakuza film.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1304091,51.5109335,0</coordinates>
+        <coordinates>-0.0937556,51.5197763,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Roundhouse Three Sixty</name>
-      <description><![CDATA[<b>Roundhouse Three Sixty</b><br><i>Festival</i><br>Sun 5th Apr – Wed 29th Apr<br>Roundhouse, Chalk Farm<br>Check site<br><br>A springtime festival at Roundhouse featuring music, arts, and club nights.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <name>Sara Correia</name>
+      <description><![CDATA[<b>Sara Correia</b><br><i>Music</i><br>Mon 20th Apr<br>Barbican Centre, Contemporary Music<br>From £20<br><br>Portuguese fado singer's new album show.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0938065,51.5206514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Blue Trail</name>
+      <description><![CDATA[<b>The Blue Trail</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr<br>Barbican Centre, Cinema<br>Free<br><br>Anti-aging parable set in the Amazon jungle.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1519761,51.5432505,0</coordinates>
+        <coordinates>-0.0937556,51.5197763,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Moonshine Saloon</name>
-      <description><![CDATA[<b>Moonshine Saloon</b><br><i>Nightlife</i><br>Tue 21st Apr<br>Moonshine Saloon, Houndsditch<br>from £41.80 - £47.52<br><br>Wild West-themed immersive cocktail experience.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
+      <name>Spotlight: Theatre Conversations</name>
+      <description><![CDATA[<b>Spotlight: Theatre Conversations</b><br><i>Theatre</i><br>Wed 25th Feb – Wed 29th Apr<br>The National Gallery<br>£20<br><br>Discussions about the world of theatre with host Lucy Phelps.<br><br><a href="https://www.nationalgallery.org.uk/events/in-conversation-spotlight-conversations-about-the-world-of-theatre-2026">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.129486,51.508428,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIFELINE</name>
+      <description><![CDATA[<b>LIFELINE</b><br><i>Theatre</i><br>Sat 28th Mar – Sat 2nd May<br>Elephant SE11, Elephant and Castle<br>From £15<br><br>Play by Robin Hiley and Becky Hope-Palmer.<br><br><a href="https://southwarkplayhouse.co.uk/productions/lifeline/#book-tickets">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098418,51.494025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Late Late Show with Cosmic Fusion</name>
+      <description><![CDATA[<b>The Late Late Show with Cosmic Fusion</b><br><i>Music</i><br>Thu 2nd Apr – Thu 25th Jun<br>Ronnie Scott's, Soho<br>Check site<br><br>Experience a thrilling night of intense fusion music performed by young, talented, and fired-up musicians.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0771171,51.5144328,0</coordinates>
+        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Big Top 90'S VS 00'S Brunch</name>
-      <description><![CDATA[<b>Big Top 90'S VS 00'S Brunch</b><br><i>Food &amp; Drink</i><br>Sat 25th Apr<br>Trapeze, East London<br>from £43.94 - £49.62<br><br>Throwback fun with lip sync battles and bottomless booze.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
+      <name>Orders of Magnitude</name>
+      <description><![CDATA[<b>Orders of Magnitude</b><br><i>Arts &amp; Culture</i><br>Mon 13th Apr – Sat 2nd May<br>Pilar Corrias Gallery, London, W1S 3PA<br>Free<br><br>An exhibition of imaginary landscapes by Sholto Blissett.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0833109,51.5257616,0</coordinates>
+        <coordinates>-0.1395162,51.5103807,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Billy Gillies - London</name>
-      <description><![CDATA[<b>Billy Gillies - London</b><br><i>Music</i><br>Mon 20th Apr<br>E1 London, Whitechapel<br>Check site<br><br>Trance music performance.<br><br><a href="https://e1ldn.co/events/billy-gillies-london-2026-04-25">More info / tickets</a>]]></description>
+      <name>Sony World Photography Awards Exhibition</name>
+      <description><![CDATA[<b>Sony World Photography Awards Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 17th Apr – Mon 4th May<br>Somerset House, Strand<br>Free<br><br>An exhibition of award-winning photography.<br><br><a href="https://www.somersethouse.org.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A Common Thread</name>
+      <description><![CDATA[<b>A Common Thread</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr – Sun 26th Apr<br>The Society of Portrait Sculptors' Annual Open Exhibition, Sloane Square<br>Free<br><br>Student art exhibition exploring craft processes.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/25/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.156654,51.492933,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barbican Architecture Tours</name>
+      <description><![CDATA[<b>Barbican Architecture Tours</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr – Tue 21st Apr<br>Barbican Arts Centre, Barbican<br>£18<br><br>Explore the Brutalist architecture of the Barbican Arts Centre.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0938978,51.5198645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dana-Fiona Armour: Serpentine Currents</name>
+      <description><![CDATA[<b>Dana-Fiona Armour: Serpentine Currents</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr – Sun 26th Apr<br>Somerset House, Somerset<br>Free<br><br>Sculpture and light art about ocean ecosystems.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/25/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2173045,51.4351345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portrait Sculptors Exhibition</name>
+      <description><![CDATA[<b>Portrait Sculptors Exhibition</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr – Sun 26th Apr<br>The Garrison Chapel, Royal Hospital Chelsea<br>Free<br><br>Contemporary sculpture exhibition with prizes.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/25/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1573943,51.4873839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1Xtra Takeover</name>
+      <description><![CDATA[<b>1Xtra Takeover</b><br><i>Nightlife</i><br>Sat 25th Apr<br>EartH Hall, Hackney<br>Free<br><br>Club night featuring 1Xtra DJs and live performances.<br><br><a href="https://earthackney.co.uk/events/1xtra-takeover-25th-apr-earth-london-tickets-wwe22n/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
+        <coordinates>-0.075531,51.551041,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Hiding From Mirrors</name>
-      <description><![CDATA[<b>Hiding From Mirrors</b><br><i>Music</i><br>Mon 20th Apr<br>New Cross Inn, New Cross<br>£7<br><br>Live music performance.<br><br><a href="https://pit.live/events/hiding-from-mirrors">More info / tickets</a>]]></description>
+      <name>Harriet Richardson: Creep - Work in Progress</name>
+      <description><![CDATA[<b>Harriet Richardson: Creep - Work in Progress</b><br><i>Comedy</i><br>Tue 21st Apr<br>Pleasance Theatre, LONDON<br>Check site<br><br>A comedy show by Harriet Richardson at Pleasance Theatre.<br><br><a href="https://www.pleasance.co.uk/events/location/London">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1213017,51.549184,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Not So New Comedian of the Year 2026: Heats</name>
+      <description><![CDATA[<b>Not So New Comedian of the Year 2026: Heats</b><br><i>Comedy</i><br>Wed 22nd Apr – Sun 26th Apr<br>Leicester Square Theatre, Leicester Square<br>Check site<br><br>A comedy competition featuring new talent.<br><br><a href="https://www.museumofcomedy.com/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1290964,51.5105059,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gary Davies 80s Day-time Party</name>
+      <description><![CDATA[<b>Gary Davies 80s Day-time Party</b><br><i>Music</i><br>Sat 25th Apr<br>indigo at The O2, London<br>Check site<br><br>80s music party hosted by Gary Davies.<br><br><a href="https://www.theo2.co.uk/events/venue/indigo-at-the-o2">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0370911,51.4757953,0</coordinates>
+        <coordinates>0.0048935,51.5024638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturday Night Comedy</name>
+      <description><![CDATA[<b>Saturday Night Comedy</b><br><i>Comedy</i><br>Sat 25th Apr<br>Leicester Square, Leicester Square<br>£13.00<br><br>Stand-up comedy show in Leicester Square.<br><br><a href="https://jkcomedyclub.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1302749721722639,51.510776565245436,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunday Night Comedy</name>
+      <description><![CDATA[<b>Sunday Night Comedy</b><br><i>Comedy</i><br>Sun 26th Apr<br>Covent Garden, Covent Garden<br>£10.00<br><br>Stand-up comedy show in Covent Garden.<br><br><a href="https://jkcomedyclub.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12274129343434531,51.5119791,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -303,19 +311,19 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Theatre Of Hate, Bona Rays</name>
-      <description><![CDATA[<b>Theatre Of Hate, Bona Rays</b><br><i>Music</i><br>Mon 20th Apr<br>The Lexington, London<br>Check site<br><br>A live music gig featuring Theatre Of Hate and Bona Rays.<br><br><a href="https://www.thelexington.co.uk/events.php?type=gigs">More info / tickets</a>]]></description>
+      <name>Dennis Rollins Velocity Trio</name>
+      <description><![CDATA[<b>Dennis Rollins Velocity Trio</b><br><i>Music</i><br>Tue 21st Apr<br>Vortex Jazz Club<br>£19<br><br>Trombonist Dennis Rollins' jazz performance.<br><br><a href="https://www.vortexjazz.co.uk/event/dennis-rollins-velocity-trio/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.111454,51.531768,0</coordinates>
+        <coordinates>-0.0766409,51.5487575,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Skillet</name>
-      <description><![CDATA[<b>Skillet</b><br><i>Music</i><br>Tue 21st Apr<br>O2 Academy Brixton, Brixton<br>Check site<br><br>Rock band Skillet performs with Storm Orchestra.<br><br><a href="https://www.academymusicgroup.com/o2academybrixton/events/skillet-tickets-ae112665">More info / tickets</a>]]></description>
+      <name>Insurgent &amp; Prozpekt</name>
+      <description><![CDATA[<b>Insurgent &amp; Prozpekt</b><br><i>Music</i><br>Tue 21st Apr<br>New Cross Inn, New Cross<br>£12<br><br>Live music performance.<br><br><a href="https://pit.live/events/insurgent-prozpekt">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1148726,51.4657019,0</coordinates>
+        <coordinates>-0.0370911,51.4757953,0</coordinates>
       </Point>
     </Placemark>
   </Document>
