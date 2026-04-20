@@ -34,17 +34,29 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:65dfd80e6917@london-events-scraper
+UID:b6f93ec3ee78@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260712
-SUMMARY:Grace Pervades
-DESCRIPTION:New play starring Ralph Fiennes and Miranda Raison.\n\nPrice: F
- ree\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do
- -in-london-this-week-20-26-april-2026
-LOCATION:Theatre Royal Haymarket\, Haymarket\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:British Asparagus Season Dinner
+DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
+ £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
+ h-table-celebrating-british-asparagus-season-23-04-2026
+LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
+URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
+ -british-asparagus-season-23-04-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff8afc507e8@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Bridget Jones's Diary (25th Anniversary)
+DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
+ nfo: https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -74,55 +86,39 @@ URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d488fe1dcb6a@london-events-scraper
+UID:7319d6294f1b@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260712
+SUMMARY:Kinky Boots
+DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
+ \n\nPrice: Check site\n\nTickets/Info: https://londoncoliseum.org/whats-on
+LOCATION:London Coliseum\, West End\, London
+URL:https://londoncoliseum.org/whats-on
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:99611c8a6d29@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:Surreal Still Life Drink + Draw
-DESCRIPTION:Absinthe workshop inspired by museum curiosities.\n\nPrice: £2
- 6.2\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:The Last Tuesday Society & Viktor Wynd Museum\, Hackney\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:RBO Live: The Magic Flute
+DESCRIPTION:Mozart's opera in an enchanting production.\n\nPrice: Free\n\nT
+ ickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:42d57b8c0aa8@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:The Murdér Express Part Deux
-DESCRIPTION:Immersive murder mystery with a three-course meal.\n\nPrice: fr
- om £92.90 - £99.50\n\nTickets/Info: https://www.designmynight.com/london
- /whats-on/best-events-in-april
-LOCATION:Pedley Street Station\, Bethnal Green\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:d3b5ba5c6085@london-events-scraper
+UID:9295e7ff295d@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:Early Evening Gin Tour
-DESCRIPTION:A tour through the history of the Household Cavalry after hours
- .\n\nPrice: £20.00\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
- date/2026/04/
-LOCATION:Household Cavalry Museum\, Whitehall\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:6f98854fedb1@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Spring Supermarket Sipping
-DESCRIPTION:Evening dedicated to finding seasonal wines.\n\nPrice: Free\n\n
- Tickets/Info: https://londonistlistings.substack.com/p/things-to-do-in-lon
- don-this-week-20-26-april-2026
-LOCATION:London Welsh Centre\, Clerkenwell\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
+SUMMARY:Amelie (25th Anniversary Re-release)
+DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
+ nfo: https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
