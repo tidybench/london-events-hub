@@ -22,6 +22,44 @@ URL:https://earthackney.co.uk/events/1xtra-takeover-25th-apr-earth-london-t
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
+UID:f535c3c4b503@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260523
+SUMMARY:The Guilty Feminist
+DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
+ nTickets/Info: https://www.museumofcomedy.com/whats-on/
+LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4ba8c7791e@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260428
+SUMMARY:Elixir Festival
+DESCRIPTION:Performances spanning Bollywood\, flamenco\, jazz\, and more.\n
+ \nPrice: Free\n\nTickets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler’s Wells\, Islington\, London
+URL:https://www.sadlerswells.com/whats-on
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:5e07b48746a1@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:ABBA Afterparty
+DESCRIPTION:ABBA-themed dance party with food and drinks.\n\nPrice: Free\n\
+ nTickets/Info: https://www.designmynight.com/london/free-things-to-do-lond
+ on-this-weekend
+LOCATION:Snoozebox Olympic Park\, Stratford\, London
+URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
+ end
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
 UID:5fdd60f8f9f4@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260425
@@ -35,64 +73,52 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f535c3c4b503@london-events-scraper
+UID:f3d5e2d42edd@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260523
-SUMMARY:The Guilty Feminist
-DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
- nTickets/Info: https://www.museumofcomedy.com/whats-on/
-LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
-URL:https://www.museumofcomedy.com/whats-on/
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Free Live Music and Vinyl Night
+DESCRIPTION:Live bands and DJs playing funk and disco.\n\nPrice: Free\n\nTi
+ ckets/Info: https://www.designmynight.com/london/free-things-to-do-london-
+ this-weekend
+LOCATION:St. Christopher's Inn\, London Bridge\, London
+URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
+ end
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:56dd67912269@london-events-scraper
+UID:def16336ec73@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Moonshine Saloon
-DESCRIPTION:Wild West-themed immersive cocktail experience.\n\nPrice: from 
- £41.80 - £47.52\n\nTickets/Info: https://www.designmynight.com/london/wh
- ats-on/best-events-in-april
-LOCATION:Moonshine Saloon\, Houndsditch\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:07da05d8b2e8@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Good Ship Comedy
-DESCRIPTION:Comedy club featuring UK circuit comics.\n\nPrice: £12.00\n\nT
- ickets/Info: https://www.skiddle.com/whats-on/events/London/?eventType=COM
- EDY&
-LOCATION:The Thieves\, London\, London
-URL:https://www.skiddle.com/whats-on/events/London/?eventType=COMEDY&
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:55fe5c31ed91@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:Glassy 'n' Bingo
-DESCRIPTION:Bingo night with DJs playing Bhangra and RnB.\n\nPrice: £10.00
- \n\nTickets/Info: https://www.skiddle.com/whats-on/London/
-LOCATION:Dabbers Social Bingo\, London\, London
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+SUMMARY:Mozey - Cowboys In Space
+DESCRIPTION:Live music performance.\n\nPrice: £22.25\n\nTickets/Info: http
+ s://www.skiddle.com/whats-on/London/
+LOCATION:Troxy\, Stepney Green\, London
 URL:https://www.skiddle.com/whats-on/London/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:71c5cfbd32d4@london-events-scraper
+UID:314d74ee7e6c@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260426
-SUMMARY:OZORA One Day in London
-DESCRIPTION:One-day music festival.\n\nPrice: Check site\n\nTickets/Info: h
- ttps://www.skiddle.com/whats-on/London/april-events/
-LOCATION:Unit 2\, 110 Pennington St\, Pennington Street\, London
+DTEND;VALUE=DATE:20260425
+SUMMARY:The Captain’s Beard
+DESCRIPTION:Folk-rock night with maritime-themed music.\n\nPrice: Varies\n\
+ nTickets/Info: https://pit.live/events/the-captains-beard
+LOCATION:New Cross Inn\, New Cross\, London
+URL:https://pit.live/events/the-captains-beard
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:046d2f101ec9@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Ana Carla Maza Live
+DESCRIPTION:Live performance by Ana Carla Maza.\n\nPrice: Check site\n\nTic
+ kets/Info: https://www.skiddle.com/whats-on/London/april-events/
+LOCATION:KOKO\, Camden\, London
 URL:https://www.skiddle.com/whats-on/London/april-events/
 CATEGORIES:Going Out
 END:VEVENT
