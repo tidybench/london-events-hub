@@ -8,55 +8,30 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:fc1471ae8e77@london-events-scraper
+UID:8246646d1482@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:1Xtra Takeover
-DESCRIPTION:Club night featuring 1Xtra DJs and live performances.\n\nPrice:
-  Free\n\nTickets/Info: https://earthackney.co.uk/events/1xtra-takeover-25t
- h-apr-earth-london-tickets-wwe22n/
-LOCATION:EartH Hall\, Hackney\, London
-URL:https://earthackney.co.uk/events/1xtra-takeover-25th-apr-earth-london-t
- ickets-wwe22n/
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260430
+SUMMARY:Roundhouse Three Sixty
+DESCRIPTION:A springtime festival at Roundhouse featuring music\, arts\, an
+ d club nights.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.c
+ om/london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Roundhouse\, Chalk Farm\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f535c3c4b503@london-events-scraper
+UID:56dd67912269@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260523
-SUMMARY:The Guilty Feminist
-DESCRIPTION:Comedy show exploring feminism with humour.\n\nPrice: £1.25\n\
- nTickets/Info: https://www.museumofcomedy.com/whats-on/
-LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
-URL:https://www.museumofcomedy.com/whats-on/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:7b4ba8c7791e@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260428
-SUMMARY:Elixir Festival
-DESCRIPTION:Performances spanning Bollywood\, flamenco\, jazz\, and more.\n
- \nPrice: Free\n\nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler’s Wells\, Islington\, London
-URL:https://www.sadlerswells.com/whats-on
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:5e07b48746a1@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:ABBA Afterparty
-DESCRIPTION:ABBA-themed dance party with food and drinks.\n\nPrice: Free\n\
- nTickets/Info: https://www.designmynight.com/london/free-things-to-do-lond
- on-this-weekend
-LOCATION:Snoozebox Olympic Park\, Stratford\, London
-URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
- end
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Moonshine Saloon
+DESCRIPTION:Wild West-themed immersive cocktail experience.\n\nPrice: from 
+ £41.80 - £47.52\n\nTickets/Info: https://www.designmynight.com/london/wh
+ ats-on/best-events-in-april
+LOCATION:Moonshine Saloon\, Houndsditch\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -73,53 +48,79 @@ URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:f3d5e2d42edd@london-events-scraper
+UID:f3ab421e664a@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:Free Live Music and Vinyl Night
-DESCRIPTION:Live bands and DJs playing funk and disco.\n\nPrice: Free\n\nTi
- ckets/Info: https://www.designmynight.com/london/free-things-to-do-london-
- this-weekend
-LOCATION:St. Christopher's Inn\, London Bridge\, London
-URL:https://www.designmynight.com/london/free-things-to-do-london-this-week
- end
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:All About House
+DESCRIPTION:A house music night with a sharp focus on pure house energy.\n\
+ nPrice: £5\n\nTickets/Info: https://egglondon.co.uk/events/egg-ldn-pres-a
+ ll-about-house-18/
+LOCATION:London
+URL:https://egglondon.co.uk/events/egg-ldn-pres-all-about-house-18/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:def16336ec73@london-events-scraper
+UID:56eac9c16466@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260427
-SUMMARY:Mozey - Cowboys In Space
-DESCRIPTION:Live music performance.\n\nPrice: £22.25\n\nTickets/Info: http
- s://www.skiddle.com/whats-on/London/
-LOCATION:Troxy\, Stepney Green\, London
-URL:https://www.skiddle.com/whats-on/London/
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Billy Gillies - London
+DESCRIPTION:Trance music performance.\n\nPrice: Check site\n\nTickets/Info:
+  https://e1ldn.co/events/billy-gillies-london-2026-04-25
+LOCATION:E1 London\, Whitechapel\, London
+URL:https://e1ldn.co/events/billy-gillies-london-2026-04-25
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:314d74ee7e6c@london-events-scraper
+UID:a534e4ea03d8@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:The Captain’s Beard
-DESCRIPTION:Folk-rock night with maritime-themed music.\n\nPrice: Varies\n\
- nTickets/Info: https://pit.live/events/the-captains-beard
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Hiding From Mirrors
+DESCRIPTION:Live music performance.\n\nPrice: £7\n\nTickets/Info: https://
+ pit.live/events/hiding-from-mirrors
 LOCATION:New Cross Inn\, New Cross\, London
-URL:https://pit.live/events/the-captains-beard
+URL:https://pit.live/events/hiding-from-mirrors
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:046d2f101ec9@london-events-scraper
+UID:b01398000c3b@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:Ana Carla Maza Live
-DESCRIPTION:Live performance by Ana Carla Maza.\n\nPrice: Check site\n\nTic
- kets/Info: https://www.skiddle.com/whats-on/London/april-events/
-LOCATION:KOKO\, Camden\, London
-URL:https://www.skiddle.com/whats-on/London/april-events/
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:La Ruina
+DESCRIPTION:A comedy show at The Comedy Store.\n\nPrice: Check site\n\nTick
+ ets/Info: https://london.thecomedystore.co.uk/whats-on
+LOCATION:The Comedy Store\, London\, London
+URL:https://london.thecomedystore.co.uk/whats-on
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:efb4efea9aa7@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Theatre Of Hate\, Bona Rays
+DESCRIPTION:A live music gig featuring Theatre Of Hate and Bona Rays.\n\nPr
+ ice: Check site\n\nTickets/Info: https://www.thelexington.co.uk/events.php
+ ?type=gigs
+LOCATION:The Lexington\, London\, London
+URL:https://www.thelexington.co.uk/events.php?type=gigs
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:6c78896fd101@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Skillet
+DESCRIPTION:Rock band Skillet performs with Storm Orchestra.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.academymusicgroup.com/o2academybrixton
+ /events/skillet-tickets-ae112665
+LOCATION:O2 Academy Brixton\, Brixton\, London
+URL:https://www.academymusicgroup.com/o2academybrixton/events/skillet-ticke
+ ts-ae112665
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
