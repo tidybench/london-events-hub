@@ -8,15 +8,69 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4d1a2753b05e@london-events-scraper
+UID:deb7e7e6a93c@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260619
-SUMMARY:Star Trek Exhibition
-DESCRIPTION:A celebration of 60 years of Star Trek.\n\nPrice: Check site\n\
- nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
-LOCATION:Science Museum\, South Kensington\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260601
+SUMMARY:Spring at the Barbican
+DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
+  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
+ fo: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e488044f66c9@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260426
+SUMMARY:Jaja’s African Hair Braiding
+DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
+ st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
+ om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
+ ding/
+LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
+URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf9365c317a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260503
+SUMMARY:LIFELINE
+DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
+ at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
+ outhwarkplayhouse.co.uk
+LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
+URL:https://southwarkplayhouse.co.uk
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:c0bce1a650dc@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260427
+SUMMARY:Museum of London Docklands highlights tour
+DESCRIPTION:A guided tour showcasing the very best bits and highlights of t
+ he Museum of London Docklands.\n\nPrice: Free\n\nTickets/Info: https://www
+ .londonmuseum.org.uk/whats-on/
+LOCATION:Museum of London Docklands\, Canary Wharf\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:cda6f4de57b0@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260504
+SUMMARY:My Uncle is Not Pablo Escobar
+DESCRIPTION:A play about South London’s Latinx women uncovering a scandal
+ .\n\nPrice: Not specified\n\nTickets/Info: https://www.cntraveller.com/gal
+ lery/things-to-do-in-london-this-weekend
+LOCATION:Brixton House\, Brixton\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -32,96 +86,44 @@ URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:0abb5904f6b4@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:A World Without Work
-DESCRIPTION:Economist discusses potential for technological unemployment.\n
- \nPrice: FREE\n\nTickets/Info: https://londonistlistings.substack.com/p/th
- ings-to-do-in-london-this-week-20-26-april-2026
-LOCATION:Barnard’s Inn Hall\, Holborn\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:2d5dd6602d2d@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260426
-SUMMARY:Archaeology tours of Lesnes Abbey
-DESCRIPTION:Explore the ruins of Lesnes Abbey with archaeologists.\n\nPrice
- : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:Lesnes Abbey\, Abbey Wood\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:9d91238bf230@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Curiosity to Prosperity Talk
-DESCRIPTION:A talk on how curiosity-driven research delivers value beyond t
- he lab.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calend
- ar/date/2026/04/
-LOCATION:London School of Economics and Political Science (LSE)\, Holborn\,
-  London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:7c5b2178e0e6@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Dovetail Building Archaeology Session
-DESCRIPTION:Explore the hidden history beneath the City of London.\n\nPrice
- : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:Artizan Street Library and Community Centre\, Whitechapel\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:ab1927b92e22@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:FRAMELESS
-DESCRIPTION:Immersive art experience with famous paintings.\n\nPrice: Check
-  site\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/
- things-to-do-in-london-this-week-64229/
+DESCRIPTION:Immersive art experience with famous paintings.\n\nPrice: Free\
+ n\nTickets/Info: https://discover.ticketmaster.co.uk/special-events/things
+ -to-do-in-london-this-week-64229/
 LOCATION:FRAMELESS\, W1H 7AP\, London
 URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
  on-this-week-64229/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:9d83c67a94e2@london-events-scraper
+UID:e3ce84d2bfa9@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Science of the Sky Talk
-DESCRIPTION:A journey through the sky as a dynamic living laboratory.\n\nPr
- ice: £17.27\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/20
- 26/04/
-LOCATION:Royal Institution (inc Faraday Museum)\, Mayfair\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260426
+SUMMARY:Double Indemnity
+DESCRIPTION:A stage adaptation of James M Cain's crime novel about a woman 
+ plotting her husband's murder.\n\nPrice: from £31\n\nTickets/Info: https:
+ //www.london-theatreland.co.uk/dates/2026/04
+LOCATION:Churchill Theatre\, London\, London
+URL:https://www.london-theatreland.co.uk/dates/2026/04
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:a5b4bc5a0a5a@london-events-scraper
+UID:b9acfaad0280@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Celebrating our Fanniversary
-DESCRIPTION:Hybrid conference on feminism and gender justice.\n\nPrice: FRE
- E\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-i
- n-london-this-week-20-26-april-2026
-LOCATION:The Vagina Museum\, Bethnal Green\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Oh\, Mary!
+DESCRIPTION:Fast-paced comedy performance.\n\nPrice: Check site\n\nTickets/
+ Info: https://www.skiddle.com/whats-on/London/Trafalgar-Theatre/Oh-Mary/41
+ 988361/
+LOCATION:Trafalgar Theatre\, West End\, London
+URL:https://www.skiddle.com/whats-on/London/Trafalgar-Theatre/Oh-Mary/41988
+ 361/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
