@@ -8,67 +8,17 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:8db70a8298df@london-events-scraper
+UID:309ef4009b69@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Energy Observer at Tower Bridge
-DESCRIPTION:See the zero-emission hydrogen-powered vessel pass through Towe
- r Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/cale
- ndar/weekend/
-LOCATION:Tower Bridge\, Southwark\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:fe8031eebca1@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
+DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:Dark Secrets: The Esoteric Exhibition
-DESCRIPTION:Exploration of magic\, occultism\, science\, and folklore acros
- s 27 rooms.\n\nPrice: £23\n\nTickets/Info: https://feverup.com/m/427444
-LOCATION:Vaults - Leake Street\, Waterloo\, London
-URL:https://feverup.com/m/427444
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:09b5d4a80337@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:Camden Archives Highlights Tour
-DESCRIPTION:90-minute tour of historical documents and artefacts.\n\nPrice:
-  Varies\n\nTickets/Info: https://londonistlistings.substack.com/p/things-t
- o-do-in-london-this-week-20-26-april-2026
-LOCATION:Camden Archives\, Camden\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:143c03bddf03@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:Walking London’s queer history
-DESCRIPTION:Uncover hidden queer histories in London.\n\nPrice: Free\n\nTic
- kets/Info: https://www.londonmuseum.org.uk/whats-on/
-LOCATION:London-wide\, London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:3b04a3e8c81a@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:Energy Observer Passing Tower Bridge
-DESCRIPTION:Watch the zero-emission hydrogen-powered vessel pass through To
- wer Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
- lendar/date/2026/04/
-LOCATION:Tower Bridge\, Tower Bridge\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:Hidden Holborn and Little Italy Talk
+DESCRIPTION:Explore the history of London’s former Italian Quarter.\n\nPr
+ ice: £25\n\nTickets/Info: https://www.eventbrite.co.uk/e/hidden-holborn-a
+ nd-little-italy-talk-led-by-diane-burstein-tickets-1982887212029
+LOCATION:Wilderness Kitchen\, London
+URL:https://www.eventbrite.co.uk/e/hidden-holborn-and-little-italy-talk-led
+ -by-diane-burstein-tickets-1982887212029
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
@@ -86,43 +36,89 @@ URL:https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-in-all-
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:deb7e7e6a93c@london-events-scraper
+UID:b2e96ece7dee@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260601
-SUMMARY:Spring at the Barbican
-DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
-  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
- fo: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Camden Archives
+DESCRIPTION:Highlights tour of Camden’s historical collections.\n\nPrice:
+  Free\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-
+ do-in-london-this-week-20-26-april-2026
+LOCATION:Camden Archives\, Camden\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:e488044f66c9@london-events-scraper
+UID:e2e3b6fb52c8@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260426
-SUMMARY:Jaja’s African Hair Braiding
-DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
- st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
- om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
- ding/
-LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
-URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:1996: A celebration of the wildest year of Britain’s wildest
+DESCRIPTION:Relive 90s music\, fashion\, and football.\n\nPrice: Free\n\nTi
+ ckets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Tours & Public Spaces\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6bf9365c317a@london-events-scraper
+UID:19b445847681@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260503
-SUMMARY:LIFELINE
-DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
- at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
- outhwarkplayhouse.co.uk
-LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
-URL:https://southwarkplayhouse.co.uk
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Father Mother Sister Brother
+DESCRIPTION:Jim Jarmusch film about emotionally detached siblings.\n\nPrice
+ : £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:cf0f3aa3e66f@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Project Hail Mary
+DESCRIPTION:Sci-fi film about an astronaut on a mission.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:f729c8ad53a1@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Relaxed Screening: The Last Blossom
+DESCRIPTION:Relaxed screening of a yakuza film.\n\nPrice: Free\n\nTickets/I
+ nfo: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:350989301071@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Sara Correia
+DESCRIPTION:Portuguese fado singer's new album show.\n\nPrice: From £20\n\
+ nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Contemporary Music\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:acfafa30a75f@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:The Blue Trail
+DESCRIPTION:Anti-aging parable set in the Amazon jungle.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
