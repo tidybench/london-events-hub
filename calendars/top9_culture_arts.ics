@@ -22,16 +22,43 @@ URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
+UID:6bf9365c317a@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
- \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
- -smiles
-LOCATION:Duke of York's Theatre\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260503
+SUMMARY:LIFELINE
+DESCRIPTION:Play by Robin Hiley and Becky Hope-Palmer.\n\nPrice: From £15\
+ n\nTickets/Info: https://southwarkplayhouse.co.uk/productions/lifeline/#bo
+ ok-tickets
+LOCATION:Elephant SE11\, Elephant and Castle\, London
+URL:https://southwarkplayhouse.co.uk/productions/lifeline/#book-tickets
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1706835ab075@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260626
+SUMMARY:The Late Late Show with Cosmic Fusion
+DESCRIPTION:Experience a thrilling night of intense fusion music performed 
+ by young\, talented\, and fired-up musicians.\n\nPrice: Check site\n\nTick
+ ets/Info: https://www.ronniescotts.co.uk/find-a-show
+LOCATION:Ronnie Scott's\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b7136cdcd08e@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260503
+SUMMARY:Orders of Magnitude
+DESCRIPTION:An exhibition of imaginary landscapes by Sholto Blissett.\n\nPr
+ ice: Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-eve
+ nts/things-to-do-in-london-this-week-64229/
+LOCATION:Pilar Corrias Gallery\, London\, W1S 3PA\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -47,76 +74,53 @@ URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:e2e3b6fb52c8@london-events-scraper
+UID:25a5257ca3ec@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:1996: A celebration of the wildest year of Britain’s wildest
-DESCRIPTION:Relive 90s music\, fashion\, and football.\n\nPrice: Free\n\nTi
- ckets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Tours & Public Spaces\, London
-URL:https://www.barbican.org.uk/whats-on
+DTEND;VALUE=DATE:20260427
+SUMMARY:A Common Thread
+DESCRIPTION:Student art exhibition exploring craft processes.\n\nPrice: Fre
+ e\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+LOCATION:The Society of Portrait Sculptors' Annual Open Exhibition\, Sloane
+  Square\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:f5bd77fee9b8@london-events-scraper
+UID:64c9b5953171@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Akira
-DESCRIPTION:Screening of the cyberpunk anime classic.\n\nPrice: £1 MEM\n\n
- Tickets/Info: https://princecharlescinema.com
-LOCATION:Prince Charles Cinema\, Leicester Square\, London
-URL:https://princecharlescinema.com
+DTEND;VALUE=DATE:20260422
+SUMMARY:Barbican Architecture Tours
+DESCRIPTION:Explore the Brutalist architecture of the Barbican Arts Centre.
+ \n\nPrice: £18\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/week
+ end/
+LOCATION:Barbican Arts Centre\, Barbican\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:278c89e39180@london-events-scraper
+UID:3612e353c4e3@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Dazed And Confused
-DESCRIPTION:Coming-of-age film about rowdy teenagers on their last day of h
- igh school.\n\nPrice: Check site\n\nTickets/Info: https://princecharlescin
- ema.com
-LOCATION:Prince Charles Cinema\, Leicester Square\, London
-URL:https://princecharlescinema.com
+DTEND;VALUE=DATE:20260427
+SUMMARY:Dana-Fiona Armour: Serpentine Currents
+DESCRIPTION:Sculpture and light art about ocean ecosystems.\n\nPrice: Free\
+ n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+LOCATION:Somerset House\, Somerset\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:19b445847681@london-events-scraper
+UID:d1c7bfd195c7@london-events-scraper
 DTSTAMP:20260420T000000Z
 DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Father Mother Sister Brother
-DESCRIPTION:Jim Jarmusch film about emotionally detached siblings.\n\nPrice
- : £6\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Cinema\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:17d54e033ebe@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:How High
-DESCRIPTION:Comedy film about two friends who pass exams after smoking magi
- c weed.\n\nPrice: £1 MEM\n\nTickets/Info: https://princecharlescinema.com
-LOCATION:Prince Charles Cinema\, Leicester Square\, London
-URL:https://princecharlescinema.com
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:66adf055acef@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Paris\, Texas
-DESCRIPTION:A man with amnesia reunites with his brother in this classic fi
- lm.\n\nPrice: Check site\n\nTickets/Info: https://princecharlescinema.com
-LOCATION:Prince Charles Cinema\, Leicester Square\, London
-URL:https://princecharlescinema.com
+DTEND;VALUE=DATE:20260427
+SUMMARY:Portrait Sculptors Exhibition
+DESCRIPTION:Contemporary sculpture exhibition with prizes.\n\nPrice: Free\n
+ \nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+LOCATION:The Garrison Chapel\, Royal Hospital Chelsea\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
