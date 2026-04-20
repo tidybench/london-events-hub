@@ -8,16 +8,67 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:56dd67912269@london-events-scraper
+UID:8db70a8298df@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Moonshine Saloon
-DESCRIPTION:Wild West-themed immersive cocktail experience.\n\nPrice: from 
- £41.80 - £47.52\n\nTickets/Info: https://www.designmynight.com/london/wh
- ats-on/best-events-in-april
-LOCATION:Moonshine Saloon\, Houndsditch\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Energy Observer at Tower Bridge
+DESCRIPTION:See the zero-emission hydrogen-powered vessel pass through Towe
+ r Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/cale
+ ndar/weekend/
+LOCATION:Tower Bridge\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8031eebca1@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260427
+SUMMARY:Dark Secrets: The Esoteric Exhibition
+DESCRIPTION:Exploration of magic\, occultism\, science\, and folklore acros
+ s 27 rooms.\n\nPrice: £23\n\nTickets/Info: https://feverup.com/m/427444
+LOCATION:Vaults - Leake Street\, Waterloo\, London
+URL:https://feverup.com/m/427444
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:09b5d4a80337@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Camden Archives Highlights Tour
+DESCRIPTION:90-minute tour of historical documents and artefacts.\n\nPrice:
+  Varies\n\nTickets/Info: https://londonistlistings.substack.com/p/things-t
+ o-do-in-london-this-week-20-26-april-2026
+LOCATION:Camden Archives\, Camden\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:143c03bddf03@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Walking London’s queer history
+DESCRIPTION:Uncover hidden queer histories in London.\n\nPrice: Free\n\nTic
+ kets/Info: https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London-wide\, London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:3b04a3e8c81a@london-events-scraper
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Energy Observer Passing Tower Bridge
+DESCRIPTION:Watch the zero-emission hydrogen-powered vessel pass through To
+ wer Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/date/2026/04/
+LOCATION:Tower Bridge\, Tower Bridge\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
@@ -35,91 +86,43 @@ URL:https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-in-all-
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:698037c6c5fa@london-events-scraper
+UID:deb7e7e6a93c@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:600 Years of History Tour
-DESCRIPTION:Discover the Tudor origins and Wren's architecture at this hist
- oric site.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on
- /
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260601
+SUMMARY:Spring at the Barbican
+DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
+  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
+ fo: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:115fad2ddddd@london-events-scraper
+UID:e488044f66c9@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
+DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260426
-SUMMARY:Archaeology Tours of Lesnes Abbey
-DESCRIPTION:Visit the ruins and see archaeologists at work.\n\nPrice: Free\
- n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Lesnes Abbey\, Bexley\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+SUMMARY:Jaja’s African Hair Braiding
+DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
+ st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
+ om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
+ ding/
+LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
+URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:917bf388329a@london-events-scraper
+UID:6bf9365c317a@london-events-scraper
 DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260427
-SUMMARY:Cornwallis Cloth Exhibition
-DESCRIPTION:Film installation about British Caribbean lives during WWII.\n\
- nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:9d91238bf230@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Curiosity to Prosperity Talk
-DESCRIPTION:A talk on how curiosity-driven research delivers value beyond t
- he lab.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calend
- ar/date/2026/04/
-LOCATION:London School of Economics and Political Science (LSE)\, Holborn\,
-  London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:7c5b2178e0e6@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Dovetail Building Archaeology Session
-DESCRIPTION:Explore the hidden history beneath the City of London.\n\nPrice
- : Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:Artizan Street Library and Community Centre\, Whitechapel\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:e9cc527a950e@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Painted Hall Talks
-DESCRIPTION:Learn about the 200+ characters depicted on the Painted Hall ce
- iling.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:9d83c67a94e2@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Science of the Sky Talk
-DESCRIPTION:A journey through the sky as a dynamic living laboratory.\n\nPr
- ice: £17.27\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/20
- 26/04/
-LOCATION:Royal Institution (inc Faraday Museum)\, Mayfair\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260503
+SUMMARY:LIFELINE
+DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
+ at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
+ outhwarkplayhouse.co.uk
+LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
+URL:https://southwarkplayhouse.co.uk
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
