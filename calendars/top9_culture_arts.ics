@@ -8,48 +8,61 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:c4049d99e216@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260430
-SUMMARY:Spotlight: Theatre Conversations
-DESCRIPTION:Discussions about the world of theatre with host Lucy Phelps.\n
- \nPrice: £20\n\nTickets/Info: https://www.nationalgallery.org.uk/events/i
- n-conversation-spotlight-conversations-about-the-world-of-theatre-2026
-LOCATION:The National Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
- versations-about-the-world-of-theatre-2026
+UID:deb7e7e6a93c@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260601
+SUMMARY:Spring at the Barbican
+DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
+  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
+ fo: https://www.barbican.org.uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6bf9365c317a@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260503
-SUMMARY:LIFELINE
-DESCRIPTION:Play by Robin Hiley and Becky Hope-Palmer.\n\nPrice: From £15\
- n\nTickets/Info: https://southwarkplayhouse.co.uk/productions/lifeline/#bo
- ok-tickets
-LOCATION:Elephant SE11\, Elephant and Castle\, London
-URL:https://southwarkplayhouse.co.uk/productions/lifeline/#book-tickets
+UID:e488044f66c9@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260426
+SUMMARY:Jaja’s African Hair Braiding
+DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
+ st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
+ om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
+ ding/
+LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
+URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1706835ab075@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260626
-SUMMARY:The Late Late Show with Cosmic Fusion
-DESCRIPTION:Experience a thrilling night of intense fusion music performed 
- by young\, talented\, and fired-up musicians.\n\nPrice: Check site\n\nTick
- ets/Info: https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Ronnie Scott's\, Soho\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
+UID:7151a63a5061@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260517
+SUMMARY:Heart Wall
+DESCRIPTION:A theatre performance at the Bush Theatre.\n\nPrice: from £13\
+ n\nTickets/Info: https://ticketing.timeout.com/london/shows/45579-heart-wa
+ ll
+LOCATION:Bush Theatre\, Shepherd's Bush\, London
+URL:https://ticketing.timeout.com/london/shows/45579-heart-wall
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:c0bce1a650dc@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260427
+SUMMARY:Museum of London Docklands highlights tour
+DESCRIPTION:A guided tour showcasing the very best bits and highlights of t
+ he Museum of London Docklands.\n\nPrice: Free\n\nTickets/Info: https://www
+ .londonmuseum.org.uk/whats-on/
+LOCATION:Museum of London Docklands\, Canary Wharf\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:b7136cdcd08e@london-events-scraper
-DTSTAMP:20260420T000000Z
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260503
 SUMMARY:Orders of Magnitude
@@ -63,7 +76,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:faaf6e367633@london-events-scraper
-DTSTAMP:20260420T000000Z
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260505
 SUMMARY:Sony World Photography Awards Exhibition
@@ -74,8 +87,21 @@ URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:3399eaca97a7@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260428
+SUMMARY:Winnie-The-Pooh Exhibition
+DESCRIPTION:An exhibition of E. H. Shepard's sketches for Winnie-The-Pooh.\
+ n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-to-do-l
+ ondon-april-2026/
+LOCATION:Peter Harrington\, Mayfair\, London
+URL:https://secretldn.com/things-to-do-london-april-2026/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:25a5257ca3ec@london-events-scraper
-DTSTAMP:20260420T000000Z
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260427
 SUMMARY:A Common Thread
@@ -87,40 +113,17 @@ URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:64c9b5953171@london-events-scraper
-DTSTAMP:20260420T000000Z
+UID:d99da79b91dd@london-events-scraper
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260422
-SUMMARY:Barbican Architecture Tours
-DESCRIPTION:Explore the Brutalist architecture of the Barbican Arts Centre.
- \n\nPrice: £18\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/week
- end/
-LOCATION:Barbican Arts Centre\, Barbican\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:3612e353c4e3@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260427
-SUMMARY:Dana-Fiona Armour: Serpentine Currents
-DESCRIPTION:Sculpture and light art about ocean ecosystems.\n\nPrice: Free\
- n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-LOCATION:Somerset House\, Somerset\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d1c7bfd195c7@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260427
-SUMMARY:Portrait Sculptors Exhibition
-DESCRIPTION:Contemporary sculpture exhibition with prizes.\n\nPrice: Free\n
- \nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-LOCATION:The Garrison Chapel\, Royal Hospital Chelsea\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+DTEND;VALUE=DATE:20260426
+SUMMARY:Choir Boy
+DESCRIPTION:Play about race\, sexuality\, and brotherhood with a cappella h
+ ymns.\n\nPrice: Free\n\nTickets/Info: https://londonistlistings.substack.c
+ om/p/things-to-do-in-london-this-week-20-26-april-2026
+LOCATION:Theatre Royal Stratford East\, Stratford\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
