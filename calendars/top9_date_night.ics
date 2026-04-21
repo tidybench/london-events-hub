@@ -8,70 +8,88 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:7ff8afc507e8@london-events-scraper
-DTSTAMP:20260420T000000Z
+UID:b6f93ec3ee78@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:British Asparagus Season Dinner
+DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
+ £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
+ h-table-celebrating-british-asparagus-season-23-04-2026
+LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
+URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
+ -british-asparagus-season-23-04-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:2f463382aa2f@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260426
+SUMMARY:Don Quixote Ballet
+DESCRIPTION:Birmingham Royal Ballet performs Don Quixote.\n\nPrice: Free\n\
+ nTickets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells Theatre\, Islington\, London
+URL:https://www.sadlerswells.com/whats-on
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1012fb4059@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Rotate by Jimmy
+DESCRIPTION:A rotisserie pop-up offering roasted chicken and grilled veg.\n
+ \nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-to-do-in
+ -london-weekend/
+LOCATION:Queen’s Walk (opposite Queen Elizabeth Hall)\, Southbank\, Londo
+ n
+URL:https://secretldn.com/things-to-do-in-london-weekend/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:656b080d3c08@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260607
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:A stage adaptation of the classic novel.\n\nPrice: from £92 pe
+ r person\n\nTickets/Info: https://ticketing.timeout.com/london/shows/45580
+ -les-liaisons-dangereuses
+LOCATION:Lyttelton Theatre\, Southbank\, London
+URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
+ es
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:56dd67912269@london-events-scraper
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:Bridget Jones's Diary (25th Anniversary)
-DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
- nfo: https://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
+SUMMARY:Moonshine Saloon
+DESCRIPTION:Wild West-themed immersive cocktail experience.\n\nPrice: from 
+ £41.80 - £47.52\n\nTickets/Info: https://www.designmynight.com/london/wh
+ ats-on/best-events-in-april
+LOCATION:Moonshine Saloon\, Houndsditch\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9295e7ff295d@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Amelie (25th Anniversary Re-release)
-DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
- nfo: https://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:c595c045b654@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-SUMMARY:Chloe Flower
-DESCRIPTION:Korean-American pianist performs at Kings Place.\n\nPrice: Free
- \n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in
- -london-this-week-20-26-april-2026
-LOCATION:Kings Place\, Kings Cross\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:feb26d93c5fa@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260427
-SUMMARY:Hampton Court Palace Tulip Festival
-DESCRIPTION:Spring festival with thousands of tulips in bloom.\n\nPrice: £
- 32\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-LOCATION:Hampton Court Palace\, Hampton Court\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:939d50925d30@london-events-scraper
-DTSTAMP:20260420T000000Z
+UID:65962cca2e3a@london-events-scraper
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:London Symphony Orchestra/Sir Antonio Pappano
-DESCRIPTION:Elgar's oratorio performed by the LSO.\n\nPrice: Free\n\nTicket
- s/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Classical Music\, London
-URL:https://www.barbican.org.uk/whats-on
+SUMMARY:Padella Soho Opening
+DESCRIPTION:A new pasta restaurant opening in Soho with hand-rolled pastas 
+ and cocktails.\n\nPrice: Check site\n\nTickets/Info: https://www.cntravell
+ er.com/gallery/things-to-do-in-london-this-weekend
+LOCATION:Padella\, Soho\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:99611c8a6d29@london-events-scraper
-DTSTAMP:20260420T000000Z
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
 SUMMARY:RBO Live: The Magic Flute
@@ -82,42 +100,27 @@ URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d488fe1dcb6a@london-events-scraper
-DTSTAMP:20260420T000000Z
+UID:4464bfb28400@london-events-scraper
+DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:Surreal Still Life Drink + Draw
-DESCRIPTION:Absinthe workshop inspired by museum curiosities.\n\nPrice: £2
- 6.2\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:The Last Tuesday Society & Viktor Wynd Museum\, Hackney\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:Speed Dating @ 100 Wardour St
+DESCRIPTION:Speed dating for singles aged 25-38.\n\nPrice: Buy Tickets\n\nT
+ ickets/Info: https://www.skiddle.com/whats-on/London/april-events/
+LOCATION:100 Wardour St\, London\, Soho\, London
+URL:https://www.skiddle.com/whats-on/London/april-events/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d3b5ba5c6085@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Early Evening Gin Tour
-DESCRIPTION:A tour through the history of the Household Cavalry after hours
- .\n\nPrice: £20.00\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
- date/2026/04/
-LOCATION:Household Cavalry Museum\, Whitehall\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:b6f93ec3ee78@london-events-scraper
-DTSTAMP:20260420T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:British Asparagus Season Dinner
-DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
- £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
- h-table-celebrating-british-asparagus-season-23-04-2026
-LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
-URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
- -british-asparagus-season-23-04-2026
+UID:a8190b357315@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:The Drama
+DESCRIPTION:A romantic film starring Robert Pattinson and Zendaya.\n\nPrice
+ : Check site\n\nTickets/Info: https://www.genesiscinema.co.uk/whatson
+LOCATION:Whitechapel\, Whitechapel\, London
+URL:https://www.genesiscinema.co.uk/whatson
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
