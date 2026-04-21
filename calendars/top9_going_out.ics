@@ -8,42 +8,29 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4d49892fe746@london-events-scraper
+UID:8246646d1482@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:Amaarae’s Black Star Experience
-DESCRIPTION:A live show based on Amaarae’s latest album.\n\nPrice: Check 
- site\n\nTickets/Info: https://www.timeout.com/london/things-to-do-in-londo
- n-this-weekend
-LOCATION:Roundhouse\, Camden\, London
-URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260430
+SUMMARY:Roundhouse Three Sixty
+DESCRIPTION:A springtime festival at Roundhouse featuring music\, arts\, an
+ d club nights.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.c
+ om/london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Roundhouse\, Chalk Farm\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:e18505cc248a@london-events-scraper
+UID:636adc7fe2ba@london-events-scraper
 DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:Avora Cocktail Experience
-DESCRIPTION:An immersive cocktail experience with set design and storytelli
- ng.\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-to-
- do-in-london-weekend/
-LOCATION:5C\, 127 Hackney Rd\, Hackney\, London
-URL:https://secretldn.com/things-to-do-in-london-weekend/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:73bd57908c4f@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:The LipSinkers
-DESCRIPTION:A drag lip-sync cabaret performance celebrating 20 years of the
-  troupe.\n\nPrice: £10.00 – £15.00\n\nTickets/Info: https://londonchea
- po.com/events/the-lipsinkers-at-two-brewers/20260424/
-LOCATION:Two Brewers\, Clapham\, London
-URL:https://londoncheapo.com/events/the-lipsinkers-at-two-brewers/20260424/
+SUMMARY:All About House
+DESCRIPTION:A house music event with a focus on pure house energy.\n\nPrice
+ : Check site\n\nTickets/Info: https://egglondon.co.uk/events/
+LOCATION:Egg London\, London\, London
+URL:https://egglondon.co.uk/events/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -59,64 +46,82 @@ URL:https://koko.co.uk/whats-on
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:7b4ba8c7791e@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260428
-SUMMARY:Elixir Festival
-DESCRIPTION:Performances spanning Bollywood\, flamenco\, jazz\, and more.\n
- \nPrice: Free\n\nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler’s Wells\, Islington\, London
-URL:https://www.sadlerswells.com/whats-on
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:e097bd7af5a5@london-events-scraper
+UID:6c78896fd101@london-events-scraper
 DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:La Ruina
-DESCRIPTION:A comedy show at The Comedy Store.\n\nPrice: Check site\n\nTick
- ets/Info: https://london.thecomedystore.co.uk/whats-on
-LOCATION:The Comedy Store\, London\, London
-URL:https://london.thecomedystore.co.uk/whats-on
+SUMMARY:Skillet
+DESCRIPTION:Rock band Skillet performs with Storm Orchestra.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.academymusicgroup.com/o2academybrixton
+ /events/skillet-tickets-ae112665
+LOCATION:O2 Academy Brixton\, Brixton\, London
+URL:https://www.academymusicgroup.com/o2academybrixton/events/skillet-ticke
+ ts-ae112665
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:9cb0e884e087@london-events-scraper
+UID:1b38000971ca@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:RHYS JAMES: WORK IN PROGRESS
-DESCRIPTION:Comedy show by Rhys James.\n\nPrice: Check site\n\nTickets/Info
- : https://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, Angel\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:QueerScore Festival
+DESCRIPTION:Night of queer music and live performance in Deptford.\n\nPrice
+ : From £12.50\n\nTickets/Info: https://todolist.london/unmissable-things-
+ to-do-in-london-in-april-2026/
+LOCATION:The Albany\, Deptford\, London
+URL:https://todolist.london/unmissable-things-to-do-in-london-in-april-2026
+ /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:842a677eb444@london-events-scraper
+UID:9bc4ab4d7c22@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Tori Amos
-DESCRIPTION:An iconic singer performs at the Royal Albert Hall.\n\nPrice: C
- heck site\n\nTickets/Info: https://secretldn.com/things-to-do-london-april
- -2026/
-LOCATION:Royal Albert Hall\, South Kensington\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:THE NOTWIST
+DESCRIPTION:Live music performance by THE NOTWIST.\n\nPrice: Check site\n\n
+ Tickets/Info: https://www.thegarage.london/live/
+LOCATION:The Garage\, Highbury\, London
+URL:https://www.thegarage.london/live/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:5d6189c42273@london-events-scraper
+UID:a6bcd2e353c3@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Weekend At Dad's
-DESCRIPTION:A stand-up comedy night presented by your Dad.\n\nPrice: £20 -
-  £20\n\nTickets/Info: https://backyardcomedyclub.co.uk/events/
-LOCATION:Backyard Comedy Club\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/events/
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260427
+SUMMARY:Brick Lane Jazz Festival
+DESCRIPTION:A jazz festival featuring genre-blending sounds.\n\nPrice: Get 
+ up to 25% off tickets\, only through Time Out Offers\n\nTickets/Info: http
+ s://www.timeout.com/london/things-to-do/london-events-in-april
+LOCATION:Truman Brewery\, 93 Feet East and nearby venues\, Brick Lane\, Lon
+ don
+URL:https://www.timeout.com/london/things-to-do/london-events-in-april
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:ff8a6afe7f07@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:DIRECTIONS
+DESCRIPTION:House\, jazz\, and soul music night.\n\nPrice: Check site\n\nTi
+ ckets/Info: https://www.oslohackney.com/events/
+LOCATION:Oslo\, Hackney\, London
+URL:https://www.oslohackney.com/events/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d842e50505@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:FOLD presents Mutual Rytm
+DESCRIPTION:A collaboration celebrating 90s and early 2000s music.\n\nPrice
+ : Tickets available on the link below\n\nTickets/Info: https://www.fold.lo
+ ndon/tickets
+LOCATION:FOLD London\, London\, London
+URL:https://www.fold.london/tickets
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
