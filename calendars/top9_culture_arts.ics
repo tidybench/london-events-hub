@@ -8,59 +8,6 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:deb7e7e6a93c@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260601
-SUMMARY:Spring at the Barbican
-DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
-  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
- fo: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e488044f66c9@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260426
-SUMMARY:Jaja’s African Hair Braiding
-DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
- st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
- om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
- ding/
-LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
-URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:7151a63a5061@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260517
-SUMMARY:Heart Wall
-DESCRIPTION:A theatre performance at the Bush Theatre.\n\nPrice: from £13\
- n\nTickets/Info: https://ticketing.timeout.com/london/shows/45579-heart-wa
- ll
-LOCATION:Bush Theatre\, Shepherd's Bush\, London
-URL:https://ticketing.timeout.com/london/shows/45579-heart-wall
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:c0bce1a650dc@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260427
-SUMMARY:Museum of London Docklands highlights tour
-DESCRIPTION:A guided tour showcasing the very best bits and highlights of t
- he Museum of London Docklands.\n\nPrice: Free\n\nTickets/Info: https://www
- .londonmuseum.org.uk/whats-on/
-LOCATION:Museum of London Docklands\, Canary Wharf\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:b7136cdcd08e@london-events-scraper
 DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260413
@@ -87,32 +34,6 @@ URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:3399eaca97a7@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260428
-SUMMARY:Winnie-The-Pooh Exhibition
-DESCRIPTION:An exhibition of E. H. Shepard's sketches for Winnie-The-Pooh.\
- n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-to-do-l
- ondon-april-2026/
-LOCATION:Peter Harrington\, Mayfair\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:25a5257ca3ec@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260427
-SUMMARY:A Common Thread
-DESCRIPTION:Student art exhibition exploring craft processes.\n\nPrice: Fre
- e\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-LOCATION:The Society of Portrait Sculptors' Annual Open Exhibition\, Sloane
-  Square\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:d99da79b91dd@london-events-scraper
 DTSTAMP:20260421T000000Z
 DTSTART;VALUE=DATE:20260420
@@ -124,6 +45,82 @@ DESCRIPTION:Play about race\, sexuality\, and brotherhood with a cappella h
 LOCATION:Theatre Royal Stratford East\, Stratford\, London
 URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
  ek-20-26-april-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7b5e82ee16@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Akira
+DESCRIPTION:35th anniversary screening of the cyberpunk classic.\n\nPrice: 
+ Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Cinema\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:90900e51441a@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Akira (2026 Re-release)
+DESCRIPTION:A classic anime film re-released.\n\nPrice: £15\n\nTickets/Inf
+ o: https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:812ae164f0e2@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260701
+SUMMARY:Avora: A New World Immersive Experience
+DESCRIPTION:An immersive theatrical adventure with exotic drinks and sets.\
+ n\nPrice: £48.06\n\nTickets/Info: https://feverup.com/m/118999
+LOCATION:AVORA\, Hackney\, London
+URL:https://feverup.com/m/118999
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:302ba0d1f629@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Beatriz González
+DESCRIPTION:UK retrospective of Colombian artist's bold work.\n\nPrice: Fre
+ e\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/bsl-tou
+ r-of-beatriz-gonzalez
+LOCATION:Barbican Centre\, Art & Design\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/bsl-tour-of-beatriz-gon
+ zalez
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:af7d1e5bad54@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Encounters: Giacometti x Lynda Benglis
+DESCRIPTION:Exhibition pairing Giacometti and Benglis works.\n\nPrice: Free
+ \n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Art & Design\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd219dd59d5@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260426
+SUMMARY:I’m Sorry\, Prime Minister
+DESCRIPTION:Final chapter of the Yes\, Minister political satire series.\n\
+ nPrice: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/ticke
+ ts/series/APSPM01M/im-sorry-prime-minister-1591897
+LOCATION:Apollo Theatre\, West End\, London
+URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
+ ime-minister-1591897
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
