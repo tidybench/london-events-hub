@@ -8,121 +8,118 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4020a64297e4@london-events-scraper
+UID:3b04a3e8c81a@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:Secret Dome Tour
-DESCRIPTION:Explore Greenwich's wartime history with panoramic views from W
- ren's Dome.\n\nPrice: Check site\n\nTickets/Info: https://ornc.org/whats-o
- n/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:feb26d93c5fa@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260427
-SUMMARY:Hampton Court Palace Tulip Festival
-DESCRIPTION:A display of 10\,000 tulips with expert talks and craft activit
- ies.\n\nPrice: Free\n\nTickets/Info: https://www.timeout.com/london/things
- -to-do/things-to-do-in-london-this-week
-LOCATION:Hampton Court Palace\, Richmond upon Thames\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
- -week
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:ab6b8a574a05@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-SUMMARY:H.O.P.E Experience
-DESCRIPTION:Immersive performance experience at Lilian Baylis Studio.\n\nPr
- ice: Free\n\nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Lilian Baylis Studio\, Southbank\, London
-URL:https://www.sadlerswells.com/whats-on
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:c4049d99e216@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260430
-SUMMARY:Spotlight: Theatre Conversations
-DESCRIPTION:Discussions about the world of theatre with host Lucy Phelps.\n
- \nPrice: £20\n\nTickets/Info: https://www.nationalgallery.org.uk/events/i
- n-conversation-spotlight-conversations-about-the-world-of-theatre-2026
-LOCATION:The National Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
- versations-about-the-world-of-theatre-2026
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
- \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
- -smiles
-LOCATION:Duke of York's Theatre\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:1118f37e7b5e@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260320
+DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:John Proctor Is the Villain
-DESCRIPTION:A play about girlhood and power.\n\nPrice: Check site\n\nTicket
- s/Info: https://ticketing.timeout.com/london/shows/45671-john-proctor-is-t
- he-villain
-LOCATION:Royal Court\, Sloane Square\, London
-URL:https://ticketing.timeout.com/london/shows/45671-john-proctor-is-the-vi
- llain
+SUMMARY:Energy Observer Passing Tower Bridge
+DESCRIPTION:Watch the zero-emission hydrogen-powered vessel pass through To
+ wer Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/date/2026/04/
+LOCATION:Tower Bridge\, Tower Bridge\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6bf9365c317a@london-events-scraper
+UID:d488fe1dcb6a@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260503
-SUMMARY:LIFELINE
-DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
- at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
- outhwarkplayhouse.co.uk
-LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
-URL:https://southwarkplayhouse.co.uk
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Surreal Still Life Drink + Draw
+DESCRIPTION:Absinthe workshop inspired by museum curiosities.\n\nPrice: £2
+ 6.2\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
+LOCATION:The Last Tuesday Society & Viktor Wynd Museum\, Hackney\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:342642ccc2e6@london-events-scraper
+UID:73ceed67ee67@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260503
-SUMMARY:Ken Ludwig's Dear Jack\, Dear Louise
-DESCRIPTION:Play directed by Simon Reade.\n\nPrice: £15\n\nTickets/Info: h
- ttps://www.arcolatheatre.com/event/dear-jack-dear-louise/
-LOCATION:Studio 1\, London\, London
-URL:https://www.arcolatheatre.com/event/dear-jack-dear-louise/
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260427
+SUMMARY:BRICK LANE JAZZ FESTIVAL 2026
+DESCRIPTION:Annual jazz festival in Brick Lane.\n\nPrice: Check site\n\nTic
+ kets/Info: https://richmix.org.uk/whats-on
+LOCATION:Brick Lane\, London
+URL:https://richmix.org.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:d386e7a19227@london-events-scraper
+UID:285afa07d409@london-events-scraper
 DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260517
-SUMMARY:FLYBY
-DESCRIPTION:New musical by Theo Jamieson and Adam Lenson.\n\nPrice: from £
- 28\n\nTickets/Info: https://southwarkplayhouse.co.uk/productions/flyby/#bo
- ok-tickets
-LOCATION:Borough SE1\, Borough\, London
-URL:https://southwarkplayhouse.co.uk/productions/flyby/#book-tickets
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Assa\, Mother of Three\, tbc
+DESCRIPTION:Live music performance by Assa and others.\n\nPrice: FREE\n\nTi
+ ckets/Info: https://www.windmillbrixton.co.uk/events/2026-04-21-assa-mothe
+ r-of-three-tbc-the-windmill
+LOCATION:The Windmill\, Brixton\, London
+URL:https://www.windmillbrixton.co.uk/events/2026-04-21-assa-mother-of-thre
+ e-tbc-the-windmill
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:abfcd086f393@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Dennis Rollins Velocity Trio
+DESCRIPTION:Trombonist Dennis Rollins' jazz performance.\n\nPrice: £19\n\n
+ Tickets/Info: https://www.vortexjazz.co.uk/event/dennis-rollins-velocity-t
+ rio/
+LOCATION:Vortex Jazz Club\, London
+URL:https://www.vortexjazz.co.uk/event/dennis-rollins-velocity-trio/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:2dacebcac73b@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:DoomCannon
+DESCRIPTION:New London jazz band with fresh material.\n\nPrice: Check site\
+ n\nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
+LOCATION:Ronnie Scott's\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:f17ad517a954@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Dear Nora\, Tai Haf Heb Drigolyn
+DESCRIPTION:A live music gig featuring Dear Nora and Tai Haf Heb Drigolyn.\
+ n\nPrice: Check site\n\nTickets/Info: https://www.thelexington.co.uk/event
+ s.php?type=gigs
+LOCATION:The Lexington\, London\, London
+URL:https://www.thelexington.co.uk/events.php?type=gigs
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:708895e48451@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:DREAMSCAPES
+DESCRIPTION:Post-fusion nu-jazz ensemble blending genres.\n\nPrice: £15\n\
+ nTickets/Info: https://www.vortexjazz.co.uk/event/dreamscapes-3/
+LOCATION:Vortex Jazz Club\, London\, London
+URL:https://www.vortexjazz.co.uk/event/dreamscapes-3/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:c46cf0974588@london-events-scraper
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:English Garden\, Haemogoblin\, Ocean Ivy
+DESCRIPTION:Live music night featuring three bands.\n\nPrice: £5\n\nTicket
+ s/Info: https://www.windmillbrixton.co.uk/events/2026-04-22-english-garden
+ -haemogoblin-ocean-ivy-the-windmill
+LOCATION:The Windmill\, Brixton\, London
+URL:https://www.windmillbrixton.co.uk/events/2026-04-22-english-garden-haem
+ ogoblin-ocean-ivy-the-windmill
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
