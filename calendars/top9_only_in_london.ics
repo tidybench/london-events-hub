@@ -8,118 +8,95 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:3b04a3e8c81a@london-events-scraper
-DTSTAMP:20260421T000000Z
+UID:309ef4009b69@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Hidden Holborn and Little Italy Talk
+DESCRIPTION:Explore the history of London’s former Italian Quarter.\n\nPr
+ ice: £25\n\nTickets/Info: https://www.eventbrite.co.uk/e/hidden-holborn-a
+ nd-little-italy-talk-led-by-diane-burstein-tickets-1982887212029
+LOCATION:Wilderness Kitchen\, London
+URL:https://www.eventbrite.co.uk/e/hidden-holborn-and-little-italy-talk-led
+ -by-diane-burstein-tickets-1982887212029
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:a710209f8228@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260427
+SUMMARY:Brick Lane Jazz Festival
+DESCRIPTION:Weekend of live jazz in east London.\n\nPrice: ££ (ticket var
+ ies)\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-d
+ o-in-london-this-week-20-26-april-2026
+LOCATION:Brick Lane\, Brick Lane\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:8786fe553279@london-events-scraper
+DTSTAMP:20260422T000000Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:Energy Observer Passing Tower Bridge
-DESCRIPTION:Watch the zero-emission hydrogen-powered vessel pass through To
- wer Bridge.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
- lendar/date/2026/04/
-LOCATION:Tower Bridge\, Tower Bridge\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+SUMMARY:Urban Makers
+DESCRIPTION:Handmade crafts and independent makers at a London market.\n\nP
+ rice: Check site\n\nTickets/Info: https://oldspitalfieldsmarket.com/events
+LOCATION:Old Spitalfields Market\, Spitalfields\, London
+URL:https://oldspitalfieldsmarket.com/events
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:d488fe1dcb6a@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Surreal Still Life Drink + Draw
-DESCRIPTION:Absinthe workshop inspired by museum curiosities.\n\nPrice: £2
- 6.2\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
-LOCATION:The Last Tuesday Society & Viktor Wynd Museum\, Hackney\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+UID:53a13acb14ab@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Shakespeare for All in All
+DESCRIPTION:Shakespeare-themed walking tour.\n\nPrice: From £12.50\n\nTick
+ ets/Info: https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-
+ in-all-tickets-1980638112913
+LOCATION:St Paul’s Station\, St Paul’s\, London
+URL:https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-in-all-
+ tickets-1980638112913
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:73ceed67ee67@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260424
+UID:a3c4cd0a0d84@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260531
+SUMMARY:London Museum Docklands Highlights Tour
+DESCRIPTION:Guided tour of London Museum Docklands.\n\nPrice: Free\n\nTicke
+ ts/Info: https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, Canary Wharf\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:857e84ff57cf@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:BRICK LANE JAZZ FESTIVAL 2026
-DESCRIPTION:Annual jazz festival in Brick Lane.\n\nPrice: Check site\n\nTic
- kets/Info: https://richmix.org.uk/whats-on
-LOCATION:Brick Lane\, London
-URL:https://richmix.org.uk/whats-on
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:285afa07d409@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Assa\, Mother of Three\, tbc
-DESCRIPTION:Live music performance by Assa and others.\n\nPrice: FREE\n\nTi
- ckets/Info: https://www.windmillbrixton.co.uk/events/2026-04-21-assa-mothe
- r-of-three-tbc-the-windmill
-LOCATION:The Windmill\, Brixton\, London
-URL:https://www.windmillbrixton.co.uk/events/2026-04-21-assa-mother-of-thre
- e-tbc-the-windmill
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:abfcd086f393@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Dennis Rollins Velocity Trio
-DESCRIPTION:Trombonist Dennis Rollins' jazz performance.\n\nPrice: £19\n\n
- Tickets/Info: https://www.vortexjazz.co.uk/event/dennis-rollins-velocity-t
- rio/
-LOCATION:Vortex Jazz Club\, London
-URL:https://www.vortexjazz.co.uk/event/dennis-rollins-velocity-trio/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:2dacebcac73b@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:DoomCannon
-DESCRIPTION:New London jazz band with fresh material.\n\nPrice: Check site\
- n\nTickets/Info: https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Ronnie Scott's\, Soho\, London
+SUMMARY:Jeff Hooper Trio
+DESCRIPTION:Swing and jazz music performance.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://www.ronniescotts.co.uk/find-a-show
+LOCATION:Sunday Lunch\, Soho\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:f17ad517a954@london-events-scraper
-DTSTAMP:20260421T000000Z
+UID:d9863b238bf9@london-events-scraper
+DTSTAMP:20260422T000000Z
 DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Dear Nora\, Tai Haf Heb Drigolyn
-DESCRIPTION:A live music gig featuring Dear Nora and Tai Haf Heb Drigolyn.\
- n\nPrice: Check site\n\nTickets/Info: https://www.thelexington.co.uk/event
- s.php?type=gigs
-LOCATION:The Lexington\, London\, London
-URL:https://www.thelexington.co.uk/events.php?type=gigs
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:708895e48451@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:DREAMSCAPES
-DESCRIPTION:Post-fusion nu-jazz ensemble blending genres.\n\nPrice: £15\n\
- nTickets/Info: https://www.vortexjazz.co.uk/event/dreamscapes-3/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/dreamscapes-3/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:c46cf0974588@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:English Garden\, Haemogoblin\, Ocean Ivy
-DESCRIPTION:Live music night featuring three bands.\n\nPrice: £5\n\nTicket
- s/Info: https://www.windmillbrixton.co.uk/events/2026-04-22-english-garden
- -haemogoblin-ocean-ivy-the-windmill
-LOCATION:The Windmill\, Brixton\, London
-URL:https://www.windmillbrixton.co.uk/events/2026-04-22-english-garden-haem
- ogoblin-ocean-ivy-the-windmill
+DTEND;VALUE=DATE:20260426
+SUMMARY:I'm Sorry\, Prime Minister
+DESCRIPTION:The final chapter of the Yes\, Minister series\, a political sa
+ tire.\n\nPrice: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.c
+ om/tickets/series/APSPM01M/im-sorry-prime-minister-1591900
+LOCATION:Apollo Theatre\, London\, London
+URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
+ ime-minister-1591900
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
