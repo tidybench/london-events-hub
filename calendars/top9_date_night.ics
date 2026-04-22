@@ -8,47 +8,22 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:9295e7ff295d@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Amelie (25th Anniversary Re-release)
-DESCRIPTION:A romantic comedy film re-released.\n\nPrice: £15\n\nTickets/I
- nfo: https://www.picturehouses.com/movie-details/022/HO00014671/amelie-25t
- h-anniversary-re-release
-LOCATION:PICTUREHOUSE CENTRAL\, Leicester Square\, London
-URL:https://www.picturehouses.com/movie-details/022/HO00014671/amelie-25th-
- anniversary-re-release
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:2f463382aa2f@london-events-scraper
-DTSTAMP:20260421T000000Z
+UID:b6f93ec3ee78@london-events-scraper
+DTSTAMP:20260422T000000Z
 DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260426
-SUMMARY:Don Quixote Ballet
-DESCRIPTION:Birmingham Royal Ballet performs Don Quixote.\n\nPrice: Free\n\
- nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, Islington\, London
-URL:https://www.sadlerswells.com/whats-on
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
- \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
- -smiles
-LOCATION:Duke of York's Theatre\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
+DTEND;VALUE=DATE:20260424
+SUMMARY:British Asparagus Season Dinner
+DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
+ £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
+ h-table-celebrating-british-asparagus-season-23-04-2026
+LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
+URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
+ -british-asparagus-season-23-04-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:656b080d3c08@london-events-scraper
-DTSTAMP:20260421T000000Z
+DTSTAMP:20260422T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260607
 SUMMARY:Les Liaisons Dangereuses
@@ -61,69 +36,92 @@ URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:6856ec58d487@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260524
-SUMMARY:One Flew Over the Cuckoo’s Nest
-DESCRIPTION:A stage adaptation of the iconic film.\n\nPrice: from £27\n\nT
- ickets/Info: https://ticketing.timeout.com/london/shows/45812-one-flew-ove
- r-the-cuckoos-nest
-LOCATION:The Old Vic\, Southbank\, London
-URL:https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuck
- oos-nest
+UID:86722b02ad7c@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Padella Soho Opening
+DESCRIPTION:New pasta restaurant with hand-rolled pastas and cocktails.\n\n
+ Price: Check site\n\nTickets/Info: https://www.cntraveller.com/gallery/thi
+ ngs-to-do-in-london-this-weekend
+LOCATION:Padella\, London W1B 5PB\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e1a87f70bf20@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Happy Hour Cocktails
-DESCRIPTION:2 for 1 cocktails with riverside views at Wright Brothers.\n\nP
- rice: £12\n\nTickets/Info: https://batterseapowerstation.co.uk/events/hap
- py-hour-cocktails-at-wright-brothers/
-LOCATION:Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/happy-hour-cocktails-at-wrig
- ht-brothers/
+UID:3938f4244174@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Spring Supermarket Sipping: Ross Clarke
+DESCRIPTION:An evening dedicated to finding the best seasonal bottles.\n\nP
+ rice: Free\n\nTickets/Info: https://londonistlistings.substack.com/p/thing
+ s-to-do-in-london-this-week-20-26-april-2026
+LOCATION:London Welsh Centre\, Marylebone\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:efa7b50d340c@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
+UID:2f463382aa2f@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260426
+SUMMARY:Don Quixote Ballet
+DESCRIPTION:Birmingham Royal Ballet performs Don Quixote.\n\nPrice: Free\n\
+ nTickets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells Theatre\, Islington\, London
+URL:https://www.sadlerswells.com/whats-on
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:70f73cb8fa40@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260712
 SUMMARY:Kinky Boots
 DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
  \n\nPrice: from £27.25\n\nTickets/Info: https://www.londoncoliseum.org/wh
  ats-on/kinky-boots
-LOCATION:London Coliseum\, Covent Garden\, London
+LOCATION:London Coliseum\, West End\, London
 URL:https://www.londoncoliseum.org/whats-on/kinky-boots
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:65962cca2e3a@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Padella Soho Opening
-DESCRIPTION:A new pasta restaurant opening in Soho with hand-rolled pastas 
- and cocktails.\n\nPrice: Check site\n\nTickets/Info: https://www.cntravell
- er.com/gallery/things-to-do-in-london-this-weekend
-LOCATION:Padella\, Soho\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+UID:a2f8e0d58044@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260427
+SUMMARY:Liberace and Liza
+DESCRIPTION:Tribute to Liberace and Liza Minnelli.\n\nPrice: Check site\n\n
+ Tickets/Info: https://greenwichtheatre.org.uk/whats-on/
+LOCATION:Greenwich Theatre\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:4464bfb28400@london-events-scraper
-DTSTAMP:20260421T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Speed Dating @ 100 Wardour St
-DESCRIPTION:Speed dating for singles aged 25-38.\n\nPrice: Buy Tickets\n\nT
- ickets/Info: https://www.skiddle.com/whats-on/London/april-events/
-LOCATION:100 Wardour St\, London\, Soho\, London
-URL:https://www.skiddle.com/whats-on/London/april-events/
+UID:5f5745b2a312@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Thelma and Louise
+DESCRIPTION:Film screening with a Q&A session.\n\nPrice: £25\n\nTickets/In
+ fo: https://www.genesiscinema.co.uk/event/108755
+LOCATION:London
+URL:https://www.genesiscinema.co.uk/event/108755
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:65dfd80e6917@london-events-scraper
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260712
+SUMMARY:Grace Pervades
+DESCRIPTION:Play starring Ralph Fiennes and Miranda Raison.\n\nPrice: from 
+ £37\n\nTickets/Info: https://ticketing.timeout.com/london/shows/45493-gra
+ ce-pervades
+LOCATION:Theatre Royal Bath\, Leicester Square\, London
+URL:https://ticketing.timeout.com/london/shows/45493-grace-pervades
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
