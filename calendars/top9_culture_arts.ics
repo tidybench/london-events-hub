@@ -8,122 +8,123 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:deb7e7e6a93c@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260601
-SUMMARY:Spring at the Barbican
-DESCRIPTION:The Barbican Centre presents its program for Spring\, featuring
-  a variety of arts and cultural events.\n\nPrice: Check site\n\nTickets/In
- fo: https://www.barbican.org.uk/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/
+UID:1be6300c130c@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
+ \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
+ -smiles
+LOCATION:Duke of York's Theatre\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:c4049d99e216@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260430
-SUMMARY:Spotlight: Theatre Conversations
-DESCRIPTION:Discussions about the world of theatre with host Lucy Phelps.\n
- \nPrice: £20\n\nTickets/Info: https://www.nationalgallery.org.uk/events/i
- n-conversation-spotlight-conversations-about-the-world-of-theatre-2026
-LOCATION:The National Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/in-conversation-spotlight-con
- versations-about-the-world-of-theatre-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e488044f66c9@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260426
-SUMMARY:Jaja’s African Hair Braiding
-DESCRIPTION:Welcome to Jaja’s\, a bustling Harlem braiding salon where We
- st African immigrant braiders bring hairstyle dreams to life.\n\nPrice: Fr
- om £10\n\nTickets/Info: https://lyric.co.uk/shows/jajas-african-hair-brai
- ding/
-LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
-URL:https://lyric.co.uk/shows/jajas-african-hair-braiding/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d0f97b946784@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20261103
-SUMMARY:Beauty and Destruction: Wartime London in Art
-DESCRIPTION:The Imperial War Museum tells the story of London during the Se
- cond World War through the eyes of wartime artists and its residents. It's
-  a unique look at the city's history.\n\nPrice: Check site\n\nTickets/Info
- : https://secretldn.com/things-to-do-in-london-march-2026/
-LOCATION:Imperial War Museum\, Lambeth\, London
-URL:https://secretldn.com/things-to-do-in-london-march-2026/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:50440d8953f6@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260408
-DTEND;VALUE=DATE:20260430
-SUMMARY:Roundhouse Three-Sixty Festival
-DESCRIPTION:A festival featuring Kae Tempest’s book release and Daniel Ka
- luuya’s play.\n\nPrice: Check site\n\nTickets/Info: https://secretldn.co
- m/things-to-do-london-april-2026/
-LOCATION:The Roundhouse\, Camden\, London
+UID:4d1a2753b05e@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260619
+SUMMARY:Star Trek Exhibition
+DESCRIPTION:A celebration of 60 years of Star Trek.\n\nPrice: Check site\n\
+ nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
+LOCATION:Science Museum\, South Kensington\, London
 URL:https://secretldn.com/things-to-do-london-april-2026/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:faaf6e367633@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260417
+UID:6856ec58d487@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:One Flew Over the Cuckoo’s Nest
+DESCRIPTION:A stage adaptation of the iconic film.\n\nPrice: from £27\n\nT
+ ickets/Info: https://ticketing.timeout.com/london/shows/45812-one-flew-ove
+ r-the-cuckoos-nest
+LOCATION:The Old Vic\, Southbank\, London
+URL:https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuck
+ oos-nest
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b7136cdcd08e@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260503
+SUMMARY:Orders of Magnitude
+DESCRIPTION:An exhibition of imaginary landscapes by Sholto Blissett.\n\nPr
+ ice: Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-eve
+ nts/things-to-do-in-london-this-week-64229/
+LOCATION:Pilar Corrias Gallery\, London\, W1S 3PA\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
+ on-this-week-64229/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:665512a98126@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260505
-SUMMARY:Sony World Photography Awards Exhibition
-DESCRIPTION:An exhibition of award-winning photography.\n\nPrice: Free\n\nT
- ickets/Info: https://www.somersethouse.org.uk/whats-on
-LOCATION:Somerset House\, Strand\, London
-URL:https://www.somersethouse.org.uk/whats-on
+SUMMARY:Light
+DESCRIPTION:Art exhibition exploring the theme of light through various med
+ iums.\n\nPrice: FREE\n\nTickets/Info: https://londonistlistings.substack.c
+ om/p/things-to-do-in-london-this-week-20-26-april-2026
+LOCATION:Lauderdale House\, Highgate\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-20-26-april-2026
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:4827e92cc8e6@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Beatriz González
-DESCRIPTION:UK retrospective of Colombian artist's bold work.\n\nPrice: Fre
- e\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/bsl-tou
- r-of-beatriz-gonzalez
-LOCATION:Barbican Centre\, Art & Design\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/bsl-tour-of-beatriz-gon
- zalez
+UID:3737198b26e1@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260504
+SUMMARY:Chiharu Shiota: Threads of Life
+DESCRIPTION:An immersive solo exhibition by Japanese artist Chiharu Shiota.
+ \n\nPrice: £19.00 (advance sales)\n\nTickets/Info: https://londoncheapo.c
+ om/events/may/
+LOCATION:South Bank\, South Bank\, London
+URL:https://londoncheapo.com/events/may/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:5ed01a94c418@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
+UID:d1899864c90a@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
 SUMMARY:Encounters: Giacometti x Lynda Benglis
-DESCRIPTION:Exhibition pairing Giacometti and Benglis works.\n\nPrice: Free
- \n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Art & Design\, London
+DESCRIPTION:First-time exhibition pairing Giacometti and Benglis sculptures
+ .\n\nPrice: Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, City of London\, London
 URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:4f294da6cf68@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260427
-SUMMARY:The Long Now
-DESCRIPTION:An exhibition celebrating 40 years of Saatchi Gallery.\n\nPrice
- : £15\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/04/
- 25/
-LOCATION:Saatchi Gallery\, Chelsea\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/04/25/
+UID:a7cb408dccf0@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Generational Echoes: Clarks\, Community and Caribbean Creativity
+DESCRIPTION:Talk on Caribbean creativity and community.\n\nPrice: Free\n\nT
+ ickets/Info: https://www.vam.ac.uk/event/4xOzBLe5bd9/assistant-curator-tal
+ k-performance-festival-donata-miller-obebe
+LOCATION:Victoria and Albert Museum\, South Kensington\, London
+URL:https://www.vam.ac.uk/event/4xOzBLe5bd9/assistant-curator-talk-performa
+ nce-festival-donata-miller-obebe
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:c3015c4a7148@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260503
+SUMMARY:I’m Sorry\, Prime Minister
+DESCRIPTION:Final chapter of the Yes\, Minister series.\n\nPrice: £15.00\n
+ \nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/series/APSPM01
+ M/im-sorry-prime-minister-1812089
+LOCATION:Apollo Theatre\, West End\, London
+URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
+ ime-minister-1812089
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
