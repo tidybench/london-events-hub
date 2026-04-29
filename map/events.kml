@@ -39,11 +39,27 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>Music Nights At Sky Garden</name>
-      <description><![CDATA[<b>Music Nights At Sky Garden</b><br><i>Nightlife</i><br>Thu 30th Apr<br>Sky Garden Bars, City of London<br>from free - £371.00<br><br>Live music and DJ sets with fabulous views from 35 floors up.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Tide to Table Seafood Tasting</name>
+      <description><![CDATA[<b>Tide to Table Seafood Tasting</b><br><i>Food &amp; Drink</i><br>Thu 30th Apr<br>Marylebone<br>£75<br><br>British seafood tasting event with Wright Brothers.<br><br><a href="https://eventsforlondon.co.uk/event/the-royal-oak-x-wright-brothers-tide-to-table-seafood-tasting/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0836023,51.511096,0</coordinates>
+        <coordinates>-0.152511,51.521826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dracula</name>
+      <description><![CDATA[<b>Dracula</b><br><i>Theatre</i><br>Fri 1st May – Sat 30th May<br>Covent Garden, Covent Garden<br>Check site<br><br>Tech-enhanced solo performance by Cynthia Erivo playing 23 different roles.<br><br><a href="https://www.timeout.com/london/things-to-do/london-events-in-may">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12274129343434531,51.5119791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Liaisons Dangereuses</name>
+      <description><![CDATA[<b>Les Liaisons Dangereuses</b><br><i>Theatre</i><br>Fri 1st May<br>Lyttelton Theatre, National Theatre, South Bank<br>from £92 per person<br><br>New production starring Lesley Manville and Aidan Turner.<br><br><a href="https://www.picturehouses.com/movie-details/022/HO00017343/national-theatre-live-les-liaisons-dangereuses">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.300806,51.392171,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -55,14 +71,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Lord of the Rings: The Return of the King in Concert</name>
-      <description><![CDATA[<b>The Lord of the Rings: The Return of the King in Concert</b><br><i>Music</i><br>Sun 3rd May – Sun 10th May<br>Royal Albert Hall, South Kensington<br>£45–£120<br><br>Live orchestra performs Howard Shore's score alongside a high-definition film screening.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.176829,51.50113,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>The Cabaret Room</name>
       <description><![CDATA[<b>The Cabaret Room</b><br><i>Theatre</i><br>Fri 1st May<br>The Undercroft, St George's Church, Bloomsbury<br>Free<br><br>Cabaret performances in an intimate setting.<br><br><a href="https://www.museumofcomedy.com/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -71,120 +79,80 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Charlotte Tilbury &amp; Space NK: Pillow Talk in Bloom</name>
-      <description><![CDATA[<b>Charlotte Tilbury &amp; Space NK: Pillow Talk in Bloom</b><br><i>Wellness</i><br>Fri 24th Apr – Sun 3rd May<br>Battersea Power Station, Upper Ground Floor, Boiler House North, Near Riverside Entrance, Battersea<br>£65<br><br>Beauty event with Charlotte Tilbury and Space NK.<br><br><a href="https://batterseapowerstation.co.uk/events/charlotte-tilbury-space-nk-pillow-talk-in-bloom/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1296388,51.4653034,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Kinky Boots</name>
-      <description><![CDATA[<b>Kinky Boots</b><br><i>Theatre</i><br>Wed 29th Apr – Sat 11th Jul<br>London Coliseum, West End<br>from £27.25<br><br>Award-winning musical starring Johannes Radebe and Matt Cardle.<br><br><a href="https://londoncoliseum.org/events/kinky-boots/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>THE ELVIS YEARS</name>
-      <description><![CDATA[<b>THE ELVIS YEARS</b><br><i>Music</i><br>Wed 29th Apr<br>The Clissold Arms, East Finchley<br>Free<br><br>Elvis Presley tribute show with optional dinner.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share">More info / tickets</a>]]></description>
+      <name>Tricity Vogue's All Girl Swing Band</name>
+      <description><![CDATA[<b>Tricity Vogue's All Girl Swing Band</b><br><i>Music</i><br>Fri 1st May<br>Wilton's Music Hall, London<br>Check site<br><br>A swing band performance at Wilton's Music Hall.<br><br><a href="https://wiltons.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1552744,51.5905484,0</coordinates>
+        <coordinates>-0.0668893,51.5106361,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Monica</name>
-      <description><![CDATA[<b>Monica</b><br><i>Theatre</i><br>Fri 1st May<br>Battersea Arts Centre, Battersea<br>Check site<br><br>Theatrical tribute with dance, music, and drag.<br><br><a href="https://bac.org.uk/whats-on-highlights">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1607853,51.4649605,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Secret Dome Tour</name>
-      <description><![CDATA[<b>Secret Dome Tour</b><br><i>Cultural</i><br>Wed 29th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Explore the dome and wartime history of Greenwich.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.006268,51.484071,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Buff Bingo Bottomless Drag</name>
-      <description><![CDATA[<b>Buff Bingo Bottomless Drag</b><br><i>Nightlife</i><br>Sat 2nd May<br>Fire London / Vauxhall Food And Beer Garden, Vauxhall<br>£10.00<br><br>Drag bingo with drinks and performances.<br><br><a href="https://www.skiddle.com/whats-on/London/Fire-London--%2F-Vauxhall-Food-And-Beer-Garden/Buff-Bingo-Bottomless-Drag/42250620/">More info / tickets</a>]]></description>
+      <name>Absolute Amy - Amy Winehouse Tribute</name>
+      <description><![CDATA[<b>Absolute Amy - Amy Winehouse Tribute</b><br><i>Music</i><br>Sun 3rd May<br>Basing House, London<br>£15.00<br><br>A live tribute to Amy Winehouse by the UK's No.1 tribute act.<br><br><a href="https://www.skiddle.com/whats-on/London/Basing-House/Absolute-Amy---Amy-Winehouse-Tribute/42292913/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1229297,51.4874834,0</coordinates>
+        <coordinates>-0.1230887,51.5160731,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>600 Years of History Tour</name>
-      <description><![CDATA[<b>600 Years of History Tour</b><br><i>Cultural</i><br>Wed 29th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Guided tour of the Old Royal Naval College's history.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
+      <name>Themed Cocktail Adventure</name>
+      <description><![CDATA[<b>Themed Cocktail Adventure</b><br><i>Nightlife</i><br>Sun 3rd May<br>Cahoots Underground, Soho<br>from £62.64 per person<br><br>An immersive cocktail-making experience in a Prohibition-style hideout.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alexander McQueen Concert</name>
+      <description><![CDATA[<b>Alexander McQueen Concert</b><br><i>Arts &amp; Culture</i><br>Wed 29th Apr – Thu 30th Apr<br>Southbank Centre, Southbank<br>Check site<br><br>An orchestral concert celebrating the legacy of Alexander McQueen.<br><br><a href="https://londontheinside.com/whats-on-this-week/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.006268,51.484071,0</coordinates>
+        <coordinates>-0.1158875,51.5060021,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Painted Hall Talks</name>
-      <description><![CDATA[<b>Painted Hall Talks</b><br><i>Cultural</i><br>Wed 29th Apr<br>Old Royal Naval College, Greenwich<br>Check site<br><br>Expert-led talks about the Painted Hall's ceiling art.<br><br><a href="https://ornc.org/whats-on/">More info / tickets</a>]]></description>
+      <name>Cruise Ship at Tower Bridge</name>
+      <description><![CDATA[<b>Cruise Ship at Tower Bridge</b><br><i>Cultural</i><br>Thu 30th Apr<br>Tower Bridge, Southwark<br>Free<br><br>MV World Navigator cruise ship passes through Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/04/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.006268,51.484071,0</coordinates>
+        <coordinates>-0.0753662,51.5055166,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>LIFELINE</name>
-      <description><![CDATA[<b>LIFELINE</b><br><i>Theatre</i><br>Sat 28th Mar – Sat 2nd May<br>Southwark Playhouse Elephant, Elephant and Castle<br>Free<br><br>See 'LIFELINE,' a play by Robin Hiley and Becky Hope-Palmer, at Southwark Playhouse Elephant.<br><br><a href="https://southwarkplayhouse.co.uk">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.10278508687097637,51.49242345,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Teeth 'n' Smiles</name>
-      <description><![CDATA[<b>Teeth 'n' Smiles</b><br><i>Theatre</i><br>Fri 13th Mar – Sat 6th Jun<br>Duke of York's Theatre, West End<br>from £30<br><br>A theatre production at the Duke of York's.<br><br><a href="https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Star Trek Exhibition</name>
-      <description><![CDATA[<b>Star Trek Exhibition</b><br><i>Cultural</i><br>Thu 26th Mar – Thu 18th Jun<br>Science Museum, South Kensington<br>Check site<br><br>A celebration of 60 years of Star Trek.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
+      <name>Ramses And The Pharaohs' Gold</name>
+      <description><![CDATA[<b>Ramses And The Pharaohs' Gold</b><br><i>Cultural</i><br>Fri 1st May – Sun 3rd May<br>NEON at Battersea Power Station, Battersea<br>from £26.05 per adult and £24.05 per child<br><br>Exhibition of over 180 artefacts from King Ramses II's reign.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.174233,51.497764,0</coordinates>
+        <coordinates>-0.1740176,51.4611779,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>One Flew Over the Cuckoo’s Nest</name>
-      <description><![CDATA[<b>One Flew Over the Cuckoo’s Nest</b><br><i>Theatre</i><br>Wed 1st Apr – Sat 23rd May<br>The Old Vic, Southbank<br>from £27<br><br>A stage adaptation of the iconic film.<br><br><a href="https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuckoos-nest">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.109234,51.501804,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Orders of Magnitude</name>
-      <description><![CDATA[<b>Orders of Magnitude</b><br><i>Arts &amp; Culture</i><br>Mon 13th Apr – Sat 2nd May<br>Pilar Corrias Gallery, London, W1S 3PA<br>Free<br><br>An exhibition of imaginary landscapes by Sholto Blissett.<br><br><a href="https://discover.ticketmaster.co.uk/special-events/things-to-do-in-london-this-week-64229/">More info / tickets</a>]]></description>
+      <name>London Museum Docklands Highlights Tour</name>
+      <description><![CDATA[<b>London Museum Docklands Highlights Tour</b><br><i>Cultural</i><br>Sat 2nd May – Sat 6th Jun<br>Museum of London Docklands, Canary Wharf<br>Free<br><br>Tour of the best exhibits at the museum.<br><br><a href="https://www.londonmuseum.org.uk/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1395162,51.5103807,0</coordinates>
+        <coordinates>-0.0238687,51.5076342,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Light</name>
-      <description><![CDATA[<b>Light</b><br><i>Arts &amp; Culture</i><br>Mon 20th Apr – Mon 4th May<br>Lauderdale House, Highgate<br>FREE<br><br>Art exhibition exploring the theme of light through various mediums.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-20-26-april-2026">More info / tickets</a>]]></description>
+      <name>V&amp;A East</name>
+      <description><![CDATA[<b>V&amp;A East</b><br><i>Arts &amp; Culture</i><br>Wed 29th Apr<br>Olympic Park, Stratford<br>£1.1<br><br>New museum showcasing exhibits related to east London’s creative heritage and contemporary culture.<br><br><a href="https://www.timeout.com/london/things-to-do/london-events-in-may">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1434217,51.5693005,0</coordinates>
+        <coordinates>-0.0125772,51.5448418,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lucian Freud Exhibition</name>
+      <description><![CDATA[<b>Lucian Freud Exhibition</b><br><i>Arts &amp; Culture</i><br>Wed 29th Apr – Sun 3rd May<br>National Portrait Gallery, Westminster<br>Not specified<br><br>Final week of Lucian Freud's works on paper and paintings.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.128108,51.509587,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Chiharu Shiota: Threads of Life</name>
-      <description><![CDATA[<b>Chiharu Shiota: Threads of Life</b><br><i>Arts &amp; Culture</i><br>Wed 29th Apr – Sun 3rd May<br>South Bank, South Bank<br>£19.00 (advance sales)<br><br>An immersive solo exhibition by Japanese artist Chiharu Shiota.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Chiharu Shiota: Threads of Life</b><br><i>Arts &amp; Culture</i><br>Tue 17th Feb – Sun 3rd May<br>South Bank, South Bank<br>£19.00 (advance sales)<br><br>Berlin-based Japanese artist’s first major solo exhibition in a London public gallery.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1134203,51.5065325,0</coordinates>
@@ -199,83 +167,123 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Generational Echoes: Clarks, Community and Caribbean Creativity</name>
-      <description><![CDATA[<b>Generational Echoes: Clarks, Community and Caribbean Creativity</b><br><i>Arts &amp; Culture</i><br>Wed 29th Apr<br>Victoria and Albert Museum, South Kensington<br>Free<br><br>Talk on Caribbean creativity and community.<br><br><a href="https://www.vam.ac.uk/event/4xOzBLe5bd9/assistant-curator-talk-performance-festival-donata-miller-obebe">More info / tickets</a>]]></description>
+      <name>Sony World Photography Awards Exhibition 2026</name>
+      <description><![CDATA[<b>Sony World Photography Awards Exhibition 2026</b><br><i>Arts &amp; Culture</i><br>Wed 29th Apr – Mon 4th May<br>Somerset House, Westminster<br>null<br><br>An exhibition featuring over 300 photographs from the Sony Awards.<br><br><a href="https://www.timeout.com/london/things-to-do/the-top-10-things-to-do-this-may-bank-holiday">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.17163721656927572,51.496883800000006,0</coordinates>
+        <coordinates>-0.1183,51.510698,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>I’m Sorry, Prime Minister</name>
-      <description><![CDATA[<b>I’m Sorry, Prime Minister</b><br><i>Theatre</i><br>Wed 29th Apr – Sat 2nd May<br>Apollo Theatre, West End<br>£15.00<br><br>Final chapter of the Yes, Minister series.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-prime-minister-1812089">More info / tickets</a>]]></description>
+      <name>Dark Secrets: The Esoteric Exhibition</name>
+      <description><![CDATA[<b>Dark Secrets: The Esoteric Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 30th Apr – Sun 31st May<br>Vaults - Leake Street, London<br>£23<br><br>Immersive exhibition exploring magic, occultism, and folklore.<br><br><a href="https://feverup.com/m/427444?cp_landing=cta_header&amp;cp_landing_term=cta_header&amp;cp_landing_source=darksecretsexhibition&amp;utm_source=google&amp;utm_medium=organic">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1147409,51.5013532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SICILYFEST 2026</name>
+      <description><![CDATA[<b>SICILYFEST 2026</b><br><i>Cultural</i><br>Thu 30th Apr – Mon 4th May<br>Business Design Centre, Islington<br>Check site<br><br>Five-day Sicilian cultural festival with food and performances.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.106012,51.535703,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>You Are Here Festival</name>
+      <description><![CDATA[<b>You Are Here Festival</b><br><i>Festival</i><br>Sun 3rd May<br>Southbank Centre, Southbank<br>Check site<br><br>A festival about British youth culture created by Danny Boyle.<br><br><a href="https://londontheinside.com/whats-on-this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1158875,51.5060021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teeth 'n' Smiles</name>
+      <description><![CDATA[<b>Teeth 'n' Smiles</b><br><i>Theatre</i><br>Fri 13th Mar – Sat 6th Jun<br>Duke of York's Theatre, West End<br>from £30<br><br>A theatre production at the Duke of York's.<br><br><a href="https://www.ticketmaster.co.uk/teeth-n-smiles-london-2026-03-13/event/1F005F4A8E9134D2">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1255974,51.5128988,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Alcotraz London: Cell Block Two-One-Two</name>
-      <description><![CDATA[<b>Alcotraz London: Cell Block Two-One-Two</b><br><i>Nightlife</i><br>Wed 29th Apr<br>Alcotraz Penitentiary: London, Shoreditch<br>from £39.22 - £69.00<br><br>Immersive prison experience with smuggling and bespoke cocktails.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>One Flew Over the Cuckoo’s Nest</name>
+      <description><![CDATA[<b>One Flew Over the Cuckoo’s Nest</b><br><i>Theatre</i><br>Wed 1st Apr – Sat 23rd May<br>The Old Vic, Southbank<br>from £27<br><br>A stage adaptation of the iconic film.<br><br><a href="https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuckoos-nest">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0798926,51.5266694,0</coordinates>
+        <coordinates>-0.109234,51.501804,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Lil' Nashville: Honky Tonk Bar</name>
-      <description><![CDATA[<b>Lil' Nashville: Honky Tonk Bar</b><br><i>Nightlife</i><br>Fri 1st May<br>Chiswick<br>from £29.70<br><br>A Nashville-themed night with live country music and line dancing.<br><br><a href="https://lil-nashville.designmynight.com/695cbeb1958622372666e3b2/lil-nashville-nashville-honky-tonk-bar-live-country-music-line-dancing-bbq-night-30">More info / tickets</a>]]></description>
+      <name>Hexmoor: Wizarding Prison</name>
+      <description><![CDATA[<b>Hexmoor: Wizarding Prison</b><br><i>Nightlife</i><br>Fri 1st May – Sun 3rd May<br>127 Hackney Road, Hackney<br>from £49.50<br><br>An immersive wizarding prison bar experience with cocktails.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-april">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.267325,51.483319,0</coordinates>
+        <coordinates>-0.0745576,51.5300662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roof East Reopening</name>
+      <description><![CDATA[<b>Roof East Reopening</b><br><i>Nightlife</i><br>Wed 29th Apr<br>Stratford, Stratford<br>Not specified<br><br>Summer spot with batting cages, crazy golf, and rooftop cinema.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0016208,51.5406878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lil' Nashville BBQ Night</name>
+      <description><![CDATA[<b>Lil' Nashville BBQ Night</b><br><i>Food &amp; Drink</i><br>Fri 1st May<br>Barley Mow Passage, Chiswick<br>from £29.70 per person<br><br>A Nashville-themed night with live country music and BBQ food.<br><br><a href="https://lil-nashville.designmynight.com/695cbeb1958622372666e3b2/lil-nashville-nashville-honky-tonk-bar-live-country-music-line-dancing-bbq-night-30">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0068926,51.5007317,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Brixton Disco Festival</name>
-      <description><![CDATA[<b>Brixton Disco Festival</b><br><i>Music</i><br>Sat 2nd May<br>Phonox, Brixton<br>£5+ advance<br><br>Annual disco music festival in Brixton.<br><br><a href="https://phonox.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Brixton Disco Festival</b><br><i>Nightlife</i><br>Sat 2nd May – Sun 3rd May<br>Brixton, Brixton<br>£5+ advance<br><br>Disco festival featuring Norman Jay MBE, Terry Farley, and more.<br><br><a href="https://www.timeout.com/london/things-to-do/london-events-in-may">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1145037,51.4644457,0</coordinates>
+        <coordinates>-0.1133473,51.4628953,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Between The Bridges</name>
-      <description><![CDATA[<b>Between The Bridges</b><br><i>Nightlife</i><br>Thu 30th Apr<br>South Bank, South Bank<br>Free<br><br>Launch party with free drinks for the first 500.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
+      <name>Ginger's Big Drag Bottomless Brunch</name>
+      <description><![CDATA[<b>Ginger's Big Drag Bottomless Brunch</b><br><i>Nightlife</i><br>Sat 2nd May<br>Balls Brothers- Austin Friars<br>from £19.80 - £59.34<br><br>Drag performances with bottomless prosecco and brunch.<br><br><a href="https://queen-of-hoxton.designmynight.com/5f8053c98eb0f059706fe3f8/drag-bingo-bottomless-brunch">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1134203,51.5065325,0</coordinates>
+        <coordinates>-0.085042,51.515585,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>FREE BEER</name>
-      <description><![CDATA[<b>FREE BEER</b><br><i>Nightlife</i><br>Thu 30th Apr<br>Between the Bridges, South Bank<br>FREE<br><br>Launch party with free drinks for the first 500.<br><br><a href="https://londonistlistings.substack.com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share">More info / tickets</a>]]></description>
+      <name>Queen’s Yard Summer Party</name>
+      <description><![CDATA[<b>Queen’s Yard Summer Party</b><br><i>Nightlife</i><br>Sat 2nd May – Sun 3rd May<br>Hackney Wick, Hackney Wick<br>from £44.80<br><br>Day-to-night celebration of underground music culture with DJs and live acts.<br><br><a href="https://www.flolondon.co.uk/all-posts/things-to-do-in-london-in-may-2026">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.110008,51.507359,0</coordinates>
+        <coordinates>-0.0254673,51.544354,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Chronicles</name>
-      <description><![CDATA[<b>Chronicles</b><br><i>Music</i><br>Fri 1st May<br>E1 London, Wapping, London<br>Tickets<br><br>House and garage music night.<br><br><a href="https://e1ldn.co/events">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Bottomless Hoedown Brunch</name>
+      <description><![CDATA[<b>Bottomless Hoedown Brunch</b><br><i>Food &amp; Drink</i><br>Sun 3rd May<br>Tequila Mockingbird Covent Garden, Covent Garden<br>from £52.92 per person<br><br>Brunch with country music, burlesque, and drag performances.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.053749,51.514357,0</coordinates>
+        <coordinates>-0.1261435,51.5095672,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Heaven on Hertz x Born2bFunky</name>
-      <description><![CDATA[<b>Heaven on Hertz x Born2bFunky</b><br><i>Music</i><br>Fri 1st May<br>EartH Kitchen, Dalston<br>Free<br><br>Raw house and disco music night.<br><br><a href="https://earthackney.co.uk/events/heaven-on-hertz-x-born2bfunky-1st-may-earth-london-tickets-eoyxpo/">More info / tickets</a>]]></description>
+      <name>R'n'B LDN Day Party - HERE at Outernet</name>
+      <description><![CDATA[<b>R'n'B LDN Day Party - HERE at Outernet</b><br><i>Nightlife</i><br>Sun 3rd May<br>HERE At Outernet, Central London<br>Free<br><br>Day party with 90s-2015 R&amp;B anthems and electric energy.<br><br><a href="https://supa-dupa-fly.designmynight.com/690b2ab86cbd4dd61b117084/rnb-ldn-the-old-skool-rnb-day-party-2">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0756966,51.5510448,0</coordinates>
+        <coordinates>-0.0072112,51.4449408,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Kruder &amp; Dorfmeister</name>
-      <description><![CDATA[<b>Kruder &amp; Dorfmeister</b><br><i>Music</i><br>Fri 1st May<br>Roundhouse, London<br>Free<br><br>Live electronic music performance.<br><br><a href="https://www.roundhouse.org.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Comedy in Your Eye</name>
+      <description><![CDATA[<b>Comedy in Your Eye</b><br><i>Comedy</i><br>Wed 29th Apr<br>The Camden Eye, Camden<br>£2.00<br><br>Award-winning comedy club with TV comics and London circuit performers.<br><br><a href="https://www.skiddle.com/whats-on/London/The-Camden-Eye/Comedy-in-Your-Eye---Award-Winning-Stand-Up-Comedy-for-just-3/41988181/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1519761,51.5432505,0</coordinates>
+        <coordinates>-0.1422059,51.5394775,0</coordinates>
       </Point>
     </Placemark>
   </Document>
