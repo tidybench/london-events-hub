@@ -8,16 +8,44 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:4c10b86c3cea@london-events-scraper
+UID:01c17bc91a06@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:Music Nights At Sky Garden
-DESCRIPTION:Live music and DJ sets with fabulous views from 35 floors up.\n
- \nPrice: from free - £371.00\n\nTickets/Info: https://www.designmynight.c
- om/london/whats-on/best-events-in-april
-LOCATION:Sky Garden Bars\, City of London\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-april
+SUMMARY:Tide to Table Seafood Tasting
+DESCRIPTION:British seafood tasting event with Wright Brothers.\n\nPrice: 
+ £75\n\nTickets/Info: https://eventsforlondon.co.uk/event/the-royal-oak-x-
+ wright-brothers-tide-to-table-seafood-tasting/
+LOCATION:Marylebone\, London
+URL:https://eventsforlondon.co.uk/event/the-royal-oak-x-wright-brothers-tid
+ e-to-table-seafood-tasting/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6d2e4bd5b7@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260531
+SUMMARY:Dracula
+DESCRIPTION:Tech-enhanced solo performance by Cynthia Erivo playing 23 diff
+ erent roles.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.com
+ /london/things-to-do/london-events-in-may
+LOCATION:Covent Garden\, Covent Garden\, London
+URL:https://www.timeout.com/london/things-to-do/london-events-in-may
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:e24177b42c7e@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:New production starring Lesley Manville and Aidan Turner.\n\nPr
+ ice: from £92 per person\n\nTickets/Info: https://www.picturehouses.com/m
+ ovie-details/022/HO00017343/national-theatre-live-les-liaisons-dangereuses
+LOCATION:Lyttelton Theatre\, National Theatre\, South Bank\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00017343/national-the
+ atre-live-les-liaisons-dangereuses
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -35,20 +63,6 @@ URL:https://www.nationalgallery.org.uk/events/sitar-at-sunset-inspired-by-m
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:dc4f9f47685d@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260511
-SUMMARY:The Lord of the Rings: The Return of the King in Concert
-DESCRIPTION:Live orchestra performs Howard Shore's score alongside a high-d
- efinition film screening.\n\nPrice: £45–£120\n\nTickets/Info: https://
- www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/
-LOCATION:Royal Albert Hall\, South Kensington\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:c2b48901d900@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260501
@@ -61,69 +75,56 @@ URL:https://www.museumofcomedy.com/whats-on/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:3762ab7c5cb5@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260504
-SUMMARY:Charlotte Tilbury & Space NK: Pillow Talk in Bloom
-DESCRIPTION:Beauty event with Charlotte Tilbury and Space NK.\n\nPrice: £6
- 5\n\nTickets/Info: https://batterseapowerstation.co.uk/events/charlotte-ti
- lbury-space-nk-pillow-talk-in-bloom/
-LOCATION:Battersea Power Station\, Upper Ground Floor\, Boiler House North\
- , Near Riverside Entrance\, Battersea\, London
-URL:https://batterseapowerstation.co.uk/events/charlotte-tilbury-space-nk-p
- illow-talk-in-bloom/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:cd51721d1783@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260712
-SUMMARY:Kinky Boots
-DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
- \n\nPrice: from £27.25\n\nTickets/Info: https://londoncoliseum.org/events
- /kinky-boots/
-LOCATION:London Coliseum\, West End\, London
-URL:https://londoncoliseum.org/events/kinky-boots/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:dcd5eff7206c@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260503
-SUMMARY:London Never Sleeps
-DESCRIPTION:Dining and entertainment experience with cabaret acts.\n\nPrice
- : Free\n\nTickets/Info: https://www.thelondoncabaretclub.com/shows/
-LOCATION:London
-URL:https://www.thelondoncabaretclub.com/shows/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:be0ae6fbf760@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:THE ELVIS YEARS
-DESCRIPTION:Elvis Presley tribute show with optional dinner.\n\nPrice: Free
- \n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in
- -london-this-week-27-apr-3-may-2026?action=share
-LOCATION:The Clissold Arms\, East Finchley\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-27-apr-3-may-2026?action=share
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:4d124834d27d@london-events-scraper
+UID:2633c4f801aa@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:Monica
-DESCRIPTION:Theatrical tribute with dance\, music\, and drag.\n\nPrice: Che
- ck site\n\nTickets/Info: https://bac.org.uk/whats-on-highlights
-LOCATION:Battersea Arts Centre\, Battersea\, London
-URL:https://bac.org.uk/whats-on-highlights
+SUMMARY:Tricity Vogue's All Girl Swing Band
+DESCRIPTION:A swing band performance at Wilton's Music Hall.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://wiltons.org.uk/whats-on
+LOCATION:Wilton's Music Hall\, London\, London
+URL:https://wiltons.org.uk/whats-on
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:d86f0a3a23b2@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Absolute Amy - Amy Winehouse Tribute
+DESCRIPTION:A live tribute to Amy Winehouse by the UK's No.1 tribute act.\n
+ \nPrice: £15.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+ Basing-House/Absolute-Amy---Amy-Winehouse-Tribute/42292913/
+LOCATION:Basing House\, London\, London
+URL:https://www.skiddle.com/whats-on/London/Basing-House/Absolute-Amy---Amy
+ -Winehouse-Tribute/42292913/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5245c359ab@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Themed Cocktail Adventure
+DESCRIPTION:An immersive cocktail-making experience in a Prohibition-style 
+ hideout.\n\nPrice: from £62.64 per person\n\nTickets/Info: https://www.de
+ signmynight.com/london/blog/things-to-do-in-london-this-weekend
+LOCATION:Cahoots Underground\, Soho\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:4f483457ea73@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260501
+SUMMARY:Alexander McQueen Concert
+DESCRIPTION:An orchestral concert celebrating the legacy of Alexander McQue
+ en.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/what
+ s-on-this-week/
+LOCATION:Southbank Centre\, Southbank\, London
+URL:https://londontheinside.com/whats-on-this-week/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
