@@ -8,120 +8,122 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b6f93ec3ee78@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:British Asparagus Season Dinner
-DESCRIPTION:Celebratory dinner featuring British asparagus.\n\nPrice: From 
- £50\n\nTickets/Info: https://www.nationalgallery.org.uk/events/the-englis
- h-table-celebrating-british-asparagus-season-23-04-2026
-LOCATION:In Gallery | Supporters' House Dining Room\, Westminster\, London
-URL:https://www.nationalgallery.org.uk/events/the-english-table-celebrating
- -british-asparagus-season-23-04-2026
+UID:4c10b86c3cea@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Music Nights At Sky Garden
+DESCRIPTION:Live music and DJ sets with fabulous views from 35 floors up.\n
+ \nPrice: from free - £371.00\n\nTickets/Info: https://www.designmynight.c
+ om/london/whats-on/best-events-in-april
+LOCATION:Sky Garden Bars\, City of London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:656b080d3c08@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260607
-SUMMARY:Les Liaisons Dangereuses
-DESCRIPTION:A stage adaptation of the classic novel.\n\nPrice: from £92 pe
- r person\n\nTickets/Info: https://ticketing.timeout.com/london/shows/45580
- -les-liaisons-dangereuses
-LOCATION:Lyttelton Theatre\, Southbank\, London
-URL:https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereus
- es
+UID:e9ac791a122b@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Sitar at Sunset
+DESCRIPTION:Sitar concert inspired by Monet's Water-lilies.\n\nPrice: £10\
+ n\nTickets/Info: https://www.nationalgallery.org.uk/events/sitar-at-sunset
+ -inspired-by-monet-tommy-khosla-01-05-2026
+LOCATION:The National Gallery\, West End\, London
+URL:https://www.nationalgallery.org.uk/events/sitar-at-sunset-inspired-by-m
+ onet-tommy-khosla-01-05-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:86722b02ad7c@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Padella Soho Opening
-DESCRIPTION:New pasta restaurant with hand-rolled pastas and cocktails.\n\n
- Price: Check site\n\nTickets/Info: https://www.cntraveller.com/gallery/thi
- ngs-to-do-in-london-this-weekend
-LOCATION:Padella\, London W1B 5PB\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+UID:dc4f9f47685d@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260511
+SUMMARY:The Lord of the Rings: The Return of the King in Concert
+DESCRIPTION:Live orchestra performs Howard Shore's score alongside a high-d
+ efinition film screening.\n\nPrice: £45–£120\n\nTickets/Info: https://
+ www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/
+LOCATION:Royal Albert Hall\, South Kensington\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:3938f4244174@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Spring Supermarket Sipping: Ross Clarke
-DESCRIPTION:An evening dedicated to finding the best seasonal bottles.\n\nP
- rice: Free\n\nTickets/Info: https://londonistlistings.substack.com/p/thing
- s-to-do-in-london-this-week-20-26-april-2026
-LOCATION:London Welsh Centre\, Marylebone\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
+UID:c2b48901d900@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:The Cabaret Room
+DESCRIPTION:Cabaret performances in an intimate setting.\n\nPrice: Free\n\n
+ Tickets/Info: https://www.museumofcomedy.com/whats-on/
+LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/whats-on/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2f463382aa2f@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260426
-SUMMARY:Don Quixote Ballet
-DESCRIPTION:Birmingham Royal Ballet performs Don Quixote.\n\nPrice: Free\n\
- nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, Islington\, London
-URL:https://www.sadlerswells.com/whats-on
+UID:3762ab7c5cb5@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260504
+SUMMARY:Charlotte Tilbury & Space NK: Pillow Talk in Bloom
+DESCRIPTION:Beauty event with Charlotte Tilbury and Space NK.\n\nPrice: £6
+ 5\n\nTickets/Info: https://batterseapowerstation.co.uk/events/charlotte-ti
+ lbury-space-nk-pillow-talk-in-bloom/
+LOCATION:Battersea Power Station\, Upper Ground Floor\, Boiler House North\
+ , Near Riverside Entrance\, Battersea\, London
+URL:https://batterseapowerstation.co.uk/events/charlotte-tilbury-space-nk-p
+ illow-talk-in-bloom/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:70f73cb8fa40@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
+UID:cd51721d1783@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260712
 SUMMARY:Kinky Boots
 DESCRIPTION:Award-winning musical starring Johannes Radebe and Matt Cardle.
- \n\nPrice: from £27.25\n\nTickets/Info: https://www.londoncoliseum.org/wh
- ats-on/kinky-boots
+ \n\nPrice: from £27.25\n\nTickets/Info: https://londoncoliseum.org/events
+ /kinky-boots/
 LOCATION:London Coliseum\, West End\, London
-URL:https://www.londoncoliseum.org/whats-on/kinky-boots
+URL:https://londoncoliseum.org/events/kinky-boots/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:a2f8e0d58044@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260427
-SUMMARY:Liberace and Liza
-DESCRIPTION:Tribute to Liberace and Liza Minnelli.\n\nPrice: Check site\n\n
- Tickets/Info: https://greenwichtheatre.org.uk/whats-on/
-LOCATION:Greenwich Theatre\, SE10 8ES\, London
-URL:https://greenwichtheatre.org.uk/whats-on/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:5f5745b2a312@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:Thelma and Louise
-DESCRIPTION:Film screening with a Q&A session.\n\nPrice: £25\n\nTickets/In
- fo: https://www.genesiscinema.co.uk/event/108755
+UID:dcd5eff7206c@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260503
+SUMMARY:London Never Sleeps
+DESCRIPTION:Dining and entertainment experience with cabaret acts.\n\nPrice
+ : Free\n\nTickets/Info: https://www.thelondoncabaretclub.com/shows/
 LOCATION:London
-URL:https://www.genesiscinema.co.uk/event/108755
+URL:https://www.thelondoncabaretclub.com/shows/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:65dfd80e6917@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260712
-SUMMARY:Grace Pervades
-DESCRIPTION:Play starring Ralph Fiennes and Miranda Raison.\n\nPrice: from 
- £37\n\nTickets/Info: https://ticketing.timeout.com/london/shows/45493-gra
- ce-pervades
-LOCATION:Theatre Royal Bath\, Leicester Square\, London
-URL:https://ticketing.timeout.com/london/shows/45493-grace-pervades
+UID:be0ae6fbf760@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:THE ELVIS YEARS
+DESCRIPTION:Elvis Presley tribute show with optional dinner.\n\nPrice: Free
+ \n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in
+ -london-this-week-27-apr-3-may-2026?action=share
+LOCATION:The Clissold Arms\, East Finchley\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-27-apr-3-may-2026?action=share
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:4d124834d27d@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Monica
+DESCRIPTION:Theatrical tribute with dance\, music\, and drag.\n\nPrice: Che
+ ck site\n\nTickets/Info: https://bac.org.uk/whats-on-highlights
+LOCATION:Battersea Arts Centre\, Battersea\, London
+URL:https://bac.org.uk/whats-on-highlights
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
