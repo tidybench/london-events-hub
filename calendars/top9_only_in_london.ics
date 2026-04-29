@@ -8,66 +8,122 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:6fbf6a25b921@london-events-scraper
+UID:0d8356b176d4@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:Secret Dome Tour
-DESCRIPTION:Explore the dome and wartime history of Greenwich.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTEND;VALUE=DATE:20260502
+SUMMARY:Vintage Tube Train on the Piccadilly Line
+DESCRIPTION:A restored 1938 tube train running on the Piccadilly line.\n\nP
+ rice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Various locations\, Various\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:fee21345d8d0@london-events-scraper
+UID:e7da25930f42@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Cruise Ship at Tower Bridge
+DESCRIPTION:MV World Navigator cruise ship passes through Tower Bridge.\n\n
+ Price: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/202
+ 6/04/
+LOCATION:Tower Bridge\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/04/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b4010736c1a2@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260504
+SUMMARY:Ramses And The Pharaohs' Gold
+DESCRIPTION:Exhibition of over 180 artefacts from King Ramses II's reign.\n
+ \nPrice: from £26.05 per adult and £24.05 per child\n\nTickets/Info: htt
+ ps://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend
+LOCATION:NEON at Battersea Power Station\, Battersea\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5048f5b735@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-SUMMARY:Buff Bingo Bottomless Drag
-DESCRIPTION:Drag bingo with drinks and performances.\n\nPrice: £10.00\n\nT
- ickets/Info: https://www.skiddle.com/whats-on/London/Fire-London--%2F-Vaux
- hall-Food-And-Beer-Garden/Buff-Bingo-Bottomless-Drag/42250620/
-LOCATION:Fire London / Vauxhall Food And Beer Garden\, Vauxhall\, London
-URL:https://www.skiddle.com/whats-on/London/Fire-London--%2F-Vauxhall-Food-
- And-Beer-Garden/Buff-Bingo-Bottomless-Drag/42250620/
+SUMMARY:DRAGBUS London
+DESCRIPTION:Two-hour sightseeing experience with drag queens\, drinks\, and
+  singalongs.\n\nPrice: Tickets from £52.47 - £196.60\n\nTickets/Info: ht
+ tps://dragbus-london.designmynight.com/68e77f6baee1f012d7611a00/dragbus-lo
+ ndon
+LOCATION:London
+URL:https://dragbus-london.designmynight.com/68e77f6baee1f012d7611a00/dragb
+ us-london
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:8104e84716bc@london-events-scraper
+UID:18ca14034bb4@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:600 Years of History Tour
-DESCRIPTION:Guided tour of the Old Royal Naval College's history.\n\nPrice:
-  Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260531
+SUMMARY:Great Fire of London family walk
+DESCRIPTION:Historical walking tour.\n\nPrice: Free\n\nTickets/Info: https:
+ //www.londonmuseum.org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:7d14e194245c@london-events-scraper
+UID:b4681d0df8fb@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:Painted Hall Talks
-DESCRIPTION:Expert-led talks about the Painted Hall's ceiling art.\n\nPrice
- : Check site\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260607
+SUMMARY:London Museum Docklands Highlights Tour
+DESCRIPTION:Tour of the best exhibits at the museum.\n\nPrice: Free\n\nTick
+ ets/Info: https://www.londonmuseum.org.uk/whats-on/
+LOCATION:Museum of London Docklands\, Canary Wharf\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6bf9365c317a@london-events-scraper
+UID:f054c9cc2ba7@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260328
+DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-SUMMARY:LIFELINE
-DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
- at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
- outhwarkplayhouse.co.uk
-LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
-URL:https://southwarkplayhouse.co.uk
+SUMMARY:West End Musical Brunch
+DESCRIPTION:Interactive brunch experience with West End stars.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://www.designmynight.com/london/event-space
+ /secret-london-location/west-end-musical-brunch-58
+LOCATION:Secret London Location\, London
+URL:https://www.designmynight.com/london/event-space/secret-london-location
+ /west-end-musical-brunch-58
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:a77d21602201@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:V&A East
+DESCRIPTION:New museum showcasing exhibits related to east London’s creat
+ ive heritage and contemporary culture.\n\nPrice: £1.1\n\nTickets/Info: ht
+ tps://www.timeout.com/london/things-to-do/london-events-in-may
+LOCATION:Olympic Park\, Stratford\, London
+URL:https://www.timeout.com/london/things-to-do/london-events-in-may
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b14896bb5723@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260504
+SUMMARY:Lucian Freud Exhibition
+DESCRIPTION:Final week of Lucian Freud's works on paper and paintings.\n\nP
+ rice: Not specified\n\nTickets/Info: https://londonistlistings.substack.co
+ m/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share
+LOCATION:National Portrait Gallery\, Westminster\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-27-apr-3-may-2026?action=share
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
