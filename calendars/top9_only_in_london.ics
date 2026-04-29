@@ -8,95 +8,66 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:309ef4009b69@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:Hidden Holborn and Little Italy Talk
-DESCRIPTION:Explore the history of London’s former Italian Quarter.\n\nPr
- ice: £25\n\nTickets/Info: https://www.eventbrite.co.uk/e/hidden-holborn-a
- nd-little-italy-talk-led-by-diane-burstein-tickets-1982887212029
-LOCATION:Wilderness Kitchen\, London
-URL:https://www.eventbrite.co.uk/e/hidden-holborn-and-little-italy-talk-led
- -by-diane-burstein-tickets-1982887212029
+UID:6fbf6a25b921@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Secret Dome Tour
+DESCRIPTION:Explore the dome and wartime history of Greenwich.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a710209f8228@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260427
-SUMMARY:Brick Lane Jazz Festival
-DESCRIPTION:Weekend of live jazz in east London.\n\nPrice: ££ (ticket var
- ies)\n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-d
- o-in-london-this-week-20-26-april-2026
-LOCATION:Brick Lane\, Brick Lane\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
+UID:fee21345d8d0@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Buff Bingo Bottomless Drag
+DESCRIPTION:Drag bingo with drinks and performances.\n\nPrice: £10.00\n\nT
+ ickets/Info: https://www.skiddle.com/whats-on/London/Fire-London--%2F-Vaux
+ hall-Food-And-Beer-Garden/Buff-Bingo-Bottomless-Drag/42250620/
+LOCATION:Fire London / Vauxhall Food And Beer Garden\, Vauxhall\, London
+URL:https://www.skiddle.com/whats-on/London/Fire-London--%2F-Vauxhall-Food-
+ And-Beer-Garden/Buff-Bingo-Bottomless-Drag/42250620/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:8786fe553279@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:Urban Makers
-DESCRIPTION:Handmade crafts and independent makers at a London market.\n\nP
- rice: Check site\n\nTickets/Info: https://oldspitalfieldsmarket.com/events
-LOCATION:Old Spitalfields Market\, Spitalfields\, London
-URL:https://oldspitalfieldsmarket.com/events
+UID:8104e84716bc@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:600 Years of History Tour
+DESCRIPTION:Guided tour of the Old Royal Naval College's history.\n\nPrice:
+  Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:53a13acb14ab@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:Shakespeare for All in All
-DESCRIPTION:Shakespeare-themed walking tour.\n\nPrice: From £12.50\n\nTick
- ets/Info: https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-
- in-all-tickets-1980638112913
-LOCATION:St Paul’s Station\, St Paul’s\, London
-URL:https://www.eventbrite.co.uk/e/walking-tour-shakespeare-for-all-in-all-
- tickets-1980638112913
+UID:7d14e194245c@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Painted Hall Talks
+DESCRIPTION:Expert-led talks about the Painted Hall's ceiling art.\n\nPrice
+ : Check site\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a3c4cd0a0d84@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260531
-SUMMARY:London Museum Docklands Highlights Tour
-DESCRIPTION:Guided tour of London Museum Docklands.\n\nPrice: Free\n\nTicke
- ts/Info: https://www.londonmuseum.org.uk/whats-on/
-LOCATION:London Museum Docklands\, Canary Wharf\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:857e84ff57cf@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:Jeff Hooper Trio
-DESCRIPTION:Swing and jazz music performance.\n\nPrice: Check site\n\nTicke
- ts/Info: https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Sunday Lunch\, Soho\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:d9863b238bf9@london-events-scraper
-DTSTAMP:20260428T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260426
-SUMMARY:I'm Sorry\, Prime Minister
-DESCRIPTION:The final chapter of the Yes\, Minister series\, a political sa
- tire.\n\nPrice: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.c
- om/tickets/series/APSPM01M/im-sorry-prime-minister-1591900
-LOCATION:Apollo Theatre\, London\, London
-URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
- ime-minister-1591900
+UID:6bf9365c317a@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260503
+SUMMARY:LIFELINE
+DESCRIPTION:See 'LIFELINE\,' a play by Robin Hiley and Becky Hope-Palmer\, 
+ at Southwark Playhouse Elephant.\n\nPrice: Free\n\nTickets/Info: https://s
+ outhwarkplayhouse.co.uk
+LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
+URL:https://southwarkplayhouse.co.uk
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
