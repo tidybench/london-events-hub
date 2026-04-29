@@ -8,29 +8,43 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b1b81cbdbf6c@london-events-scraper
+UID:7cb8ad046fef@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:Alcotraz London: Cell Block Two-One-Two
-DESCRIPTION:Immersive prison experience with smuggling and bespoke cocktail
- s.\n\nPrice: from £39.22 - £69.00\n\nTickets/Info: https://www.designmyn
- ight.com/london/whats-on/best-events-in-april
-LOCATION:Alcotraz Penitentiary: London\, Shoreditch\, London
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260504
+SUMMARY:Hexmoor: Wizarding Prison
+DESCRIPTION:An immersive wizarding prison bar experience with cocktails.\n\
+ nPrice: from £49.50\n\nTickets/Info: https://www.designmynight.com/london
+ /whats-on/best-events-in-april
+LOCATION:127 Hackney Road\, Hackney\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-april
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:8df782c52e45@london-events-scraper
+UID:9ab5b55bfe0f@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Roof East Reopening
+DESCRIPTION:Summer spot with batting cages\, crazy golf\, and rooftop cinem
+ a.\n\nPrice: Not specified\n\nTickets/Info: https://londonistlistings.subs
+ tack.com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share
+LOCATION:Stratford\, Stratford\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-27-apr-3-may-2026?action=share
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:7dab96c9c9e3@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:Lil' Nashville: Honky Tonk Bar
-DESCRIPTION:A Nashville-themed night with live country music and line danci
- ng.\n\nPrice: from £29.70\n\nTickets/Info: https://lil-nashville.designmy
- night.com/695cbeb1958622372666e3b2/lil-nashville-nashville-honky-tonk-bar-
- live-country-music-line-dancing-bbq-night-30
-LOCATION:Chiswick\, London
+SUMMARY:Lil' Nashville BBQ Night
+DESCRIPTION:A Nashville-themed night with live country music and BBQ food.\
+ n\nPrice: from £29.70 per person\n\nTickets/Info: https://lil-nashville.d
+ esignmynight.com/695cbeb1958622372666e3b2/lil-nashville-nashville-honky-to
+ nk-bar-live-country-music-line-dancing-bbq-night-30
+LOCATION:Barley Mow Passage\, Chiswick\, London
 URL:https://lil-nashville.designmynight.com/695cbeb1958622372666e3b2/lil-na
  shville-nashville-honky-tonk-bar-live-country-music-line-dancing-bbq-night
  -30
@@ -40,88 +54,84 @@ BEGIN:VEVENT
 UID:ade814090526@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
 SUMMARY:Brixton Disco Festival
-DESCRIPTION:Annual disco music festival in Brixton.\n\nPrice: £5+ advance\
- n\nTickets/Info: https://phonox.co.uk/whats-on/
-LOCATION:Phonox\, Brixton\, London
-URL:https://phonox.co.uk/whats-on/
+DESCRIPTION:Disco festival featuring Norman Jay MBE\, Terry Farley\, and mo
+ re.\n\nPrice: £5+ advance\n\nTickets/Info: https://www.timeout.com/london
+ /things-to-do/london-events-in-may
+LOCATION:Brixton\, Brixton\, London
+URL:https://www.timeout.com/london/things-to-do/london-events-in-may
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:3d4b953ac14b@london-events-scraper
+UID:d53ac398bec1@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-SUMMARY:Between The Bridges
-DESCRIPTION:Launch party with free drinks for the first 500.\n\nPrice: Free
- \n\nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
-LOCATION:South Bank\, South Bank\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Ginger's Big Drag Bottomless Brunch
+DESCRIPTION:Drag performances with bottomless prosecco and brunch.\n\nPrice
+ : from £19.80 - £59.34\n\nTickets/Info: https://queen-of-hoxton.designmy
+ night.com/5f8053c98eb0f059706fe3f8/drag-bingo-bottomless-brunch
+LOCATION:Balls Brothers- Austin Friars\, London
+URL:https://queen-of-hoxton.designmynight.com/5f8053c98eb0f059706fe3f8/drag
+ -bingo-bottomless-brunch
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:584ca012f8dd@london-events-scraper
+UID:4c65fcfead1f@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-SUMMARY:FREE BEER
-DESCRIPTION:Launch party with free drinks for the first 500.\n\nPrice: FREE
- \n\nTickets/Info: https://londonistlistings.substack.com/p/things-to-do-in
- -london-this-week-27-apr-3-may-2026?action=share
-LOCATION:Between the Bridges\, South Bank\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-27-apr-3-may-2026?action=share
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260504
+SUMMARY:Queen’s Yard Summer Party
+DESCRIPTION:Day-to-night celebration of underground music culture with DJs 
+ and live acts.\n\nPrice: from £44.80\n\nTickets/Info: https://www.flolond
+ on.co.uk/all-posts/things-to-do-in-london-in-may-2026
+LOCATION:Hackney Wick\, Hackney Wick\, London
+URL:https://www.flolondon.co.uk/all-posts/things-to-do-in-london-in-may-202
+ 6
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:7229d9684971@london-events-scraper
+UID:da9eb7367335@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Chronicles
-DESCRIPTION:House and garage music night.\n\nPrice: Tickets\n\nTickets/Info
- : https://e1ldn.co/events
-LOCATION:E1 London\, Wapping\, London\, London
-URL:https://e1ldn.co/events
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Bottomless Hoedown Brunch
+DESCRIPTION:Brunch with country music\, burlesque\, and drag performances.\
+ n\nPrice: from £52.92 per person\n\nTickets/Info: https://www.designmynig
+ ht.com/london/blog/things-to-do-in-london-this-weekend
+LOCATION:Tequila Mockingbird Covent Garden\, Covent Garden\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:cece3058f0b7@london-events-scraper
+UID:b7af65860177@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Club Night
-DESCRIPTION:Global club specialists and DJs perform.\n\nPrice: Check site\n
- \nTickets/Info: https://thejazzcafe.com/whats-on/
-LOCATION:London
-URL:https://thejazzcafe.com/whats-on/
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:R'n'B LDN Day Party - HERE at Outernet
+DESCRIPTION:Day party with 90s-2015 R&B anthems and electric energy.\n\nPri
+ ce: Free\n\nTickets/Info: https://supa-dupa-fly.designmynight.com/690b2ab8
+ 6cbd4dd61b117084/rnb-ldn-the-old-skool-rnb-day-party-2
+LOCATION:HERE At Outernet\, Central London\, London
+URL:https://supa-dupa-fly.designmynight.com/690b2ab86cbd4dd61b117084/rnb-ld
+ n-the-old-skool-rnb-day-party-2
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:3624d4d55a5d@london-events-scraper
+UID:fcf687d32cd3@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Heaven on Hertz x Born2bFunky
-DESCRIPTION:Raw house and disco music night.\n\nPrice: Free\n\nTickets/Info
- : https://earthackney.co.uk/events/heaven-on-hertz-x-born2bfunky-1st-may-e
- arth-london-tickets-eoyxpo/
-LOCATION:EartH Kitchen\, Dalston\, London
-URL:https://earthackney.co.uk/events/heaven-on-hertz-x-born2bfunky-1st-may-
- earth-london-tickets-eoyxpo/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:e67d1fc4e3f6@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Kruder & Dorfmeister
-DESCRIPTION:Live electronic music performance.\n\nPrice: Free\n\nTickets/In
- fo: https://www.roundhouse.org.uk/whats-on
-LOCATION:Roundhouse\, London\, London
-URL:https://www.roundhouse.org.uk/whats-on
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Comedy in Your Eye
+DESCRIPTION:Award-winning comedy club with TV comics and London circuit per
+ formers.\n\nPrice: £2.00\n\nTickets/Info: https://www.skiddle.com/whats-o
+ n/London/The-Camden-Eye/Comedy-in-Your-Eye---Award-Winning-Stand-Up-Comedy
+ -for-just-3/41988181/
+LOCATION:The Camden Eye\, Camden\, London
+URL:https://www.skiddle.com/whats-on/London/The-Camden-Eye/Comedy-in-Your-E
+ ye---Award-Winning-Stand-Up-Comedy-for-just-3/41988181/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
