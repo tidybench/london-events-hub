@@ -8,81 +8,14 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
+UID:b008925fe19d@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
- \n\nTickets/Info: https://ticketing.timeout.com/london/shows/45248-teeth-n
- -smiles
-LOCATION:Duke of York's Theatre\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:4d1a2753b05e@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260619
-SUMMARY:Star Trek Exhibition
-DESCRIPTION:A celebration of 60 years of Star Trek.\n\nPrice: Check site\n\
- nTickets/Info: https://secretldn.com/things-to-do-london-april-2026/
-LOCATION:Science Museum\, South Kensington\, London
-URL:https://secretldn.com/things-to-do-london-april-2026/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6856ec58d487@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260524
-SUMMARY:One Flew Over the Cuckoo’s Nest
-DESCRIPTION:A stage adaptation of the iconic film.\n\nPrice: from £27\n\nT
- ickets/Info: https://ticketing.timeout.com/london/shows/45812-one-flew-ove
- r-the-cuckoos-nest
-LOCATION:The Old Vic\, Southbank\, London
-URL:https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuck
- oos-nest
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:b7136cdcd08e@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260503
-SUMMARY:Orders of Magnitude
-DESCRIPTION:An exhibition of imaginary landscapes by Sholto Blissett.\n\nPr
- ice: Free\n\nTickets/Info: https://discover.ticketmaster.co.uk/special-eve
- nts/things-to-do-in-london-this-week-64229/
-LOCATION:Pilar Corrias Gallery\, London\, W1S 3PA\, London
-URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lond
- on-this-week-64229/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:665512a98126@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260505
-SUMMARY:Light
-DESCRIPTION:Art exhibition exploring the theme of light through various med
- iums.\n\nPrice: FREE\n\nTickets/Info: https://londonistlistings.substack.c
- om/p/things-to-do-in-london-this-week-20-26-april-2026
-LOCATION:Lauderdale House\, Highgate\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-20-26-april-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:3737198b26e1@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
+DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260504
 SUMMARY:Chiharu Shiota: Threads of Life
-DESCRIPTION:An immersive solo exhibition by Japanese artist Chiharu Shiota.
- \n\nPrice: £19.00 (advance sales)\n\nTickets/Info: https://londoncheapo.c
- om/events/may/
+DESCRIPTION:Berlin-based Japanese artist’s first major solo exhibition in
+  a London public gallery.\n\nPrice: £19.00 (advance sales)\n\nTickets/Inf
+ o: https://londoncheapo.com/events/may/
 LOCATION:South Bank\, South Bank\, London
 URL:https://londoncheapo.com/events/may/
 CATEGORIES:Culture & Arts
@@ -100,31 +33,100 @@ URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:a7cb408dccf0@london-events-scraper
+UID:cf44b3080b0c@london-events-scraper
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:Generational Echoes: Clarks\, Community and Caribbean Creativity
-DESCRIPTION:Talk on Caribbean creativity and community.\n\nPrice: Free\n\nT
- ickets/Info: https://www.vam.ac.uk/event/4xOzBLe5bd9/assistant-curator-tal
- k-performance-festival-donata-miller-obebe
-LOCATION:Victoria and Albert Museum\, South Kensington\, London
-URL:https://www.vam.ac.uk/event/4xOzBLe5bd9/assistant-curator-talk-performa
- nce-festival-donata-miller-obebe
+DTEND;VALUE=DATE:20260505
+SUMMARY:Sony World Photography Awards Exhibition 2026
+DESCRIPTION:An exhibition featuring over 300 photographs from the Sony Awar
+ ds.\n\nPrice: null\n\nTickets/Info: https://www.timeout.com/london/things-
+ to-do/the-top-10-things-to-do-this-may-bank-holiday
+LOCATION:Somerset House\, Westminster\, London
+URL:https://www.timeout.com/london/things-to-do/the-top-10-things-to-do-thi
+ s-may-bank-holiday
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:c3015c4a7148@london-events-scraper
+UID:f9104bf587c8@london-events-scraper
 DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260601
+SUMMARY:Dark Secrets: The Esoteric Exhibition
+DESCRIPTION:Immersive exhibition exploring magic\, occultism\, and folklore
+ .\n\nPrice: £23\n\nTickets/Info: https://feverup.com/m/427444?cp_landing=
+ cta_header&cp_landing_term=cta_header&cp_landing_source=darksecretsexhibit
+ ion&utm_source=google&utm_medium=organic
+LOCATION:Vaults - Leake Street\, London\, London
+URL:https://feverup.com/m/427444?cp_landing=cta_header&cp_landing_term=cta_
+ header&cp_landing_source=darksecretsexhibition&utm_source=google&utm_mediu
+ m=organic
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1d4b9645b108@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260505
+SUMMARY:SICILYFEST 2026
+DESCRIPTION:Five-day Sicilian cultural festival with food and performances.
+ \n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack.
+ com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share
+LOCATION:Business Design Centre\, Islington\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ek-27-apr-3-may-2026?action=share
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9528206ad6@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260503
-SUMMARY:I’m Sorry\, Prime Minister
-DESCRIPTION:Final chapter of the Yes\, Minister series.\n\nPrice: £15.00\n
- \nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/series/APSPM01
- M/im-sorry-prime-minister-1812089
-LOCATION:Apollo Theatre\, West End\, London
-URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
- ime-minister-1812089
+SUMMARY:AUGMENTED: Dance by MAM+AISOMA
+DESCRIPTION:Collaborative dance performance by Rambert and Juilliard school
+ s.\n\nPrice: Free\n\nTickets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells East\, London
+URL:https://www.sadlerswells.com/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:3a96ada2f437@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:You Are Here Festival
+DESCRIPTION:A festival about British youth culture created by Danny Boyle.\
+ n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/whats-on
+ -this-week/
+LOCATION:Southbank Centre\, Southbank\, London
+URL:https://londontheinside.com/whats-on-this-week/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1be6300c130c@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
+ \n\nTickets/Info: https://www.ticketmaster.co.uk/teeth-n-smiles-london-202
+ 6-03-13/event/1F005F4A8E9134D2
+LOCATION:Duke of York's Theatre\, West End\, London
+URL:https://www.ticketmaster.co.uk/teeth-n-smiles-london-2026-03-13/event/1
+ F005F4A8E9134D2
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6856ec58d487@london-events-scraper
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260524
+SUMMARY:One Flew Over the Cuckoo’s Nest
+DESCRIPTION:A stage adaptation of the iconic film.\n\nPrice: from £27\n\nT
+ ickets/Info: https://ticketing.timeout.com/london/shows/45812-one-flew-ove
+ r-the-cuckoos-nest
+LOCATION:The Old Vic\, Southbank\, London
+URL:https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuck
+ oos-nest
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
