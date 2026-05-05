@@ -8,125 +8,121 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b008925fe19d@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260504
-SUMMARY:Chiharu Shiota: Threads of Life
-DESCRIPTION:Berlin-based Japanese artist’s first major solo exhibition in
-  a London public gallery.\n\nPrice: £19.00 (advance sales)\n\nTickets/Inf
- o: https://londoncheapo.com/events/may/
-LOCATION:South Bank\, South Bank\, London
-URL:https://londoncheapo.com/events/may/
+UID:3c5d3d06254b@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260509
+SUMMARY:Women in Art Fair
+DESCRIPTION:An annual art fair celebrating women and non-binary artists.\n\
+ nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/women-in
+ -art-fair-2/2026-05-03/
+LOCATION:gallery@oxo\, London\, London
+URL:https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05-03/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:d1899864c90a@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:Encounters: Giacometti x Lynda Benglis
-DESCRIPTION:First-time exhibition pairing Giacometti and Benglis sculptures
- .\n\nPrice: Free\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, City of London\, London
-URL:https://www.barbican.org.uk/whats-on
+UID:4be1a76de313@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:FRAMELESS Immersive Art Experience
+DESCRIPTION:Digital art gallery with famous artworks and motion graphics.\n
+ \nPrice: £25 – £35\n\nTickets/Info: https://www.londonbackpackers.com/
+ blog/london-events-in-may-explore-things-to-do/
+LOCATION:Marble Arch\, Marble Arch\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:cf44b3080b0c@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260505
-SUMMARY:Sony World Photography Awards Exhibition 2026
-DESCRIPTION:An exhibition featuring over 300 photographs from the Sony Awar
- ds.\n\nPrice: null\n\nTickets/Info: https://www.timeout.com/london/things-
- to-do/the-top-10-things-to-do-this-may-bank-holiday
-LOCATION:Somerset House\, Westminster\, London
-URL:https://www.timeout.com/london/things-to-do/the-top-10-things-to-do-thi
- s-may-bank-holiday
+UID:0576792b1f5e@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:Hyakkō: 100+ Makers from Japan
+DESCRIPTION:A celebration of contemporary Japanese craft aesthetics with 12
+ 0+ artists.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/
+LOCATION:Japan House London\, Kensington\, London
+URL:https://www.ianvisits.co.uk/calendar/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:f9104bf587c8@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260601
-SUMMARY:Dark Secrets: The Esoteric Exhibition
-DESCRIPTION:Immersive exhibition exploring magic\, occultism\, and folklore
- .\n\nPrice: £23\n\nTickets/Info: https://feverup.com/m/427444?cp_landing=
- cta_header&cp_landing_term=cta_header&cp_landing_source=darksecretsexhibit
- ion&utm_source=google&utm_medium=organic
-LOCATION:Vaults - Leake Street\, London\, London
-URL:https://feverup.com/m/427444?cp_landing=cta_header&cp_landing_term=cta_
- header&cp_landing_source=darksecretsexhibition&utm_source=google&utm_mediu
- m=organic
+UID:fa73e5c84f5e@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:Inter Alia
+DESCRIPTION:Three-hand play about a pioneering feminist judge\, starring Ro
+ samund Pike.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.com
+ /london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Charing Cross Road\, West End\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1d4b9645b108@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260505
-SUMMARY:SICILYFEST 2026
-DESCRIPTION:Five-day Sicilian cultural festival with food and performances.
- \n\nPrice: Check site\n\nTickets/Info: https://londonistlistings.substack.
- com/p/things-to-do-in-london-this-week-27-apr-3-may-2026?action=share
-LOCATION:Business Design Centre\, Islington\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ek-27-apr-3-may-2026?action=share
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6a9528206ad6@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260503
-SUMMARY:AUGMENTED: Dance by MAM+AISOMA
-DESCRIPTION:Collaborative dance performance by Rambert and Juilliard school
- s.\n\nPrice: Free\n\nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells East\, London
+UID:f7095ccab86b@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260507
+SUMMARY:Les Ballets Trockadero de Monte Carlo - Mixed Bill
+DESCRIPTION:Ballet performance by the famous all-male troupe.\n\nPrice: Che
+ ck site\n\nTickets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells Theatre\, Islington\, London
 URL:https://www.sadlerswells.com/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:3a96ada2f437@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:You Are Here Festival
-DESCRIPTION:A festival about British youth culture created by Danny Boyle.\
- n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/whats-on
- -this-week/
-LOCATION:Southbank Centre\, Southbank\, London
-URL:https://londontheinside.com/whats-on-this-week/
+UID:e7a532543c1a@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:Seeds of Exchange: Canton and London
+DESCRIPTION:An exhibition on 18th-century botanical collaboration between E
+ ngland and China.\n\nPrice: £16\n\nTickets/Info: https://www.ianvisits.co
+ .uk/calendar/
+LOCATION:The Garden Museum\, Lambeth\, London
+URL:https://www.ianvisits.co.uk/calendar/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1be6300c130c@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
-DESCRIPTION:A theatre production at the Duke of York's.\n\nPrice: from £30
- \n\nTickets/Info: https://www.ticketmaster.co.uk/teeth-n-smiles-london-202
- 6-03-13/event/1F005F4A8E9134D2
-LOCATION:Duke of York's Theatre\, West End\, London
-URL:https://www.ticketmaster.co.uk/teeth-n-smiles-london-2026-03-13/event/1
- F005F4A8E9134D2
+UID:87b46a285751@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:Textile Art Redefined
+DESCRIPTION:An exhibition showcasing 15 visionary textile artists from arou
+ nd the world.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/
+ calendar/
+LOCATION:Saatchi Gallery\, Chelsea\, London
+URL:https://www.ianvisits.co.uk/calendar/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6856ec58d487@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260524
-SUMMARY:One Flew Over the Cuckoo’s Nest
-DESCRIPTION:A stage adaptation of the iconic film.\n\nPrice: from £27\n\nT
- ickets/Info: https://ticketing.timeout.com/london/shows/45812-one-flew-ove
- r-the-cuckoos-nest
-LOCATION:The Old Vic\, Southbank\, London
-URL:https://ticketing.timeout.com/london/shows/45812-one-flew-over-the-cuck
- oos-nest
+UID:4dfd7103f267@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:Wright of Derby: From the Shadows
+DESCRIPTION:An exhibition re-examining Joseph Wright of Derby's candlelight
+  paintings.\n\nPrice: £14\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/
+LOCATION:National Gallery\, Trafalgar Square\, London
+URL:https://www.ianvisits.co.uk/calendar/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:d7c811373204@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:Alessandro Mendini
+DESCRIPTION:The UK's first solo exhibition of post-war Italian designer Ale
+ ssandro Mendini.\n\nPrice: £9.50\n\nTickets/Info: https://www.ianvisits.c
+ o.uk/calendar/
+LOCATION:Estorick Collection of Modern Italian Art\, Islington\, London
+URL:https://www.ianvisits.co.uk/calendar/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
