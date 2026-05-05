@@ -8,123 +8,121 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:01c17bc91a06@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-SUMMARY:Tide to Table Seafood Tasting
-DESCRIPTION:British seafood tasting event with Wright Brothers.\n\nPrice: 
- £75\n\nTickets/Info: https://eventsforlondon.co.uk/event/the-royal-oak-x-
- wright-brothers-tide-to-table-seafood-tasting/
-LOCATION:Marylebone\, London
-URL:https://eventsforlondon.co.uk/event/the-royal-oak-x-wright-brothers-tid
- e-to-table-seafood-tasting/
+UID:77034fadac64@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260607
+SUMMARY:Regent’s Park Open Air Theatre Spring Season
+DESCRIPTION:Large-scale productions staged under the open sky.\n\nPrice: £
+ 20 – £60\n\nTickets/Info: https://www.londonbackpackers.com/blog/london
+ -events-in-may-explore-things-to-do/
+LOCATION:Regent’s Park Open Air Theatre\, Marylebone\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:7c6d2e4bd5b7@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260531
-SUMMARY:Dracula
-DESCRIPTION:Tech-enhanced solo performance by Cynthia Erivo playing 23 diff
- erent roles.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.com
- /london/things-to-do/london-events-in-may
-LOCATION:Covent Garden\, Covent Garden\, London
-URL:https://www.timeout.com/london/things-to-do/london-events-in-may
+UID:5c2458205958@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260511
+SUMMARY:The Lord of the Rings: The Return of the King in Concert
+DESCRIPTION:Live orchestra performance of Howard Shore's score with film sc
+ reening.\n\nPrice: £45 – £120\n\nTickets/Info: https://www.londonbackp
+ ackers.com/blog/london-events-in-may-explore-things-to-do/
+LOCATION:Royal Albert Hall\, South Kensington\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e24177b42c7e@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Les Liaisons Dangereuses
-DESCRIPTION:New production starring Lesley Manville and Aidan Turner.\n\nPr
- ice: from £92 per person\n\nTickets/Info: https://www.picturehouses.com/m
- ovie-details/022/HO00017343/national-theatre-live-les-liaisons-dangereuses
-LOCATION:Lyttelton Theatre\, National Theatre\, South Bank\, London
-URL:https://www.picturehouses.com/movie-details/022/HO00017343/national-the
- atre-live-les-liaisons-dangereuses
+UID:1a2ccd103f5c@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Little Venice canal walk
+DESCRIPTION:A walk along the canal towpath exploring the Age of Canals.\n\n
+ Price: £20\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Warwick Avenue tube station\, Little Venice\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e9ac791a122b@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Sitar at Sunset
-DESCRIPTION:Sitar concert inspired by Monet's Water-lilies.\n\nPrice: £10\
- n\nTickets/Info: https://www.nationalgallery.org.uk/events/sitar-at-sunset
- -inspired-by-monet-tommy-khosla-01-05-2026
-LOCATION:The National Gallery\, West End\, London
-URL:https://www.nationalgallery.org.uk/events/sitar-at-sunset-inspired-by-m
- onet-tommy-khosla-01-05-2026
+UID:751d7fcfaff0@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260607
+SUMMARY:AN IDEAL HUSBAND
+DESCRIPTION:Bold new production of Oscar Wilde's classic play.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://lyric.co.uk/whats-on/shows/
+LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
+URL:https://lyric.co.uk/whats-on/shows/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:c2b48901d900@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:The Cabaret Room
-DESCRIPTION:Cabaret performances in an intimate setting.\n\nPrice: Free\n\n
- Tickets/Info: https://www.museumofcomedy.com/whats-on/
-LOCATION:The Undercroft\, St George's Church\, Bloomsbury\, London
-URL:https://www.museumofcomedy.com/whats-on/
+UID:4ee589f77a95@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260510
+SUMMARY:Rosas - Il Cimento dell’Armonia e dell’Inventione
+DESCRIPTION:Contemporary dance performance by Rosas.\n\nPrice: Free\n\nTick
+ ets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells Theatre\, Islington\, London
+URL:https://www.sadlerswells.com/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:2633c4f801aa@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:Tricity Vogue's All Girl Swing Band
-DESCRIPTION:A swing band performance at Wilton's Music Hall.\n\nPrice: Chec
- k site\n\nTickets/Info: https://wiltons.org.uk/whats-on
-LOCATION:Wilton's Music Hall\, London\, London
-URL:https://wiltons.org.uk/whats-on
+UID:bc88896ecce4@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:London Bridge Rooftop Bottomless Brunch
+DESCRIPTION:A brunch with bottomless drinks and party tunes on a rooftop.\n
+ \nPrice: Check site\n\nTickets/Info: https://www.designmynight.com/london/
+ whats-on/bottomless-brunch-events/london-bridge-rooftop-bottomless-brunch
+LOCATION:London Bridge\, London
+URL:https://www.designmynight.com/london/whats-on/bottomless-brunch-events/
+ london-bridge-rooftop-bottomless-brunch
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d86f0a3a23b2@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:Absolute Amy - Amy Winehouse Tribute
-DESCRIPTION:A live tribute to Amy Winehouse by the UK's No.1 tribute act.\n
- \nPrice: £15.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/
- Basing-House/Absolute-Amy---Amy-Winehouse-Tribute/42292913/
-LOCATION:Basing House\, London\, London
-URL:https://www.skiddle.com/whats-on/London/Basing-House/Absolute-Amy---Amy
- -Winehouse-Tribute/42292913/
+UID:04ffd93d9e9e@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Rum Masterclass At Black Parrot
+DESCRIPTION:A rum tasting session with cocktails and swashbuckling stories.
+ \n\nPrice: from £65.00\n\nTickets/Info: https://merchant-house.designmyni
+ ght.com/5b215424c039b1584e6de275/rum-masterclass
+LOCATION:London
+URL:https://merchant-house.designmynight.com/5b215424c039b1584e6de275/rum-m
+ asterclass
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:6e5245c359ab@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:Themed Cocktail Adventure
-DESCRIPTION:An immersive cocktail-making experience in a Prohibition-style 
- hideout.\n\nPrice: from £62.64 per person\n\nTickets/Info: https://www.de
- signmynight.com/london/blog/things-to-do-in-london-this-weekend
-LOCATION:Cahoots Underground\, Soho\, London
-URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
- eekend
+UID:df60d2984a6c@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260510
+SUMMARY:I'm Sorry\, Prime Minister
+DESCRIPTION:Theatre production continuing the Yes\, Minister series.\n\nPri
+ ce: £15.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/s
+ eries/APSPM01M/im-sorry-prime-minister-1812092
+LOCATION:Apollo Theatre\, London\, London
+URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
+ ime-minister-1812092
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:4f483457ea73@london-events-scraper
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260501
-SUMMARY:Alexander McQueen Concert
-DESCRIPTION:An orchestral concert celebrating the legacy of Alexander McQue
- en.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/what
- s-on-this-week/
-LOCATION:Southbank Centre\, Southbank\, London
-URL:https://londontheinside.com/whats-on-this-week/
+UID:09478dd84a09@london-events-scraper
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Lust\, Caution
+DESCRIPTION:Film screening of Lust\, Caution.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://princecharlescinema.com/next-7-days/
+LOCATION:Prince Charles Cinema\, London\, London
+URL:https://princecharlescinema.com/next-7-days/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
