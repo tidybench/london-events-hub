@@ -8,64 +8,8 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:0bcd11cdd825@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Hot Sauce Society Festival
-DESCRIPTION:Artisanal hot sauce tasting and spicy food challenges.\n\nPrice
- : £5+\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-even
- ts-in-may-explore-things-to-do/
-LOCATION:Copeland Park\, Peckham\, Peckham\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:06334c76617b@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Dan Shake & Friends Day & Night Party
-DESCRIPTION:Day and night music event with extended sets.\n\nPrice: £25.00
- \n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-lond
- on-this-weekend/
-LOCATION:The Cause London\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:179b1b946d60@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:RollerDisco
-DESCRIPTION:Disco-themed roller skating event.\n\nPrice: £19.50\n\nTickets
- /Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-this-wee
- kend/
-LOCATION:Rollernation\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:4ed0520ca05f@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Ninja Sex Party & TWRP: Pure Elegance Tour
-DESCRIPTION:Live performance by Ninja Sex Party and TWRP.\n\nPrice: Check s
- ite\n\nTickets/Info: https://www.academymusicgroup.com/o2academybrixton/ev
- ents/ninja-sex-party-tickets-ae1266461
-LOCATION:O2 Academy Brixton\, Brixton\, London
-URL:https://www.academymusicgroup.com/o2academybrixton/events/ninja-sex-par
- ty-tickets-ae1266461
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:c4fc15859589@london-events-scraper
-DTSTAMP:20260505T000000Z
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Eurovision Your Decision
@@ -78,54 +22,115 @@ URL:https://eventsforlondon.co.uk/event/eurovision-your-decision/2026-05-06
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:94915491e280@london-events-scraper
-DTSTAMP:20260505T000000Z
+UID:ddd5780076e3@london-events-scraper
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:POLY-MATH & OPENSIGHT - DOUBLE ALBUM LAUNCH
-DESCRIPTION:Album launch event with live performances.\n\nPrice: £15\n\nTi
- ckets/Info: https://www.oslohackney.com/events/poly-math/
+SUMMARY:DJ Tunez & Mavo: Money Constant Weekend
+DESCRIPTION:Birthday celebrations with DJ Tunez and Nigerian rapper Mavo.\n
+ \nPrice: Check site\n\nTickets/Info: https://koko.co.uk/events/dj-tunez-ma
+ vo-a-birthday-weekend-2
+LOCATION:KOKO\, Camden\, London
+URL:https://koko.co.uk/events/dj-tunez-mavo-a-birthday-weekend-2
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:1857aef7a1e0@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Fridays at Backyard
+DESCRIPTION:A popular comedy night in London.\n\nPrice: £12.5 – £20\n\n
+ Tickets/Info: https://backyardcomedyclub.co.uk/events/
+LOCATION:Backyard Comedy Club\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:567f459c7712@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Bougie Drag Bottomless Brunch
+DESCRIPTION:A glamorous drag brunch with performances by RUPAUL'S DRAG RACE
+  UK queens.\n\nPrice: Free\n\nTickets/Info: https://bougie-drag-events.des
+ ignmynight.com/5d67d7959bc98c585a7346b5/bougie-drag-brunch-daytime-party
+LOCATION:London
+URL:https://bougie-drag-events.designmynight.com/5d67d7959bc98c585a7346b5/b
+ ougie-drag-brunch-daytime-party
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:fec39cfc61d8@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Cherry Jamz Takeover: Hip-Hop\, RnB + UKG
+DESCRIPTION:Music event featuring hip-hop\, RnB\, and UK garage.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.oslohackney.com/events/cherry-jamz
+ -takeover-hip-hop-rnb-ukg-2/
 LOCATION:Oslo\, Hackney\, London
-URL:https://www.oslohackney.com/events/poly-math/
+URL:https://www.oslohackney.com/events/cherry-jamz-takeover-hip-hop-rnb-ukg
+ -2/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:91622bcaf975@london-events-scraper
-DTSTAMP:20260505T000000Z
+UID:4cf9245f1200@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+SUMMARY:Dan Shake & Friends
+DESCRIPTION:A day and night DJ event with extended sets.\n\nPrice: £35.00\
+ n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-londo
+ n-this-weekend/
+LOCATION:The Cause\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+ /
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:4078d2231527@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+SUMMARY:Hackney Altfest Dive Bar Festival
+DESCRIPTION:London's first dive bar festival with live music and drinks.\n\
+ nPrice: Check site\n\nTickets/Info: https://feverup.com/en/london/music-ev
+ ents?utm_source=affiliate&utm_medium=impact&utm_campaign=80803&utm_content
+ =2054681_LOTI&irclickid=QJd3qYQefxyNWrx3YoWKJxhlUkFTicxhXRSmz40&utm_term=1
+ 396783&irgwc=1
+LOCATION:Hackney\, London
+URL:https://feverup.com/en/london/music-events?utm_source=affiliate&utm_med
+ ium=impact&utm_campaign=80803&utm_content=2054681_LOTI&irclickid=QJd3qYQef
+ xyNWrx3YoWKJxhlUkFTicxhXRSmz40&utm_term=1396783&irgwc=1
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b3405ff68a@london-events-scraper
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:Byron Wallen’s Hurricane Bells
-DESCRIPTION:Music inspired by Hurricane Katrina and contemporary art instal
- lation.\n\nPrice: £19\n\nTickets/Info: https://www.vortexjazz.co.uk/event
- /byron-wallens-hurricane-bells/
-LOCATION:Vortex Jazz Club\, London\, London
-URL:https://www.vortexjazz.co.uk/event/byron-wallens-hurricane-bells/
+SUMMARY:House of Stepz - Day Party
+DESCRIPTION:A celebration of the first anniversary of House of Stepz.\n\nPr
+ ice: £13.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/what
+ s-on-in-london-this-weekend/
+LOCATION:LDN EAST\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+ /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:6fbc0d4834de@london-events-scraper
-DTSTAMP:20260505T000000Z
+UID:0d090e7e0533@london-events-scraper
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Garage Brunch
-DESCRIPTION:A day party with old-school UKG music and bottomless cocktails.
- \n\nPrice: Tickets from £14.30 – £19.80\n\nTickets/Info: https://garag
- ebrunch.designmynight.com/6926cea5be0f8f035b5fdee5/garage-brunch-may-9th
-LOCATION:Simmons Holborn\, Holborn\, London
-URL:https://garagebrunch.designmynight.com/6926cea5be0f8f035b5fdee5/garage-
- brunch-may-9th
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:356e9f583426@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:RIO FOREVER: CELLULOID SURPRISE #1
-DESCRIPTION:Special event at RIO FOREVER venue.\n\nPrice: Check site\n\nTic
- kets/Info: https://riocinema.org.uk/Rio.dll/WhatsOn
-LOCATION:RIO FOREVER\, Dalston\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+DTEND;VALUE=DATE:20260511
+SUMMARY:SOULTOWN - Garden Party
+DESCRIPTION:A soul and house music party with classic tracks.\n\nPrice: £1
+ 5.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-
+ london-this-weekend/
+LOCATION:Studio 338\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+ /
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
