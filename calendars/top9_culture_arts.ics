@@ -8,121 +8,126 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:3c5d3d06254b@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260509
-SUMMARY:Women in Art Fair
-DESCRIPTION:An annual art fair celebrating women and non-binary artists.\n\
- nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/women-in
- -art-fair-2/2026-05-03/
-LOCATION:gallery@oxo\, London\, London
-URL:https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05-03/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:4be1a76de313@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:FRAMELESS Immersive Art Experience
-DESCRIPTION:Digital art gallery with famous artworks and motion graphics.\n
- \nPrice: £25 – £35\n\nTickets/Info: https://www.londonbackpackers.com/
- blog/london-events-in-may-explore-things-to-do/
-LOCATION:Marble Arch\, Marble Arch\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:0576792b1f5e@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
+UID:f4b241eda38d@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260511
-SUMMARY:Hyakkō: 100+ Makers from Japan
-DESCRIPTION:A celebration of contemporary Japanese craft aesthetics with 12
- 0+ artists.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/ca
- lendar/
-LOCATION:Japan House London\, Kensington\, London
-URL:https://www.ianvisits.co.uk/calendar/
+SUMMARY:Affordable Art Fair – Hampstead
+DESCRIPTION:Spring edition of the Affordable Art Fair with over 100 galleri
+ es.\n\nPrice: from £14\n\nTickets/Info: https://memoirsofametrogirl.com/2
+ 026/04/29/whats-on-in-london-may-2026-listings-guide/
+LOCATION:Hampstead Heath (Lower Fairground Site)\, East Heath Road\, Hampst
+ ead\, Hampstead\, London
+URL:https://memoirsofametrogirl.com/2026/04/29/whats-on-in-london-may-2026-
+ listings-guide/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:fa73e5c84f5e@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260511
-SUMMARY:Inter Alia
-DESCRIPTION:Three-hand play about a pioneering feminist judge\, starring Ro
- samund Pike.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.com
- /london/things-to-do/things-to-do-in-london-this-week
-LOCATION:Charing Cross Road\, West End\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
- -week
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:f7095ccab86b@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260507
-SUMMARY:Les Ballets Trockadero de Monte Carlo - Mixed Bill
-DESCRIPTION:Ballet performance by the famous all-male troupe.\n\nPrice: Che
- ck site\n\nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, Islington\, London
-URL:https://www.sadlerswells.com/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e7a532543c1a@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260511
-SUMMARY:Seeds of Exchange: Canton and London
-DESCRIPTION:An exhibition on 18th-century botanical collaboration between E
- ngland and China.\n\nPrice: £16\n\nTickets/Info: https://www.ianvisits.co
- .uk/calendar/
-LOCATION:The Garden Museum\, Lambeth\, London
-URL:https://www.ianvisits.co.uk/calendar/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:87b46a285751@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260511
-SUMMARY:Textile Art Redefined
-DESCRIPTION:An exhibition showcasing 15 visionary textile artists from arou
- nd the world.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/
- calendar/
-LOCATION:Saatchi Gallery\, Chelsea\, London
-URL:https://www.ianvisits.co.uk/calendar/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:4dfd7103f267@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260511
-SUMMARY:Wright of Derby: From the Shadows
-DESCRIPTION:An exhibition re-examining Joseph Wright of Derby's candlelight
-  paintings.\n\nPrice: £14\n\nTickets/Info: https://www.ianvisits.co.uk/ca
- lendar/
-LOCATION:National Gallery\, Trafalgar Square\, London
-URL:https://www.ianvisits.co.uk/calendar/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d7c811373204@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
+UID:84e7e4f41062@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260511
 SUMMARY:Alessandro Mendini
-DESCRIPTION:The UK's first solo exhibition of post-war Italian designer Ale
- ssandro Mendini.\n\nPrice: £9.50\n\nTickets/Info: https://www.ianvisits.c
- o.uk/calendar/
+DESCRIPTION:First UK solo exhibition of post-war Italian designer and archi
+ tect.\n\nPrice: £9.50\n\nTickets/Info: https://www.ianvisits.co.uk/calend
+ ar/alessandro-mendini-424972/
 LOCATION:Estorick Collection of Modern Italian Art\, Islington\, London
-URL:https://www.ianvisits.co.uk/calendar/
+URL:https://www.ianvisits.co.uk/calendar/alessandro-mendini-424972/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:581e5d6e54b4@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Behind the Scenes Tour: Spirit Collection
+DESCRIPTION:Exclusive tour of the museum's spirit collection.\n\nPrice: £3
+ 5\n\nTickets/Info: https://www.nhm.ac.uk/events/behind-the-scenes-tour-the
+ -spirit-collection.html
+LOCATION:Natural History Museum\, South Kensington\, London
+URL:https://www.nhm.ac.uk/events/behind-the-scenes-tour-the-spirit-collecti
+ on.html
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:928659fbdc64@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260511
+SUMMARY:Hadestown
+DESCRIPTION:A musical retelling of the myth of Orpheus and Eurydice.\n\nPri
+ ce: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/s
+ eries/LYHDT01M/hadestown-1806944
+LOCATION:Lyric Theatre\, West End\, London
+URL:https://ticketing.nimaxtheatres.com/tickets/series/LYHDT01M/hadestown-1
+ 806944
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:3a08ec9b2a49@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260511
+SUMMARY:Hyakkō: 100+ Makers from Japan
+DESCRIPTION:Celebrating contemporary Japanese craft with works by over 120 
+ artists.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.co.uk/calen
+ dar/hyakko-100-makers-from-japan-424802/
+LOCATION:Japan House London\, Kensington\, London
+URL:https://www.ianvisits.co.uk/calendar/hyakko-100-makers-from-japan-42480
+ 2/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:f771bffdde98@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260511
+SUMMARY:Seeds of Exchange: Canton and London in the 1700s
+DESCRIPTION:Exhibition on 18th-century botanical collaboration between Engl
+ and and China.\n\nPrice: £16\n\nTickets/Info: https://www.ianvisits.co.uk
+ /calendar/seeds-of-exchange-canton-and-london-in-the-1700s-426958/
+LOCATION:The Garden Museum\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/seeds-of-exchange-canton-and-londo
+ n-in-the-1700s-426958/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0a0ef06752@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260518
+SUMMARY:Seurat and the Sea
+DESCRIPTION:An exhibition dedicated to Georges Seurat's seascapes.\n\nPrice
+ : £18\n\nTickets/Info: https://www.ianvisits.co.uk/
+LOCATION:Courtauld Institute of Art\, Strand\, Strand\, London
+URL:https://www.ianvisits.co.uk/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:cb20c84e91c8@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260511
+SUMMARY:Textile Art Redefined
+DESCRIPTION:Showcasing work by 15 visionary artists redefining textile art.
+ \n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/text
+ ile-art-redefined-429549/
+LOCATION:Saatchi Gallery\, Chelsea\, London
+URL:https://www.ianvisits.co.uk/calendar/textile-art-redefined-429549/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:614ee7f56c53@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260511
+SUMMARY:Wright of Derby: From the Shadows
+DESCRIPTION:Exhibition re-examining Joseph Wright of Derby’s candlelight 
+ paintings.\n\nPrice: £14\n\nTickets/Info: https://www.ianvisits.co.uk/cal
+ endar/wright-of-derby-from-the-shadows-422673/
+LOCATION:National Gallery\, Trafalgar Square\, London
+URL:https://www.ianvisits.co.uk/calendar/wright-of-derby-from-the-shadows-4
+ 22673/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
