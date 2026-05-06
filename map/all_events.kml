@@ -47,6 +47,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Teeth 'n' Smiles</name>
+      <description><![CDATA[<b>Teeth 'n' Smiles</b><br><i>Theatre</i><br>Fri 13th Mar – Sat 6th Jun<br>Duke of York's Theatre, West End<br>from £30<br><br>A theatre production exploring dark themes with a comedic twist.<br><br><a href="https://ticketing.timeout.com/london/shows/45248-teeth-n-smiles">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>A Mirrored Monet</name>
       <description><![CDATA[<b>A Mirrored Monet</b><br><i>Theatre</i><br>Sat 14th Mar – Sat 9th May<br>Charing Cross Theatre, Charing Cross<br>£13<br><br>A play exploring Monet's life and art during wartime.<br><br><a href="https://www.londontheatre.co.uk/show/46208-a-mirrored-monet">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -55,16 +63,32 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>The House - Exhibition</name>
-      <description><![CDATA[<b>The House - Exhibition</b><br><i>Arts &amp; Culture</i><br>Sun 22nd Mar – Sat 9th May<br>IMT Gallery, London<br>Free<br><br>An art exhibition featuring works by multiple contemporary artists.<br><br><a href="https://eventsforlondon.co.uk/event/the-house-exhibition/2026-03-26/">More info / tickets</a>]]></description>
+      <name>Les Liaisons Dangereuses</name>
+      <description><![CDATA[<b>Les Liaisons Dangereuses</b><br><i>Theatre</i><br>Sat 21st Mar – Sat 6th Jun<br>Lyttelton Theatre<br>from £88<br><br>Theatrical adaptation of the classic novel.<br><br><a href="https://ticketing.timeout.com/london/shows/45580-les-liaisons-dangereuses">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1144341,51.5069667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The House – Exhibition</name>
+      <description><![CDATA[<b>The House – Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 26th Mar – Sat 9th May<br>IMT Gallery, London<br>Free<br><br>An art exhibition featuring works by multiple contemporary artists.<br><br><a href="https://eventsforlondon.co.uk/events/photo/?hide_subsequent_recurrences=1&amp;shortcode=e89a5463">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.129486,51.508428,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>The House – Exhibition</name>
-      <description><![CDATA[<b>The House – Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 26th Mar – Sat 9th May<br>IMT Gallery, London<br>Free<br><br>An art exhibition featuring works by multiple contemporary artists.<br><br><a href="https://eventsforlondon.co.uk/event/the-house-exhibition/2026-03-26/">More info / tickets</a>]]></description>
+      <name>Heart Wall</name>
+      <description><![CDATA[<b>Heart Wall</b><br><i>Theatre</i><br>Sat 4th Apr – Sat 16th May<br>Bush Theatre, Shepherd's Bush<br>from £13<br><br>A theatre production exploring emotional and social themes.<br><br><a href="https://ticketing.timeout.com/london/shows/45579-heart-wall">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2183251,51.5043576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Desire to Create: Bača’s Architecture of Belonging</name>
+      <description><![CDATA[<b>Desire to Create: Bača’s Architecture of Belonging</b><br><i>Arts &amp; Culture</i><br>Thu 9th Apr – Fri 12th Jun<br>Vitrinka Gallery, London<br>Free<br><br>An exhibition on Czech architecture and belonging.<br><br><a href="https://eventsforlondon.co.uk/event/desire-to-create-batas-architecture-of-belonging/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.129486,51.508428,0</coordinates>
@@ -76,14 +100,6 @@
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0984055,51.497606,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Desire to Create: Bača’s Architecture of Belonging</name>
-      <description><![CDATA[<b>Desire to Create: Bača’s Architecture of Belonging</b><br><i>Arts &amp; Culture</i><br>Thu 9th Apr – Fri 12th Jun<br>Vitrinka Gallery, London<br>Free<br><br>An exhibition on Czech architecture and belonging.<br><br><a href="https://eventsforlondon.co.uk/event/desire-to-create-batas-architecture-of-belonging/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.129486,51.508428,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -135,27 +151,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Grace Pervades</name>
-      <description><![CDATA[<b>Grace Pervades</b><br><i>Theatre</i><br>Fri 24th Apr – Sat 11th Jul<br>Theatre Royal Haymarket, West End<br>from £25<br><br>Theatre performance at Theatre Royal Haymarket.<br><br><a href="https://ticketing.timeout.com/london/shows/45493-grace-pervades">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Second Trimester - London Theatre</name>
-      <description><![CDATA[<b>Second Trimester - London Theatre</b><br><i>Theatre</i><br>Fri 24th Apr – Tue 5th May<br>Battersea Arts Centre, Battersea<br>Check site<br><br>A play exploring multi-generational pregnancy stories.<br><br><a href="https://eventsforlondon.co.uk/event/second-trimester-london-theatre/2026-04-24/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1607853,51.4649605,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>The Karate Kid - The Musical</name>
       <description><![CDATA[<b>The Karate Kid - The Musical</b><br><i>Theatre</i><br>Tue 28th Apr – Sat 9th May<br>New Wimbledon Theatre, Wimbledon<br>£42<br><br>A musical adaptation of the iconic martial arts film.<br><br><a href="https://www.londontheatre.co.uk/show/46310-the-karate-kid-the-musical">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.2014217,51.4192211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Boy Who Harnessed the Wind</name>
+      <description><![CDATA[<b>The Boy Who Harnessed the Wind</b><br><i>Theatre</i><br>Wed 29th Apr – Sat 18th Jul<br>@sohoplace, Soho<br>£25<br><br>A powerful true story of ingenuity and hope.<br><br><a href="https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1305145,51.5154993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ITTF World Team Table Tennis</name>
+      <description><![CDATA[<b>ITTF World Team Table Tennis</b><br><i>Sport &amp; Fitness</i><br>Sat 2nd May – Sun 10th May<br>The OVO Arena, Wembley, Wembley<br>Check site<br><br>International table tennis championships.<br><br><a href="https://www.ovoarena.co.uk/events/detail/ittf-world-team-table-tennis-championships-finals-london-2026">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.283702,51.558179,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -175,384 +191,304 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ITTF World Team Table Tennis</name>
-      <description><![CDATA[<b>ITTF World Team Table Tennis</b><br><i>Sport &amp; Fitness</i><br>Sat 2nd May – Sun 10th May<br>The OVO Arena, Wembley, Wembley<br>Check site<br><br>International table tennis championships.<br><br><a href="https://www.ovoarena.co.uk/events/detail/ittf-world-team-table-tennis-championships-finals-london-2026">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
+      <name>Let the Right One In</name>
+      <description><![CDATA[<b>Let the Right One In</b><br><i>Theatre</i><br>Tue 5th May – Sat 23rd May<br>Underbelly Boulevard Soho, London<br>Check site<br><br>Adaptation of the coming-of-age vampire novel and film.<br><br><a href="https://www.skiddle.com/whats-on/London/The-Soho-Revue-Bar/Let-The-Right-One-In/42098195/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.283702,51.558179,0</coordinates>
+        <coordinates>0.0296684,51.5081358,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Women in Art Fair</name>
-      <description><![CDATA[<b>Women in Art Fair</b><br><i>Arts &amp; Culture</i><br>Sun 3rd May – Fri 8th May<br>gallery@oxo, London<br>Free<br><br>An annual art fair celebrating women and non-binary artists.<br><br><a href="https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05-03/">More info / tickets</a>]]></description>
+      <name>I’m Sorry, Prime Minister</name>
+      <description><![CDATA[<b>I’m Sorry, Prime Minister</b><br><i>Theatre</i><br>Wed 6th May – Sat 9th May<br>Apollo Theatre, West End<br>£15.00<br><br>The final chapter of the Yes, Minister series.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-prime-minister-1812095">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mel Brooks' The Producers</name>
+      <description><![CDATA[<b>Mel Brooks' The Producers</b><br><i>Theatre</i><br>Wed 6th May – Sat 9th May<br>Garrick Theatre, West End<br>£25.00<br><br>A hilarious musical comedy starring Richard Kind.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/GATPR01M/the-producers-1837757">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hadestown</name>
+      <description><![CDATA[<b>Hadestown</b><br><i>Theatre</i><br>Wed 6th May – Sun 10th May<br>Lyric Theatre, West End<br>£25.00<br><br>A musical retelling of the myth of Orpheus and Eurydice.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/LYHDT01M/hadestown-1806944">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Play That Goes Wrong</name>
+      <description><![CDATA[<b>The Play That Goes Wrong</b><br><i>Comedy</i><br>Wed 6th May – Sun 10th May<br>Duchess Theatre, London<br>£25.00<br><br>A long-running West End comedy about a disastrous theatre production.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/DUWRO01M/the-play-that-goes-wrong-1541785">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.119752,51.512161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bring Your Own Baby (BYOB)</name>
+      <description><![CDATA[<b>Bring Your Own Baby (BYOB)</b><br><i>Comedy</i><br>Wed 6th May<br>Backyard Comedy Club, Bethnal Green<br>£13.5 – £15<br><br>A comedy show where parents can bring their babies.<br><br><a href="https://backyardcomedyclub.co.uk/events/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0554864,51.5253332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Comedy Hump</name>
+      <description><![CDATA[<b>The Comedy Hump</b><br><i>Comedy</i><br>Wed 6th May<br>Backyard Comedy Club, Bethnal Green<br>£0 – £0<br><br>A night of stand-up comedy with top acts.<br><br><a href="https://backyardcomedyclub.co.uk/events/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0554864,51.5253332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beatriz González</name>
+      <description><![CDATA[<b>Beatriz González</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>Barbican Centre, Art &amp; Design<br>Free<br><br>First UK retrospective of the Colombian artist.<br><br><a href="https://www.barbican.org.uk/whats-on/2026/event/bsl-tour-of-beatriz-gonzalez">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1088243,51.5083804,0</coordinates>
+        <coordinates>-0.0938978,51.5198645,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dork's Night Out: Villanelle + Saint Clair + Bænch</name>
-      <description><![CDATA[<b>Dork's Night Out: Villanelle + Saint Clair + Bænch</b><br><i>Music</i><br>Tue 5th May<br>The 100 Club, London<br>£12.50 adv + bf<br><br>Live music night featuring three indie bands.<br><br><a href="https://www.the100club.co.uk/100club-events/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1319724,51.5132124,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>I'm Sorry, Prime Minister</name>
-      <description><![CDATA[<b>I'm Sorry, Prime Minister</b><br><i>Theatre</i><br>Tue 5th May – Sat 9th May<br>Apollo Theatre, London<br>£15.00<br><br>Theatre production continuing the Yes, Minister series.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-prime-minister-1812092">More info / tickets</a>]]></description>
+      <name>PLEASE PLEASE ME</name>
+      <description><![CDATA[<b>PLEASE PLEASE ME</b><br><i>Theatre</i><br>Wed 6th May – Fri 29th May<br>Kiln Theatre, Kilburn<br>Donation<br><br>Theatre performance at Kiln Theatre.<br><br><a href="https://kilntheatre.com/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.13346703507208324,51.511581750000005,0</coordinates>
+        <coordinates>-0.2003532159122049,51.5431686,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>John Meagher and Robbie McShane WIP</name>
-      <description><![CDATA[<b>John Meagher and Robbie McShane WIP</b><br><i>Comedy</i><br>Tue 5th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by two comedians.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <name>Kinky Boots</name>
+      <description><![CDATA[<b>Kinky Boots</b><br><i>Theatre</i><br>Wed 6th May – Sat 11th Jul<br>London Coliseum, Covent Garden<br>Check site<br><br>Award-winning musical starring Johannes Radebe and Matt Cardle.<br><br><a href="https://londoncoliseum.org/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
+        <coordinates>-0.1262319,51.5100038,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Spencer Jones: Dogs</name>
-      <description><![CDATA[<b>Spencer Jones: Dogs</b><br><i>Comedy</i><br>Tue 5th May<br>The Bill Murray, Islington<br>Check site<br><br>Comedy show about dogs by Spencer Jones.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Freddie Meredith: Work in Progress</name>
-      <description><![CDATA[<b>Freddie Meredith: Work in Progress</b><br><i>Comedy</i><br>Tue 5th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Freddie Meredith.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lust, Caution</name>
-      <description><![CDATA[<b>Lust, Caution</b><br><i>Arts &amp; Culture</i><br>Tue 5th May<br>Prince Charles Cinema, London<br>Check site<br><br>Film screening of Lust, Caution.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
+      <name>Behind the Scenes Tour: Spirit Collection</name>
+      <description><![CDATA[<b>Behind the Scenes Tour: Spirit Collection</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Natural History Museum, South Kensington<br>£35<br><br>Exclusive tour of the museum's spirit collection.<br><br><a href="https://www.nhm.ac.uk/events/behind-the-scenes-tour-the-spirit-collection.html">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
+        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Camden Waterbus Canal Tours</name>
-      <description><![CDATA[<b>Camden Waterbus Canal Tours</b><br><i>Cultural</i><br>Tue 5th May – Tue 30th Jun<br>Camden Market West Yard, Camden<br>£13 – £17<br><br>Boat tours along the canal.<br><br><a href="https://camdenmarket.com/events">More info / tickets</a>]]></description>
+      <name>Museum Highlights Tour</name>
+      <description><![CDATA[<b>Museum Highlights Tour</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Natural History Museum, South Kensington<br>£20<br><br>Tour of the museum's most iconic specimens.<br><br><a href="https://www.nhm.ac.uk/events/museum-highlights-tour.html">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1932205,51.5517972,0</coordinates>
+        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Robert Finley</name>
-      <description><![CDATA[<b>Robert Finley</b><br><i>Music</i><br>Tue 5th May<br>Electric Ballroom, Camden<br>£22<br><br>Live performance by blues and soul singer Robert Finley.<br><br><a href="https://electricballroom.co.uk/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.142943,51.5397245,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Kew Explorer land train</name>
-      <description><![CDATA[<b>Kew Explorer land train</b><br><i>Family</i><br>Tue 5th May<br>Kew Gardens, Richmond<br>Check site<br><br>Scenic train ride through Kew Gardens.<br><br><a href="https://www.kew.org/kew-gardens/whats-on">More info / tickets</a>]]></description>
+      <name>Kids Tour: The Young Explorers</name>
+      <description><![CDATA[<b>Kids Tour: The Young Explorers</b><br><i>Family</i><br>Wed 6th May<br>Natural History Museum, South Kensington<br>£15<br><br>Interactive tour for young children.<br><br><a href="https://www.nhm.ac.uk/events/kids-tour-the-young-explorers">More info / tickets</a>]]></description>
       <styleUrl>#green-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
+        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Introduction to the Gardens</name>
-      <description><![CDATA[<b>Introduction to the Gardens</b><br><i>Arts &amp; Culture</i><br>Tue 5th May<br>Kew Gardens, Richmond<br>Check site<br><br>Guided tour of Kew Gardens.<br><br><a href="https://www.kew.org/kew-gardens/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sound baths in nature</name>
-      <description><![CDATA[<b>Sound baths in nature</b><br><i>Wellness</i><br>Tue 5th May<br>Kew Gardens, Richmond<br>Check site<br><br>Relaxing sound therapy session in Kew Gardens.<br><br><a href="https://www.kew.org/kew-gardens/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tai chi at Kew</name>
-      <description><![CDATA[<b>Tai chi at Kew</b><br><i>Wellness</i><br>Tue 5th May<br>Kew Gardens, Richmond<br>Check site<br><br>Outdoor tai chi class in Kew Gardens.<br><br><a href="https://www.kew.org/kew-gardens/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Library and Archives: history and highlights tour</name>
-      <description><![CDATA[<b>Library and Archives: history and highlights tour</b><br><i>Arts &amp; Culture</i><br>Tue 5th May<br>Kew Gardens, Richmond<br>Check site<br><br>Explore Kew Gardens' library and archives.<br><br><a href="https://www.kew.org/kew-gardens/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Temperate House yoga</name>
-      <description><![CDATA[<b>Temperate House yoga</b><br><i>Wellness</i><br>Tue 5th May<br>Kew Gardens, Richmond<br>Check site<br><br>Yoga class in Kew Gardens' Temperate House.<br><br><a href="https://www.kew.org/kew-gardens/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ninja Sex Party &amp; TWRP: Pure Elegance Tour</name>
-      <description><![CDATA[<b>Ninja Sex Party &amp; TWRP: Pure Elegance Tour</b><br><i>Music</i><br>Tue 5th May<br>O2 Academy Brixton, Brixton<br>Check site<br><br>Live performance by Ninja Sex Party and TWRP.<br><br><a href="https://www.academymusicgroup.com/o2academybrixton/events/ninja-sex-party-tickets-ae1266461">More info / tickets</a>]]></description>
+      <name>Kretinz</name>
+      <description><![CDATA[<b>Kretinz</b><br><i>Music</i><br>Wed 6th May<br>New Cross Inn, New Cross<br>£7<br><br>Live music performance at New Cross Inn.<br><br><a href="https://pit.live/events/kretinz">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1148726,51.4657019,0</coordinates>
+        <coordinates>-0.0370911,51.4757953,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>24KGOLDN</name>
-      <description><![CDATA[<b>24KGOLDN</b><br><i>Music</i><br>Tue 5th May<br>Oslo, Hackney<br>Check site<br><br>Live music performance with support acts.<br><br><a href="https://www.oslohackney.com/events/">More info / tickets</a>]]></description>
+      <name>Faris Ishak</name>
+      <description><![CDATA[<b>Faris Ishak</b><br><i>Music</i><br>Wed 6th May<br>Oslo, Hackney<br>£5<br><br>Live performance by Faris Ishak.<br><br><a href="https://www.oslohackney.com/events/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.036526,51.497706,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>ITTF World Team Table Tennis Championships Finals</name>
-      <description><![CDATA[<b>ITTF World Team Table Tennis Championships Finals</b><br><i>Sport &amp; Fitness</i><br>Tue 5th May – Sun 10th May<br>OVO Arena, Wembley, Wembley<br>Check site<br><br>International table tennis championship finals.<br><br><a href="https://www.ovoarena.co.uk/events">More info / tickets</a>]]></description>
+      <name>ITTF World Team Table Tennis Championships</name>
+      <description><![CDATA[<b>ITTF World Team Table Tennis Championships</b><br><i>Sport &amp; Fitness</i><br>Wed 6th May – Sun 10th May<br>The OVO Arena, Wembley, Wembley<br>Check site<br><br>Global table tennis finals celebrating 100 years of the sport.<br><br><a href="https://www.ovoarena.co.uk/events">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2827922,51.5579996,0</coordinates>
+        <coordinates>-0.283702,51.558179,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>CATLAND</name>
-      <description><![CDATA[<b>CATLAND</b><br><i>Theatre</i><br>Tue 5th May – Fri 8th May<br>Pleasance Theatre, Islington<br>Check site<br><br>Theatre production by Unhinged Productions.<br><br><a href="https://www.pleasance.co.uk/events/location/London">More info / tickets</a>]]></description>
+      <name>Sophie Duker: Work in Progress</name>
+      <description><![CDATA[<b>Sophie Duker: Work in Progress</b><br><i>Comedy</i><br>Wed 6th May<br>Park90, Park<br>Check site<br><br>Comedian Sophie Duker tests new material.<br><br><a href="https://parktheatre.co.uk/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1213017,51.549184,0</coordinates>
+        <coordinates>-0.16193,51.53003,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Piano Trio Series: Oddgeir Berg</name>
-      <description><![CDATA[<b>Piano Trio Series: Oddgeir Berg</b><br><i>Music</i><br>Tue 5th May<br>Ronnie Scott's, Soho<br>Buy on the door<br><br>Electroacoustic jazz performance.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <name>Orphan</name>
+      <description><![CDATA[<b>Orphan</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Phoenix Cinema, East Finchley<br>Check site<br><br>Film screening of Orphan.<br><br><a href="https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1637085,51.5885079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Cool Collective Big Band</name>
+      <description><![CDATA[<b>New Cool Collective Big Band</b><br><i>Music</i><br>Wed 6th May<br>Ronnie Scott’s Jazz Club, Soho<br>Buy on the door<br><br>A high-energy jazz performance by a 19-piece band.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Late Late Show with Tomorrow's Warriors: SULA</name>
-      <description><![CDATA[<b>Late Late Show with Tomorrow's Warriors: SULA</b><br><i>Music</i><br>Tue 5th May<br>Ronnie Scott's, Soho<br>Buy on the door<br><br>Jazz performance by London-based trio.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <name>TalentED U: Honeymoon</name>
+      <description><![CDATA[<b>TalentED U: Honeymoon</b><br><i>Arts &amp; Social</i><br>Wed 6th May<br>RIO FOREVER, Dalston<br>Check site<br><br>A special event with a Q&amp;A session.<br><br><a href="https://riocinema.org.uk/Rio.dll/WhatsOn">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2050582,51.4211647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Anti Yogi</name>
+      <description><![CDATA[<b>The Anti Yogi</b><br><i>Theatre</i><br>Wed 6th May – Sat 16th May<br>Soho Upstairs, Soho<br>From £19<br><br>A performance by Mayuri Bhandari.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tender</name>
+      <description><![CDATA[<b>Tender</b><br><i>Theatre</i><br>Wed 6th May – Sat 6th Jun<br>Soho Theatre, Soho<br>From £15<br><br>A play by Dave Harris directed by Matthew Xia.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13276842458202992,51.514412050000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Found Footage Festival</name>
+      <description><![CDATA[<b>Found Footage Festival</b><br><i>Comedy</i><br>Wed 6th May – Thu 7th May<br>Soho Downstairs, Soho<br>From £25<br><br>A festival of found footage and obscure videos.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uncanny: Fear of the Dark</name>
+      <description><![CDATA[<b>Uncanny: Fear of the Dark</b><br><i>Theatre</i><br>Wed 6th May<br>Auditorium, Walthamstow<br>From £15<br><br>A performance exploring fear and darkness.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.02077,51.59067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crowley Time: Link’s Gambit</name>
+      <description><![CDATA[<b>Crowley Time: Link’s Gambit</b><br><i>Theatre</i><br>Wed 6th May<br>Soho Downstairs, Soho<br>From £17<br><br>A performance by Crowley Time.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Modern Woman, Ninush</name>
+      <description><![CDATA[<b>Modern Woman, Ninush</b><br><i>Music</i><br>Wed 6th May<br>The Lexington, Islington<br>Check site<br><br>A live music performance by Modern Woman and Ninush.<br><br><a href="https://www.thelexington.co.uk/events.php?type=gigs">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
+        <coordinates>-0.11145561125384369,51.5317715,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Les Ballets Trockadero de Monte Carlo - Mixed Bill</name>
-      <description><![CDATA[<b>Les Ballets Trockadero de Monte Carlo - Mixed Bill</b><br><i>Theatre</i><br>Tue 5th May – Wed 6th May<br>Sadler's Wells Theatre, Islington<br>Check site<br><br>Ballet performance by the famous all-male troupe.<br><br><a href="https://www.sadlerswells.com/whats-on">More info / tickets</a>]]></description>
+      <name>Aidan Jones: The Prelude (WIP)</name>
+      <description><![CDATA[<b>Aidan Jones: The Prelude (WIP)</b><br><i>Comedy</i><br>Wed 6th May<br>170 Drury Lane (basement)<br>£1<br><br>Comedy show with audience donations.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/aidan-jones-the-prelude-wip/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1062108,51.5291192,0</coordinates>
+        <coordinates>-0.1229779,51.5153948,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Zoe Brownstone: How To Be Happy All The Time</name>
-      <description><![CDATA[<b>Zoe Brownstone: How To Be Happy All The Time</b><br><i>Comedy</i><br>Tue 5th May<br>The Top Secret Comedy Club, London<br>£1<br><br>Comedy show by Zoe Brownstone.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/zoe-brownstone-how-to-be-happy-all-the-time-wip/">More info / tickets</a>]]></description>
+      <name>Wednesday Stand Up Comedy Show</name>
+      <description><![CDATA[<b>Wednesday Stand Up Comedy Show</b><br><i>Comedy</i><br>Wed 6th May<br>23 Kingsway<br>£3<br><br>Comedy night with top secret guest.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/wednesday-kw-24/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1230403,51.5154536,0</coordinates>
+        <coordinates>-0.2316755,51.3976177,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Feeld One Night Stand-Up</name>
-      <description><![CDATA[<b>Feeld One Night Stand-Up</b><br><i>Comedy</i><br>Tue 5th May<br>The Top Secret Comedy Club, London<br>£12<br><br>Comedy night at The Top Secret Comedy Club.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/feeld-one-night-stand-up/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1230403,51.5154536,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Comedy Sessions With A Top Secret Guest</name>
-      <description><![CDATA[<b>Comedy Sessions With A Top Secret Guest</b><br><i>Comedy</i><br>Tue 5th May<br>The Top Secret Comedy Club, London<br>£18<br><br>Comedy show with a special guest.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/comedy-sessions-16/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1230403,51.5154536,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tuesday Stand Up Comedy Show With A Top Secret Celebrity Guest</name>
-      <description><![CDATA[<b>Tuesday Stand Up Comedy Show With A Top Secret Celebrity Guest</b><br><i>Comedy</i><br>Tue 5th May<br>The Top Secret Comedy Club, London<br>£1<br><br>Comedy show with a celebrity guest.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/tuesday-drury-18/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1230403,51.5154536,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Young V&amp;A Schools: Hero Arm &amp; Beyond</name>
-      <description><![CDATA[<b>Young V&amp;A Schools: Hero Arm &amp; Beyond</b><br><i>Family</i><br>Tue 5th May – Fri 17th Jul<br>Young V&amp;A, Young V&amp;A<br>£100.00<br><br>Workshop for primary school students.<br><br><a href="https://www.vam.ac.uk/whatson">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.055063,51.529036,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Young V&amp;A Schools: Sound Designers</name>
-      <description><![CDATA[<b>Young V&amp;A Schools: Sound Designers</b><br><i>Family</i><br>Tue 5th May – Wed 15th Jul<br>Young V&amp;A, Young V&amp;A<br>£100.00<br><br>Workshop for primary school students.<br><br><a href="https://www.vam.ac.uk/whatson">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.055063,51.529036,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Naná Rizinni – Epiblast Album Launch</name>
-      <description><![CDATA[<b>Naná Rizinni – Epiblast Album Launch</b><br><i>Music</i><br>Tue 5th May<br>Vortex Jazz Club<br>£15<br><br>Live jazz performance by Naná Rizinni.<br><br><a href="https://www.vortexjazz.co.uk/event/nana-rizinni-epiblast-album-launch/">More info / tickets</a>]]></description>
+      <name>Alice Zawadzki &amp; Friends</name>
+      <description><![CDATA[<b>Alice Zawadzki &amp; Friends</b><br><i>Music</i><br>Wed 6th May<br>Vortex Jazz Club<br>Free<br><br>Jazz performance by award-winning singer.<br><br><a href="https://www.vortexjazz.co.uk/event/alice-zawadzki-friends/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0766409,51.5487575,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Between the River and the Sea</name>
-      <description><![CDATA[<b>Between the River and the Sea</b><br><i>Theatre</i><br>Tue 5th May – Sat 9th May<br>Sloane Square, Sloane Square<br>Free<br><br>Autobiographical monologue about life as a secular Arab Israeli.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>DMWF GLOBAL</name>
+      <description><![CDATA[<b>DMWF GLOBAL</b><br><i>Community</i><br>Wed 6th May – Thu 7th May<br>Excel London, Royal Docks<br>Check site<br><br>Digital marketing conference in London.<br><br><a href="https://www.excel.london/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1572347,51.4925461,0</coordinates>
+        <coordinates>0.018406,51.506895,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Inter Alia</name>
-      <description><![CDATA[<b>Inter Alia</b><br><i>Theatre</i><br>Tue 5th May – Sun 10th May<br>Charing Cross Road, West End<br>Check site<br><br>Three-hand play about a pioneering feminist judge, starring Rosamund Pike.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>LONDON LAB LIVE 2026</name>
+      <description><![CDATA[<b>LONDON LAB LIVE 2026</b><br><i>Community</i><br>Wed 6th May – Thu 7th May<br>Excel London, Royal Docks<br>Check site<br><br>Technology and innovation event.<br><br><a href="https://www.excel.london/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1297034,51.5144467,0</coordinates>
+        <coordinates>0.018406,51.506895,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Regent’s Park Rose Gardens into May Bloom</name>
-      <description><![CDATA[<b>Regent’s Park Rose Gardens into May Bloom</b><br><i>Cultural</i><br>Tue 5th May<br>Regent’s Park, Marylebone<br>Free<br><br>Victorian rose gardens in full bloom with guided talks.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <name>The Big London Bake South</name>
+      <description><![CDATA[<b>The Big London Bake South</b><br><i>Food &amp; Drink</i><br>Wed 6th May<br>The Castle Tooting, Tooting<br>Free<br><br>Competitive baking experience in Tooting.<br><br><a href="https://www.designmynight.com/london/whats-on/something-a-little-different-events/the-big-london-bake">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1677325,51.4285893,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Big London Bake East</name>
+      <description><![CDATA[<b>The Big London Bake East</b><br><i>Food &amp; Drink</i><br>Wed 6th May<br>East London<br>Free<br><br>Competitive baking experience in East London.<br><br><a href="https://www.designmynight.com/london/whats-on/something-a-little-different-events/the-big-london-bake-east">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0091769,51.5481075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rooftop Aqua Board Yogalates</name>
+      <description><![CDATA[<b>Rooftop Aqua Board Yogalates</b><br><i>Wellness</i><br>Wed 6th May<br>Art'otel London Battersea, Battersea<br>Check site<br><br>Yoga and pilates on paddleboards.<br><br><a href="https://artotel-london-battersea-power-station.designmynight.com/6870f38307bc1452f658a25d/rooftop-aqua-board-yogalates-at-artotel-battersea">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.083044,51.52631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Governor’s Lecture Series – Reliving World War II</name>
+      <description><![CDATA[<b>Governor’s Lecture Series – Reliving World War II</b><br><i>Cultural</i><br>Wed 6th May<br>Chelsea<br>£15.00 (advance sales)<br><br>Author Lucy Colback explores how World War II shaped a generation.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1466357,51.5236277,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Kew Gardens Spring Display</name>
-      <description><![CDATA[<b>Kew Gardens Spring Display</b><br><i>Cultural</i><br>Tue 5th May<br>Royal Botanic Gardens, Kew, Richmond<br>£20 – £27<br><br>Spring bulbs and rare species on display with themed trails.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2855658,51.4771443,0</coordinates>
+        <coordinates>-0.1573871,51.4925506,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>The Lord of the Rings: The Return of the King in Concert</name>
-      <description><![CDATA[<b>The Lord of the Rings: The Return of the King in Concert</b><br><i>Music</i><br>Tue 5th May – Sun 10th May<br>Royal Albert Hall, South Kensington<br>£45 – £120<br><br>Live orchestra performance of Howard Shore's score with film screening.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>The Lord of the Rings: The Return of the King in Concert</b><br><i>Music</i><br>Wed 6th May – Sun 10th May<br>Royal Albert Hall, South Kensington<br>£45 – £120<br><br>Live orchestra performance of Howard Shore’s score with film screening.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.176829,51.50113,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>FRAMELESS Immersive Art Experience</name>
-      <description><![CDATA[<b>FRAMELESS Immersive Art Experience</b><br><i>Arts &amp; Culture</i><br>Tue 5th May<br>Marble Arch, Marble Arch<br>£25 – £35<br><br>Digital art gallery with famous artworks and motion graphics.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <name>Affordable Art Fair – Hampstead</name>
+      <description><![CDATA[<b>Affordable Art Fair – Hampstead</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>Hampstead Heath (Lower Fairground Site), East Heath Road, Hampstead, Hampstead<br>from £14<br><br>Spring edition of the Affordable Art Fair with over 100 galleries.<br><br><a href="https://memoirsofametrogirl.com/2026/04/29/whats-on-in-london-may-2026-listings-guide/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.158394,51.513565,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Free entry to Hampton Court Palace gardens</name>
-      <description><![CDATA[<b>Free entry to Hampton Court Palace gardens</b><br><i>Cultural</i><br>Tue 5th May<br>Hampton Court Palace, Richmond<br>Free<br><br>World-famous gardens with a record-breaking grape vine.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.3376964,51.4036839,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Independent records fair</name>
-      <description><![CDATA[<b>Independent records fair</b><br><i>Music</i><br>Tue 5th May<br>Coal Drops Yard, King's Cross<br>Free<br><br>UK indie labels and emerging artists showcase.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1266657,51.5357983,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>St Mary's Kenton church open day</name>
-      <description><![CDATA[<b>St Mary's Kenton church open day</b><br><i>Cultural</i><br>Tue 5th May<br>St Mary the Virgin church, Kenton<br>Free<br><br>Open day at a medieval-style Anglican church.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.3104147,51.5857694,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Surrey Docks Farm Spring Fair</name>
-      <description><![CDATA[<b>Surrey Docks Farm Spring Fair</b><br><i>Family</i><br>Tue 5th May<br>Surrey Docks Farm, Rotherhithe<br>Free<br><br>Sheep shearing demonstrations and animal encounters.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0334276,51.4995929,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Monthly open (hour) at the Wimbledon Village Stables</name>
-      <description><![CDATA[<b>Monthly open (hour) at the Wimbledon Village Stables</b><br><i>Community</i><br>Tue 5th May<br>Wimbledon Village Stables (down side of Dog and Fox pub), Wimbledon<br>Free<br><br>Explore the stables and meet the horses.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1104659,51.2951126,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Nature walk in St James's Park</name>
-      <description><![CDATA[<b>Nature walk in St James's Park</b><br><i>Cultural</i><br>Tue 5th May<br>Guards Memorial, Whitehall<br>Free<br><br>A guided walk to discover the plants and wildlife of St James's Park.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.12862,51.504559,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Business of History tour</name>
-      <description><![CDATA[<b>Business of History tour</b><br><i>Cultural</i><br>Tue 5th May<br>Charing Cross Tube station entrance, Charing Cross<br>£20<br><br>A tour exploring Victorian-era companies through Tom Levitt's book.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.092813,51.514993,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>London Loo Tour</name>
-      <description><![CDATA[<b>London Loo Tour</b><br><i>Cultural</i><br>Tue 5th May – Thu 7th May<br>Waterloo Station, Southwark<br>£20<br><br>A quirky walking tour about the history of toilets in London.<br><br><a href="https://eventsforlondon.co.uk/event/london-loo-tour-2-2/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1137089,51.5037251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Mayflower &amp; Ships of Rotherhithe</name>
-      <description><![CDATA[<b>Mayflower &amp; Ships of Rotherhithe</b><br><i>Cultural</i><br>Tue 5th May – Wed 6th May<br>Bermondsey tube station, Rotherhithe<br>£20<br><br>A historical walk through Rotherhithe Village exploring maritime history.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0578064,51.488096,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Brixton Market Heritage Walk</name>
-      <description><![CDATA[<b>Brixton Market Heritage Walk</b><br><i>Cultural</i><br>Tue 5th May<br>11-13 Brixton Station Road, Brixton<br>£5<br><br>A guided walk exploring Brixton's markets and their historical significance.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1139311,51.4634807,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Eastenders at 40</name>
-      <description><![CDATA[<b>Eastenders at 40</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sat 9th May<br>Elstree &amp; Borehamwood Museum, Elstree<br>Free<br><br>An exhibition celebrating 40 years of the BBC soap Eastenders.<br><br><a href="https://www.ianvisits.co.uk/calendar/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2798815,51.652819,0</coordinates>
+        <coordinates>-0.1780625,51.5609172,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Wright of Derby: From the Shadows</name>
-      <description><![CDATA[<b>Wright of Derby: From the Shadows</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sun 10th May<br>National Gallery, Trafalgar Square<br>£14<br><br>An exhibition re-examining Joseph Wright of Derby's candlelight paintings.<br><br><a href="https://www.ianvisits.co.uk/calendar/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Wright of Derby: From the Shadows</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>National Gallery, Trafalgar Square<br>£14<br><br>Exhibition re-examining Joseph Wright of Derby’s candlelight paintings.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1284499246920578,51.50845015,0</coordinates>
@@ -560,7 +496,7 @@
     </Placemark>
     <Placemark>
       <name>Hyakkō: 100+ Makers from Japan</name>
-      <description><![CDATA[<b>Hyakkō: 100+ Makers from Japan</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sun 10th May<br>Japan House London, Kensington<br>Free<br><br>A celebration of contemporary Japanese craft aesthetics with 120+ artists.<br><br><a href="https://www.ianvisits.co.uk/calendar/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Hyakkō: 100+ Makers from Japan</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>Japan House London, Kensington<br>Free<br><br>Celebrating contemporary Japanese craft with works by over 120 artists.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1916822,51.5013496,0</coordinates>
@@ -568,42 +504,90 @@
     </Placemark>
     <Placemark>
       <name>Alessandro Mendini</name>
-      <description><![CDATA[<b>Alessandro Mendini</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sun 10th May<br>Estorick Collection of Modern Italian Art, Islington<br>£9.50<br><br>The UK's first solo exhibition of post-war Italian designer Alessandro Mendini.<br><br><a href="https://www.ianvisits.co.uk/calendar/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Alessandro Mendini</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>Estorick Collection of Modern Italian Art, Islington<br>£9.50<br><br>First UK solo exhibition of post-war Italian designer and architect.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0999051,51.5384287,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Seeds of Exchange: Canton and London</name>
-      <description><![CDATA[<b>Seeds of Exchange: Canton and London</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sun 10th May<br>The Garden Museum, Lambeth<br>£16<br><br>An exhibition on 18th-century botanical collaboration between England and China.<br><br><a href="https://www.ianvisits.co.uk/calendar/">More info / tickets</a>]]></description>
+      <name>Seeds of Exchange: Canton and London in the 1700s</name>
+      <description><![CDATA[<b>Seeds of Exchange: Canton and London in the 1700s</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>The Garden Museum, Southwark<br>£16<br><br>Exhibition on 18th-century botanical collaboration between England and China.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1199673,51.4949273,0</coordinates>
+        <coordinates>-0.1385815,51.5175767,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Textile Art Redefined</name>
-      <description><![CDATA[<b>Textile Art Redefined</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sun 10th May<br>Saatchi Gallery, Chelsea<br>Free<br><br>An exhibition showcasing 15 visionary textile artists from around the world.<br><br><a href="https://www.ianvisits.co.uk/calendar/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Textile Art Redefined</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 10th May<br>Saatchi Gallery, Chelsea<br>Free<br><br>Showcasing work by 15 visionary artists redefining textile art.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1587943,51.4906483,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Music, Death and Afterlife</name>
-      <description><![CDATA[<b>Music, Death and Afterlife</b><br><i>Cultural</i><br>Tue 5th May<br>Barnard's Inn Hall<br>Free<br><br>A lecture on how classical music celebrates composers' legacies.<br><br><a href="https://www.ianvisits.co.uk/">More info / tickets</a>]]></description>
+      <name>London Intersections</name>
+      <description><![CDATA[<b>London Intersections</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Fri 15th May<br>Threads and Petals, Southwark<br>Free<br><br>Exhibition on how built environment research shapes London.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1097558,51.5175445,0</coordinates>
+        <coordinates>-0.200223,51.4988025,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>BATAstories</name>
-      <description><![CDATA[<b>BATAstories</b><br><i>Cultural</i><br>Tue 5th May<br>Czech Embassy London, London<br>£5<br><br>A documentary about Baťa-built towns and their global impact.<br><br><a href="https://eventsforlondon.co.uk/event/batastories/">More info / tickets</a>]]></description>
+      <name>Avora: A New World Immersive Experience</name>
+      <description><![CDATA[<b>Avora: A New World Immersive Experience</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Tue 30th Jun<br>AVORA, London<br>£48.06<br><br>Theatrical adventure with immersive sets, actors, and exotic drinks.<br><br><a href="https://feverup.com/m/118999">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0091921,51.4814616,0</coordinates>
+        <coordinates>-0.074144,51.530293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FLUSH</name>
+      <description><![CDATA[<b>FLUSH</b><br><i>Theatre</i><br>Wed 6th May<br>Arcola Theatre, London<br>Check site<br><br>Play about the stories and conversations of 16 women in a club bathroom.<br><br><a href="https://secretldn.com/may-activities-things-to-do-london/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.074908,51.546946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quiz Night</name>
+      <description><![CDATA[<b>Quiz Night</b><br><i>Nightlife</i><br>Wed 6th May<br>Exhibit, Balham<br>Free<br><br>A fun quiz night with prizes and friendly competition.<br><br><a href="https://theexhibit.designmynight.com/651589564525ca6a56066c03/quiz-night">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1514713,51.4433108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Icons &amp; Bygones Music Exhibition</name>
+      <description><![CDATA[<b>Icons &amp; Bygones Music Exhibition</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Thu 7th May<br>Eastenders at 40, Eastenders at 40<br>Free<br><br>A photography exhibition featuring music legends.<br><br><a href="https://www.ianvisits.co.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0194115,51.5025708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastenders at 40 Exhibition</name>
+      <description><![CDATA[<b>Eastenders at 40 Exhibition</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sat 9th May<br>Elstree &amp; Borehamwood Museum, Elstree, Elstree<br>Free<br><br>An exhibition celebrating 40 years of the BBC soap.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/09/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2798815,51.652819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seurat and the Sea</name>
+      <description><![CDATA[<b>Seurat and the Sea</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Sun 17th May<br>Courtauld Institute of Art, Strand, Strand<br>£18<br><br>An exhibition dedicated to Georges Seurat's seascapes.<br><br><a href="https://www.ianvisits.co.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.112195,51.513623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Women in Art Fair</name>
+      <description><![CDATA[<b>Women in Art Fair</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Fri 8th May<br>gallery@oxo, South Bank<br>Free<br><br>Annual art fair showcasing women artists.<br><br><a href="https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05-06/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.300806,51.392171,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -612,54 +596,6 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1319724,51.5132124,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Maisie Adam: Work in Progress</name>
-      <description><![CDATA[<b>Maisie Adam: Work in Progress</b><br><i>Comedy</i><br>Wed 6th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Maisie Adam.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Angel Comedy Social Club</name>
-      <description><![CDATA[<b>Angel Comedy Social Club</b><br><i>Comedy</i><br>Wed 6th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy social club with various performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lost Highway</name>
-      <description><![CDATA[<b>Lost Highway</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Prince Charles Cinema, London<br>Check site<br><br>Film screening of Lost Highway.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Network - 50th Anniversary</name>
-      <description><![CDATA[<b>Network - 50th Anniversary</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Prince Charles Cinema, London<br>Check site<br><br>Film screening of Network for its 50th anniversary.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Mulholland Dr.</name>
-      <description><![CDATA[<b>Mulholland Dr.</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Prince Charles Cinema, London<br>Check site<br><br>Film screening of Mulholland Dr. on 35mm.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Akira</name>
-      <description><![CDATA[<b>Akira</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Prince Charles Cinema, London<br>Check site<br><br>Film screening of Akira with subtitles.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -695,11 +631,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>3 Locks Brewery Tour</name>
-      <description><![CDATA[<b>3 Locks Brewery Tour</b><br><i>Food &amp; Drink</i><br>Wed 6th May – Thu 25th Jun<br>3 Locks Brewery, Camden Market Hawley Wharf, Camden<br>£25<br><br>A brewery tour and tasting session.<br><br><a href="https://camdenmarket.com/events">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
+      <name>Maisie Adam: Work in Progress</name>
+      <description><![CDATA[<b>Maisie Adam: Work in Progress</b><br><i>Comedy</i><br>Wed 6th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Maisie Adam.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1433097,51.5394488,0</coordinates>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Angel Comedy Social Club</name>
+      <description><![CDATA[<b>Angel Comedy Social Club</b><br><i>Comedy</i><br>Wed 6th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy social club with various performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redman plus guests // Wed 6th May // Electric Brixton</name>
+      <description><![CDATA[<b>Redman plus guests // Wed 6th May // Electric Brixton</b><br><i>Music</i><br>Wed 6th May<br>Brixton<br>£36.50<br><br>A live performance by rapper Redman with special guests.<br><br><a href="https://www.skiddle.com/whats-on/London/Electric-Brixton/Redman-plus-guests--Wed-6th-May--Electric-Brixton/42142471/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1148023,51.4633914,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -711,75 +663,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ROSE OF NEVADA</name>
-      <description><![CDATA[<b>ROSE OF NEVADA</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>The Lexi Cinema, London<br>Check site<br><br>Film screening at The Lexi Cinema.<br><br><a href="https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2224753,51.5375275,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Wonders of the warehouse tour</name>
-      <description><![CDATA[<b>Wonders of the warehouse tour</b><br><i>Arts &amp; Culture</i><br>Wed 6th May – Thu 4th Jun<br>London Museum Docklands, Canary Wharf<br>Check site<br><br>Explore the history of the Georgian museum building.<br><br><a href="https://www.londonmuseum.org.uk/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0238687,51.5076342,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Not So New Comedian of the Year 2026: Semi-Finals</name>
       <description><![CDATA[<b>Not So New Comedian of the Year 2026: Semi-Finals</b><br><i>Comedy</i><br>Wed 6th May – Sat 9th May<br>The Undercroft, St Georges Church, Bloomsbury Way, London, WC1A 2SR, Bloomsbury<br>Check site<br><br>Comedy competition semi-finals.<br><br><a href="https://www.museumofcomedy.com/whats-on/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1243901,51.5175377,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Behind the Scenes: Zoology Spirit Collection Tour</name>
-      <description><![CDATA[<b>Behind the Scenes: Zoology Spirit Collection Tour</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Natural History Museum, South Kensington<br>£35<br><br>Explore the museum's preserved animal specimens up close.<br><br><a href="https://www.nhm.ac.uk/whats-on.html">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Architecture of the Natural History Museum Tour</name>
-      <description><![CDATA[<b>Architecture of the Natural History Museum Tour</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Natural History Museum, South Kensington<br>£20<br><br>Discover the architectural details of this iconic building.<br><br><a href="https://www.nhm.ac.uk/whats-on.html">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Museum Highlights Tour</name>
-      <description><![CDATA[<b>Museum Highlights Tour</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>Natural History Museum, South Kensington<br>£20<br><br>See the most famous exhibits in this guided tour.<br><br><a href="https://www.nhm.ac.uk/whats-on.html">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Kretinz</name>
-      <description><![CDATA[<b>Kretinz</b><br><i>Music</i><br>Wed 6th May<br>New Cross Inn, New Cross<br>£7<br><br>Live music performance at New Cross Inn.<br><br><a href="https://pit.live/events/kretinz">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0370911,51.4757953,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Faris Ishak</name>
-      <description><![CDATA[<b>Faris Ishak</b><br><i>Music</i><br>Wed 6th May<br>Oslo, Hackney<br>Check site<br><br>Live music performance.<br><br><a href="https://www.oslohackney.com/events/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.036526,51.497706,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Wednesday Stand Up Comedy Show</name>
-      <description><![CDATA[<b>Wednesday Stand Up Comedy Show</b><br><i>Comedy</i><br>Wed 6th May<br>The Top Secret Comedy Club, London<br>£3<br><br>Comedy show at The Top Secret Comedy Club.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/wednesday-kw-24/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1230403,51.5154536,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -799,78 +687,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Historic police vehicles display</name>
-      <description><![CDATA[<b>Historic police vehicles display</b><br><i>Cultural</i><br>Wed 6th May<br>Metropolitan Police Museum, Blackfen<br>Free<br><br>View historic police vehicles on display outside the Metropolitan Police Museum.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.102418,51.433669,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Covent Garden May Fair &amp; Puppet Festival</name>
-      <description><![CDATA[<b>Covent Garden May Fair &amp; Puppet Festival</b><br><i>Family</i><br>Wed 6th May<br>St Paul's Covent Garden, Covent Garden<br>Free<br><br>Puppet performances and fair in Covent Garden, celebrating Punch &amp; Judy.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1237151,51.5115563,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Streatham Common Kite Day</name>
-      <description><![CDATA[<b>Streatham Common Kite Day</b><br><i>Family</i><br>Wed 6th May<br>Streatham Common, Streatham<br>Free<br><br>Watch professional kite displays or fly your own kite at this annual event.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1250177,51.4216468,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>St Bride Foundation Wayzgoose</name>
-      <description><![CDATA[<b>St Bride Foundation Wayzgoose</b><br><i>Arts &amp; Culture</i><br>Wed 6th May<br>St Bride Foundation, City of London<br>Free<br><br>Celebrate letterpress printing with hands-on activities and demonstrations.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.10498054492506795,51.51342315,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>London hat walk</name>
-      <description><![CDATA[<b>London hat walk</b><br><i>Cultural</i><br>Wed 6th May<br>Tate Modern, Southwark<br>Free<br><br>A walk from Tate Modern to Tower Bridge featuring people in hats.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0993416,51.5074293,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Killer Couples with Emma Kenny</name>
-      <description><![CDATA[<b>Killer Couples with Emma Kenny</b><br><i>Theatre</i><br>Wed 6th May<br>Richmond Theatre, Richmond<br>£25<br><br>A true crime show exploring relationships gone wrong.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.3037274,51.4620194,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>London May Day</name>
-      <description><![CDATA[<b>London May Day</b><br><i>Cultural</i><br>Wed 6th May<br>The Old Vic, Southwark<br>£10<br><br>A walk along the Thames exploring the radical history of London's working classes.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.109234,51.501804,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Death, Debauchery &amp; Doctors in Soho</name>
-      <description><![CDATA[<b>Death, Debauchery &amp; Doctors in Soho</b><br><i>Cultural</i><br>Wed 6th May<br>Tottenham Court Road tube station, Soho<br>£20<br><br>A historical walk through Soho's sordid past with madams and body snatchers.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.133753,51.520068,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Little Venice canal walk</name>
-      <description><![CDATA[<b>Little Venice canal walk</b><br><i>Cultural</i><br>Wed 6th May<br>Warwick Avenue tube station, Little Venice<br>£20<br><br>A walk along the canal towpath exploring the Age of Canals.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1838506,51.5233436,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Eurovision Your Decision</name>
       <description><![CDATA[<b>Eurovision Your Decision</b><br><i>Music</i><br>Wed 6th May<br>Royal Vauxhall Tavern, Vauxhall<br>£15<br><br>A live Eurovision cabaret where the audience votes for the winner.<br><br><a href="https://eventsforlondon.co.uk/event/eurovision-your-decision/2026-05-06/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
@@ -879,11 +695,147 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Redman plus guests // Wed 6th May // Electric Brixton</name>
-      <description><![CDATA[<b>Redman plus guests // Wed 6th May // Electric Brixton</b><br><i>Music</i><br>Wed 6th May<br>Brixton<br>£36.50<br><br>A live performance by rapper Redman with special guests.<br><br><a href="https://www.skiddle.com/whats-on/London/Electric-Brixton/Redman-plus-guests--Wed-6th-May--Electric-Brixton/42142471/">More info / tickets</a>]]></description>
+      <name>Thursdays at Backyard</name>
+      <description><![CDATA[<b>Thursdays at Backyard</b><br><i>Comedy</i><br>Thu 7th May<br>Backyard Comedy Club, Bethnal Green<br>£7.5 – £10<br><br>A comedy competition showcase event.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/thursday-kw-18/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0554864,51.5253332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summer Of Hate</name>
+      <description><![CDATA[<b>Summer Of Hate</b><br><i>Music</i><br>Thu 7th May<br>New Cross Inn, New Cross<br>£10<br><br>Live music performance at New Cross Inn.<br><br><a href="https://pit.live/events/summer-of-hate">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1148023,51.4633914,0</coordinates>
+        <coordinates>-0.0370911,51.4757953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Catherine Bohart: Work in Progress</name>
+      <description><![CDATA[<b>Catherine Bohart: Work in Progress</b><br><i>Comedy</i><br>Thu 7th May<br>Park90, Park<br>Check site<br><br>Comedian Catherine Bohart tries out new jokes.<br><br><a href="https://parktheatre.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16193,51.53003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Primavera</name>
+      <description><![CDATA[<b>Primavera</b><br><i>Arts &amp; Culture</i><br>Thu 7th May<br>Phoenix Cinema, East Finchley<br>Check site<br><br>Film screening of Primavera.<br><br><a href="https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1637085,51.5885079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Courtney Pine: A Modern Day Jazz Story</name>
+      <description><![CDATA[<b>Courtney Pine: A Modern Day Jazz Story</b><br><i>Music</i><br>Thu 7th May – Fri 8th May<br>Ronnie Scott’s Jazz Club, Soho<br>Book Now<br><br>A retrospective performance by jazz legend Courtney Pine.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Late Late Show: Cosmic Fusion</name>
+      <description><![CDATA[<b>Late Late Show: Cosmic Fusion</b><br><i>Music</i><br>Thu 7th May – Thu 25th Jun<br>Upstairs at Ronnie's, Soho<br>Book Now<br><br>A late-night jazz fusion session with a modern edge.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.131599,51.513446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mother Courage and Her Children</name>
+      <description><![CDATA[<b>Mother Courage and Her Children</b><br><i>Theatre</i><br>Thu 7th May – Sat 27th Jun<br>Globe Theatre, Southwark<br>Check site<br><br>A modern adaptation of Brecht's anti-war play.<br><br><a href="https://www.shakespearesglobe.com/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0971864,51.5081214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Neon Nights With Nina Conti</name>
+      <description><![CDATA[<b>Neon Nights With Nina Conti</b><br><i>Comedy</i><br>Thu 7th May<br>Auditorium, Walthamstow<br>From £15<br><br>A comedy performance by Nina Conti.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.02077,51.59067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laura Lexx: Slinky</name>
+      <description><![CDATA[<b>Laura Lexx: Slinky</b><br><i>Comedy</i><br>Thu 7th May – Sat 9th May<br>Soho Upstairs, Soho<br>From £20<br><br>A comedy show by Laura Lexx.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paul Black: Cash Cow</name>
+      <description><![CDATA[<b>Paul Black: Cash Cow</b><br><i>Comedy</i><br>Thu 7th May – Sat 9th May<br>Soho Downstairs, Soho<br>From £24<br><br>A comedy show by Paul Black.<br><br><a href="https://sohotheatre.com/all-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Interrobang / Molly Vulpyne Band</name>
+      <description><![CDATA[<b>Interrobang / Molly Vulpyne Band</b><br><i>Music</i><br>Thu 7th May<br>The Lexington, Islington<br>Check site<br><br>A live music performance by Interrobang and Molly Vulpyne Band.<br><br><a href="https://www.thelexington.co.uk/events.php?type=gigs">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11145561125384369,51.5317715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atmosfloric</name>
+      <description><![CDATA[<b>Atmosfloric</b><br><i>Arts &amp; Culture</i><br>Thu 7th May<br>V&amp;A South Kensington, South Kensington<br>£15.0<br><br>A discussion on colour, style, and floral inspiration.<br><br><a href="https://www.vam.ac.uk/event/la1DYmdKdK/atmosfloric">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1716372,51.4968838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atmosfloric (Livestream)</name>
+      <description><![CDATA[<b>Atmosfloric (Livestream)</b><br><i>Arts &amp; Culture</i><br>Thu 7th May<br>online<br>£6.0<br><br>A livestreamed discussion on colour, style, and floral inspiration.<br><br><a href="https://www.vam.ac.uk/event/X9kqXM9pMA/atmosfloric-livestream">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1564498,51.5168481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramses and the Pharaohs' Gold: The Exhibition</name>
+      <description><![CDATA[<b>Ramses and the Pharaohs' Gold: The Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 7th May – Sun 12th Jul<br>NEON at Battersea Power Station, Battersea<br>£24<br><br>Ancient Egyptian treasures exhibition.<br><br><a href="https://feverup.com/m/503872">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1740176,51.4611779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Murdér Express Part Deux - Jewel Of The Empire</name>
+      <description><![CDATA[<b>The Murdér Express Part Deux - Jewel Of The Empire</b><br><i>Theatre</i><br>Thu 7th May<br>Pedley Street Station, East London<br>Check site<br><br>Immersive murder mystery dinner train.<br><br><a href="https://www.designmynight.com/london/event-space/bethnal-green/pedley-street-station/the-murdr-express-part-deux-jewel-of-the-empire">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0651926,51.5232152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1536</name>
+      <description><![CDATA[<b>1536</b><br><i>Theatre</i><br>Thu 7th May<br>The Ambassadors Theatre, London<br>Check site<br><br>Play about three women in Tudor England during Anne Boleyn's fall.<br><br><a href="https://secretldn.com/may-activities-things-to-do-london/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1203681,51.5191701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>I’m Not Being Funny</name>
+      <description><![CDATA[<b>I’m Not Being Funny</b><br><i>Comedy</i><br>Thu 7th May – Sat 13th Jun<br>Bush Theatre, London<br>Check site<br><br>Play about a married couple working on stand-up material.<br><br><a href="https://secretldn.com/may-activities-things-to-do-london/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.225925,51.505159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sounds Familiar Music Quiz</name>
+      <description><![CDATA[<b>Sounds Familiar Music Quiz</b><br><i>Nightlife</i><br>Thu 7th May<br>The Phoenix<br>£16.50<br><br>A lively music quiz night with teams and prizes.<br><br><a href="https://soundsfamiliarmusicquiz.designmynight.com/609cf65de764e4196a326619/sounds-familiar-music-quiz-the-phoenix-1">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.131956,51.5933146,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -896,34 +848,10 @@
     </Placemark>
     <Placemark>
       <name>Charlotte Ryan Live</name>
-      <description><![CDATA[<b>Charlotte Ryan Live</b><br><i>Music</i><br>Thu 7th May<br>Amersham Arms, London<br>£10<br><br>Folk singer-songwriter Charlotte Ryan performs at The Amersham Arms.<br><br><a href="https://amershamarms.co.uk/event/lancaster-based-emerging-folk-singer-songwriter-charlotte-ryan-headlines/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Charlotte Ryan Live</b><br><i>Music</i><br>Thu 7th May<br>Amersham Arms, London<br>£10<br><br>Folk singer-songwriter Charlotte Ryan performs at The Amersham Arms.<br><br><a href="https://amershamarms.co.uk/event/lancaster-based-emerging-folk-singer-songwriter-charlotte-ryan-headlines">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.032576,51.475732,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Rhys James: Work in Progress</name>
-      <description><![CDATA[<b>Rhys James: Work in Progress</b><br><i>Comedy</i><br>Thu 7th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Rhys James.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Angel Comedy Thursdays</name>
-      <description><![CDATA[<b>Angel Comedy Thursdays</b><br><i>Comedy</i><br>Thu 7th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy show featuring multiple performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Amelia Hamilton: Moral Support</name>
-      <description><![CDATA[<b>Amelia Hamilton: Moral Support</b><br><i>Comedy</i><br>Thu 7th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Amelia Hamilton.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -975,6 +903,30 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Rhys James: Work in Progress</name>
+      <description><![CDATA[<b>Rhys James: Work in Progress</b><br><i>Comedy</i><br>Thu 7th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Rhys James.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Angel Comedy Thursdays</name>
+      <description><![CDATA[<b>Angel Comedy Thursdays</b><br><i>Comedy</i><br>Thu 7th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy show featuring multiple performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amelia Hamilton: Moral Support</name>
+      <description><![CDATA[<b>Amelia Hamilton: Moral Support</b><br><i>Comedy</i><br>Thu 7th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Amelia Hamilton.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>London Studio Centre: IMAGES Ballet Company</name>
       <description><![CDATA[<b>London Studio Centre: IMAGES Ballet Company</b><br><i>Theatre</i><br>Thu 7th May<br>Pentland Theatre<br>£22<br><br>Ballet performance by London Studio Centre.<br><br><a href="https://www.artsdepot.co.uk/event/images-ballet-company-2/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -999,35 +951,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>AN IDEAL HUSBAND</name>
-      <description><![CDATA[<b>AN IDEAL HUSBAND</b><br><i>Theatre</i><br>Thu 7th May – Sat 6th Jun<br>Lyric Hammersmith Theatre, Hammersmith<br>Check site<br><br>Bold new production of Oscar Wilde's classic play.<br><br><a href="https://lyric.co.uk/whats-on/shows/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.22654427084830048,51.49304955,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Summer Of Hate</name>
-      <description><![CDATA[<b>Summer Of Hate</b><br><i>Music</i><br>Thu 7th May<br>New Cross Inn, New Cross<br>£10<br><br>Live music performance at New Cross Inn.<br><br><a href="https://pit.live/events/summer-of-hate">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0370911,51.4757953,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>AFTERS</name>
       <description><![CDATA[<b>AFTERS</b><br><i>Music</i><br>Thu 7th May<br>Oslo, Hackney<br>£5<br><br>Live music performance.<br><br><a href="https://www.oslohackney.com/events/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.036526,51.497706,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Piano Trio Series: Nicola Guida</name>
-      <description><![CDATA[<b>Piano Trio Series: Nicola Guida</b><br><i>Music</i><br>Thu 7th May<br>Ronnie Scott's, Soho<br>Book Now<br><br>Jazz performance with cinematic textures.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1047,27 +975,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>BULLYACHE - A Good Man is Hard to Find</name>
-      <description><![CDATA[<b>BULLYACHE - A Good Man is Hard to Find</b><br><i>Theatre</i><br>Thu 7th May – Sat 9th May<br>Sadler's Wells East, Stratford<br>Check site<br><br>Dance performance by BULLYACHE.<br><br><a href="https://www.sadlerswells.com/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.10526769215960813,51.52967515,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Dark Secrets: The Esoteric Exhibition</name>
-      <description><![CDATA[<b>Dark Secrets: The Esoteric Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 7th May – Sun 31st May<br>Vaults - Leake Street, London<br>£23<br><br>Exploration of magic, occultism, and folklore across 27 themed rooms.<br><br><a href="https://feverup.com/m/427444">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Dark Secrets: The Esoteric Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 7th May – Sun 31st May<br>Vaults - Leake Street, London<br>£23<br><br>Exploration of magic, occultism, and folklore across 27 themed rooms.<br><br><a href="https://feverup.com/m/427444?cp_landing=cta_header&amp;cp_landing_term=cta_header&amp;cp_landing_source=darksecretsexhibition&amp;utm_source=google&amp;utm_medium=organic">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1147409,51.5013532,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Thursday Stand Up Comedy Show</name>
-      <description><![CDATA[<b>Thursday Stand Up Comedy Show</b><br><i>Comedy</i><br>Thu 7th May<br>The Top Secret Comedy Club, London<br>£3<br><br>Comedy show at The Top Secret Comedy Club.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/thursday-kw-18/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1230403,51.5154536,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1076,22 +988,6 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1716372,51.4968838,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Young V&amp;A Schools: RISO Printed Zines</name>
-      <description><![CDATA[<b>Young V&amp;A Schools: RISO Printed Zines</b><br><i>Family</i><br>Thu 7th May – Thu 9th Jul<br>Young V&amp;A, Young V&amp;A<br>£150.00<br><br>Workshop for secondary school students.<br><br><a href="https://www.vam.ac.uk/whatson">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.055063,51.529036,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Young V&amp;A Schools: Sounds Good</name>
-      <description><![CDATA[<b>Young V&amp;A Schools: Sounds Good</b><br><i>Family</i><br>Thu 7th May – Fri 17th Jul<br>Young V&amp;A, Young V&amp;A<br>£80.00<br><br>Workshop for nursery and reception students.<br><br><a href="https://www.vam.ac.uk/whatson">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.055063,51.529036,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1104,7 +1000,7 @@
     </Placemark>
     <Placemark>
       <name>Ceramic Art London</name>
-      <description><![CDATA[<b>Ceramic Art London</b><br><i>Arts &amp; Culture</i><br>Thu 7th May – Sun 10th May<br>West Kensington, West Kensington<br>from £30<br><br>Showcase of UK and international pottery with pieces priced £30-£10,000.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Ceramic Art London</b><br><i>Arts &amp; Culture</i><br>Thu 7th May – Sun 10th May<br>West Kensington, West Kensington<br>from £30<br><br>Showcase of UK and international pottery with pieces priced £30-£10,000.<br><br><a href="https://memoirsofametrogirl.com/2026/04/29/whats-on-in-london-may-2026-listings-guide/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.207486,51.4909928,0</coordinates>
@@ -1119,27 +1015,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Schools &amp; Academies Show</name>
-      <description><![CDATA[<b>Schools &amp; Academies Show</b><br><i>Community</i><br>Thu 7th May<br>Excel London, Royal Docks<br>Check site<br><br>Education-focused event at Excel London.<br><br><a href="https://www.excel.london/visitor/whats-on/schools-academies-show-2026">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.018406,51.506895,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Big Mad Andy's Peep Show Quiz</name>
       <description><![CDATA[<b>Big Mad Andy's Peep Show Quiz</b><br><i>Comedy</i><br>Thu 7th May<br>Brixton<br>Check site<br><br>A quiz about the British sitcom Peep Show hosted by Big Mad Andy.<br><br><a href="https://brixton-jamm.designmynight.com/6908da5a2189a1b1186a6a7b/big-mad-andys-peep-show-quiz-brixton-jamm-33">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1148023,51.4633914,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Kavakos conducts Dvořák, Schumann &amp; Brahms</name>
-      <description><![CDATA[<b>Kavakos conducts Dvořák, Schumann &amp; Brahms</b><br><i>Music</i><br>Thu 7th May<br>Royal Festival Hall - Southbank Centre, Southbank<br>£11<br><br>A classical music performance of romantic compositions.<br><br><a href="https://www.londontheatre.co.uk/show/46900-kavakos-conducts-dvorak-schumann-and-brahms">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.117377,51.504654,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1151,6 +1031,174 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Kavakos conducts Dvořák, Schumann &amp; Brahms</name>
+      <description><![CDATA[<b>Kavakos conducts Dvořák, Schumann &amp; Brahms</b><br><i>Music</i><br>Thu 7th May<br>Royal Festival Hall - Southbank Centre, Southbank<br>£11<br><br>A classical music performance of romantic compositions.<br><br><a href="https://www.londontheatre.co.uk/show/46900-kavakos-conducts-dvorak-schumann-and-brahms">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.117377,51.504654,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Revel Puck Circus</name>
+      <description><![CDATA[<b>The Revel Puck Circus</b><br><i>Arts &amp; Culture</i><br>Fri 8th May – Sun 17th May<br>The Big Top at Oak Hill Park, East Barnet<br>From £13.75<br><br>A circus performance at Oak Hill Park.<br><br><a href="https://www.artsdepot.co.uk/event/the-revel-puck-circus-a-glimmer-daze-gambit/#book-now">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1628235,51.6416813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fridays at Backyard</name>
+      <description><![CDATA[<b>Fridays at Backyard</b><br><i>Comedy</i><br>Fri 8th May<br>Backyard Comedy Club, Bethnal Green<br>£12.5 – £20<br><br>A popular comedy night in London.<br><br><a href="https://backyardcomedyclub.co.uk/events/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0554864,51.5253332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teletech London: Cloudy</name>
+      <description><![CDATA[<b>Teletech London: Cloudy</b><br><i>Nightlife</i><br>Fri 8th May – Sat 9th May<br>E1, E1<br>£27.00<br><br>A tech event featuring DJ Cloudy.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.092813,51.514993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oh, Mary!</name>
+      <description><![CDATA[<b>Oh, Mary!</b><br><i>Theatre</i><br>Fri 8th May<br>Trafalgar Theatre, London<br>Check site<br><br>A dark comedy starring Mason Alexander Park.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.127552,51.506594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lame - London</name>
+      <description><![CDATA[<b>Lame - London</b><br><i>Music</i><br>Fri 8th May<br>The Stags Head, London<br>£10.00<br><br>A live music performance by an emerging band.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.252188,51.465818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RollerBoogie</name>
+      <description><![CDATA[<b>RollerBoogie</b><br><i>Sport &amp; Fitness</i><br>Fri 8th May – Sat 9th May<br>Rollernation, London<br>£17.00<br><br>A Friday night roller skating session.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.099076,51.509648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FRIDAY SERVICE: Hip Hop, Afrobeats &amp; R&amp;B</name>
+      <description><![CDATA[<b>FRIDAY SERVICE: Hip Hop, Afrobeats &amp; R&amp;B</b><br><i>Music</i><br>Fri 8th May – Sat 9th May<br>The Old Queens Head, London<br>£5.00<br><br>A night of hip hop, Afrobeats, and R&amp;B music.<br><br><a href="https://www.skiddle.com/whats-on/London/The-Old-Queens-Head/FRIDAY-SERVICE-Hip-Hop-Afrobeats--RB/42080107/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.090775,51.503877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DJ Tunez &amp; Mavo: Money Constant Weekend</name>
+      <description><![CDATA[<b>DJ Tunez &amp; Mavo: Money Constant Weekend</b><br><i>Music</i><br>Fri 8th May<br>KOKO, Camden<br>Check site<br><br>Birthday celebrations with DJ Tunez and Nigerian rapper Mavo.<br><br><a href="https://koko.co.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1624803,51.5427966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Type Of Negative</name>
+      <description><![CDATA[<b>Type Of Negative</b><br><i>Music</i><br>Fri 8th May<br>New Cross Inn, New Cross<br>£12<br><br>Live music performance at New Cross Inn.<br><br><a href="https://pit.live/events/type-of-negative">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0370911,51.4757953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joseph Morpurgo: Work in Progress</name>
+      <description><![CDATA[<b>Joseph Morpurgo: Work in Progress</b><br><i>Comedy</i><br>Fri 8th May<br>Park90, Park<br>Check site<br><br>Character comedian Joseph Morpurgo tests new material.<br><br><a href="https://parktheatre.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16193,51.53003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Our Land</name>
+      <description><![CDATA[<b>Our Land</b><br><i>Arts &amp; Culture</i><br>Fri 8th May<br>Phoenix Cinema, East Finchley<br>Check site<br><br>Film screening of Our Land.<br><br><a href="https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1637085,51.5885079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Late Late Show: Viva Cuba</name>
+      <description><![CDATA[<b>Late Late Show: Viva Cuba</b><br><i>Music</i><br>Fri 8th May – Fri 31st Jul<br>Upstairs at Ronnie's, Soho<br>Book Now<br><br>A late-night Cuban music performance.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.131599,51.513446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Culture Club</name>
+      <description><![CDATA[<b>Culture Club</b><br><i>Music</i><br>Fri 8th May – Fri 19th Jun<br>Sadler's Wells Theatre, Islington<br>Check site<br><br>A performance by the iconic 80s band Culture Club.<br><br><a href="https://www.sadlerswells.com/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1062108,51.5291192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urban Voodoo Machine Anniversary</name>
+      <description><![CDATA[<b>Urban Voodoo Machine Anniversary</b><br><i>Music</i><br>Fri 8th May<br>The Lexington, Islington<br>£22.00<br><br>A special anniversary show by The Urban Voodoo Machine.<br><br><a href="https://wegottickets.com/event/689417">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11145561125384369,51.5317715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunrise Yoga on the rooftop</name>
+      <description><![CDATA[<b>Sunrise Yoga on the rooftop</b><br><i>Wellness</i><br>Fri 8th May<br>Art'otel London Battersea, Battersea<br>Check site<br><br>Morning yoga with city views.<br><br><a href="https://artotel-london-battersea-power-station.designmynight.com/670d162b986c65162739bcd9/skyline-yoga-at-joia-bar">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.083044,51.52631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A Place in the Sun 2026</name>
+      <description><![CDATA[<b>A Place in the Sun 2026</b><br><i>Community</i><br>Fri 8th May – Sun 10th May<br>ExCel, Royal Victoria Dock, 1 Western Gateway, Docklands, Docklands<br>from £8<br><br>Property show with seminars, panel discussions, and expert advice.<br><br><a href="https://memoirsofametrogirl.com/2026/04/29/whats-on-in-london-may-2026-listings-guide/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0297071,51.5081127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sound Bites</name>
+      <description><![CDATA[<b>Sound Bites</b><br><i>Food &amp; Drink</i><br>Fri 8th May – Sat 9th May<br>Syon Park, London<br>£10<br><br>Food and music festival with live music, immersive dining, and street food.<br><br><a href="https://secretldn.com/may-activities-things-to-do-london/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.309071,51.476388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Magic Spotlight: Secrets</name>
+      <description><![CDATA[<b>Magic Spotlight: Secrets</b><br><i>Theatre</i><br>Fri 8th May – Sun 10th May<br>Excel London, Royal Docks<br>Check site<br><br>A magic show at Excel London.<br><br><a href="https://www.excel.london/visitor/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.018406,51.506895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Dirty Thirty</name>
+      <description><![CDATA[<b>The Dirty Thirty</b><br><i>Theatre</i><br>Fri 8th May<br>The Rosemary Branch<br>Check site<br><br>A fast-paced theatre show with 30 plays in 60 minutes.<br><br><a href="https://rosemarybranchtheatre.designmynight.com/61312163553c9c2c811b8a66/the-dirty-thirty">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0869273,51.5375955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vauxhall Comedy</name>
+      <description><![CDATA[<b>Vauxhall Comedy</b><br><i>Comedy</i><br>Fri 8th May<br>The Garden Vauxhall, Vauxhall<br>£8.00<br><br>A top comedy club in South London.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1236627,51.4850715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Laura Cox</name>
       <description><![CDATA[<b>Laura Cox</b><br><i>Music</i><br>Fri 8th May<br>The 100 Club, London<br>£25 adv + bf<br><br>Live performance by rock guitarist Laura Cox.<br><br><a href="https://www.the100club.co.uk/100club-events/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
@@ -1159,24 +1207,16 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Angel Comedy Fridays</name>
-      <description><![CDATA[<b>Angel Comedy Fridays</b><br><i>Comedy</i><br>Fri 8th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy show featuring multiple performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Roast Battle UK</name>
-      <description><![CDATA[<b>Roast Battle UK</b><br><i>Comedy</i><br>Fri 8th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy roast battle show.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>One Flew Over the Cuckoo's Nest</name>
       <description><![CDATA[<b>One Flew Over the Cuckoo's Nest</b><br><i>Theatre</i><br>Fri 8th May<br>Prince Charles Cinema, London<br>Check site<br><br>Classic drama shown in 4K.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1302137,51.5114907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akira</name>
+      <description><![CDATA[<b>Akira</b><br><i>Theatre</i><br>Fri 8th May<br>Prince Charles Cinema, London<br>Check site<br><br>Cult anime film with subtitles.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1302137,51.5114907,0</coordinates>
@@ -1216,26 +1256,26 @@
     </Placemark>
     <Placemark>
       <name>The King of Comedy</name>
-      <description><![CDATA[<b>The King of Comedy</b><br><i>Theatre</i><br>Fri 8th May<br>Prince Charles Cinema, London<br>Check site<br><br>Scorsese's dark comedy film.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>The King of Comedy</b><br><i>Theatre</i><br>Fri 8th May<br>Prince Charles Cinema, London<br>Check site<br><br>Scorsese's dark comedy film.<br><br><a href="https://www.picturehouses.com/movie-details/022/HO00013334/the-king-of-comedy">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1302137,51.5114907,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Revel Puck Circus: A Glimmer Daze Gambit</name>
-      <description><![CDATA[<b>The Revel Puck Circus: A Glimmer Daze Gambit</b><br><i>Theatre</i><br>Fri 8th May<br>The Big Top at Oak Hill Park, East Barnet<br>From £13.75<br><br>Circus performance at Oak Hill Park.<br><br><a href="https://www.artsdepot.co.uk/event/the-revel-puck-circus-a-glimmer-daze-gambit/">More info / tickets</a>]]></description>
+      <name>Angel Comedy Fridays</name>
+      <description><![CDATA[<b>Angel Comedy Fridays</b><br><i>Comedy</i><br>Fri 8th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy show featuring multiple performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1628235,51.6416813,0</coordinates>
+        <coordinates>-0.098819,51.536251,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Banana Cabaret Farewell Festival</name>
-      <description><![CDATA[<b>Banana Cabaret Farewell Festival</b><br><i>Comedy</i><br>Fri 8th May – Sat 9th May<br>The Bedford, London<br>Check site<br><br>Final comedy festival at The Bedford.<br><br><a href="https://www.eventbrite.co.uk/e/banana-cabaret-farewell-festival-080526-tickets-1984629695845">More info / tickets</a>]]></description>
+      <name>Roast Battle UK</name>
+      <description><![CDATA[<b>Roast Battle UK</b><br><i>Comedy</i><br>Fri 8th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy roast battle show.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1493607,51.4427243,0</coordinates>
+        <coordinates>-0.098819,51.536251,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1247,43 +1287,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>MICHAEL</name>
-      <description><![CDATA[<b>MICHAEL</b><br><i>Arts &amp; Culture</i><br>Fri 8th May<br>The Lexi Cinema, London<br>Check site<br><br>Film screening at The Lexi Cinema.<br><br><a href="https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2224753,51.5375275,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>PRIMAVERA</name>
-      <description><![CDATA[<b>PRIMAVERA</b><br><i>Arts &amp; Culture</i><br>Fri 8th May<br>The Lexi Cinema, London<br>Check site<br><br>Film screening at The Lexi Cinema.<br><br><a href="https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2224753,51.5375275,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Dig Deeper</name>
-      <description><![CDATA[<b>Dig Deeper</b><br><i>Arts &amp; Culture</i><br>Fri 8th May<br>Natural History Museum, South Kensington<br>£25<br><br>An in-person and online event about museum collections.<br><br><a href="https://www.nhm.ac.uk/whats-on.html">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>POLY-MATH &amp; OPENSIGHT - DOUBLE ALBUM LAUNCH</name>
       <description><![CDATA[<b>POLY-MATH &amp; OPENSIGHT - DOUBLE ALBUM LAUNCH</b><br><i>Music</i><br>Fri 8th May<br>Oslo, Hackney<br>Check site<br><br>Album launch event with live performances.<br><br><a href="https://www.oslohackney.com/events/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.036526,51.497706,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Oscar Jerome</name>
-      <description><![CDATA[<b>Oscar Jerome</b><br><i>Music</i><br>Fri 8th May<br>Ronnie Scott's, Soho<br>Book Now<br><br>Live performance of material from his third album.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1343,30 +1351,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Romeo &amp; Juliet At The Harold Pinter Theatre</name>
-      <description><![CDATA[<b>Romeo &amp; Juliet At The Harold Pinter Theatre</b><br><i>Theatre</i><br>Fri 8th May – Sat 20th Jun<br>The Harold Pinter Theatre, West End<br>from £20 per ticket<br><br>Shakespeare's classic love story starring Sadie Sink and Noah Jupe.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Les Liaisons Dangereuses</name>
-      <description><![CDATA[<b>Les Liaisons Dangereuses</b><br><i>Theatre</i><br>Fri 8th May – Sat 6th Jun<br>Lyttelton Theatre, National Theatre, South Bank<br>from £92 per person<br><br>Revival of the classic play starring Lesley Manville and Aidan Turner.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.300806,51.392171,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ramses And The Pharaohs' Gold: The Exhibition</name>
-      <description><![CDATA[<b>Ramses And The Pharaohs' Gold: The Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 8th May – Sun 12th Jul<br>NEON at Battersea Power Station, Battersea<br>from £26.05 per adult and £24.05 per child<br><br>Exhibition of over 180 artefacts from King Ramses II's reign.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1740176,51.4611779,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Friday Lunchtime Concerts with LSO Discovery</name>
       <description><![CDATA[<b>Friday Lunchtime Concerts with LSO Discovery</b><br><i>Music</i><br>Fri 8th May<br>St Luke’s, Old Street, Old Street<br>Free<br><br>Short classical music concerts during weekday lunch hours.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
@@ -1380,14 +1364,6 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0843244,51.4418786,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>A PLACE IN THE SUN LIVE</name>
-      <description><![CDATA[<b>A PLACE IN THE SUN LIVE</b><br><i>Community</i><br>Fri 8th May – Sun 10th May<br>Exhibition center, London<br>Free<br><br>Event for overseas property buyers with exhibitors and seminars.<br><br><a href="https://www.londonperfect.com/plan-your-trip/events-in-london/may.php">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.0297071,51.5081127,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1423,43 +1399,411 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vauxhall Comedy</name>
-      <description><![CDATA[<b>Vauxhall Comedy</b><br><i>Comedy</i><br>Fri 8th May<br>The Garden Vauxhall, Vauxhall<br>£8.00<br><br>A top comedy club in South London.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <name>Port of Tilbury open day</name>
+      <description><![CDATA[<b>Port of Tilbury open day</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Hampton Court Palace, Tilbury<br>0.00<br><br>Discover the history and operations of the Port of Tilbury.<br><br><a href="https://www.ianvisits.co.uk/calendar/port-of-tilbury-open-day-430277/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.103653,51.545502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Independent records fair</name>
+      <description><![CDATA[<b>Independent records fair</b><br><i>Arts &amp; Culture</i><br>Sat 9th May – Sun 10th May<br>Hampton Court Palace, Hampton Court<br>0.00<br><br>Browse and buy rare vinyl records and music memorabilia.<br><br><a href="https://www.ianvisits.co.uk/calendar/independent-records-fair-430503/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3418637,51.4043494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Surrey Docks Farm Spring Fair</name>
+      <description><![CDATA[<b>Surrey Docks Farm Spring Fair</b><br><i>Family</i><br>Sat 9th May – Sun 10th May<br>Hampton Court Palace, Surrey Docks<br>0.00<br><br>A family-friendly fair with farm animals and activities.<br><br><a href="https://www.ianvisits.co.uk/calendar/st-marys-kenton-church-open-day-430118/">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3425203,51.4020159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brixton Market Heritage Walk</name>
+      <description><![CDATA[<b>Brixton Market Heritage Walk</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Foundling Museum, Brixton<br>5<br><br>Explore the rich history of Brixton Market.<br><br><a href="https://www.ianvisits.co.uk/calendar/brixton-market-heritage-walk-2-427900/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.121624,51.52513,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Escapes: An introduction to nature in St James's Park</name>
+      <description><![CDATA[<b>Green Escapes: An introduction to nature in St James's Park</b><br><i>Wellness</i><br>Sat 9th May – Sun 10th May<br>Guards Memorial, Westminster<br>Free<br><br>A guided nature walk through St James's Park.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.129498,51.504486,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Loo Tour</name>
+      <description><![CDATA[<b>London Loo Tour</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Waterloo Station, Waterloo<br>£20<br><br>A quirky tour of London's historic public toilets.<br><br><a href="https://eventsforlondon.co.uk/event/london-loo-tour-2-2/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1137089,51.5037251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ahoy! Mayflower &amp; the Ships of Rotherhithe</name>
+      <description><![CDATA[<b>Ahoy! Mayflower &amp; the Ships of Rotherhithe</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Bermondsey tube station, Rotherhithe<br>£20<br><br>Explore the maritime history of Rotherhithe.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0578064,51.488096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paul Simon’s Graceland</name>
+      <description><![CDATA[<b>Paul Simon’s Graceland</b><br><i>Music</i><br>Sat 9th May<br>Pentland Theatre<br>From £19<br><br>A tribute concert to Paul Simon’s iconic album.<br><br><a href="https://www.artsdepot.co.uk/event/gary-stewarts-graceland/#book-now">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1209334,51.5101801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturdays at Backyard</name>
+      <description><![CDATA[<b>Saturdays at Backyard</b><br><i>Comedy</i><br>Sat 9th May<br>Backyard Comedy Club, Bethnal Green<br>£16 – £24<br><br>A weekend comedy night in Bethnal Green.<br><br><a href="https://backyardcomedyclub.co.uk/events/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0554864,51.5253332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YESSS Sir - Remember Me</name>
+      <description><![CDATA[<b>YESSS Sir - Remember Me</b><br><i>Theatre</i><br>Sat 9th May – Sun 10th May<br>Rolling Stock, London<br>£20.00<br><br>A return performance of YESSS Sir.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.077713,51.528613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOULTOWN - Garden Party</name>
+      <description><![CDATA[<b>SOULTOWN - Garden Party</b><br><i>Nightlife</i><br>Sat 9th May – Sun 10th May<br>Studio 338, London<br>£15.00<br><br>A soul and house music party with classic tracks.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1277653,51.5074456,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dan Shake &amp; Friends</name>
+      <description><![CDATA[<b>Dan Shake &amp; Friends</b><br><i>Nightlife</i><br>Sat 9th May – Sun 10th May<br>The Cause, London<br>£35.00<br><br>A day and night DJ event with extended sets.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0168778,51.5044185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Magic of Thailand Festival</name>
+      <description><![CDATA[<b>Magic of Thailand Festival</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Wimbledon Park, Wimbledon<br>£6.00<br><br>A two-day Thai cultural festival in Wimbledon Park.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2066459,51.4382776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 Years Of B&amp;M</name>
+      <description><![CDATA[<b>3 Years Of B&amp;M</b><br><i>Music</i><br>Sat 9th May – Sun 10th May<br>Oslo Hackney, Hackney<br>£7.50<br><br>A birthday celebration with live music.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0556001,51.5471623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1991 - London</name>
+      <description><![CDATA[<b>1991 - London</b><br><i>Music</i><br>Sat 9th May<br>Colour Factory, London<br>£22.00<br><br>A headline music show with new music and production.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.02276,51.543245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buff Bingo Bottomless Drag</name>
+      <description><![CDATA[<b>Buff Bingo Bottomless Drag</b><br><i>Nightlife</i><br>Sat 9th May<br>Fire London, Vauxhall<br>£10.00<br><br>A drag bingo brunch and dinner event.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.124166,51.484479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZUL @ 93 FEET EAST</name>
+      <description><![CDATA[<b>AZUL @ 93 FEET EAST</b><br><i>Music</i><br>Sat 9th May<br>93 Feet East, London<br>£10.00<br><br>A birthday celebration with live music and performances.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.092813,51.514993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>House of Stepz - Day Party</name>
+      <description><![CDATA[<b>House of Stepz - Day Party</b><br><i>Nightlife</i><br>Sat 9th May<br>LDN EAST, London<br>£13.00<br><br>A celebration of the first anniversary of House of Stepz.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2652329,51.46473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RollerDisco</name>
+      <description><![CDATA[<b>RollerDisco</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May – Sun 10th May<br>Rollernation, London<br>£19.50<br><br>A flagship roller disco event with classic hits.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.099076,51.509648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SELENA's Bottomless Tribute</name>
+      <description><![CDATA[<b>SELENA's Bottomless Tribute</b><br><i>Music</i><br>Sat 9th May<br>The Garden Vauxhall, Vauxhall<br>£5.00<br><br>A tribute to Selena Quintanilla with a special Mother's Day event.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1236627,51.4850715,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Teletech London: Cloudy + More</name>
-      <description><![CDATA[<b>Teletech London: Cloudy + More</b><br><i>Music</i><br>Fri 8th May – Sat 9th May<br>E1, London<br>£35.00<br><br>Live music event featuring Cloudy.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.053749,51.514357,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lame - London</name>
-      <description><![CDATA[<b>Lame - London</b><br><i>Music</i><br>Fri 8th May<br>The Stags Head, London<br>£10.00<br><br>Live performance by Lame.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.252188,51.465818,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>International Stand Up Comedy</name>
-      <description><![CDATA[<b>International Stand Up Comedy</b><br><i>Comedy</i><br>Fri 8th May<br>Soho Comedy At 7 Dials, Covent Garden<br>Check site<br><br>Comedy show featuring award-winning comedians.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <name>Banana Cabaret Farewell Festival</name>
+      <description><![CDATA[<b>Banana Cabaret Farewell Festival</b><br><i>Comedy</i><br>Sat 9th May<br>The Bedford, London<br>Check site<br><br>A farewell comedy festival at The Bedford.<br><br><a href="https://www.eventbrite.co.uk/e/banana-cabaret-farewell-festival-080526-tickets-1984629695845">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.129921,51.515623,0</coordinates>
+        <coordinates>-0.1493607,51.4427243,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Mother Courage 26</name>
-      <description><![CDATA[<b>Mother Courage 26</b><br><i>Theatre</i><br>Fri 8th May<br>Shakespeare's Globe, South Bank<br>Check site<br><br>Modern staging of Mother Courage with live music.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <name>Enchufada: A Lisbon Club Story</name>
+      <description><![CDATA[<b>Enchufada: A Lisbon Club Story</b><br><i>Music</i><br>Sat 9th May<br>THE LOWER THIRD<br>£10<br><br>Celebration of Portuguese dance label Enchufada's 20th anniversary.<br><br><a href="https://thejazzcafe.com/event/enchufada-a-lisbon-club-story-branko-kalaf-epalanga-pedro-da-linha-tash-lc-at-the-lower-third/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1291827,51.5155359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dawnosaurs: Relaxed Morning Visit</name>
+      <description><![CDATA[<b>Dawnosaurs: Relaxed Morning Visit</b><br><i>Family</i><br>Sat 9th May<br>Natural History Museum, South Kensington<br>Free<br><br>Early access for neurodivergent children and families.<br><br><a href="https://www.nhm.ac.uk/events/dawnosaurs.html">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sam Coade &amp; Lil Wenker: Works in Progress</name>
+      <description><![CDATA[<b>Sam Coade &amp; Lil Wenker: Works in Progress</b><br><i>Comedy</i><br>Sat 9th May<br>Park90, Park<br>Check site<br><br>Comedy duo performs new material.<br><br><a href="https://parktheatre.co.uk/whats-on/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16193,51.53003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Late Late Show: Wonky Logic</name>
+      <description><![CDATA[<b>Late Late Show: Wonky Logic</b><br><i>Music</i><br>Sat 9th May<br>Ronnie Scott’s Jazz Club, Soho<br>Buy on the door<br><br>A late-night blend of jazz and electronic music.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punchbag, Lifeloose, Liveunderstudy</name>
+      <description><![CDATA[<b>Punchbag, Lifeloose, Liveunderstudy</b><br><i>Music</i><br>Sat 9th May<br>The Lexington, Islington<br>Check site<br><br>A live music performance by Punchbag, Lifeloose, and Liveunderstudy.<br><br><a href="https://www.thelexington.co.uk/events.php?type=gigs">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11145561125384369,51.5317715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturday Stand Up Comedy Afternoon Show</name>
+      <description><![CDATA[<b>Saturday Stand Up Comedy Afternoon Show</b><br><i>Comedy</i><br>Sat 9th May<br>170 Drury Lane<br>£1<br><br>Afternoon comedy with audience donations.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/saturday-330pm-20/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1229779,51.5153948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturday Stand Up Comedy Early Show</name>
+      <description><![CDATA[<b>Saturday Stand Up Comedy Early Show</b><br><i>Comedy</i><br>Sat 9th May<br>170 Drury Lane<br>£12<br><br>Early evening comedy performance.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/saturday-6pm-19/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1229779,51.5153948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturday Stand Up Comedy 7pm Show</name>
+      <description><![CDATA[<b>Saturday Stand Up Comedy 7pm Show</b><br><i>Comedy</i><br>Sat 9th May<br>23 Kingsway<br>£15<br><br>Evening comedy performance.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/saturday-7pm-29/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2316755,51.3976177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturday Stand Up Comedy Late Show</name>
+      <description><![CDATA[<b>Saturday Stand Up Comedy Late Show</b><br><i>Comedy</i><br>Sat 9th May<br>170 Drury Lane<br>£20<br><br>Late night comedy performance.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/saturday-8pm-19/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1229779,51.5153948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saturday Stand Up Comedy 9pm Show</name>
+      <description><![CDATA[<b>Saturday Stand Up Comedy 9pm Show</b><br><i>Comedy</i><br>Sat 9th May<br>23 Kingsway<br>£18<br><br>Late night comedy performance.<br><br><a href="https://thetopsecretcomedyclub.co.uk/events-listings/saturday-9pm-21/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2316755,51.3976177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A Doll's House</name>
+      <description><![CDATA[<b>A Doll's House</b><br><i>Theatre</i><br>Sat 9th May – Sat 16th May<br>Islington, Islington<br>Check site<br><br>Modern adaptation of Ibsen's classic.<br><br><a href="https://www.timeout.com/london/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0999051,51.5384287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edgar Allan Poe Speakeasy London</name>
+      <description><![CDATA[<b>Edgar Allan Poe Speakeasy London</b><br><i>Nightlife</i><br>Sat 9th May<br>Glaziers Hall, London<br>£42.00<br><br>Immersive experience inspired by Poe.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.088749,51.506599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Romeo &amp; Juliet At The Harold Pinter Theatre</name>
+      <description><![CDATA[<b>Romeo &amp; Juliet At The Harold Pinter Theatre</b><br><i>Theatre</i><br>Sat 9th May – Sat 20th Jun<br>The Harold Pinter Theatre, West End<br>from £20 per ticket<br><br>Shakespeare's classic love story.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1255974,51.5128988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Liaisons Dangereuses</name>
+      <description><![CDATA[<b>Les Liaisons Dangereuses</b><br><i>Theatre</i><br>Sat 9th May – Sat 6th Jun<br>Lyttelton Theatre, National Theatre, South Bank<br>from £92 per person<br><br>Theatrical adaptation of the classic novel.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.300806,51.392171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Five Points Brewery – Tour and Tasting</name>
+      <description><![CDATA[<b>The Five Points Brewery – Tour and Tasting</b><br><i>Food &amp; Drink</i><br>Sat 9th May<br>Hackney<br>£20.00 (advance sales)<br><br>90-minute tour and tasting at The Five Points Brewery on Saturdays.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.047669054262764424,51.54888185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hackney Flea Market</name>
+      <description><![CDATA[<b>Hackney Flea Market</b><br><i>Community</i><br>Sat 9th May – Sun 10th May<br>Stoke Newington<br>Free<br><br>Monthly flea market with vintage clothes, books, and other treasures.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0822482,51.5578698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brixton Windmill Open Days</name>
+      <description><![CDATA[<b>Brixton Windmill Open Days</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Brixton<br>£5.00 (advance sales)<br><br>Guided tours of Brixton’s 200-year-old windmill and its history.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1148023,51.4633914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Bank Food Market</name>
+      <description><![CDATA[<b>South Bank Food Market</b><br><i>Food &amp; Drink</i><br>Sat 9th May – Sun 10th May<br>Southbank Centre, South Bank<br>Free entry<br><br>Weekend food market with global cuisine stalls and seasonal outdoor dining.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.116787,51.5057791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vintage Poster Market</name>
+      <description><![CDATA[<b>Vintage Poster Market</b><br><i>Arts &amp; Culture</i><br>Sat 9th May – Sun 10th May<br>Gipsy Hill Brewery, Gipsy Hill<br>Free<br><br>A pop-up shop selling vintage posters in South London.<br><br><a href="https://londontheinside.com/whats-on-this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0852039,51.4274292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hackney Altfest Dive Bar Festival</name>
+      <description><![CDATA[<b>Hackney Altfest Dive Bar Festival</b><br><i>Nightlife</i><br>Sat 9th May – Sun 10th May<br>Hackney<br>Check site<br><br>London's first dive bar festival with live music and drinks.<br><br><a href="https://londontheinside.com/whats-on-this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.047669054262764424,51.54888185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Live Music Brunch</name>
+      <description><![CDATA[<b>Live Music Brunch</b><br><i>Food &amp; Drink</i><br>Sat 9th May<br>Broadgate Circle<br>Free<br><br>A brunch with live music and bottomless prosecco or punches.<br><br><a href="https://mr-foggs.designmynight.com/6717b061c3c5f46c0f612fc8/live-music-brunch">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0839589,51.5187679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bougie Drag East Brunch</name>
+      <description><![CDATA[<b>Bougie Drag East Brunch</b><br><i>Nightlife</i><br>Sat 9th May<br>45 London<br>Free<br><br>A luxury drag brunch with bottomless cocktails and performances.<br><br><a href="https://bougie-drag-events.designmynight.com/697a54d322a77625c8729941/bougie-drag-east">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0561079,51.4396531,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drag Bottomless Brunch</name>
+      <description><![CDATA[<b>Drag Bottomless Brunch</b><br><i>Nightlife</i><br>Sat 9th May<br>Shoreditch<br>Free<br><br>A drag brunch with bottomless drinks and performances.<br><br><a href="https://queen-of-hoxton.designmynight.com/5f8053c98eb0f059706fe3f8/drag-bingo-bottomless-brunch">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0798926,51.5266694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cottons Tropical Brunch</name>
+      <description><![CDATA[<b>Cottons Tropical Brunch</b><br><i>Food &amp; Drink</i><br>Sat 9th May<br>Notting Hill<br>Free<br><br>A Caribbean-themed brunch with rum punch or prosecco.<br><br><a href="https://www.designmynight.com/london/whats-on/brunch-event/cottons-tropical-bottomless-brunch">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2055267,51.5109995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Family Jam Early Session</name>
+      <description><![CDATA[<b>Family Jam Early Session</b><br><i>Family</i><br>Sat 9th May<br>Rollernation, London<br>£15.00<br><br>A family-friendly skate jam for kids aged 5-14.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.099076,51.509648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Family Jam Late Session</name>
+      <description><![CDATA[<b>Family Jam Late Session</b><br><i>Family</i><br>Sat 9th May<br>Rollernation, London<br>£15.00<br><br>A family-friendly skate jam for kids aged 5-14.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.099076,51.509648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buzz Bingo Metro Centre</name>
+      <description><![CDATA[<b>Buzz Bingo Metro Centre</b><br><i>Nightlife</i><br>Sat 9th May<br>Metro Centre<br>£10.00<br><br>A bingo night with a meal and drink offer.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3396564,51.4739521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getaway Comedy Soho</name>
+      <description><![CDATA[<b>Getaway Comedy Soho</b><br><i>Comedy</i><br>Sat 9th May<br>Soho Zebrano, Soho<br>£10.00<br><br>Early Saturday comedy show featuring rising stars.<br><br><a href="https://www.skiddle.com/whats-on/London/Soho-Zebrano/Getaway-Comedy-Soho---EARLY-SATURDAY-SHOW/42367885/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.136524,51.513546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Twickenham Record Fair</name>
+      <description><![CDATA[<b>Twickenham Record Fair</b><br><i>Arts &amp; Culture</i><br>Sat 9th May<br>Twickenham<br>Free<br><br>Free entry record fair with vinyl collections.<br><br><a href="https://eventsforlondon.co.uk/event/all-new-twickenham-record-fair-april-11th-9am-3-30pm/2026-05-09/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3281887,51.4467444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Long Play Sessions</name>
+      <description><![CDATA[<b>The Long Play Sessions</b><br><i>Arts &amp; Culture</i><br>Sat 9th May<br>ICMP, Queen’s Park Campus, Queen’s Park<br>£6.25<br><br>Author discusses the life of musician Stuart Adamson.<br><br><a href="https://eventsforlondon.co.uk/event/the-long-play-sessions-scott-rowley-with-stay-alive-the-life-and-death-of-stuart-adamson/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2088186,51.5291991,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1468,22 +1812,6 @@
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1319724,51.5132124,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Shoot from the Hip Improv</name>
-      <description><![CDATA[<b>Shoot from the Hip Improv</b><br><i>Comedy</i><br>Sat 9th May<br>The Bill Murray, Islington<br>Check site<br><br>Improv comedy show with spontaneous performances.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Angel Comedy Saturdays</name>
-      <description><![CDATA[<b>Angel Comedy Saturdays</b><br><i>Comedy</i><br>Sat 9th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy show featuring multiple performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1527,11 +1855,27 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Gary Stewart presents Paul Simon’s Graceland</name>
-      <description><![CDATA[<b>Gary Stewart presents Paul Simon’s Graceland</b><br><i>Music</i><br>Sat 9th May<br>Pentland Theatre<br>From £19<br><br>Live performance of Paul Simon's Graceland.<br><br><a href="https://www.artsdepot.co.uk/event/gary-stewarts-graceland/">More info / tickets</a>]]></description>
+      <name>Shoot from the Hip Improv</name>
+      <description><![CDATA[<b>Shoot from the Hip Improv</b><br><i>Comedy</i><br>Sat 9th May<br>The Bill Murray, Islington<br>Check site<br><br>Improv comedy show with spontaneous performances.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Angel Comedy Saturdays</name>
+      <description><![CDATA[<b>Angel Comedy Saturdays</b><br><i>Comedy</i><br>Sat 9th May<br>The Bill Murray, Islington<br>Free<br><br>Comedy show featuring multiple performers.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tropicana Nights Thames Party Cruise 2026!</name>
+      <description><![CDATA[<b>Tropicana Nights Thames Party Cruise 2026!</b><br><i>Nightlife</i><br>Sat 9th May<br>Temple Pier, Temple<br>£25.00<br><br>An 80s disco-themed party cruise on the Thames.<br><br><a href="https://www.skiddle.com/whats-on/London/Temple-Pier/Tropicana-Nights-Thames-Party-Cruise-2026/41351878/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1209334,51.5101801,0</coordinates>
+        <coordinates>-0.1147009,51.5103975,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1544,7 +1888,7 @@
     </Placemark>
     <Placemark>
       <name>Throw It Back Bottomless Brunch</name>
-      <description><![CDATA[<b>Throw It Back Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 9th May<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>A bottomless brunch with R&amp;B music.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/rnb-throw-it-back-bottomless-brunch">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Throw It Back Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 9th May<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>A bottomless brunch with R&amp;B music.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/rnb-throw-it-back-bottomless-brunch?eventDate=2026-05-09T13:00:00.000Z">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
@@ -1552,7 +1896,7 @@
     </Placemark>
     <Placemark>
       <name>Coors Presents: Saturday Sessions</name>
-      <description><![CDATA[<b>Coors Presents: Saturday Sessions</b><br><i>Nightlife</i><br>Sat 9th May<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>A weekend kickoff event at BOXPARK Shoreditch.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/saturday-sessions">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Coors Presents: Saturday Sessions</b><br><i>Nightlife</i><br>Sat 9th May<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>A weekend kickoff event at BOXPARK Shoreditch.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/saturday-sessions?eventDate=2026-05-09T16:00:00.000Z">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
@@ -1560,7 +1904,7 @@
     </Placemark>
     <Placemark>
       <name>Fabio Wardley vs. Daniel Dubois Screening</name>
-      <description><![CDATA[<b>Fabio Wardley vs. Daniel Dubois Screening</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>Live screening of the boxing match between Wardley and Dubois.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/fabio-wardley-v-daniel-dubois-screening-boxpark-shoreditch">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Fabio Wardley vs. Daniel Dubois Screening</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>BOXPARK Shoreditch, Shoreditch<br>TICKETS<br><br>Live screening of the boxing match between Wardley and Dubois.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/fabio-wardley-v-daniel-dubois-screening-boxpark-shoreditch?eventDate=2026-05-09T22:00:00.000Z">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
@@ -1580,14 +1924,6 @@
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.142943,51.5397245,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>8 1/2- Birthday Season</name>
-      <description><![CDATA[<b>8 1/2- Birthday Season</b><br><i>Arts &amp; Culture</i><br>Sat 9th May<br>Prince Charles Cinema, London<br>£3.50<br><br>A screening of the classic film 8 1/2.<br><br><a href="https://www.genesiscinema.co.uk/event/19061">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1612,22 +1948,6 @@
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.22654427084830048,51.49304955,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Jurassic Oceans After Hours</name>
-      <description><![CDATA[<b>Jurassic Oceans After Hours</b><br><i>Arts &amp; Culture</i><br>Sat 9th May<br>Natural History Museum, South Kensington<br>From £20<br><br>An evening event exploring prehistoric marine life.<br><br><a href="https://www.nhm.ac.uk/whats-on.html">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Anatole Muster</name>
-      <description><![CDATA[<b>Anatole Muster</b><br><i>Music</i><br>Sat 9th May<br>Oslo, Hackney<br>Check site<br><br>Live music performance.<br><br><a href="https://www.oslohackney.com/events/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.036526,51.497706,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1680,7 +2000,7 @@
     </Placemark>
     <Placemark>
       <name>Hot Sauce Society Festival</name>
-      <description><![CDATA[<b>Hot Sauce Society Festival</b><br><i>Food &amp; Drink</i><br>Sat 9th May – Sun 10th May<br>Copeland Park, Peckham, Peckham<br>£5+<br><br>Artisanal hot sauce tasting and spicy food challenges.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Hot Sauce Society Festival</b><br><i>Food &amp; Drink</i><br>Sat 9th May – Sun 10th May<br>Copeland Park, Peckham, Peckham<br>£5+<br><br>Artisanal hot sauce tasting and spicy food challenges.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0659479,51.4698271,0</coordinates>
@@ -1692,14 +2012,6 @@
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.134183,51.507125,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Vintage Poster Market</name>
-      <description><![CDATA[<b>Vintage Poster Market</b><br><i>Community</i><br>Sat 9th May – Sun 10th May<br>Gipsy Hill Brewery, Gipsy Hill<br>Check site<br><br>A market selling vintage posters curated by Projekt 26.<br><br><a href="https://londontheinside.com/whats-on-this-week/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0852039,51.4274292,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1727,11 +2039,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Magic of Thailand Festival in Wimbledon</name>
-      <description><![CDATA[<b>Magic of Thailand Festival in Wimbledon</b><br><i>Cultural</i><br>Sat 9th May – Sun 10th May<br>Wimbledon Park, Wimbledon<br>£6.00<br><br>A two-day Thai festival with food, culture, and entertainment.<br><br><a href="https://eventsforlondon.co.uk/event/magic-of-thailand-festival-in-wimbledon/2026-05-09/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Wrestling in South London</name>
+      <description><![CDATA[<b>Wrestling in South London</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>Gorringe Park Primary School, Mitcham<br>£20.00<br><br>Professional wrestling event in Mitcham.<br><br><a href="https://www.skiddle.com/whats-on/events/London/?eventType=KIDS&amp;">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2066459,51.4382776,0</coordinates>
+        <coordinates>-0.1564327,51.4122884,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1743,171 +2055,139 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>SOULTOWN - Garden Party - Studio 338</name>
-      <description><![CDATA[<b>SOULTOWN - Garden Party - Studio 338</b><br><i>Music</i><br>Sat 9th May – Sun 10th May<br>Studio 338, London<br>£35.00<br><br>A soulful house and disco music event with an after-party.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Free entry to Hampton Court Palace gardens</name>
+      <description><![CDATA[<b>Free entry to Hampton Court Palace gardens</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>Hampton Court Palace, Hampton Court<br>Free<br><br>Explore the world-famous gardens of Hampton Court Palace.<br><br><a href="https://www.ianvisits.co.uk/venues/hampton-court-palace/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1277653,51.5074456,0</coordinates>
+        <coordinates>-0.3418637,51.4043494,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Boy Who Harnessed The Wind</name>
-      <description><![CDATA[<b>The Boy Who Harnessed The Wind</b><br><i>Theatre</i><br>Sat 9th May – Sat 18th Jul<br>Soho Place London W1D 3BG, Soho<br>£25<br><br>A musical based on a true story of a boy's invention bringing hope.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>WiFi Wars</name>
+      <description><![CDATA[<b>WiFi Wars</b><br><i>Arts &amp; Social</i><br>Sun 10th May<br>Studio Theatre<br>From £13.75<br><br>A gaming or tech-themed event.<br><br><a href="https://www.artsdepot.co.uk/event/wifi-wars/#book-now">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1306384,51.5157086,0</coordinates>
+        <coordinates>-0.159608,51.3659217,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Buff Bingo Bottomless Drag</name>
-      <description><![CDATA[<b>Buff Bingo Bottomless Drag</b><br><i>Nightlife</i><br>Sat 9th May<br>Fire London / Vauxhall Food And Beer Garden, Vauxhall<br>£10.00<br><br>A drag bingo brunch and dinner event with drinks included.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>DS: Through the Decades</name>
+      <description><![CDATA[<b>DS: Through the Decades</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>Pentland Theatre<br>£17.50<br><br>A dance performance showcasing various decades.<br><br><a href="https://www.artsdepot.co.uk/event/ds-through-the-decades-dance-stables-summer-show-2026/#book-now">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1229297,51.4874834,0</coordinates>
+        <coordinates>-0.1209334,51.5101801,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Family Jam Early Session</name>
-      <description><![CDATA[<b>Family Jam Early Session</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>Rollernation, London<br>£15.00<br><br>A family-friendly skate jam for children aged 5-14.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <name>Open Age Late Session</name>
+      <description><![CDATA[<b>Open Age Late Session</b><br><i>Sport &amp; Fitness</i><br>Sun 10th May<br>Rollernation, London<br>£15.00<br><br>A dedicated event for teens with music and skating.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.099076,51.509648,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Family Jam Late Session</name>
-      <description><![CDATA[<b>Family Jam Late Session</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>Rollernation, London<br>£15.00<br><br>A family-friendly skate jam for children aged 5-14.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
+      <name>Out of Hours Dino Tours</name>
+      <description><![CDATA[<b>Out of Hours Dino Tours</b><br><i>Family</i><br>Sun 10th May<br>Natural History Museum, South Kensington<br>£30<br><br>Early morning guided tours of the Dinosaurs Gallery.<br><br><a href="https://www.nhm.ac.uk/events/dinotours.html">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
+        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>SELENA's Bottomless Tribute - Dia de la Madre Special</name>
-      <description><![CDATA[<b>SELENA's Bottomless Tribute - Dia de la Madre Special</b><br><i>Music</i><br>Sat 9th May<br>The Garden Vauxhall, Vauxhall<br>£60.00<br><br>A Selena Quintanilla tribute concert with bottomless drinks.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <name>The Stranger</name>
+      <description><![CDATA[<b>The Stranger</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>Phoenix Cinema, East Finchley<br>Check site<br><br>Film screening of The Stranger.<br><br><a href="https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1637085,51.5885079,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pictish Trail</name>
+      <description><![CDATA[<b>Pictish Trail</b><br><i>Music</i><br>Sun 10th May<br>The Lexington, Islington<br>Check site<br><br>A live music performance by Pictish Trail.<br><br><a href="https://www.thelexington.co.uk/events.php?type=gigs">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1236627,51.4850715,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tropicana Nights Thames Party Cruise 2026!</name>
-      <description><![CDATA[<b>Tropicana Nights Thames Party Cruise 2026!</b><br><i>Nightlife</i><br>Sat 9th May<br>Temple Pier, Temple<br>£25.00<br><br>An 80s disco-themed party cruise on the Thames.<br><br><a href="https://www.skiddle.com/whats-on/London/Temple-Pier/Tropicana-Nights-Thames-Party-Cruise-2026/41351878/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1147009,51.5103975,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>David Rodigan Rooftop Day Party</name>
-      <description><![CDATA[<b>David Rodigan Rooftop Day Party</b><br><i>Music</i><br>Sat 9th May – Sun 10th May<br>Freight Brixton, Brixton<br>£20.00<br><br>Reggae, dancehall, and classic music on a rooftop.<br><br><a href="https://www.skiddle.com/whats-on/London/Freight-Brixton/David-Rodigan-Rooftop-Day-Party/42144168/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1133473,51.4628953,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Buzz Bingo Bank Holiday Special</name>
-      <description><![CDATA[<b>Buzz Bingo Bank Holiday Special</b><br><i>Nightlife</i><br>Sat 9th May<br>Enfield<br>£10.00<br><br>Bingo with a meal and drink for £10.<br><br><a href="https://www.skiddle.com/whats-on/Enfield/Buzz-Bingo-Enfield/Bank-Holiday-Season---Buzz-Bingo-Enfield-0905/42335861/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0810175,51.6520851,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Wrestling in South London</name>
-      <description><![CDATA[<b>Wrestling in South London</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>Gorringe Park Primary School, Mitcham<br>£20.00<br><br>Professional wrestling event in Mitcham.<br><br><a href="https://www.skiddle.com/whats-on/Croydon/Gorringe-Park-Primary-School/Wrestling-in-South-London/42155966/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1564327,51.4122884,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>YESSS Sir - Remember Me</name>
-      <description><![CDATA[<b>YESSS Sir - Remember Me</b><br><i>Music</i><br>Sat 9th May – Sun 10th May<br>Rolling Stock, London<br>£20.00<br><br>Live performance by YESSS Sir.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.077713,51.528613,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Dan Shake &amp; Friends Day &amp; Night Party</name>
-      <description><![CDATA[<b>Dan Shake &amp; Friends Day &amp; Night Party</b><br><i>Music</i><br>Sat 9th May – Sun 10th May<br>The Cause London, London<br>£25.00<br><br>Day and night music event with extended sets.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.0168778,51.5044185,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>3 Years Of B&amp;M w/ Merikan + The Neuroheadz</name>
-      <description><![CDATA[<b>3 Years Of B&amp;M w/ Merikan + The Neuroheadz</b><br><i>Music</i><br>Sat 9th May – Sun 10th May<br>Oslo Hackney London, Hackney<br>£7.50<br><br>Anniversary party with live music.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.036303,51.497629,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Stranger Things: The First Shadow</name>
-      <description><![CDATA[<b>Stranger Things: The First Shadow</b><br><i>Theatre</i><br>Sat 9th May<br>Phoenix Theatre, West End<br>Check site<br><br>Stage adaptation of Stranger Things.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>1991 - London</name>
-      <description><![CDATA[<b>1991 - London</b><br><i>Music</i><br>Sat 9th May<br>Colour Factory London, London<br>£22.00<br><br>Live performance by 1991.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0227665,51.5432367,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>AZUL @ 93 Feet East</name>
-      <description><![CDATA[<b>AZUL @ 93 Feet East</b><br><i>Music</i><br>Sat 9th May<br>93 Feet East, London<br>£12.00<br><br>Live music event with Levi Swarn and Mason Cooper.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.092813,51.514993,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>House of Stepz - Day Party</name>
-      <description><![CDATA[<b>House of Stepz - Day Party</b><br><i>Music</i><br>Sat 9th May<br>LDN EAST, London<br>£13.00<br><br>Celebration of House of Stepz's first anniversary.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2652329,51.46473,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>RollerDisco</name>
-      <description><![CDATA[<b>RollerDisco</b><br><i>Nightlife</i><br>Sat 9th May – Sun 10th May<br>Rollernation, London<br>£19.50<br><br>Disco-themed roller skating event.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Beyond</name>
-      <description><![CDATA[<b>Beyond</b><br><i>Nightlife</i><br>Sat 9th May – Sun 10th May<br>Fire Nightclub, London<br>£35.00<br><br>Nightclub event featuring the Contact Room.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1241658,51.484479,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>UKEL Live Grand Finals</name>
-      <description><![CDATA[<b>UKEL Live Grand Finals</b><br><i>Sport &amp; Fitness</i><br>Sat 9th May<br>Red Bull Gaming Sphere London, London<br>£15.00<br><br>Esports tournament finals in London.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0748706,51.5238377,0</coordinates>
+        <coordinates>-0.11145561125384369,51.5317715,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Hyakkō: 100+ Makers from Japan</name>
-      <description><![CDATA[<b>Hyakkō: 100+ Makers from Japan</b><br><i>Arts &amp; Culture</i><br>Sat 9th May – Sun 10th May<br>Exhibition, Kensington<br>Free<br><br>Exhibition of contemporary Japanese craft.<br><br><a href="https://londoncheapo.com/events/">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Hyakkō: 100+ Makers from Japan</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>Kensington<br>Free<br><br>Celebrating contemporary Japanese craft with works in clay, glass, wood, and more.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1965911,51.4905445,0</coordinates>
+        <coordinates>-0.1991229,51.4989948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Covent Garden May Fayre &amp; Puppet Festival</name>
+      <description><![CDATA[<b>Covent Garden May Fayre &amp; Puppet Festival</b><br><i>Family</i><br>Sun 10th May<br>Covent Garden<br>Free<br><br>Celebration of Mr. Punch with puppet shows, workshops, and live music.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.122869,51.513645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Marathon</name>
+      <description><![CDATA[<b>London Marathon</b><br><i>Sport &amp; Fitness</i><br>Sun 10th May<br>Greenwich and Blackheath, Greenwich<br>Check site<br><br>The annual London Marathon with elite and mass start categories.<br><br><a href="https://www.london-now.co.uk/news/26046569.london-weekend-full-list-events/">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0169209,51.4627863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A Midsummer Night's Dream</name>
+      <description><![CDATA[<b>A Midsummer Night's Dream</b><br><i>Theatre</i><br>Sun 10th May<br>Shakespeare’s Globe, South Bank<br>Check site<br><br>Shakespeare's comedy performed at the Globe Theatre.<br><br><a href="https://www.london-now.co.uk/news/26046569.london-weekend-full-list-events/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.300806,51.392171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schiaparelli: Fashion Becomes Art</name>
+      <description><![CDATA[<b>Schiaparelli: Fashion Becomes Art</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>V&amp;A Museum, South Kensington<br>Check site<br><br>An exhibition on the fashion designs of Elsa Schiaparelli.<br><br><a href="https://www.london-now.co.uk/news/26046569.london-weekend-full-list-events/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1716372,51.4968838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frameless Immersive Art</name>
+      <description><![CDATA[<b>Frameless Immersive Art</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>Marble Arch Place, Marble Arch<br>Check site<br><br>An immersive art show with ticketed sessions.<br><br><a href="https://www.london-now.co.uk/news/26046569.london-weekend-full-list-events/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.15891,51.5132,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>David Bowie: You're Not Alone</name>
+      <description><![CDATA[<b>David Bowie: You're Not Alone</b><br><i>Cultural</i><br>Sun 10th May<br>Lightroom, King’s Cross, King's Cross<br>from £25<br><br>An immersive show celebrating David Bowie's music.<br><br><a href="https://www.london-now.co.uk/news/26046569.london-weekend-full-list-events/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1260074,51.5374302,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>V&amp;A East</name>
+      <description><![CDATA[<b>V&amp;A East</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>V&amp;A East, East Bank, Stratford, Stratford<br>Check site<br><br>A new museum branch in Stratford with standard opening hours.<br><br><a href="https://www.london-now.co.uk/news/26046569.london-weekend-full-list-events/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.012904,51.541352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Curating at Home</name>
+      <description><![CDATA[<b>Curating at Home</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>IMT Gallery, Bethnal Green<br>£115 – £195<br><br>Online course on living with art.<br><br><a href="https://eventsforlondon.co.uk/event/curating-at-home-making-personal-spaces-of-creative-agency-with-dr-mark-rohtmaa-jackson-2/2026-05-10/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.077084,51.523692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shahak Shapira</name>
+      <description><![CDATA[<b>Shahak Shapira</b><br><i>Comedy</i><br>Sun 10th May<br>Backyard Comedy Club, Bethnal Green<br>£27<br><br>Stand-up comedy by Israeli-German comedian.<br><br><a href="https://eventsforlondon.co.uk/event/shahak-shapira-selective-identity-london/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0554864,51.5253332,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1919,48 +2199,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Stand Up Beginners Course Showcase</name>
-      <description><![CDATA[<b>Stand Up Beginners Course Showcase</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Showcase of new comedians from a stand-up course.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ayo Adenekan: We've Hit the Second Hour</name>
-      <description><![CDATA[<b>Ayo Adenekan: We've Hit the Second Hour</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Ayo Adenekan.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Paul Campbell: The Lost Tapes of Somerfield</name>
-      <description><![CDATA[<b>Paul Campbell: The Lost Tapes of Somerfield</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Comedy show by Paul Campbell.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sergi Polo - Live in Spanish</name>
-      <description><![CDATA[<b>Sergi Polo - Live in Spanish</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Comedy show performed in Spanish.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.098819,51.536251,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>The Umbrellas of Cherbourg</name>
       <description><![CDATA[<b>The Umbrellas of Cherbourg</b><br><i>Theatre</i><br>Sun 10th May<br>Prince Charles Cinema, London<br>Check site<br><br>Musical romance film screening.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1302137,51.5114907,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Wizard of Oz</name>
-      <description><![CDATA[<b>The Wizard of Oz</b><br><i>Theatre</i><br>Sun 10th May<br>Prince Charles Cinema, London<br>Check site<br><br>Classic family film screening.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1302137,51.5114907,0</coordinates>
@@ -1999,6 +2239,46 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Stand Up Beginners Course Showcase</name>
+      <description><![CDATA[<b>Stand Up Beginners Course Showcase</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Showcase of new comedians from a stand-up course.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ayo Adenekan: We've Hit the Second Hour</name>
+      <description><![CDATA[<b>Ayo Adenekan: We've Hit the Second Hour</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Ayo Adenekan.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paul Campbell: The Lost Tapes of Somerfield</name>
+      <description><![CDATA[<b>Paul Campbell: The Lost Tapes of Somerfield</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Comedy show by Paul Campbell.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sergi Polo - Live in Spanish</name>
+      <description><![CDATA[<b>Sergi Polo - Live in Spanish</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Comedy show performed in Spanish.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maia Tassalini: I Was 22 and Stunning</name>
+      <description><![CDATA[<b>Maia Tassalini: I Was 22 and Stunning</b><br><i>Comedy</i><br>Sun 10th May<br>The Bill Murray, Islington<br>Check site<br><br>Work-in-progress comedy show by Maia Tassalini.<br><br><a href="https://www.angelcomedy.co.uk/bill-murray/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.098819,51.536251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Radio Recording at Backyard</name>
       <description><![CDATA[<b>Radio Recording at Backyard</b><br><i>Comedy</i><br>Sun 10th May<br>Backyard Comedy Club, Bethnal Green<br>£0 – £0<br><br>Comedy show being recorded for radio.<br><br><a href="https://backyardcomedyclub.co.uk/events/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
@@ -2015,35 +2295,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>WiFi Wars</name>
-      <description><![CDATA[<b>WiFi Wars</b><br><i>Theatre</i><br>Sun 10th May<br>Studio Theatre<br>From £13.75<br><br>Interactive gaming performance.<br><br><a href="https://www.artsdepot.co.uk/event/wifi-wars/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.159608,51.3659217,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>DS: Through the Decades</name>
-      <description><![CDATA[<b>DS: Through the Decades</b><br><i>Theatre</i><br>Sun 10th May<br>Pentland Theatre<br>£17.50<br><br>Dance performance showcasing decades of styles.<br><br><a href="https://www.artsdepot.co.uk/event/ds-through-the-decades-dance-stables-summer-show-2026/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1209334,51.5101801,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Sisters in House x Women of Tech House</name>
-      <description><![CDATA[<b>Sisters in House x Women of Tech House</b><br><i>Music</i><br>Sun 10th May<br>BOXPARK Shoreditch, Shoreditch<br>FREE<br><br>A day party celebrating female DJs in the house music scene.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/sisters-in-house-x-women-of-tech-house">More info / tickets</a>]]></description>
+      <description><![CDATA[<b>Sisters in House x Women of Tech House</b><br><i>Music</i><br>Sun 10th May<br>BOXPARK Shoreditch, Shoreditch<br>FREE<br><br>A day party celebrating female DJs in the house music scene.<br><br><a href="https://www.boxpark.co.uk/venues/shoreditch/events/sisters-in-house-x-women-of-tech-house?eventDate=2026-05-10T14:00:00.000Z">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.07626497470375923,51.5235032,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>LINA WERTMÜLLER: LOVE AND ANARCHY (1973)</name>
-      <description><![CDATA[<b>LINA WERTMÜLLER: LOVE AND ANARCHY (1973)</b><br><i>Arts &amp; Culture</i><br>Sun 10th May<br>The Lexi Cinema, London<br>£10<br><br>Film screening at The Lexi Cinema.<br><br><a href="https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.2224753,51.5375275,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2055,24 +2311,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Will Whisson</name>
-      <description><![CDATA[<b>Will Whisson</b><br><i>Music</i><br>Sun 10th May<br>New Cross Inn, New Cross<br>£10<br><br>Live music performance at New Cross Inn.<br><br><a href="https://pit.live/events/will-whisson">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0370911,51.4757953,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Elaine Delmar</name>
       <description><![CDATA[<b>Elaine Delmar</b><br><i>Music</i><br>Sun 10th May<br>Ronnie Scott's, Soho<br>Book Now<br><br>Vocal performance by established singer.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Gary Williams</name>
-      <description><![CDATA[<b>Gary Williams</b><br><i>Music</i><br>Sun 10th May<br>Ronnie Scott's, Soho<br>Book Now<br><br>Celebration of golden age crooners.<br><br><a href="https://www.ronniescotts.co.uk/find-a-show">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
@@ -2095,22 +2335,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Enterprise National League Promotion Final</name>
-      <description><![CDATA[<b>Enterprise National League Promotion Final</b><br><i>Sport &amp; Fitness</i><br>Sun 10th May<br>Wembley Stadium, Wembley<br>Check site<br><br>Football promotion final at Wembley Stadium.<br><br><a href="https://www.wembleystadium.com/events/2026/Enterprise-National-League-Promotion-Final">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.27960339379401444,51.55606945,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Covent Garden May Fayre &amp; Puppet Festival</name>
-      <description><![CDATA[<b>Covent Garden May Fayre &amp; Puppet Festival</b><br><i>Family</i><br>Sun 10th May<br>Covent Garden Piazza, Covent Garden<br>Free<br><br>Puppet theatre, Punch &amp; Judy shows, and roving performers.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.121613,51.511892,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Hot Air Balloon Regatta</name>
       <description><![CDATA[<b>Hot Air Balloon Regatta</b><br><i>Sport &amp; Fitness</i><br>Sun 10th May<br>Battersea Park, Battersea<br>Free<br><br>Colourful hot air balloons take flight over Battersea Park.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
       <styleUrl>#ltblue-dot.png</styleUrl>
@@ -2124,14 +2348,6 @@
       <styleUrl>#green-dot.png</styleUrl>
       <Point>
         <coordinates>-0.122869,51.513645,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Open Age Late Session</name>
-      <description><![CDATA[<b>Open Age Late Session</b><br><i>Sport &amp; Fitness</i><br>Sun 10th May<br>Rollernation, London<br>£15.00<br><br>A skate session for teens with music from RN DJs.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.099076,51.509648,0</coordinates>
       </Point>
     </Placemark>
   </Document>
