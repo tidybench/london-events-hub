@@ -8,8 +8,20 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
+UID:a2097ec89944@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260701
+SUMMARY:Avora: A New World Immersive Experience
+DESCRIPTION:Theatrical adventure with immersive sets\, actors\, and exotic 
+ drinks.\n\nPrice: £48.06\n\nTickets/Info: https://feverup.com/m/118999
+LOCATION:AVORA\, London\, London
+URL:https://feverup.com/m/118999
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
 UID:77034fadac64@london-events-scraper
-DTSTAMP:20260505T000000Z
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260607
 SUMMARY:Regent’s Park Open Air Theatre Spring Season
@@ -22,72 +34,87 @@ URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:5c2458205958@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
+UID:f22d8f0dc414@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260511
 SUMMARY:The Lord of the Rings: The Return of the King in Concert
-DESCRIPTION:Live orchestra performance of Howard Shore's score with film sc
- reening.\n\nPrice: £45 – £120\n\nTickets/Info: https://www.londonbackp
- ackers.com/blog/london-events-in-may-explore-things-to-do/
+DESCRIPTION:Live orchestra performance of Howard Shore’s score with film 
+ screening.\n\nPrice: £45 – £120\n\nTickets/Info: https://www.londonbac
+ kpackers.com/blog/london-events-in-may-explore-things-to-do/
 LOCATION:Royal Albert Hall\, South Kensington\, London
 URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
  ngs-to-do/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:1a2ccd103f5c@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Little Venice canal walk
-DESCRIPTION:A walk along the canal towpath exploring the Age of Canals.\n\n
- Price: £20\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Warwick Avenue tube station\, Little Venice\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:751d7fcfaff0@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260607
-SUMMARY:AN IDEAL HUSBAND
-DESCRIPTION:Bold new production of Oscar Wilde's classic play.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://lyric.co.uk/whats-on/shows/
-LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, London
-URL:https://lyric.co.uk/whats-on/shows/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:4ee589f77a95@london-events-scraper
-DTSTAMP:20260505T000000Z
+UID:4ff10d726d85@london-events-scraper
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260510
-SUMMARY:Rosas - Il Cimento dell’Armonia e dell’Inventione
-DESCRIPTION:Contemporary dance performance by Rosas.\n\nPrice: Free\n\nTick
- ets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, Islington\, London
-URL:https://www.sadlerswells.com/whats-on
+SUMMARY:Sound Bites
+DESCRIPTION:Food and music festival with live music\, immersive dining\, an
+ d street food.\n\nPrice: £10\n\nTickets/Info: https://secretldn.com/may-a
+ ctivities-things-to-do-london/
+LOCATION:Syon Park\, London\, London
+URL:https://secretldn.com/may-activities-things-to-do-london/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:bc88896ecce4@london-events-scraper
-DTSTAMP:20260505T000000Z
+UID:99079ed42bef@london-events-scraper
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:London Bridge Rooftop Bottomless Brunch
-DESCRIPTION:A brunch with bottomless drinks and party tunes on a rooftop.\n
- \nPrice: Check site\n\nTickets/Info: https://www.designmynight.com/london/
- whats-on/bottomless-brunch-events/london-bridge-rooftop-bottomless-brunch
-LOCATION:London Bridge\, London
-URL:https://www.designmynight.com/london/whats-on/bottomless-brunch-events/
- london-bridge-rooftop-bottomless-brunch
+SUMMARY:Edgar Allan Poe Speakeasy London
+DESCRIPTION:Immersive experience inspired by Poe.\n\nPrice: £42.00\n\nTick
+ ets/Info: https://feverup.com/en/london
+LOCATION:Glaziers Hall\, London\, London
+URL:https://feverup.com/en/london
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:42c7d4157394@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:A Midsummer Night's Dream
+DESCRIPTION:Shakespeare's comedy performed at the Globe Theatre.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.london-now.co.uk/news/26046569.lon
+ don-weekend-full-list-events/
+LOCATION:Shakespeare’s Globe\, South Bank\, London
+URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-eve
+ nts/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:beab6a472b78@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260621
+SUMMARY:Romeo & Juliet At The Harold Pinter Theatre
+DESCRIPTION:Shakespeare's classic love story.\n\nPrice: from £20 per ticke
+ t\n\nTickets/Info: https://www.designmynight.com/london/blog/things-to-do-
+ in-london-this-weekend
+LOCATION:The Harold Pinter Theatre\, West End\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:bcfa7a78c960@london-events-scraper
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Alice Zawadzki & Friends
+DESCRIPTION:Jazz performance by award-winning singer.\n\nPrice: Free\n\nTic
+ kets/Info: https://www.vortexjazz.co.uk/event/alice-zawadzki-friends/
+LOCATION:Vortex Jazz Club\, London
+URL:https://www.vortexjazz.co.uk/event/alice-zawadzki-friends/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:04ffd93d9e9e@london-events-scraper
-DTSTAMP:20260505T000000Z
+DTSTAMP:20260506T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Rum Masterclass At Black Parrot
@@ -97,32 +124,6 @@ DESCRIPTION:A rum tasting session with cocktails and swashbuckling stories.
 LOCATION:London
 URL:https://merchant-house.designmynight.com/5b215424c039b1584e6de275/rum-m
  asterclass
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:df60d2984a6c@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260510
-SUMMARY:I'm Sorry\, Prime Minister
-DESCRIPTION:Theatre production continuing the Yes\, Minister series.\n\nPri
- ce: £15.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/s
- eries/APSPM01M/im-sorry-prime-minister-1812092
-LOCATION:Apollo Theatre\, London\, London
-URL:https://ticketing.nimaxtheatres.com/tickets/series/APSPM01M/im-sorry-pr
- ime-minister-1812092
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:09478dd84a09@london-events-scraper
-DTSTAMP:20260505T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Lust\, Caution
-DESCRIPTION:Film screening of Lust\, Caution.\n\nPrice: Check site\n\nTicke
- ts/Info: https://princecharlescinema.com/next-7-days/
-LOCATION:Prince Charles Cinema\, London\, London
-URL:https://princecharlescinema.com/next-7-days/
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
