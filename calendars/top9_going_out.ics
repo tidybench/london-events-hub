@@ -8,22 +8,8 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:c4fc15859589@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Eurovision Your Decision
-DESCRIPTION:A live Eurovision cabaret where the audience votes for the winn
- er.\n\nPrice: £15\n\nTickets/Info: https://eventsforlondon.co.uk/event/eu
- rovision-your-decision/2026-05-06/
-LOCATION:Royal Vauxhall Tavern\, Vauxhall\, London
-URL:https://eventsforlondon.co.uk/event/eurovision-your-decision/2026-05-06
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:ddd5780076e3@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:DJ Tunez & Mavo: Money Constant Weekend
@@ -36,7 +22,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:1857aef7a1e0@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Fridays at Backyard
@@ -47,89 +33,98 @@ URL:https://backyardcomedyclub.co.uk/events/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:567f459c7712@london-events-scraper
-DTSTAMP:20260506T000000Z
+UID:4f1b279cce74@london-events-scraper
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:Bougie Drag Bottomless Brunch
-DESCRIPTION:A glamorous drag brunch with performances by RUPAUL'S DRAG RACE
-  UK queens.\n\nPrice: Free\n\nTickets/Info: https://bougie-drag-events.des
- ignmynight.com/5d67d7959bc98c585a7346b5/bougie-drag-brunch-daytime-party
-LOCATION:London
-URL:https://bougie-drag-events.designmynight.com/5d67d7959bc98c585a7346b5/b
- ougie-drag-brunch-daytime-party
+SUMMARY:Bougie Drag East Brunch
+DESCRIPTION:A luxury drag brunch with bottomless cocktails and performances
+ .\n\nPrice: Free\n\nTickets/Info: https://bougie-drag-events.designmynight
+ .com/697a54d322a77625c8729941/bougie-drag-east
+LOCATION:45 London\, London
+URL:https://bougie-drag-events.designmynight.com/697a54d322a77625c8729941/b
+ ougie-drag-east
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:fec39cfc61d8@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Cherry Jamz Takeover: Hip-Hop\, RnB + UKG
-DESCRIPTION:Music event featuring hip-hop\, RnB\, and UK garage.\n\nPrice: 
- Check site\n\nTickets/Info: https://www.oslohackney.com/events/cherry-jamz
- -takeover-hip-hop-rnb-ukg-2/
-LOCATION:Oslo\, Hackney\, London
-URL:https://www.oslohackney.com/events/cherry-jamz-takeover-hip-hop-rnb-ukg
- -2/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:4cf9245f1200@london-events-scraper
-DTSTAMP:20260506T000000Z
+UID:126d6297565e@london-events-scraper
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-SUMMARY:Dan Shake & Friends
-DESCRIPTION:A day and night DJ event with extended sets.\n\nPrice: £35.00\
- n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-londo
- n-this-weekend/
-LOCATION:The Cause\, London\, London
+SUMMARY:Dan Shake & Friends (Day & Night)
+DESCRIPTION:Day and night DJ sets with surprises.\n\nPrice: £25.00\n\nTick
+ ets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-this-
+ weekend/
+LOCATION:The Cause London\, London\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:4078d2231527@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Hackney Altfest Dive Bar Festival
-DESCRIPTION:London's first dive bar festival with live music and drinks.\n\
- nPrice: Check site\n\nTickets/Info: https://feverup.com/en/london/music-ev
- ents?utm_source=affiliate&utm_medium=impact&utm_campaign=80803&utm_content
- =2054681_LOTI&irclickid=QJd3qYQefxyNWrx3YoWKJxhlUkFTicxhXRSmz40&utm_term=1
- 396783&irgwc=1
-LOCATION:Hackney\, London
-URL:https://feverup.com/en/london/music-events?utm_source=affiliate&utm_med
- ium=impact&utm_campaign=80803&utm_content=2054681_LOTI&irclickid=QJd3qYQef
- xyNWrx3YoWKJxhlUkFTicxhXRSmz40&utm_term=1396783&irgwc=1
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:a5b3405ff68a@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:House of Stepz - Day Party
-DESCRIPTION:A celebration of the first anniversary of House of Stepz.\n\nPr
- ice: £13.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/what
- s-on-in-london-this-weekend/
+DESCRIPTION:Celebrating the first anniversary of House of Stepz.\n\nPrice: 
+ £13.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-
+ in-london-this-weekend/
 LOCATION:LDN EAST\, London\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:0d090e7e0533@london-events-scraper
-DTSTAMP:20260506T000000Z
+UID:5b01bcad1279@london-events-scraper
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-SUMMARY:SOULTOWN - Garden Party
-DESCRIPTION:A soul and house music party with classic tracks.\n\nPrice: £1
- 5.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-
- london-this-weekend/
-LOCATION:Studio 338\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+SUMMARY:SOULTOWN Garden Party
+DESCRIPTION:House\, disco\, and soul music party.\n\nPrice: £30.00\n\nTick
+ ets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:Studio 338\, Greenwich Peninsula\, London
+URL:https://www.skiddle.com/whats-on/London/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4b30b0af86@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260511
+SUMMARY:GALA Festival
+DESCRIPTION:Three-day festival of house\, disco\, and underground electroni
+ c music.\n\nPrice: £40 – £70\n\nTickets/Info: https://www.londonbackpa
+ ckers.com/blog/london-events-in-may-explore-things-to-do/
+LOCATION:Peckham Rye Park\, Peckham\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f8522942f4@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Afrobeats in the Garden
+DESCRIPTION:Afrobeats music and dance party.\n\nPrice: £5.00\n\nTickets/In
+ fo: https://www.skiddle.com/whats-on/London/The-Garden-Vauxhall/Afrobeats-
+ in-the-Garden/42313779/
+LOCATION:The Garden Vauxhall\, Vauxhall\, London
+URL:https://www.skiddle.com/whats-on/London/The-Garden-Vauxhall/Afrobeats-i
+ n-the-Garden/42313779/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a515063f9123@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Eurovision Your Decision
+DESCRIPTION:A live Eurovision cabaret where the audience votes for the winn
+ er.\n\nPrice: £15\n\nTickets/Info: https://eventsforlondon.co.uk/event/eu
+ rovision-your-decision/2026-05-07/
+LOCATION:Royal Vauxhall Tavern\, London\, London
+URL:https://eventsforlondon.co.uk/event/eurovision-your-decision/2026-05-07
  /
 CATEGORIES:Going Out
 END:VEVENT
