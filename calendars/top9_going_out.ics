@@ -33,29 +33,15 @@ URL:https://backyardcomedyclub.co.uk/events/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:4f1b279cce74@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Bougie Drag East Brunch
-DESCRIPTION:A luxury drag brunch with bottomless cocktails and performances
- .\n\nPrice: Free\n\nTickets/Info: https://bougie-drag-events.designmynight
- .com/697a54d322a77625c8729941/bougie-drag-east
-LOCATION:45 London\, London
-URL:https://bougie-drag-events.designmynight.com/697a54d322a77625c8729941/b
- ougie-drag-east
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:126d6297565e@london-events-scraper
+UID:4cf9245f1200@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-SUMMARY:Dan Shake & Friends (Day & Night)
-DESCRIPTION:Day and night DJ sets with surprises.\n\nPrice: £25.00\n\nTick
- ets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-this-
- weekend/
-LOCATION:The Cause London\, London\, London
+SUMMARY:Dan Shake & Friends
+DESCRIPTION:Day and night DJ sets with special surprises.\n\nPrice: £25.00
+ \n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-lond
+ on-this-weekend/
+LOCATION:The Cause London\, Shoreditch\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
@@ -66,24 +52,12 @@ DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:House of Stepz - Day Party
-DESCRIPTION:Celebrating the first anniversary of House of Stepz.\n\nPrice: 
- £13.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-
- in-london-this-weekend/
-LOCATION:LDN EAST\, London\, London
+DESCRIPTION:A daytime party celebrating the venue's first birthday.\n\nPric
+ e: £13.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-
+ on-in-london-this-weekend/
+LOCATION:LDN EAST\, Hackney Wick\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:5b01bcad1279@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:SOULTOWN Garden Party
-DESCRIPTION:House\, disco\, and soul music party.\n\nPrice: £30.00\n\nTick
- ets/Info: https://www.skiddle.com/whats-on/London/
-LOCATION:Studio 338\, Greenwich Peninsula\, London
-URL:https://www.skiddle.com/whats-on/London/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -101,20 +75,6 @@ URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:b2f8522942f4@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Afrobeats in the Garden
-DESCRIPTION:Afrobeats music and dance party.\n\nPrice: £5.00\n\nTickets/In
- fo: https://www.skiddle.com/whats-on/London/The-Garden-Vauxhall/Afrobeats-
- in-the-Garden/42313779/
-LOCATION:The Garden Vauxhall\, Vauxhall\, London
-URL:https://www.skiddle.com/whats-on/London/The-Garden-Vauxhall/Afrobeats-i
- n-the-Garden/42313779/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:a515063f9123@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
@@ -126,6 +86,46 @@ DESCRIPTION:A live Eurovision cabaret where the audience votes for the winn
 LOCATION:Royal Vauxhall Tavern\, London\, London
 URL:https://eventsforlondon.co.uk/event/eurovision-your-decision/2026-05-07
  /
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:567f459c7712@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Bougie Drag Bottomless Brunch
+DESCRIPTION:Luxury drag brunch with performances from RuPaul's Drag Race UK
+  stars.\n\nPrice: Free\n\nTickets/Info: https://bougie-drag-events.designm
+ ynight.com/5d67d7959bc98c585a7346b5/bougie-drag-brunch-daytime-party
+LOCATION:London\, London
+URL:https://bougie-drag-events.designmynight.com/5d67d7959bc98c585a7346b5/b
+ ougie-drag-brunch-daytime-party
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:69c7f75be418@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:SELENA's Bottomless Tribute
+DESCRIPTION:A Selena Quintanilla tribute party with bottomless drinks.\n\nP
+ rice: £60.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:The Garden Vauxhall\, Vauxhall\, London
+URL:https://www.skiddle.com/whats-on/London/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:1436427fcb09@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Juke Box Baby
+DESCRIPTION:A live band plays your requested songs for an interactive sing-
+ along party.\n\nPrice: Free\n\nTickets/Info: https://alberts-schloss-londo
+ n.designmynight.com/66963481aa68e777eb7638c0/baby-grand-slam
+LOCATION:Albert's Schloss - Soho\, Soho\, London
+URL:https://alberts-schloss-london.designmynight.com/66963481aa68e777eb7638
+ c0/baby-grand-slam
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
