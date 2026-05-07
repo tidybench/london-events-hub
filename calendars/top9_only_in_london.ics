@@ -36,18 +36,6 @@ URL:https://www.thecityofldn.com/event/medieval-jewish-london-history-festi
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:18ee01925c0e@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore the maritime history of Rotherhithe.\n\nPrice: £20\n\n
- Tickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Bermondsey tube station\, Rotherhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:d87057e3d4cf@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
@@ -76,44 +64,17 @@ URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:2cc985cddd10@london-events-scraper
+UID:d57d54586771@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260713
-SUMMARY:Seeds of Exchange: Canton and London in the 1700s
-DESCRIPTION:Exhibition on 18th-century botanical collaboration between Engl
- and and China.\n\nPrice: £16\n\nTickets/Info: https://feverup.com/en/lond
- on
-LOCATION:The Garden Museum\, Lambeth\, London
-URL:https://feverup.com/en/london
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:92b7fd45b43e@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260513
-SUMMARY:CASA ÁGAPE POP-UP OPENS IN NOTTING HILL
-DESCRIPTION:A Latin American concept store showcasing emerging designers.\n
- \nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/casa-ag
- ape-pop-up-opens-in-notting-hill/
+SUMMARY:CASA ÁGAPE Pop-Up in Notting Hill
+DESCRIPTION:Pop-up shop or cultural experience in Notting Hill.\n\nPrice: F
+ ree\n\nTickets/Info: https://eventsforlondon.co.uk/event/casa-agape-pop-up
+ -opens-in-notting-hill/
 LOCATION:353 Portobello Road\, Notting Hill\, London
 URL:https://eventsforlondon.co.uk/event/casa-agape-pop-up-opens-in-notting-
  hill/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:84b3361f03d1@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:London Loo Tour
-DESCRIPTION:A quirky walking tour about London's toilets.\n\nPrice: £20\n\
- nTickets/Info: https://www.ianvisits.co.uk/calendar/billingsgate-roman-hou
- se-and-baths-tour-429370/
-LOCATION:Waterloo Station\, Waterloo\, London
-URL:https://www.ianvisits.co.uk/calendar/billingsgate-roman-house-and-baths
- -tour-429370/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
@@ -126,6 +87,44 @@ DESCRIPTION:Historical walking tour of Rotherhithe Village.\n\nPrice: £20\
  n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Rotherhithe\, Rotherhithe\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fc93a6813a@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Discovering Hidden Westminster with a Funny Historian
+DESCRIPTION:Surprising walking tour of Westminster's hidden side.\n\nPrice:
+  £16.75\n\nTickets/Info: https://www.ianvisits.co.uk/
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://www.ianvisits.co.uk/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:84b3361f03d1@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+SUMMARY:London Loo Tour
+DESCRIPTION:A quirky walking tour about London's toilets.\n\nPrice: £20\n\
+ nTickets/Info: https://www.ianvisits.co.uk/calendar/london-loo-tour-2-4277
+ 27/
+LOCATION:Waterloo Station\, Waterloo\, London
+URL:https://www.ianvisits.co.uk/calendar/london-loo-tour-2-427727/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:d45c7a85efa3@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+SUMMARY:Brixton Windmill Open Days
+DESCRIPTION:Guided tours of Brixton’s 200-year-old windmill and its histo
+ ry.\n\nPrice: £5.00 (advance sales)\n\nTickets/Info: https://londoncheapo
+ .com/events/may/
+LOCATION:Brixton\, London
+URL:https://londoncheapo.com/events/may/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
