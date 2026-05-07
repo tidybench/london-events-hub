@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
 UID:1df07a4f6075@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:London Boat Party
@@ -23,7 +23,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:85e422ab3e53@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 SUMMARY:Medieval Jewish London History Festival
@@ -37,7 +37,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:18ee01925c0e@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
 SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
@@ -49,7 +49,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:d87057e3d4cf@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
 SUMMARY:Brixton Market Heritage Walk
@@ -63,7 +63,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:f8dd8496591e@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:London May Fair at St James’s
@@ -76,20 +76,21 @@ URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:0db2ab5c8a9b@london-events-scraper
-DTSTAMP:20260506T000000Z
+UID:2cc985cddd10@london-events-scraper
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260713
-SUMMARY:Ramses and the Pharaohs' Gold: The Exhibition
-DESCRIPTION:Ancient Egyptian treasures exhibition.\n\nPrice: £24\n\nTicket
- s/Info: https://feverup.com/m/503872
-LOCATION:NEON at Battersea Power Station\, Battersea\, London
-URL:https://feverup.com/m/503872
+SUMMARY:Seeds of Exchange: Canton and London in the 1700s
+DESCRIPTION:Exhibition on 18th-century botanical collaboration between Engl
+ and and China.\n\nPrice: £16\n\nTickets/Info: https://feverup.com/en/lond
+ on
+LOCATION:The Garden Museum\, Lambeth\, London
+URL:https://feverup.com/en/london
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:92b7fd45b43e@london-events-scraper
-DTSTAMP:20260506T000000Z
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260513
 SUMMARY:CASA ÁGAPE POP-UP OPENS IN NOTTING HILL
@@ -102,31 +103,29 @@ URL:https://eventsforlondon.co.uk/event/casa-agape-pop-up-opens-in-notting-
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:f17a9bd9473e@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260510
+UID:84b3361f03d1@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
-SUMMARY:David Bowie: You're Not Alone
-DESCRIPTION:An immersive show celebrating David Bowie's music.\n\nPrice: fr
- om £25\n\nTickets/Info: https://www.london-now.co.uk/news/26046569.london
- -weekend-full-list-events/
-LOCATION:Lightroom\, King’s Cross\, King's Cross\, London
-URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-eve
- nts/
+SUMMARY:London Loo Tour
+DESCRIPTION:A quirky walking tour about London's toilets.\n\nPrice: £20\n\
+ nTickets/Info: https://www.ianvisits.co.uk/calendar/billingsgate-roman-hou
+ se-and-baths-tour-429370/
+LOCATION:Waterloo Station\, Waterloo\, London
+URL:https://www.ianvisits.co.uk/calendar/billingsgate-roman-house-and-baths
+ -tour-429370/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:845fc2cce56d@london-events-scraper
-DTSTAMP:20260506T000000Z
+UID:63ce51ea081f@london-events-scraper
+DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-SUMMARY:Frameless Immersive Art
-DESCRIPTION:An immersive art show with ticketed sessions.\n\nPrice: Check s
- ite\n\nTickets/Info: https://www.london-now.co.uk/news/26046569.london-wee
- kend-full-list-events/
-LOCATION:Marble Arch Place\, Marble Arch\, London
-URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-eve
- nts/
+SUMMARY:Mayflower & Ships of Rotherhithe
+DESCRIPTION:Historical walking tour of Rotherhithe Village.\n\nPrice: £20\
+ n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Rotherhithe\, Rotherhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
