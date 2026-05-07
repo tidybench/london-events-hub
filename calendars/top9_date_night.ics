@@ -36,39 +36,12 @@ URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:11d931bb2728@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260621
-SUMMARY:Romeo & Juliet
-DESCRIPTION:Shakespeare's classic love story in a new West End revival.\n\n
- Price: from £20 per ticket\n\nTickets/Info: https://www.designmynight.com
- /london/blog/things-to-do-in-london-this-weekend
-LOCATION:The Harold Pinter Theatre\, West End\, London
-URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
- eekend
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:b22bb4f76d17@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260510
-SUMMARY:London Never Sleeps
-DESCRIPTION:Immersive dining and entertainment experience with cabaret perf
- ormances.\n\nPrice: £39.6\n\nTickets/Info: https://www.thelondoncabaretcl
- ub.com/shows/
-LOCATION:London
-URL:https://www.thelondoncabaretclub.com/shows/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:9aa7a72c6669@london-events-scraper
+UID:b74e39ff7638@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:Amelie - 25th Anniversary
-DESCRIPTION:Celebrating 25 years of the beloved French film.\n\nPrice: £1\
+SUMMARY:Rear Window
+DESCRIPTION:Hitchcock's suspenseful film shown in 4K.\n\nPrice: Check site\
  n\nTickets/Info: https://princecharlescinema.com/next-7-days/
 LOCATION:Prince Charles Cinema\, London\, London
 URL:https://princecharlescinema.com/next-7-days/
@@ -80,10 +53,10 @@ DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260511
 SUMMARY:Hadestown
-DESCRIPTION:A musical about love and redemption in a mythical underworld.\n
- \nPrice: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tick
- ets/series/LYHDT01M/hadestown-1806946
-LOCATION:Lyric Theatre\, Piccadilly Circus\, London
+DESCRIPTION:A musical retelling of the Greek myth of Orpheus.\n\nPrice: £2
+ 5.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/series/L
+ YHDT01M/hadestown-1806946
+LOCATION:Lyric Theatre\, West End\, London
 URL:https://ticketing.nimaxtheatres.com/tickets/series/LYHDT01M/hadestown-1
  806946
 CATEGORIES:Date Night
@@ -128,6 +101,34 @@ DESCRIPTION:Soul\, funk\, and Americana performance by London-based singer.
  amy-bird-4/
 LOCATION:606 Club\, Chelsea\, Chelsea\, London
 URL:https://www.606club.co.uk/events/view/amy-bird-4/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:64d5378bce1a@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Cocktail Masterclass
+DESCRIPTION:Learn mixology skills in a cocktail masterclass.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://trapeze-0.designmynight.com/67ea830247bd28
+ a53f7dc7b9/cocktail-masterclass
+LOCATION:Trapeze\, Shoreditch\, London
+URL:https://trapeze-0.designmynight.com/67ea830247bd28a53f7dc7b9/cocktail-m
+ asterclass
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:da84943a66b7@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Art of Champagne
+DESCRIPTION:Out-of-hours tour of portraits with champagne tasting.\n\nPrice
+ : Check site\n\nTickets/Info: https://londonistlistings.substack.com/p/thi
+ ngs-to-do-in-london-this-weekend-9-10-may-2026
+LOCATION:National Portrait Gallery\, London\, London
+URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
+ ekend-9-10-may-2026
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
