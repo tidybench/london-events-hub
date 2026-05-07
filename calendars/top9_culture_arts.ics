@@ -35,18 +35,6 @@ URL:https://londontheinside.com/whats-on-this-week/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:b48ae89f59f2@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:Beatriz González
-DESCRIPTION:Retrospective of the Colombian artist's bold work.\n\nPrice: Fr
- ee\n\nTickets/Info: https://www.barbican.org.uk/whats-on
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:4279f4eae8f3@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
@@ -61,26 +49,13 @@ URL:https://www.ianvisits.co.uk/calendar/wright-of-derby-from-the-shadows-4
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:eae7e799e07b@london-events-scraper
-DTSTAMP:20260507T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260516
-SUMMARY:The Space Within
-DESCRIPTION:An exhibition of glass art by women artists from London and the
-  South East.\n\nPrice: Check site\n\nTickets/Info: https://eventsforlondon
- .co.uk/event/the-space-within/2026-05-02/
-LOCATION:Ice House Gallery\, Holland Park\, Holland Park\, London
-URL:https://eventsforlondon.co.uk/event/the-space-within/2026-05-02/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:954641985c8e@london-events-scraper
 DTSTAMP:20260507T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260511
 SUMMARY:Hyakkō: 100+ Makers from Japan
-DESCRIPTION:Celebration of contemporary Japanese craft aesthetics.\n\nPrice
- : Free\n\nTickets/Info: https://londoncheapo.com/events/may/
+DESCRIPTION:Exhibition showcasing contemporary Japanese craft.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://londoncheapo.com/events/may/
 LOCATION:Japan House London\, Marylebone\, London
 URL:https://londoncheapo.com/events/may/
 CATEGORIES:Culture & Arts
@@ -122,6 +97,33 @@ DESCRIPTION:A powerful true story of ingenuity and hope.\n\nPrice: £25\n\n
  Tickets/Info: https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/
 LOCATION:@sohoplace\, Soho\, London
 URL:https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:773dfcd5bd7f@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260511
+SUMMARY:Women in Art Fair
+DESCRIPTION:Annual art fair showcasing women artists.\n\nPrice: Free\n\nTic
+ kets/Info: https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05
+ -06/
+LOCATION:gallery@oxo\, South Bank\, London
+URL:https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05-06/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba2ee5b8e86@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260524
+SUMMARY:Chelsea Flower Show
+DESCRIPTION:Prestigious flower show with stunning garden designs.\n\nPrice:
+  £75 – £120\n\nTickets/Info: https://www.londonbackpackers.com/blog/lo
+ ndon-events-in-may-explore-things-to-do/
+LOCATION:Royal Hospital Chelsea\, Chelsea\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
