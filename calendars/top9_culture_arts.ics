@@ -8,118 +8,48 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:f4b241eda38d@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260511
-SUMMARY:Affordable Art Fair – Hampstead
-DESCRIPTION:Spring edition of the Affordable Art Fair with over 100 galleri
- es.\n\nPrice: from £14\n\nTickets/Info: https://memoirsofametrogirl.com/2
- 026/04/29/whats-on-in-london-may-2026-listings-guide/
-LOCATION:Hampstead Heath (Lower Fairground Site)\, East Heath Road\, Hampst
- ead\, Hampstead\, London
-URL:https://memoirsofametrogirl.com/2026/04/29/whats-on-in-london-may-2026-
- listings-guide/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:84e7e4f41062@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260511
-SUMMARY:Alessandro Mendini
-DESCRIPTION:First UK solo exhibition of post-war Italian designer and archi
- tect.\n\nPrice: £9.50\n\nTickets/Info: https://www.ianvisits.co.uk/calend
- ar/alessandro-mendini-424972/
-LOCATION:Estorick Collection of Modern Italian Art\, Islington\, London
-URL:https://www.ianvisits.co.uk/calendar/alessandro-mendini-424972/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:581e5d6e54b4@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
+UID:f776c6ae1ce1@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
 SUMMARY:Behind the Scenes Tour: Spirit Collection
 DESCRIPTION:Exclusive tour of the museum's spirit collection.\n\nPrice: £3
  5\n\nTickets/Info: https://www.nhm.ac.uk/events/behind-the-scenes-tour-the
  -spirit-collection.html
-LOCATION:Natural History Museum\, South Kensington\, London
+LOCATION:London
 URL:https://www.nhm.ac.uk/events/behind-the-scenes-tour-the-spirit-collecti
  on.html
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:928659fbdc64@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
+UID:e021b97c4624@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260526
+SUMMARY:Hawaiʻi: A Kingdom Crossing Oceans
+DESCRIPTION:Exhibition marking the 200th anniversary of a Hawaiian royal vi
+ sit.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/wha
+ ts-on-this-week/
+LOCATION:The British Museum\, Bloomsbury\, London
+URL:https://londontheinside.com/whats-on-this-week/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b48ae89f59f2@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260511
-SUMMARY:Hadestown
-DESCRIPTION:A musical retelling of the myth of Orpheus and Eurydice.\n\nPri
- ce: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/s
- eries/LYHDT01M/hadestown-1806944
-LOCATION:Lyric Theatre\, West End\, London
-URL:https://ticketing.nimaxtheatres.com/tickets/series/LYHDT01M/hadestown-1
- 806944
+SUMMARY:Beatriz González
+DESCRIPTION:Retrospective of the Colombian artist's bold work.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://www.barbican.org.uk/whats-on
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:3a08ec9b2a49@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260511
-SUMMARY:Hyakkō: 100+ Makers from Japan
-DESCRIPTION:Celebrating contemporary Japanese craft with works by over 120 
- artists.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.co.uk/calen
- dar/hyakko-100-makers-from-japan-424802/
-LOCATION:Japan House London\, Kensington\, London
-URL:https://www.ianvisits.co.uk/calendar/hyakko-100-makers-from-japan-42480
- 2/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:f771bffdde98@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260511
-SUMMARY:Seeds of Exchange: Canton and London in the 1700s
-DESCRIPTION:Exhibition on 18th-century botanical collaboration between Engl
- and and China.\n\nPrice: £16\n\nTickets/Info: https://www.ianvisits.co.uk
- /calendar/seeds-of-exchange-canton-and-london-in-the-1700s-426958/
-LOCATION:The Garden Museum\, Southwark\, London
-URL:https://www.ianvisits.co.uk/calendar/seeds-of-exchange-canton-and-londo
- n-in-the-1700s-426958/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ca0a0ef06752@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260518
-SUMMARY:Seurat and the Sea
-DESCRIPTION:An exhibition dedicated to Georges Seurat's seascapes.\n\nPrice
- : £18\n\nTickets/Info: https://www.ianvisits.co.uk/
-LOCATION:Courtauld Institute of Art\, Strand\, Strand\, London
-URL:https://www.ianvisits.co.uk/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:cb20c84e91c8@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260511
-SUMMARY:Textile Art Redefined
-DESCRIPTION:Showcasing work by 15 visionary artists redefining textile art.
- \n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/text
- ile-art-redefined-429549/
-LOCATION:Saatchi Gallery\, Chelsea\, London
-URL:https://www.ianvisits.co.uk/calendar/textile-art-redefined-429549/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:614ee7f56c53@london-events-scraper
-DTSTAMP:20260506T000000Z
-DTSTART;VALUE=DATE:20260506
+UID:4279f4eae8f3@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260511
 SUMMARY:Wright of Derby: From the Shadows
 DESCRIPTION:Exhibition re-examining Joseph Wright of Derby’s candlelight 
@@ -128,6 +58,70 @@ DESCRIPTION:Exhibition re-examining Joseph Wright of Derby’s candlelight
 LOCATION:National Gallery\, Trafalgar Square\, London
 URL:https://www.ianvisits.co.uk/calendar/wright-of-derby-from-the-shadows-4
  22673/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:eae7e799e07b@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260516
+SUMMARY:The Space Within
+DESCRIPTION:An exhibition of glass art by women artists from London and the
+  South East.\n\nPrice: Check site\n\nTickets/Info: https://eventsforlondon
+ .co.uk/event/the-space-within/2026-05-02/
+LOCATION:Ice House Gallery\, Holland Park\, Holland Park\, London
+URL:https://eventsforlondon.co.uk/event/the-space-within/2026-05-02/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:954641985c8e@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260511
+SUMMARY:Hyakkō: 100+ Makers from Japan
+DESCRIPTION:Celebration of contemporary Japanese craft aesthetics.\n\nPrice
+ : Free\n\nTickets/Info: https://londoncheapo.com/events/may/
+LOCATION:Japan House London\, Marylebone\, London
+URL:https://londoncheapo.com/events/may/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e5bcfb27a6@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260511
+SUMMARY:Alessandro Mendini
+DESCRIPTION:First UK solo exhibition of post-war Italian designer.\n\nPrice
+ : £9.50\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/alessandro-
+ mendini-424972/
+LOCATION:Estorick Collection of Modern Italian Art\, Islington\, London
+URL:https://www.ianvisits.co.uk/calendar/alessandro-mendini-424972/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:6a86f5c49fa5@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260511
+SUMMARY:Les Ballets Trockader in Action
+DESCRIPTION:All-male comedy ballet company performing sell-out shows.\n\nPr
+ ice: from £15\n\nTickets/Info: https://www.factmagazines.com/london/thing
+ s-to-do/fabulous-things-to-do-in-london-this-month
+LOCATION:Peacock Theatre\, Holborn\, London
+URL:https://www.factmagazines.com/london/things-to-do/fabulous-things-to-do
+ -in-london-this-month
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:dff03535b36f@london-events-scraper
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260719
+SUMMARY:The Boy Who Harnessed the Wind
+DESCRIPTION:A powerful true story of ingenuity and hope.\n\nPrice: £25\n\n
+ Tickets/Info: https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/
+LOCATION:@sohoplace\, Soho\, London
+URL:https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
