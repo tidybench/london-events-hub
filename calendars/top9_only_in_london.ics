@@ -8,123 +8,120 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:1df07a4f6075@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:London Boat Party
-DESCRIPTION:A boat party with DJs and views of London's landmarks.\n\nPrice
- : Free\n\nTickets/Info: https://london-boat-party.designmynight.com/5cb901
- 5e3a6377019c4ebda8/londons-original-boat-party
-LOCATION:London
-URL:https://london-boat-party.designmynight.com/5cb9015e3a6377019c4ebda8/lo
- ndons-original-boat-party
+UID:6db55de9bfb3@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260518
+SUMMARY:London Original Print Fair 2026
+DESCRIPTION:A 41-year-old art fair showcasing prints.\n\nPrice: Check site\
+ n\nTickets/Info: https://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, London\, London
+URL:https://www.somersethouse.org.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:85e422ab3e53@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260511
-SUMMARY:Medieval Jewish London History Festival
-DESCRIPTION:A festival bringing medieval Jewish history to life near the or
- iginal Jewish quarter.\n\nPrice: Free\n\nTickets/Info: https://www.thecity
- ofldn.com/event/medieval-jewish-london-history-festival/
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.thecityofldn.com/event/medieval-jewish-london-history-festi
- val/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:d87057e3d4cf@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Brixton Market Heritage Walk
-DESCRIPTION:Explore the rich history of Brixton Market.\n\nPrice: 5\n\nTick
- ets/Info: https://www.ianvisits.co.uk/calendar/brixton-market-heritage-wal
- k-2-427900/
-LOCATION:Foundling Museum\, Brixton\, London
-URL:https://www.ianvisits.co.uk/calendar/brixton-market-heritage-walk-2-427
- 900/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:f8dd8496591e@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:London May Fair at St James’s
-DESCRIPTION:Historic May Fair tradition with performances and artisan stall
- s.\n\nPrice: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/
- london-events-in-may-explore-things-to-do/
-LOCATION:St James’s Square\, St James's\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:d57d54586771@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260513
-SUMMARY:CASA ÁGAPE Pop-Up in Notting Hill
-DESCRIPTION:Pop-up shop or cultural experience in Notting Hill.\n\nPrice: F
- ree\n\nTickets/Info: https://eventsforlondon.co.uk/event/casa-agape-pop-up
- -opens-in-notting-hill/
-LOCATION:353 Portobello Road\, Notting Hill\, London
-URL:https://eventsforlondon.co.uk/event/casa-agape-pop-up-opens-in-notting-
- hill/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:63ce51ea081f@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-SUMMARY:Mayflower & Ships of Rotherhithe
-DESCRIPTION:Historical walking tour of Rotherhithe Village.\n\nPrice: £20\
- n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Rotherhithe\, Rotherhithe\, London
+UID:faebb8cfa1ff@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Leicester Square & Hippodrome Tour
+DESCRIPTION:A walking tour of Leicester Square and the Hippodrome.\n\nPrice
+ : £20\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Rock 'n' Roll Walking Tour of Soho with a Funny Music Nerd\, Leice
+ ster Square\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:b1fc93a6813a@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Discovering Hidden Westminster with a Funny Historian
-DESCRIPTION:Surprising walking tour of Westminster's hidden side.\n\nPrice:
-  £16.75\n\nTickets/Info: https://www.ianvisits.co.uk/
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.ianvisits.co.uk/
+UID:98bfe375cda7@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260522
+SUMMARY:Smithfield Market Guided Tour
+DESCRIPTION:Explore medieval and Tudor history in Smithfield Market.\n\nPri
+ ce: Check site\n\nTickets/Info: https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:84b3361f03d1@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:London Loo Tour
-DESCRIPTION:A quirky walking tour about London's toilets.\n\nPrice: £20\n\
- nTickets/Info: https://www.ianvisits.co.uk/calendar/london-loo-tour-2-4277
- 27/
-LOCATION:Waterloo Station\, Waterloo\, London
-URL:https://www.ianvisits.co.uk/calendar/london-loo-tour-2-427727/
+UID:512bf301ef7d@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Billingsgate Roman House and Baths Tour
+DESCRIPTION:Explore ancient Roman ruins in the heart of London.\n\nPrice: 1
+ 6.96\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/billingsgate-ro
+ man-house-and-baths-tour-429370/
+LOCATION:Royal Albert Hall\, London
+URL:https://www.ianvisits.co.uk/calendar/billingsgate-roman-house-and-baths
+ -tour-429370/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:d45c7a85efa3@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Brixton Windmill Open Days
-DESCRIPTION:Guided tours of Brixton’s 200-year-old windmill and its histo
- ry.\n\nPrice: £5.00 (advance sales)\n\nTickets/Info: https://londoncheapo
- .com/events/may/
-LOCATION:Brixton\, London
-URL:https://londoncheapo.com/events/may/
+UID:a0f6b740d7a3@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Film tour: Spies\, Sleuths and Superheroes
+DESCRIPTION:A cinematic walking tour exploring espionage and mystery in his
+ toric grounds.\n\nPrice: £5\n\nTickets/Info: https://ornc.org/whats-on/
+LOCATION:Old Royal Naval College\, Greenwich\, London
+URL:https://ornc.org/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:af9f6f9d1cdd@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260531
+SUMMARY:Post-war Poplar & Call the Midwife
+DESCRIPTION:Guided walk exploring 1950s East End history and TV connections
+ .\n\nPrice: Free\n\nTickets/Info: https://www.londonmuseum.org.uk/whats-on
+ /
+LOCATION:London-wide\, Poplar\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b42038109c0f@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260601
+SUMMARY:Football Shirt Exhibition Near Emirates Stadium
+DESCRIPTION:&lt\;p&gt\;London Jersey Gallery presents “From Woolwich to t
+ he Emirates – 140 Years of Arsenal Shirts\,” an independent football s
+ hirt exhibition celebrating the history\, design\, and&hellip\;&lt\;/p&gt\
+ ;\\n\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/f
+ ootball-shirt-exhibition-near-emirates-stadium/
+LOCATION:n5 1ns\, Islington\, London
+URL:https://eventsforlondon.co.uk/event/football-shirt-exhibition-near-emir
+ ates-stadium/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:711d1c84dfc3@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260529
+SUMMARY:Jan Enkelmann Photography: The Triangle
+DESCRIPTION:Photography exhibition showcasing Brixton's landscapes.\n\nPric
+ e: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/05
+ /16/
+LOCATION:Lambeth Archives\, Brixton\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/05/16/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:676dbf92a497@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Threads and Petals
+DESCRIPTION:Exhibition of liturgical textiles and floral art.\n\nPrice: Fre
+ e\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/05/16/
+LOCATION:Southwark Cathedral\, Southwark\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/05/16/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
