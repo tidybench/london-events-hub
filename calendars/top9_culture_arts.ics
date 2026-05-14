@@ -8,122 +8,125 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:f776c6ae1ce1@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Behind the Scenes Tour: Spirit Collection
-DESCRIPTION:Exclusive tour of the museum's spirit collection.\n\nPrice: £3
- 5\n\nTickets/Info: https://www.nhm.ac.uk/events/behind-the-scenes-tour-the
- -spirit-collection.html
-LOCATION:London
-URL:https://www.nhm.ac.uk/events/behind-the-scenes-tour-the-spirit-collecti
- on.html
+UID:b18181b9eff7@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Roberto Fonseca
+DESCRIPTION:The Cuban pianist makes his Hall debut showcasing his criticall
+ y acclaimed album\, La Gran Diversión\, along with songs spanning his leg
+ endary career.\n\nPrice: From £29\n\nTickets/Info: https://www.barbican.o
+ rg.uk/whats-on/2026/event/roberto-fonseca
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/roberto-fonseca
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:e021b97c4624@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260526
-SUMMARY:Hawaiʻi: A Kingdom Crossing Oceans
-DESCRIPTION:Exhibition marking the 200th anniversary of a Hawaiian royal vi
- sit.\n\nPrice: Check site\n\nTickets/Info: https://londontheinside.com/wha
- ts-on-this-week/
-LOCATION:The British Museum\, Bloomsbury\, London
-URL:https://londontheinside.com/whats-on-this-week/
+UID:c0611eb6bfc5@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260613
+SUMMARY:The Queen and the Playwright: A Royal Visit at the Prague Castle
+DESCRIPTION:Photographs of Queen Elizabeth II's visit to Prague Castle.\n\n
+ Price: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/the-queen
+ -and-the-playwright-a-royal-visit-at-the-prague-castle/
+LOCATION:Czech Embassy London\, London\, London
+URL:https://eventsforlondon.co.uk/event/the-queen-and-the-playwright-a-roya
+ l-visit-at-the-prague-castle/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:4279f4eae8f3@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:Wright of Derby: From the Shadows
-DESCRIPTION:Exhibition re-examining Joseph Wright of Derby’s candlelight 
- paintings.\n\nPrice: £14\n\nTickets/Info: https://www.ianvisits.co.uk/cal
- endar/wright-of-derby-from-the-shadows-422673/
-LOCATION:National Gallery\, Trafalgar Square\, London
-URL:https://www.ianvisits.co.uk/calendar/wright-of-derby-from-the-shadows-4
- 22673/
+UID:2d53a8e8cc1d@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260517
+SUMMARY:Noisy World Exhibition
+DESCRIPTION:Art exhibition featuring line drawings of everyday objects.\n\n
+ Price: Check site\n\nTickets/Info: https://eventsforlondon.co.uk/event/noi
+ sy-world/2026-04-25/
+LOCATION:The Stone Space\, London\, London
+URL:https://eventsforlondon.co.uk/event/noisy-world/2026-04-25/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:954641985c8e@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:Hyakkō: 100+ Makers from Japan
-DESCRIPTION:Exhibition showcasing contemporary Japanese craft.\n\nPrice: Fr
- ee\n\nTickets/Info: https://londoncheapo.com/events/may/
-LOCATION:Japan House London\, Marylebone\, London
-URL:https://londoncheapo.com/events/may/
+UID:7c96e359fcba@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260531
+SUMMARY:Krapp's Last Tape/Godot's To-Do List
+DESCRIPTION:Theatre production exploring aging and existentialism.\n\nPrice
+ : Check site\n\nTickets/Info: https://ticketing.timeout.com/london/shows/4
+ 5701-krapps-last-tape-godots-to-do-list
+LOCATION:Royal Court\, London\, London
+URL:https://ticketing.timeout.com/london/shows/45701-krapps-last-tape-godot
+ s-to-do-list
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:a3e5bcfb27a6@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:Alessandro Mendini
-DESCRIPTION:First UK solo exhibition of post-war Italian designer.\n\nPrice
- : £9.50\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/alessandro-
- mendini-424972/
-LOCATION:Estorick Collection of Modern Italian Art\, Islington\, London
-URL:https://www.ianvisits.co.uk/calendar/alessandro-mendini-424972/
+UID:a56388c38425@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260517
+SUMMARY:Mel Brooks' The Producers
+DESCRIPTION:Award-winning musical comedy about a theatrical scam.\n\nPrice:
+  £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/seri
+ es/GATPR01M/the-producers-1837760
+LOCATION:Garrick Theatre\, West End\, London
+URL:https://ticketing.nimaxtheatres.com/tickets/series/GATPR01M/the-produce
+ rs-1837760
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6a86f5c49fa5@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:Les Ballets Trockader in Action
-DESCRIPTION:All-male comedy ballet company performing sell-out shows.\n\nPr
- ice: from £15\n\nTickets/Info: https://www.factmagazines.com/london/thing
- s-to-do/fabulous-things-to-do-in-london-this-month
-LOCATION:Peacock Theatre\, Holborn\, London
-URL:https://www.factmagazines.com/london/things-to-do/fabulous-things-to-do
- -in-london-this-month
+UID:3c2fe277aa45@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260531
+SUMMARY:YAMATO The Drummers of Japan
+DESCRIPTION:A powerful drumming performance exploring human strength and re
+ silience.\n\nPrice: Check site\n\nTickets/Info: https://www.sadlerswells.c
+ om/whats-on
+LOCATION:Peacock Theatre\, Covent Garden\, London
+URL:https://www.sadlerswells.com/whats-on
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:dff03535b36f@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260719
-SUMMARY:The Boy Who Harnessed the Wind
-DESCRIPTION:A powerful true story of ingenuity and hope.\n\nPrice: £25\n\n
- Tickets/Info: https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/
-LOCATION:@sohoplace\, Soho\, London
-URL:https://sohoplace.org/shows/the-boy-who-harnessed-the-wind/
+UID:4215a356097e@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260518
+SUMMARY:Wimbledon Art Fair
+DESCRIPTION:Four-day art fair featuring 180 open studios with affordable or
+ iginal art.\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/
+ event/wimbledon-art-fair-14-17-may-free-entry/
+LOCATION:Wimbledon Art Studios\, Wimbledon\, London
+URL:https://eventsforlondon.co.uk/event/wimbledon-art-fair-14-17-may-free-e
+ ntry/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:773dfcd5bd7f@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260511
-SUMMARY:Women in Art Fair
-DESCRIPTION:Annual art fair showcasing women artists.\n\nPrice: Free\n\nTic
- kets/Info: https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05
- -06/
-LOCATION:gallery@oxo\, South Bank\, London
-URL:https://eventsforlondon.co.uk/event/women-in-art-fair-2/2026-05-06/
+UID:bd216067aa78@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260515
+SUMMARY:The Space Within
+DESCRIPTION:Art exhibition featuring women artists using glass in their wor
+ k.\n\nPrice: Check site\n\nTickets/Info: https://eventsforlondon.co.uk/eve
+ nt/the-space-within/2026-05-05/
+LOCATION:Ice House Gallery\, Holland Park\, Holland Park\, London
+URL:https://eventsforlondon.co.uk/event/the-space-within/2026-05-05/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2ba2ee5b8e86@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260524
-SUMMARY:Chelsea Flower Show
-DESCRIPTION:Prestigious flower show with stunning garden designs.\n\nPrice:
-  £75 – £120\n\nTickets/Info: https://www.londonbackpackers.com/blog/lo
- ndon-events-in-may-explore-things-to-do/
-LOCATION:Royal Hospital Chelsea\, Chelsea\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
+UID:5264e954b1cd@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+SUMMARY:Seurat and the Sea
+DESCRIPTION:First exhibition dedicated to Georges Seurat's seascapes.\n\nPr
+ ice: £18\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/
+ 05/16/
+LOCATION:Courtauld Institute of Art\, Strand\, Strand\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/05/16/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
