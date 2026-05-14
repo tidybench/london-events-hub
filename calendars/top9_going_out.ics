@@ -8,124 +8,124 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:ddd5780076e3@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:DJ Tunez & Mavo: Money Constant Weekend
-DESCRIPTION:Birthday celebrations with DJ Tunez and Nigerian rapper Mavo.\n
- \nPrice: Check site\n\nTickets/Info: https://koko.co.uk/events/dj-tunez-ma
- vo-a-birthday-weekend-2
-LOCATION:KOKO\, Camden\, London
-URL:https://koko.co.uk/events/dj-tunez-mavo-a-birthday-weekend-2
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:1857aef7a1e0@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Fridays at Backyard
-DESCRIPTION:A popular comedy night in London.\n\nPrice: £12.5 – £20\n\n
- Tickets/Info: https://backyardcomedyclub.co.uk/events/
-LOCATION:Backyard Comedy Club\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/events/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:4cf9245f1200@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:Dan Shake & Friends
-DESCRIPTION:Day and night DJ sets with special surprises.\n\nPrice: £25.00
- \n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-lond
- on-this-weekend/
-LOCATION:The Cause London\, Shoreditch\, London
+UID:f143423ab589@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260517
+SUMMARY:Bass One Union
+DESCRIPTION:Underground bass music night with Bonnot and General Levy.\n\nP
+ rice: £15.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/wha
+ ts-on-in-london-this-weekend/
+LOCATION:Rolling Stock\, Shoreditch\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a5b3405ff68a@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:House of Stepz - Day Party
-DESCRIPTION:A daytime party celebrating the venue's first birthday.\n\nPric
- e: £13.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-
- on-in-london-this-weekend/
-LOCATION:LDN EAST\, Hackney Wick\, London
+UID:504c3baaa875@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260517
+SUMMARY:RollerBoogie
+DESCRIPTION:Friday night roller skating event.\n\nPrice: £17.00\n\nTickets
+ /Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-this-wee
+ kend/
+LOCATION:Rollernation\, London\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:6a4b30b0af86@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:GALA Festival
-DESCRIPTION:Three-day festival of house\, disco\, and underground electroni
- c music.\n\nPrice: £40 – £70\n\nTickets/Info: https://www.londonbackpa
- ckers.com/blog/london-events-in-may-explore-things-to-do/
-LOCATION:Peckham Rye Park\, Peckham\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
+UID:12d4644c8855@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:SING-A-LONG-A ROCKY HORROR PICTURE SHOW
+DESCRIPTION:An interactive sing-along screening of the cult classic.\n\nPri
+ ce: £1\n\nTickets/Info: https://princecharlescinema.com/next-7-days/
+LOCATION:Prince Charles Cinema\, London\, London
+URL:https://princecharlescinema.com/next-7-days/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a515063f9123@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Eurovision Your Decision
-DESCRIPTION:A live Eurovision cabaret where the audience votes for the winn
- er.\n\nPrice: £15\n\nTickets/Info: https://eventsforlondon.co.uk/event/eu
- rovision-your-decision/2026-05-07/
-LOCATION:Royal Vauxhall Tavern\, London\, London
-URL:https://eventsforlondon.co.uk/event/eurovision-your-decision/2026-05-07
+UID:9f8706513a50@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Boom Bap Revivalists
+DESCRIPTION:Live hip-hop performance celebrating classic boom bap sounds.\n
+ \nPrice: £22.50\n\nTickets/Info: https://thejazzcafe.com/event/febre90s/
+LOCATION:Febre90s\, London\, London
+URL:https://thejazzcafe.com/event/febre90s/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:750ae6b7d7e4@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Day of Light
+DESCRIPTION:Indoor and outdoor day-party with music and festivities.\n\nPri
+ ce: £60.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats
+ -on-in-london-this-weekend/
+LOCATION:Riverside East\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:567f459c7712@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Bougie Drag Bottomless Brunch
-DESCRIPTION:Luxury drag brunch with performances from RuPaul's Drag Race UK
-  stars.\n\nPrice: Free\n\nTickets/Info: https://bougie-drag-events.designm
- ynight.com/5d67d7959bc98c585a7346b5/bougie-drag-brunch-daytime-party
-LOCATION:London\, London
-URL:https://bougie-drag-events.designmynight.com/5d67d7959bc98c585a7346b5/b
- ougie-drag-brunch-daytime-party
+UID:9982fcec9d7e@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Finger Lickin Boat Party
+DESCRIPTION:A lively boat party with music and drinks.\n\nPrice: £35.00\n\
+ nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-
+ this-weekend/
+LOCATION:Dutch Master Party Boat\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+ /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:69c7f75be418@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:SELENA's Bottomless Tribute
-DESCRIPTION:A Selena Quintanilla tribute party with bottomless drinks.\n\nP
- rice: £60.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/
-LOCATION:The Garden Vauxhall\, Vauxhall\, London
-URL:https://www.skiddle.com/whats-on/London/
+UID:01426d7ec140@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Gin & Rum Festival
+DESCRIPTION:UK's biggest gin and rum festival for one weekend.\n\nPrice: £
+ 21.50\n\nTickets/Info: https://www.skiddle.com/whats-on/London/St-John%27s
+ -Church%2C-Hyde-Park/Gin--Rum-Festival---London---2026/41295136/
+LOCATION:St John's Church\, Hyde Park\, Hyde Park\, London
+URL:https://www.skiddle.com/whats-on/London/St-John%27s-Church%2C-Hyde-Park
+ /Gin--Rum-Festival---London---2026/41295136/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:1436427fcb09@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Juke Box Baby
-DESCRIPTION:A live band plays your requested songs for an interactive sing-
- along party.\n\nPrice: Free\n\nTickets/Info: https://alberts-schloss-londo
- n.designmynight.com/66963481aa68e777eb7638c0/baby-grand-slam
-LOCATION:Albert's Schloss - Soho\, Soho\, London
-URL:https://alberts-schloss-london.designmynight.com/66963481aa68e777eb7638
- c0/baby-grand-slam
+UID:3716bea9626f@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Shoot From The Hip
+DESCRIPTION:Award-winning improvised comedy with chaotic games and unscript
+ ed performances.\n\nPrice: Check site\n\nTickets/Info: https://london.thec
+ omedystore.co.uk/event/shoot-from-the-hip/2026-05-16_3pm
+LOCATION:The Comedy Store London\, London\, London
+URL:https://london.thecomedystore.co.uk/event/shoot-from-the-hip/2026-05-16
+ _3pm
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c0e5c4a914@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Celebrating Salsa's Finest
+DESCRIPTION:Live salsa music performance featuring classic hits.\n\nPrice: 
+ £25\n\nTickets/Info: https://thejazzcafe.com/event/willie-colon-salsa-for
+ ever/
+LOCATION:Willie Colón: Salsa Forever\, London\, London
+URL:https://thejazzcafe.com/event/willie-colon-salsa-forever/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
