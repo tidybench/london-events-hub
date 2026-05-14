@@ -8,127 +8,127 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:04ffd93d9e9e@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Rum Masterclass At Black Parrot
-DESCRIPTION:A rum tasting session with cocktails and swashbuckling stories.
- \n\nPrice: from £65.00\n\nTickets/Info: https://merchant-house.designmyni
- ght.com/5b215424c039b1584e6de275/rum-masterclass
-LOCATION:London
-URL:https://merchant-house.designmynight.com/5b215424c039b1584e6de275/rum-m
- asterclass
+UID:54a2c8fc8f6e@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Sunrise At Sky Garden
+DESCRIPTION:Breakfast with skyline views at Sky Garden.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://sky-garden.designmynight.com/59fc8220680e4c1796
+ 1194fe/sunrise-at-sky-garden
+LOCATION:Sky Garden Bars\, London
+URL:https://sky-garden.designmynight.com/59fc8220680e4c17961194fe/sunrise-a
+ t-sky-garden
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b142c6eedc6a@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260601
-SUMMARY:Regent’s Park Rose Gardens in Bloom
-DESCRIPTION:Victorian rose gardens in full bloom with guided talks.\n\nPric
- e: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-eve
- nts-in-may-explore-things-to-do/
-LOCATION:Regent’s Park\, Marylebone\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:b74e39ff7638@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Rear Window
-DESCRIPTION:Hitchcock's suspenseful film shown in 4K.\n\nPrice: Check site\
- n\nTickets/Info: https://princecharlescinema.com/next-7-days/
+UID:5252d14f6118@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Before Sunrise
+DESCRIPTION:A 35mm screening of the romantic film.\n\nPrice: £1\n\nTickets
+ /Info: https://princecharlescinema.com/next-7-days/
 LOCATION:Prince Charles Cinema\, London\, London
 URL:https://princecharlescinema.com/next-7-days/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:ce82b79741f0@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260511
-SUMMARY:Hadestown
-DESCRIPTION:A musical retelling of the Greek myth of Orpheus.\n\nPrice: £2
- 5.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/series/L
- YHDT01M/hadestown-1806946
-LOCATION:Lyric Theatre\, West End\, London
-URL:https://ticketing.nimaxtheatres.com/tickets/series/LYHDT01M/hadestown-1
- 806946
+UID:7fcce38cf5f0@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Jazz in the House: Henry Lowther’s Still Waters
+DESCRIPTION:A jazz performance featuring Henry Lowther and other British ja
+ zz musicians.\n\nPrice: £15.50\n\nTickets/Info: https://eventsforlondon.c
+ o.uk/event/jazz-in-the-house-henry-lowthers-still-waters/
+LOCATION:Lauderdale House\, London\, London
+URL:https://eventsforlondon.co.uk/event/jazz-in-the-house-henry-lowthers-st
+ ill-waters/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:97bf13847d3d@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Rooftop Aqua Board Yogalates
-DESCRIPTION:Yoga and pilates on paddleboards with city views.\n\nPrice: Che
- ck site\n\nTickets/Info: https://artotel-london-battersea-power-station.de
- signmynight.com/6870f38307bc1452f658a25d/rooftop-aqua-board-yogalates-at-a
- rtotel-battersea
-LOCATION:Art'otel London Battersea\, Battersea\, London
-URL:https://artotel-london-battersea-power-station.designmynight.com/6870f3
- 8307bc1452f658a25d/rooftop-aqua-board-yogalates-at-artotel-battersea
+UID:25311a003218@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:London Symphony Orchestra
+DESCRIPTION:Classical music performance featuring Strauss\, Wagner\, and Be
+ ethoven.\n\nPrice: £18\n\nTickets/Info: https://www.barbican.org.uk/whats
+ -on/2026/event/london-symphony-orchestranathalie-stutzmann
+LOCATION:Barbican Centre\, Classical Music\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/london-symphony-orchest
+ ranathalie-stutzmann
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9552c6843c1b@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Tropicana Nights Thames Party Cruise 2026!
-DESCRIPTION:An 80s disco-themed party cruise on the Thames.\n\nPrice: £25.
- 00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Temple-Pier/Tr
- opicana-Nights-Thames-Party-Cruise-2026/41351878/
-LOCATION:Temple Pier\, Temple\, London
-URL:https://www.skiddle.com/whats-on/London/Temple-Pier/Tropicana-Nights-Th
- ames-Party-Cruise-2026/41351878/
+UID:1359559b1156@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Bougie Drag East Brunch
+DESCRIPTION:Luxury drag brunch with bottomless cocktails and performances.\
+ n\nPrice: Tickets from £14.30 – £19.80\n\nTickets/Info: https://bougie
+ -drag-events.designmynight.com/697a54d322a77625c8729941/bougie-drag-east
+LOCATION:45 London\, London
+URL:https://bougie-drag-events.designmynight.com/697a54d322a77625c8729941/b
+ ougie-drag-east
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:3c1b3a674ab7@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-SUMMARY:Amy Bird
-DESCRIPTION:Soul\, funk\, and Americana performance by London-based singer.
- \n\nPrice: £18.00\n\nTickets/Info: https://www.606club.co.uk/events/view/
- amy-bird-4/
-LOCATION:606 Club\, Chelsea\, Chelsea\, London
-URL:https://www.606club.co.uk/events/view/amy-bird-4/
+UID:257e8a127252@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Live Music Brunch
+DESCRIPTION:Brunch with live music and bottomless drinks.\n\nPrice: £55\n\
+ nTickets/Info: https://mr-foggs.designmynight.com/6717b061c3c5f46c0f612fc8
+ /live-music-brunch
+LOCATION:Mr Fogg’s City Tavern\, Broadgate Circle\, London
+URL:https://mr-foggs.designmynight.com/6717b061c3c5f46c0f612fc8/live-music-
+ brunch
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:64d5378bce1a@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:Cocktail Masterclass
-DESCRIPTION:Learn mixology skills in a cocktail masterclass.\n\nPrice: Chec
- k site\n\nTickets/Info: https://trapeze-0.designmynight.com/67ea830247bd28
- a53f7dc7b9/cocktail-masterclass
-LOCATION:Trapeze\, Shoreditch\, London
-URL:https://trapeze-0.designmynight.com/67ea830247bd28a53f7dc7b9/cocktail-m
- asterclass
+UID:c31b884ffa3c@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Pottery Painting & Pizza
+DESCRIPTION:Creative pottery painting session with included pizza and drink
+ s.\n\nPrice: from £43.39\n\nTickets/Info: https://theexhibit.designmynigh
+ t.com/69df88b201759115f515f03c/pottery-painting-pizza
+LOCATION:Exhibit\, Balham\, London
+URL:https://theexhibit.designmynight.com/69df88b201759115f515f03c/pottery-p
+ ainting-pizza
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:da84943a66b7@london-events-scraper
-DTSTAMP:20260508T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:Art of Champagne
-DESCRIPTION:Out-of-hours tour of portraits with champagne tasting.\n\nPrice
- : Check site\n\nTickets/Info: https://londonistlistings.substack.com/p/thi
- ngs-to-do-in-london-this-weekend-9-10-may-2026
-LOCATION:National Portrait Gallery\, London\, London
-URL:https://londonistlistings.substack.com/p/things-to-do-in-london-this-we
- ekend-9-10-may-2026
+UID:4184434bbe90@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Wiston sparkling wine tasting
+DESCRIPTION:A wine tasting experience organized by color.\n\nPrice: From £
+ 65\n\nTickets/Info: https://www.nationalgallery.org.uk/events/wiston-spark
+ ling-wine-tasting-a-tasting-led-by-colour-13-05-2026
+LOCATION:Supporters' House Salon\, In Gallery\, London
+URL:https://www.nationalgallery.org.uk/events/wiston-sparkling-wine-tasting
+ -a-tasting-led-by-colour-13-05-2026
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:d12daadefae6@london-events-scraper
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:The Big London Bake South
+DESCRIPTION:Competitive baking challenge with friends in a fun\, themed set
+ ting.\n\nPrice: Check site\n\nTickets/Info: https://www.designmynight.com/
+ london/whats-on/something-a-little-different-events/the-big-london-bake
+LOCATION:The Castle Tooting\, Tooting\, London
+URL:https://www.designmynight.com/london/whats-on/something-a-little-differ
+ ent-events/the-big-london-bake
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
