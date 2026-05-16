@@ -8,20 +8,8 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:6db55de9bfb3@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260518
-SUMMARY:London Original Print Fair 2026
-DESCRIPTION:A 41-year-old art fair showcasing prints.\n\nPrice: Check site\
- n\nTickets/Info: https://www.somersethouse.org.uk/whats-on
-LOCATION:Somerset House\, London\, London
-URL:https://www.somersethouse.org.uk/whats-on
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:faebb8cfa1ff@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Leicester Square & Hippodrome Tour
@@ -33,20 +21,8 @@ URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:98bfe375cda7@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260522
-SUMMARY:Smithfield Market Guided Tour
-DESCRIPTION:Explore medieval and Tudor history in Smithfield Market.\n\nPri
- ce: Check site\n\nTickets/Info: https://www.londonmuseum.org.uk/whats-on/
-LOCATION:London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:512bf301ef7d@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Billingsgate Roman House and Baths Tour
@@ -59,69 +35,97 @@ URL:https://www.ianvisits.co.uk/calendar/billingsgate-roman-house-and-baths
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a0f6b740d7a3@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-SUMMARY:Film tour: Spies\, Sleuths and Superheroes
-DESCRIPTION:A cinematic walking tour exploring espionage and mystery in his
- toric grounds.\n\nPrice: £5\n\nTickets/Info: https://ornc.org/whats-on/
-LOCATION:Old Royal Naval College\, Greenwich\, London
-URL:https://ornc.org/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
-UID:af9f6f9d1cdd@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260531
-SUMMARY:Post-war Poplar & Call the Midwife
-DESCRIPTION:Guided walk exploring 1950s East End history and TV connections
- .\n\nPrice: Free\n\nTickets/Info: https://www.londonmuseum.org.uk/whats-on
- /
-LOCATION:London-wide\, Poplar\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:b42038109c0f@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260601
 SUMMARY:Football Shirt Exhibition Near Emirates Stadium
-DESCRIPTION:&lt\;p&gt\;London Jersey Gallery presents “From Woolwich to t
- he Emirates – 140 Years of Arsenal Shirts\,” an independent football s
- hirt exhibition celebrating the history\, design\, and&hellip\;&lt\;/p&gt\
- ;\\n\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/f
- ootball-shirt-exhibition-near-emirates-stadium/
+DESCRIPTION:An exhibition celebrating 140 years of Arsenal football shirts.
+ \n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/footb
+ all-shirt-exhibition-near-emirates-stadium/
 LOCATION:n5 1ns\, Islington\, London
 URL:https://eventsforlondon.co.uk/event/football-shirt-exhibition-near-emir
  ates-stadium/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:711d1c84dfc3@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260529
-SUMMARY:Jan Enkelmann Photography: The Triangle
-DESCRIPTION:Photography exhibition showcasing Brixton's landscapes.\n\nPric
- e: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/05
- /16/
-LOCATION:Lambeth Archives\, Brixton\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/05/16/
-CATEGORIES:Only in London
-END:VEVENT
-BEGIN:VEVENT
 UID:676dbf92a497@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Threads and Petals
 DESCRIPTION:Exhibition of liturgical textiles and floral art.\n\nPrice: Fre
- e\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/05/16/
+ e\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/threads-and-petals
+ -429947/
 LOCATION:Southwark Cathedral\, Southwark\, Southwark\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/05/16/
+URL:https://www.ianvisits.co.uk/calendar/threads-and-petals-429947/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:09ce9cad731e@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Pirate Pubs of Old London Tour
+DESCRIPTION:Half-day tour exploring historic pirate pubs.\n\nPrice: £410.0
+ 0\n\nTickets/Info: https://feverup.com/en/london/nightlife-clubs
+LOCATION:Rotherhithe\, Rotherhithe\, London
+URL:https://feverup.com/en/london/nightlife-clubs
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fc413bb806@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Northern Soul all-dayer at the Rivoli Ballroom
+DESCRIPTION:All-day Northern Soul dance event in a 1950s ballroom.\n\nPrice
+ : £12\n\nTickets/Info: https://northern-soul-at-the-rivoli-ballroom.desig
+ nmynight.com/69aae97c7b5e6c4ddb1832d2/northern-soul-all-dayer-at-the-rivol
+ i-ballroom
+LOCATION:Rivoli Ballroom\, London
+URL:https://northern-soul-at-the-rivoli-ballroom.designmynight.com/69aae97c
+ 7b5e6c4ddb1832d2/northern-soul-all-dayer-at-the-rivoli-ballroom
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:6304ab6abdcc@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+SUMMARY:Heritage Crafts Weekend
+DESCRIPTION:Celebrating the craft skills used to build and maintain Cutty S
+ ark with hands-on activities.\n\nPrice: Free with entry to Cutty Sark - Ad
+ ults £22 | Students £16.50 | Children £11\n\nTickets/Info: https://www.
+ rmg.co.uk/whats-on
+LOCATION:Cutty Sark\, Experiences\, London
+URL:https://www.rmg.co.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:5422a14b4887@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260614
+SUMMARY:Silent Disco Thames Boat Party
+DESCRIPTION:Silent disco cruise on the River Thames.\n\nPrice: £35\n\nTick
+ ets/Info: https://feverup.com/m/167032
+LOCATION:Tower Millennium Pier\, London\, London
+URL:https://feverup.com/m/167032
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:b0dfbc75bf78@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:The Grand Flaneur Walk
+DESCRIPTION:A long walk through London led by dandies and dandizettes.\n\nP
+ rice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/the-third
+ -grand-flaneur-walk-323496/
+LOCATION:Courtyard Wine Cellars\, Covent Garden\, Covent Garden\, London
+URL:https://www.ianvisits.co.uk/calendar/the-third-grand-flaneur-walk-32349
+ 6/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
