@@ -8,22 +8,8 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b18181b9eff7@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-SUMMARY:Roberto Fonseca
-DESCRIPTION:The Cuban pianist makes his Hall debut showcasing his criticall
- y acclaimed album\, La Gran Diversión\, along with songs spanning his leg
- endary career.\n\nPrice: From £29\n\nTickets/Info: https://www.barbican.o
- rg.uk/whats-on/2026/event/roberto-fonseca
-LOCATION:Barbican Centre\, Barbican\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/roberto-fonseca
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:c0611eb6bfc5@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260613
 SUMMARY:The Queen and the Playwright: A Royal Visit at the Prague Castle
@@ -37,7 +23,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2d53a8e8cc1d@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260517
 SUMMARY:Noisy World Exhibition
@@ -49,84 +35,96 @@ URL:https://eventsforlondon.co.uk/event/noisy-world/2026-04-25/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:7c96e359fcba@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260531
-SUMMARY:Krapp's Last Tape/Godot's To-Do List
-DESCRIPTION:Theatre production exploring aging and existentialism.\n\nPrice
- : Check site\n\nTickets/Info: https://ticketing.timeout.com/london/shows/4
- 5701-krapps-last-tape-godots-to-do-list
-LOCATION:Royal Court\, London\, London
-URL:https://ticketing.timeout.com/london/shows/45701-krapps-last-tape-godot
- s-to-do-list
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:a56388c38425@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260513
+UID:353acc71a6c4@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Mel Brooks' The Producers
-DESCRIPTION:Award-winning musical comedy about a theatrical scam.\n\nPrice:
-  £25.00\n\nTickets/Info: https://ticketing.nimaxtheatres.com/tickets/seri
- es/GATPR01M/the-producers-1837760
-LOCATION:Garrick Theatre\, West End\, London
+DESCRIPTION:A critically acclaimed musical comedy about a shady Broadway pr
+ oduction.\n\nPrice: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatr
+ es.com/tickets/series/GATPR01M/the-producers-1837942
+LOCATION:Garrick Theatre\, London\, London
 URL:https://ticketing.nimaxtheatres.com/tickets/series/GATPR01M/the-produce
- rs-1837760
+ rs-1837942
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:3c2fe277aa45@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260513
+UID:6d1f0d2bc275@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260531
 SUMMARY:YAMATO The Drummers of Japan
-DESCRIPTION:A powerful drumming performance exploring human strength and re
- silience.\n\nPrice: Check site\n\nTickets/Info: https://www.sadlerswells.c
- om/whats-on
-LOCATION:Peacock Theatre\, Covent Garden\, London
-URL:https://www.sadlerswells.com/whats-on
+DESCRIPTION:A powerful drumming performance by Japanese drummers.\n\nPrice:
+  Check site\n\nTickets/Info: https://www.sadlerswells.com/whats-on/yamato-
+ hito-no-chika-the-power-of-human-strength/
+LOCATION:Peacock Theatre\, London
+URL:https://www.sadlerswells.com/whats-on/yamato-hito-no-chika-the-power-of
+ -human-strength/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:4215a356097e@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260518
 SUMMARY:Wimbledon Art Fair
-DESCRIPTION:Four-day art fair featuring 180 open studios with affordable or
- iginal art.\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/
- event/wimbledon-art-fair-14-17-may-free-entry/
-LOCATION:Wimbledon Art Studios\, Wimbledon\, London
-URL:https://eventsforlondon.co.uk/event/wimbledon-art-fair-14-17-may-free-e
- ntry/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:bd216067aa78@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260515
-SUMMARY:The Space Within
-DESCRIPTION:Art exhibition featuring women artists using glass in their wor
- k.\n\nPrice: Check site\n\nTickets/Info: https://eventsforlondon.co.uk/eve
- nt/the-space-within/2026-05-05/
-LOCATION:Ice House Gallery\, Holland Park\, Holland Park\, London
-URL:https://eventsforlondon.co.uk/event/the-space-within/2026-05-05/
+DESCRIPTION:Discover original artworks from 180 London artists in open stud
+ ios.\n\nPrice: £200\n\nTickets/Info: https://londoncheapo.com/events/may/
+LOCATION:Wimbledon\, Wimbledon\, London
+URL:https://londoncheapo.com/events/may/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:5264e954b1cd@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260518
 SUMMARY:Seurat and the Sea
 DESCRIPTION:First exhibition dedicated to Georges Seurat's seascapes.\n\nPr
- ice: £18\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/
- 05/16/
+ ice: £18\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/seurat-and
+ -the-sea-426054/
 LOCATION:Courtauld Institute of Art\, Strand\, Strand\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/05/16/
+URL:https://www.ianvisits.co.uk/calendar/seurat-and-the-sea-426054/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:ad8a02e8fa48@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260601
+SUMMARY:Catherine Opie Exhibition
+DESCRIPTION:Major UK exhibition of Catherine Opie's work on identity and po
+ litics.\n\nPrice: 50% off exhibitions\n\nTickets/Info: https://www.artfund
+ .org/explore/get-inspired/features/best-exhibitions-in-london-open-now
+LOCATION:National Portrait Gallery\, Saint Martin's Place\, London\, London
+URL:https://www.artfund.org/explore/get-inspired/features/best-exhibitions-
+ in-london-open-now
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:f82c980e138f@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260518
+SUMMARY:London Craft Week 2026
+DESCRIPTION:A city-wide festival showcasing craftsmanship\, design\, and li
+ ve demonstrations.\n\nPrice: Check site\n\nTickets/Info: https://jafexecut
+ ivetravels.com/upcoming-events-in-london-england/may/
+LOCATION:Multiple venues across London\, Citywide\, London
+URL:https://jafexecutivetravels.com/upcoming-events-in-london-england/may/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2b4e712a74@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260518
+SUMMARY:Georges Seurat Seascapes Exhibition
+DESCRIPTION:First UK exhibition in 30 years dedicated to Seurat's seascapes
+ .\n\nPrice: Free\n\nTickets/Info: https://londontheinside.com/free-events-
+ on-in-london/
+LOCATION:The Courtauld\, London\, London
+URL:https://londontheinside.com/free-events-on-in-london/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
