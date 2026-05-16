@@ -8,66 +8,28 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:f143423ab589@london-events-scraper
-DTSTAMP:20260513T000000Z
+UID:7541b28db0c2@london-events-scraper
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260517
-SUMMARY:Bass One Union
-DESCRIPTION:Underground bass music night with Bonnot and General Levy.\n\nP
- rice: £15.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/wha
- ts-on-in-london-this-weekend/
+SUMMARY:Bass One Union with Bonnot & General Levy
+DESCRIPTION:Underground bass music night featuring Bonnot and General Levy.
+ \n\nPrice: Check site\n\nTickets/Info: https://www.skiddle.com/whats-on/Lo
+ ndon/whats-on-in-london-this-weekend/
 LOCATION:Rolling Stock\, Shoreditch\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:504c3baaa875@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260517
-SUMMARY:RollerBoogie
-DESCRIPTION:Friday night roller skating event.\n\nPrice: £17.00\n\nTickets
- /Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-this-wee
- kend/
-LOCATION:Rollernation\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:12d4644c8855@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:SING-A-LONG-A ROCKY HORROR PICTURE SHOW
-DESCRIPTION:An interactive sing-along screening of the cult classic.\n\nPri
- ce: £1\n\nTickets/Info: https://princecharlescinema.com/next-7-days/
-LOCATION:Prince Charles Cinema\, London\, London
-URL:https://princecharlescinema.com/next-7-days/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:9f8706513a50@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Boom Bap Revivalists
-DESCRIPTION:Live hip-hop performance celebrating classic boom bap sounds.\n
- \nPrice: £22.50\n\nTickets/Info: https://thejazzcafe.com/event/febre90s/
-LOCATION:Febre90s\, London\, London
-URL:https://thejazzcafe.com/event/febre90s/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:750ae6b7d7e4@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Day of Light
-DESCRIPTION:Indoor and outdoor day-party with music and festivities.\n\nPri
- ce: £60.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats
- -on-in-london-this-weekend/
+DESCRIPTION:An indoor and outdoor day-party with music and celebration.\n\n
+ Price: £60.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/wh
+ ats-on-in-london-this-weekend/
 LOCATION:Riverside East\, London\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
@@ -75,57 +37,98 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:9982fcec9d7e@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Finger Lickin Boat Party
-DESCRIPTION:A lively boat party with music and drinks.\n\nPrice: £35.00\n\
- nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in-london-
- this-weekend/
+DESCRIPTION:A lively boat party with music and dancing on the Thames.\n\nPr
+ ice: £35.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/what
+ s-on-in-london-this-weekend/
 LOCATION:Dutch Master Party Boat\, London\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:01426d7ec140@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Gin & Rum Festival
-DESCRIPTION:UK's biggest gin and rum festival for one weekend.\n\nPrice: £
- 21.50\n\nTickets/Info: https://www.skiddle.com/whats-on/London/St-John%27s
- -Church%2C-Hyde-Park/Gin--Rum-Festival---London---2026/41295136/
-LOCATION:St John's Church\, Hyde Park\, Hyde Park\, London
-URL:https://www.skiddle.com/whats-on/London/St-John%27s-Church%2C-Hyde-Park
- /Gin--Rum-Festival---London---2026/41295136/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
 UID:3716bea9626f@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Shoot From The Hip
-DESCRIPTION:Award-winning improvised comedy with chaotic games and unscript
- ed performances.\n\nPrice: Check site\n\nTickets/Info: https://london.thec
- omedystore.co.uk/event/shoot-from-the-hip/2026-05-16_3pm
-LOCATION:The Comedy Store London\, London\, London
-URL:https://london.thecomedystore.co.uk/event/shoot-from-the-hip/2026-05-16
- _3pm
+DESCRIPTION:Improv comedy show at The Comedy Store.\n\nPrice: £23.25\n\nTi
+ ckets/Info: https://www.london-theatreland.co.uk/shows/comedy-carnival-cov
+ ent-garden/saturday-night-comedy-covent-garden/tickets/calendar
+LOCATION:The Comedy Store\, London\, London
+URL:https://www.london-theatreland.co.uk/shows/comedy-carnival-covent-garde
+ n/saturday-night-comedy-covent-garden/tickets/calendar
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:e5c0e5c4a914@london-events-scraper
-DTSTAMP:20260513T000000Z
+UID:8f240b14b76c@london-events-scraper
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-SUMMARY:Celebrating Salsa's Finest
-DESCRIPTION:Live salsa music performance featuring classic hits.\n\nPrice: 
- £25\n\nTickets/Info: https://thejazzcafe.com/event/willie-colon-salsa-for
- ever/
-LOCATION:Willie Colón: Salsa Forever\, London\, London
+SUMMARY:Willie Colón: Salsa Forever
+DESCRIPTION:Salsa music performance by Willie Colón.\n\nPrice: £25\n\nTic
+ kets/Info: https://thejazzcafe.com/event/willie-colon-salsa-forever/
+LOCATION:London
 URL:https://thejazzcafe.com/event/willie-colon-salsa-forever/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a449b111d5a7@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Finger Lickin' Day Party by the Thames
+DESCRIPTION:A daytime party by the Thames featuring Finest of Finger Lickin
+ ' label artists.\n\nPrice: £20.00\n\nTickets/Info: https://www.skiddle.co
+ m/whats-on/London/whats-on-in-london-this-weekend/
+LOCATION:Between The Bridges London\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+ /
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:062fb9120893@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:House Warming Day + Night Terrace / Arena Party
+DESCRIPTION:Day and night party with house music and terrace vibes.\n\nPric
+ e: £5.95\n\nTickets/Info: https://electricballroom.co.uk/whats-on/
+LOCATION:Electric Ballroom\, Camden\, London
+URL:https://electricballroom.co.uk/whats-on/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ac8a6fd42d@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:KOKO Electronic: Monkey Project
+DESCRIPTION:Hybrid live electronic music performance.\n\nPrice: Free\n\nTic
+ kets/Info: https://koko.co.uk/events/koko-electronic-x-piano-people-high-l
+ ights-after-party
+LOCATION:KOKO\, Camden\, London
+URL:https://koko.co.uk/events/koko-electronic-x-piano-people-high-lights-af
+ ter-party
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac09d21b13d@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Lil' Nashville: Honky Tonk Bar & Live Country Music
+DESCRIPTION:Live country music\, line dancing\, and BBQ in a Nashville-styl
+ e honky-tonk bar.\n\nPrice: Free\n\nTickets/Info: https://lil-nashville.de
+ signmynight.com/695cbf04aad7920d9846cb14/lil-nashville-nashville-honky-ton
+ k-bar-live-country-music-line-dancing-bbq-night-28
+LOCATION:Chiswick\, London
+URL:https://lil-nashville.designmynight.com/695cbf04aad7920d9846cb14/lil-na
+ shville-nashville-honky-tonk-bar-live-country-music-line-dancing-bbq-night
+ -28
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
