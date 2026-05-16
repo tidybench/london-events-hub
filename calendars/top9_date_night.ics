@@ -8,62 +8,8 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:54a2c8fc8f6e@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-SUMMARY:Sunrise At Sky Garden
-DESCRIPTION:Breakfast with skyline views at Sky Garden.\n\nPrice: Check sit
- e\n\nTickets/Info: https://sky-garden.designmynight.com/59fc8220680e4c1796
- 1194fe/sunrise-at-sky-garden
-LOCATION:Sky Garden Bars\, London
-URL:https://sky-garden.designmynight.com/59fc8220680e4c17961194fe/sunrise-a
- t-sky-garden
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:5252d14f6118@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-SUMMARY:Before Sunrise
-DESCRIPTION:A 35mm screening of the romantic film.\n\nPrice: £1\n\nTickets
- /Info: https://princecharlescinema.com/next-7-days/
-LOCATION:Prince Charles Cinema\, London\, London
-URL:https://princecharlescinema.com/next-7-days/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:7fcce38cf5f0@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-SUMMARY:Jazz in the House: Henry Lowther’s Still Waters
-DESCRIPTION:A jazz performance featuring Henry Lowther and other British ja
- zz musicians.\n\nPrice: £15.50\n\nTickets/Info: https://eventsforlondon.c
- o.uk/event/jazz-in-the-house-henry-lowthers-still-waters/
-LOCATION:Lauderdale House\, London\, London
-URL:https://eventsforlondon.co.uk/event/jazz-in-the-house-henry-lowthers-st
- ill-waters/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:25311a003218@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-SUMMARY:London Symphony Orchestra
-DESCRIPTION:Classical music performance featuring Strauss\, Wagner\, and Be
- ethoven.\n\nPrice: £18\n\nTickets/Info: https://www.barbican.org.uk/whats
- -on/2026/event/london-symphony-orchestranathalie-stutzmann
-LOCATION:Barbican Centre\, Classical Music\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/london-symphony-orchest
- ranathalie-stutzmann
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
 UID:1359559b1156@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Bougie Drag East Brunch
@@ -77,7 +23,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:257e8a127252@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Live Music Brunch
@@ -91,7 +37,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:c31b884ffa3c@london-events-scraper
-DTSTAMP:20260513T000000Z
+DTSTAMP:20260516T000000Z
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
 SUMMARY:Pottery Painting & Pizza
@@ -104,31 +50,82 @@ URL:https://theexhibit.designmynight.com/69df88b201759115f515f03c/pottery-p
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:4184434bbe90@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-SUMMARY:Wiston sparkling wine tasting
-DESCRIPTION:A wine tasting experience organized by color.\n\nPrice: From £
- 65\n\nTickets/Info: https://www.nationalgallery.org.uk/events/wiston-spark
- ling-wine-tasting-a-tasting-led-by-colour-13-05-2026
-LOCATION:Supporters' House Salon\, In Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/wiston-sparkling-wine-tasting
- -a-tasting-led-by-colour-13-05-2026
+UID:b0d492805725@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Big London Bake South
+DESCRIPTION:Bake-off challenge with pre-measured ingredients and themes.\n\
+ nPrice: Check site\n\nTickets/Info: https://the-big-bake.designmynight.com
+ /59197b3dde7e7861dd19f3d2/the-big-london-bake
+LOCATION:The Castle Tooting\, Tooting\, London
+URL:https://the-big-bake.designmynight.com/59197b3dde7e7861dd19f3d2/the-big
+ -london-bake
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d12daadefae6@london-events-scraper
-DTSTAMP:20260513T000000Z
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-SUMMARY:The Big London Bake South
-DESCRIPTION:Competitive baking challenge with friends in a fun\, themed set
- ting.\n\nPrice: Check site\n\nTickets/Info: https://www.designmynight.com/
- london/whats-on/something-a-little-different-events/the-big-london-bake
-LOCATION:The Castle Tooting\, Tooting\, London
-URL:https://www.designmynight.com/london/whats-on/something-a-little-differ
- ent-events/the-big-london-bake
+UID:d02bdd2ae5bd@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260518
+SUMMARY:The Wild Table
+DESCRIPTION:Woodland dining with open-fire cooking and seasonal ingredients
+ .\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/may-activiti
+ es-things-to-do-london/
+LOCATION:Tey Brook Orchard\, Just outside of London\, London
+URL:https://secretldn.com/may-activities-things-to-do-london/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4b24a722b3@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260517
+SUMMARY:Japanese whisky and ice carving masterclass
+DESCRIPTION:A guided tasting and live ice carving demonstration.\n\nPrice: 
+ Check site\n\nTickets/Info: https://secretldn.com/things-to-do-in-london-w
+ eekend/
+LOCATION:Waltz\, 28 Scrutton St\, London\, EC2A 4RP\, Shoreditch\, London
+URL:https://secretldn.com/things-to-do-in-london-weekend/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:b18a2f9bc583@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Ham Open Gardens
+DESCRIPTION:A chance to explore private gardens around Ham Common near Rich
+ mond.\n\nPrice: £12\n\nTickets/Info: https://www.ianvisits.co.uk/calendar
+ /ham-open-gardens-2026-430733/
+LOCATION:Various locations\, Richmond\, London
+URL:https://www.ianvisits.co.uk/calendar/ham-open-gardens-2026-430733/
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:280b7680038f@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Magic at the Temple
+DESCRIPTION:Immersive magic and masonry show at Andaz Liverpool Street.\n\n
+ Price: Check site\n\nTickets/Info: https://the-magic-hour.designmynight.co
+ m/66604f7aa942dc17ab253281/magic-at-the-temple
+LOCATION:Andaz London\, Liverpool Street\, London
+URL:https://the-magic-hour.designmynight.com/66604f7aa942dc17ab253281/magic
+ -at-the-temple
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:d14dcf969218@london-events-scraper
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Silent Disco at Kew Gardens
+DESCRIPTION:Silent disco in the Royal Botanic Gardens.\n\nPrice: From £35.
+ 20\n\nTickets/Info: https://feverup.com/en/london/nightlife-clubs
+LOCATION:Royal Botanic Gardens\, Kew\, Kew\, London
+URL:https://feverup.com/en/london/nightlife-clubs
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
