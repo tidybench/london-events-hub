@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>London Events — 11 May 26 to 17 May 26</name>
-    <description>Weekend events in London, 11 May 26 to 17 May 26. Pins coloured by category.</description>
+    <name>London Events — 18 May 26 to 24 May 26</name>
+    <description>Weekend events in London, 18 May 26 to 24 May 26. Pins coloured by category.</description>
   <Style id="blue-dot.png">
     <IconStyle>
       <Icon><href>https://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
@@ -39,243 +39,243 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>Bougie Drag East Brunch</name>
-      <description><![CDATA[<b>Bougie Drag East Brunch</b><br><i>Nightlife</i><br>Sat 16th May<br>45 London<br>Tickets from £14.30 – £19.80<br><br>Luxury drag brunch with bottomless cocktails and performances.<br><br><a href="https://bougie-drag-events.designmynight.com/697a54d322a77625c8729941/bougie-drag-east">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0561079,51.4396531,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Live Music Brunch</name>
-      <description><![CDATA[<b>Live Music Brunch</b><br><i>Food &amp; Drink</i><br>Sat 16th May<br>Mr Fogg’s City Tavern, Broadgate Circle<br>£55<br><br>Brunch with live music and bottomless drinks.<br><br><a href="https://mr-foggs.designmynight.com/6717b061c3c5f46c0f612fc8/live-music-brunch">More info / tickets</a>]]></description>
+      <name>Endo Kazutoshi Omakase Pop-Up</name>
+      <description><![CDATA[<b>Endo Kazutoshi Omakase Pop-Up</b><br><i>Food &amp; Drink</i><br>Tue 19th May – Fri 31st Jul<br>Annabel's, Mayfair<br>£245<br><br>Sushi master's £245 omakase menu at Annabel's.<br><br><a href="https://londontheinside.com/map/pop-ups/">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0834,51.51852,0</coordinates>
+        <coordinates>-0.146408,51.5091039,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Pottery Painting &amp; Pizza</name>
-      <description><![CDATA[<b>Pottery Painting &amp; Pizza</b><br><i>Arts &amp; Culture</i><br>Sun 17th May<br>Exhibit, Balham<br>from £43.39<br><br>Creative pottery painting session with included pizza and drinks.<br><br><a href="https://theexhibit.designmynight.com/69df88b201759115f515f03c/pottery-painting-pizza">More info / tickets</a>]]></description>
+      <name>Belgravia in Bloom</name>
+      <description><![CDATA[<b>Belgravia in Bloom</b><br><i>Arts &amp; Culture</i><br>Mon 18th May – Sun 24th May<br>The Hari London, Belgravia<br>Check site<br><br>A Snow White-themed floral display in Belgravia.<br><br><a href="https://www.thehari.com/london/whats-on-in-london-may-2026/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1514713,51.4433108,0</coordinates>
+        <coordinates>-0.156332,51.4973662,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Big London Bake South</name>
-      <description><![CDATA[<b>Big London Bake South</b><br><i>Arts &amp; Culture</i><br>Sat 16th May<br>The Castle Tooting, Tooting<br>Check site<br><br>Bake-off challenge with pre-measured ingredients and themes.<br><br><a href="https://the-big-bake.designmynight.com/59197b3dde7e7861dd19f3d2/the-big-london-bake">More info / tickets</a>]]></description>
+      <name>Opera at Cutty Sark with Monteverdi Choir</name>
+      <description><![CDATA[<b>Opera at Cutty Sark with Monteverdi Choir</b><br><i>Music</i><br>Thu 21st May<br>Cutty Sark, Greenwich<br>£40 – £80<br><br>Immersive performance of Purcell’s Dido and Aeneas.<br><br><a href="https://www.rmg.co.uk/whats-on">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0101646,51.4821653,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Before Sunset</name>
+      <description><![CDATA[<b>Before Sunset</b><br><i>Cultural</i><br>Wed 20th May<br>Prince Charles Cinema, London<br>£1<br><br>35mm screening of the romantic drama.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1677325,51.4285893,0</coordinates>
+        <coordinates>-0.1302137,51.5114907,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Japanese whisky and ice carving masterclass</name>
-      <description><![CDATA[<b>Japanese whisky and ice carving masterclass</b><br><i>Food &amp; Drink</i><br>Fri 15th May – Sat 16th May<br>Waltz, 28 Scrutton St, London, EC2A 4RP, Shoreditch<br>Check site<br><br>A guided tasting and live ice carving demonstration.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
+      <name>London Symphony Orchestra Open Air Concert</name>
+      <description><![CDATA[<b>London Symphony Orchestra Open Air Concert</b><br><i>Music</i><br>Sat 23rd May<br>Trafalgar Square, Westminster<br>Free<br><br>Annual free outdoor classical music concert in Trafalgar Square.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0828924,51.5231999,0</coordinates>
+        <coordinates>-0.127475,51.50765,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Ham Open Gardens</name>
-      <description><![CDATA[<b>Ham Open Gardens</b><br><i>Arts &amp; Culture</i><br>Sat 16th May<br>Various locations, Richmond<br>£12<br><br>A chance to explore private gardens around Ham Common near Richmond.<br><br><a href="https://www.ianvisits.co.uk/calendar/ham-open-gardens-2026-430733/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
+      <name>Tempted Boat Party</name>
+      <description><![CDATA[<b>Tempted Boat Party</b><br><i>Nightlife</i><br>Sun 24th May<br>Temple Pier London, London<br>£30.00<br><br>Summer boat party with house music and Thames views.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.092813,51.514993,0</coordinates>
+        <coordinates>-0.084688,51.5067344,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Magic at the Temple</name>
-      <description><![CDATA[<b>Magic at the Temple</b><br><i>Theatre</i><br>Sat 16th May<br>Andaz London, Liverpool Street<br>Check site<br><br>Immersive magic and masonry show at Andaz Liverpool Street.<br><br><a href="https://the-magic-hour.designmynight.com/66604f7aa942dc17ab253281/magic-at-the-temple">More info / tickets</a>]]></description>
+      <name>Cole Porter: High Society</name>
+      <description><![CDATA[<b>Cole Porter: High Society</b><br><i>Theatre</i><br>Tue 19th May<br>Barbican Centre, Theatre &amp; Dance<br>From £39<br><br>A Golden Age musical theatre production with glamorous escapism.<br><br><a href="https://www.barbican.org.uk/whats-on/2026/event/cole-porter-high-society">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.082604,51.517464,0</coordinates>
+        <coordinates>-0.0938978,51.5198645,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Silent Disco at Kew Gardens</name>
-      <description><![CDATA[<b>Silent Disco at Kew Gardens</b><br><i>Music</i><br>Sat 16th May<br>Royal Botanic Gardens, Kew, Kew<br>From £35.20<br><br>Silent disco in the Royal Botanic Gardens.<br><br><a href="https://feverup.com/en/london/nightlife-clubs">More info / tickets</a>]]></description>
+      <name>Art of the London Blitz</name>
+      <description><![CDATA[<b>Art of the London Blitz</b><br><i>Cultural</i><br>Wed 20th May<br>City of London<br>starting at £100<br><br>Walking tour exploring the Blitz and its artistic responses.<br><br><a href="https://www.eventbrite.co.uk/e/art-of-the-london-blitz-85-years-on-may-2026-tickets-1664217462229">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0919983,51.5156177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOJEY RADICAL</name>
+      <description><![CDATA[<b>KOJEY RADICAL</b><br><i>Music</i><br>Wed 20th May<br>Royal Albert Hall, London<br>Check site<br><br>Live performance by the rapper at the iconic Royal Albert Hall.<br><br><a href="https://guides.ticketmaster.co.uk/concerts-and-tours-guide/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2968861,51.4781974,0</coordinates>
+        <coordinates>-0.177966,51.5006181,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Leicester Square &amp; Hippodrome Tour</name>
-      <description><![CDATA[<b>Leicester Square &amp; Hippodrome Tour</b><br><i>Cultural</i><br>Sat 16th May<br>Rock 'n' Roll Walking Tour of Soho with a Funny Music Nerd, Leicester Square<br>£20<br><br>A walking tour of Leicester Square and the Hippodrome.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <name>Westminster Abbey after hours</name>
+      <description><![CDATA[<b>Westminster Abbey after hours</b><br><i>Cultural</i><br>Wed 20th May<br>Westminster Abbey, Westminster<br>£15<br><br>Self-guided evening visit to explore the historic abbey.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/05/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1290964,51.5105059,0</coordinates>
+        <coordinates>-0.129893,51.495581,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Football Shirt Exhibition Near Emirates Stadium</name>
-      <description><![CDATA[<b>Football Shirt Exhibition Near Emirates Stadium</b><br><i>Sport &amp; Fitness</i><br>Fri 8th May – Sun 31st May<br>n5 1ns, Islington<br>Free<br><br>An exhibition celebrating 140 years of Arsenal football shirts.<br><br><a href="https://eventsforlondon.co.uk/event/football-shirt-exhibition-near-emirates-stadium/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.10487,51.5525,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Threads and Petals</name>
-      <description><![CDATA[<b>Threads and Petals</b><br><i>Arts &amp; Culture</i><br>Sat 16th May<br>Southwark Cathedral, Southwark, Southwark<br>Free<br><br>Exhibition of liturgical textiles and floral art.<br><br><a href="https://www.ianvisits.co.uk/calendar/threads-and-petals-429947/">More info / tickets</a>]]></description>
+      <name>Hackney History Festival: Cazenove Ward Stories</name>
+      <description><![CDATA[<b>Hackney History Festival: Cazenove Ward Stories</b><br><i>Cultural</i><br>Sun 24th May<br>Rio Cinema, Hackney<br>Free<br><br>Local history talks and storytelling.<br><br><a href="https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_436.TcsWebTab_437">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0896246,51.5061288,0</coordinates>
+        <coordinates>-0.0755805,51.5496199,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Pirate Pubs of Old London Tour</name>
-      <description><![CDATA[<b>Pirate Pubs of Old London Tour</b><br><i>Cultural</i><br>Sat 16th May<br>Rotherhithe, Rotherhithe<br>£410.00<br><br>Half-day tour exploring historic pirate pubs.<br><br><a href="https://feverup.com/en/london/nightlife-clubs">More info / tickets</a>]]></description>
+      <name>Southbank Centre Spring Walks &amp; Talks</name>
+      <description><![CDATA[<b>Southbank Centre Spring Walks &amp; Talks</b><br><i>Arts &amp; Culture</i><br>Sun 24th May<br>Southbank Centre, Southbank<br>£10 – £25<br><br>Guided walks and talks exploring South Bank’s art and culture.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0436321,51.5002908,0</coordinates>
+        <coordinates>-0.1158875,51.5060021,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Heritage Crafts Weekend</name>
-      <description><![CDATA[<b>Heritage Crafts Weekend</b><br><i>Cultural</i><br>Sat 16th May – Sun 17th May<br>Cutty Sark, Experiences<br>Free with entry to Cutty Sark - Adults £22 | Students £16.50 | Children £11<br><br>Celebrating the craft skills used to build and maintain Cutty Sark with hands-on activities.<br><br><a href="https://www.rmg.co.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0096145,51.482933,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Silent Disco Thames Boat Party</name>
-      <description><![CDATA[<b>Silent Disco Thames Boat Party</b><br><i>Nightlife</i><br>Sat 16th May – Sat 13th Jun<br>Tower Millennium Pier, London<br>£35<br><br>Silent disco cruise on the River Thames.<br><br><a href="https://feverup.com/m/167032">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.125074,51.491645,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Grand Flaneur Walk</name>
-      <description><![CDATA[<b>The Grand Flaneur Walk</b><br><i>Arts &amp; Social</i><br>Sat 16th May<br>Courtyard Wine Cellars, Covent Garden, Covent Garden<br>Free<br><br>A long walk through London led by dandies and dandizettes.<br><br><a href="https://www.ianvisits.co.uk/calendar/the-third-grand-flaneur-walk-323496/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1225201,51.5119593,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Queen and the Playwright: A Royal Visit at the Prague Castle</name>
-      <description><![CDATA[<b>The Queen and the Playwright: A Royal Visit at the Prague Castle</b><br><i>Cultural</i><br>Tue 21st Apr – Fri 12th Jun<br>Czech Embassy London, London<br>Free<br><br>Photographs of Queen Elizabeth II's visit to Prague Castle.<br><br><a href="https://eventsforlondon.co.uk/event/the-queen-and-the-playwright-a-royal-visit-at-the-prague-castle/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0091921,51.4814616,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Noisy World Exhibition</name>
-      <description><![CDATA[<b>Noisy World Exhibition</b><br><i>Arts &amp; Culture</i><br>Sat 25th Apr – Sat 16th May<br>The Stone Space, London<br>Check site<br><br>Art exhibition featuring line drawings of everyday objects.<br><br><a href="https://eventsforlondon.co.uk/event/noisy-world/2026-04-25/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.010548,51.568211,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Mel Brooks' The Producers</name>
-      <description><![CDATA[<b>Mel Brooks' The Producers</b><br><i>Theatre</i><br>Sat 16th May<br>Garrick Theatre, London<br>£25.00<br><br>A critically acclaimed musical comedy about a shady Broadway production.<br><br><a href="https://ticketing.nimaxtheatres.com/tickets/series/GATPR01M/the-producers-1837942">More info / tickets</a>]]></description>
+      <name>End of the Rainbow</name>
+      <description><![CDATA[<b>End of the Rainbow</b><br><i>Theatre</i><br>Fri 15th May – Sun 21st Jun<br>Soho Theatre, Walthamstow<br>£20<br><br>Jinkx Monsoon performs as Judy Garland in a musical tribute.<br><br><a href="https://www.todaytix.com/london/shows/46345-end-of-the-rainbow">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1278259,51.5099933,0</coordinates>
+        <coordinates>-0.0205321,51.5859102,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Wimbledon Art Fair</name>
-      <description><![CDATA[<b>Wimbledon Art Fair</b><br><i>Arts &amp; Culture</i><br>Thu 14th May – Sun 17th May<br>Wimbledon, Wimbledon<br>£200<br><br>Discover original artworks from 180 London artists in open studios.<br><br><a href="https://londoncheapo.com/events/may/">More info / tickets</a>]]></description>
+      <name>Circus Spectacles at Hampton Court</name>
+      <description><![CDATA[<b>Circus Spectacles at Hampton Court</b><br><i>Family</i><br>Sat 23rd May – Mon 25th May<br>Hampton Court Palace, Richmond<br>Check site<br><br>Family-friendly circus comedy and spectacle in the palace grounds.<br><br><a href="https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3376964,51.4036839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chelsea Flower Fringe</name>
+      <description><![CDATA[<b>Chelsea Flower Fringe</b><br><i>Arts &amp; Culture</i><br>Tue 19th May – Sun 31st May<br>Various locations across London, London-wide<br>£0 – £35<br><br>Citywide celebration of community gardens, pop-up floral installations, and creative displays.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.2052107,51.4220252,0</coordinates>
+        <coordinates>-0.099076,51.509648,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Seurat and the Sea</name>
-      <description><![CDATA[<b>Seurat and the Sea</b><br><i>Arts &amp; Culture</i><br>Sat 16th May – Sun 17th May<br>Courtauld Institute of Art, Strand, Strand<br>£18<br><br>First exhibition dedicated to Georges Seurat's seascapes.<br><br><a href="https://www.ianvisits.co.uk/calendar/seurat-and-the-sea-426054/">More info / tickets</a>]]></description>
+      <name>David Černý’s Butterfly Effect</name>
+      <description><![CDATA[<b>David Černý’s Butterfly Effect</b><br><i>Arts &amp; Culture</i><br>Tue 19th May – Thu 21st May<br>Atelier Bohemia, London<br>Free<br><br>Bold outdoor installation by Czech artist David Černý arrives in London.<br><br><a href="https://eventsforlondon.co.uk/event/david-cernys-butterfly-effect-arrives-in-london/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.112195,51.513623,0</coordinates>
+        <coordinates>-0.0514097,51.5513241,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Catherine Opie Exhibition</name>
-      <description><![CDATA[<b>Catherine Opie Exhibition</b><br><i>Arts &amp; Culture</i><br>Tue 5th May – Sun 31st May<br>National Portrait Gallery, Saint Martin's Place, London<br>50% off exhibitions<br><br>Major UK exhibition of Catherine Opie's work on identity and politics.<br><br><a href="https://www.artfund.org/explore/get-inspired/features/best-exhibitions-in-london-open-now">More info / tickets</a>]]></description>
+      <name>Delcy Morelos: origo</name>
+      <description><![CDATA[<b>Delcy Morelos: origo</b><br><i>Arts &amp; Culture</i><br>Tue 19th May<br>Barbican Centre, Art &amp; Design<br>Free<br><br>A site-specific art installation exploring humanity's relationship with the earth.<br><br><a href="https://www.barbican.org.uk/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.127284,51.508728,0</coordinates>
+        <coordinates>-0.0938978,51.5198645,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>London Craft Week 2026</name>
-      <description><![CDATA[<b>London Craft Week 2026</b><br><i>Arts &amp; Culture</i><br>Mon 11th May – Sun 17th May<br>Multiple venues across London, Citywide<br>Check site<br><br>A city-wide festival showcasing craftsmanship, design, and live demonstrations.<br><br><a href="https://jafexecutivetravels.com/upcoming-events-in-london-england/may/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.109335,51.49254,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Georges Seurat Seascapes Exhibition</name>
-      <description><![CDATA[<b>Georges Seurat Seascapes Exhibition</b><br><i>Arts &amp; Culture</i><br>Wed 13th May – Sun 17th May<br>The Courtauld, London<br>Free<br><br>First UK exhibition in 30 years dedicated to Seurat's seascapes.<br><br><a href="https://londontheinside.com/free-events-on-in-london/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.117442,51.5116948,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Bass One Union with Bonnot &amp; General Levy</name>
-      <description><![CDATA[<b>Bass One Union with Bonnot &amp; General Levy</b><br><i>Music</i><br>Fri 15th May – Sat 16th May<br>Rolling Stock, Shoreditch<br>Check site<br><br>Underground bass music night featuring Bonnot and General Levy.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0777136,51.5286112,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Day of Light</name>
-      <description><![CDATA[<b>Day of Light</b><br><i>Music</i><br>Sat 16th May<br>Riverside East, London<br>£60.00<br><br>An indoor and outdoor day-party with music and celebration.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.0236185,51.4884173,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Shoot From The Hip</name>
-      <description><![CDATA[<b>Shoot From The Hip</b><br><i>Comedy</i><br>Sat 16th May<br>The Comedy Store, London<br>£23.25<br><br>Improv comedy show at The Comedy Store.<br><br><a href="https://www.london-theatreland.co.uk/shows/comedy-carnival-covent-garden/saturday-night-comedy-covent-garden/tickets/calendar">More info / tickets</a>]]></description>
+      <name>Northern Ballet - Gentleman Jack</name>
+      <description><![CDATA[<b>Northern Ballet - Gentleman Jack</b><br><i>Theatre</i><br>Tue 19th May – Sat 23rd May<br>Sadler's Wells Theatre<br>Check site<br><br>Ballet performance based on the life of Anne Lister.<br><br><a href="https://www.sadlerswells.com/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1322569,51.5101213,0</coordinates>
+        <coordinates>-0.1062108,51.5291192,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Finger Lickin' Day Party by the Thames</name>
-      <description><![CDATA[<b>Finger Lickin' Day Party by the Thames</b><br><i>Music</i><br>Sat 16th May<br>Between The Bridges London, London<br>£20.00<br><br>A daytime party by the Thames featuring Finest of Finger Lickin' label artists.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>RHS Chelsea Flower Show</name>
+      <description><![CDATA[<b>RHS Chelsea Flower Show</b><br><i>Arts &amp; Culture</i><br>Tue 19th May – Sat 23rd May<br>Chelsea, Chelsea<br>£107.00 – £137.00<br><br>Annual flower show featuring gardens and horticulture.<br><br><a href="https://londoncheapo.com/events/rhs-chelsea-flower-show/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.092813,51.514993,0</coordinates>
+        <coordinates>-0.1573943,51.4873839,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>House Warming Day + Night Terrace / Arena Party</name>
-      <description><![CDATA[<b>House Warming Day + Night Terrace / Arena Party</b><br><i>Nightlife</i><br>Sat 16th May<br>Electric Ballroom, Camden<br>£5.95<br><br>Day and night party with house music and terrace vibes.<br><br><a href="https://electricballroom.co.uk/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>A Midsummer Night's Dream</name>
+      <description><![CDATA[<b>A Midsummer Night's Dream</b><br><i>Theatre</i><br>Wed 20th May – Sun 24th May<br>Shakespeare's Globe Theatre, London<br>Check site<br><br>Shakespeare's classic comedy at the Globe Theatre.<br><br><a href="https://www.london-theatreland.co.uk/shows/shakespeares-globe-theatre/shakespeares-globe-a-midsummer-nights-dream/tickets/calendar">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.142943,51.5397245,0</coordinates>
+        <coordinates>-0.0946312,51.5077042,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>KOKO Electronic: Monkey Project</name>
-      <description><![CDATA[<b>KOKO Electronic: Monkey Project</b><br><i>Music</i><br>Sat 16th May<br>KOKO, Camden<br>Free<br><br>Hybrid live electronic music performance.<br><br><a href="https://koko.co.uk/events/koko-electronic-x-piano-people-high-lights-after-party">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>DroneArt Show: Four Seasons</name>
+      <description><![CDATA[<b>DroneArt Show: Four Seasons</b><br><i>Arts &amp; Culture</i><br>Fri 22nd May – Sat 23rd May<br>Kempton Park Racecourse, London<br>£23.9<br><br>Illuminated drones create sky art synchronized with classical music.<br><br><a href="https://feverup.com/m/559834">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1624803,51.5427966,0</coordinates>
+        <coordinates>-0.4094874,51.4210039,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Lil' Nashville: Honky Tonk Bar &amp; Live Country Music</name>
-      <description><![CDATA[<b>Lil' Nashville: Honky Tonk Bar &amp; Live Country Music</b><br><i>Music</i><br>Sat 16th May<br>Chiswick<br>Free<br><br>Live country music, line dancing, and BBQ in a Nashville-style honky-tonk bar.<br><br><a href="https://lil-nashville.designmynight.com/695cbf04aad7920d9846cb14/lil-nashville-nashville-honky-tonk-bar-live-country-music-line-dancing-bbq-night-28">More info / tickets</a>]]></description>
+      <name>Bashment Whine Shoreditch Party</name>
+      <description><![CDATA[<b>Bashment Whine Shoreditch Party</b><br><i>Nightlife</i><br>Fri 22nd May<br>The Lighthouse Bar And Club, London, Shoreditch<br>Free<br><br>A dance party in Shoreditch with free entry before midnight.<br><br><a href="https://www.skiddle.com/whats-on/London/rave-events/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.267325,51.483319,0</coordinates>
+        <coordinates>-0.074351,51.524827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SINEMATIC: London's Late-Night Immersive Cabaret</name>
+      <description><![CDATA[<b>SINEMATIC: London's Late-Night Immersive Cabaret</b><br><i>Nightlife</i><br>Fri 22nd May – Sat 23rd May<br>The Emerald Theatre, London<br>£55.00<br><br>Burlesque and stunt performances in an immersive cabaret setting.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1203681,51.5191701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Circuit Festival London Pre-Party</name>
+      <description><![CDATA[<b>Circuit Festival London Pre-Party</b><br><i>Nightlife</i><br>Sat 23rd May – Sun 24th May<br>FIRE Nightclub London, London<br>£35.00<br><br>Pre-party celebrations for the world's biggest gay festival.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1241658,51.484479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>POP-KID™ - SETLIST</name>
+      <description><![CDATA[<b>POP-KID™ - SETLIST</b><br><i>Music</i><br>Sat 23rd May<br>Somerset House, Strand<br>£19.00<br><br>Family-friendly dance party with food and music.<br><br><a href="https://feverup.com/m/546334">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>R&amp;B Lovers Summer Open Air Festival</name>
+      <description><![CDATA[<b>R&amp;B Lovers Summer Open Air Festival</b><br><i>Music</i><br>Sat 23rd May<br>LDN EAST, London<br>£42.00<br><br>Outdoor festival celebrating 90s and 00s R&amp;B hits.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2652329,51.46473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Strawberry Sundae 32nd Birthday</name>
+      <description><![CDATA[<b>Strawberry Sundae 32nd Birthday</b><br><i>Nightlife</i><br>Sat 23rd May<br>The Steel Yard, London<br>£26.50<br><br>Old skool house music party celebrating 32 years of events.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0903711,51.510124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cross The Tracks 2026</name>
+      <description><![CDATA[<b>Cross The Tracks 2026</b><br><i>Music</i><br>Sun 24th May<br>Brockwell Park, Brixton<br>£300.00<br><br>Jazz, funk, and soul music festival in Brixton.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1113412,51.4519046,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soul Session Day Party</name>
+      <description><![CDATA[<b>Soul Session Day Party</b><br><i>Music</i><br>Sun 24th May – Mon 25th May<br>93 Feet East, Shoreditch<br>£15.00<br><br>House music and dancing at 93 Feet East in Shoreditch.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.26274140857924533,51.4612839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RAYE - THIS TOUR MAY CONTAIN NEW MUSIC</name>
+      <description><![CDATA[<b>RAYE - THIS TOUR MAY CONTAIN NEW MUSIC</b><br><i>Music</i><br>Tue 19th May<br>The O2, Peninsula Square, Greenwich<br>Free<br><br>A concert by singer RAYE featuring new music.<br><br><a href="https://www.gig-guide.co.uk/listings/london">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.005019,51.5010283,0</coordinates>
       </Point>
     </Placemark>
   </Document>
