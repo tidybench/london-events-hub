@@ -8,124 +8,122 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:1359559b1156@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Bougie Drag East Brunch
-DESCRIPTION:Luxury drag brunch with bottomless cocktails and performances.\
- n\nPrice: Tickets from £14.30 – £19.80\n\nTickets/Info: https://bougie
- -drag-events.designmynight.com/697a54d322a77625c8729941/bougie-drag-east
-LOCATION:45 London\, London
-URL:https://bougie-drag-events.designmynight.com/697a54d322a77625c8729941/b
- ougie-drag-east
+UID:ccdc79cf1000@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:CHOOKY Supper Club
+DESCRIPTION:Mexican-inspired four-course dinner with citrus and spice flavo
+ rs.\n\nPrice: from £45.00\n\nTickets/Info: https://the-chocolate-cocktail
+ -club.designmynight.com/61d82c1d00390d0a953f85ad/chocolate-afternoon-tea-a
+ t-the-chocolate-cocktail-club
+LOCATION:The William Morris Pub\, London
+URL:https://the-chocolate-cocktail-club.designmynight.com/61d82c1d00390d0a9
+ 53f85ad/chocolate-afternoon-tea-at-the-chocolate-cocktail-club
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:257e8a127252@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Live Music Brunch
-DESCRIPTION:Brunch with live music and bottomless drinks.\n\nPrice: £55\n\
- nTickets/Info: https://mr-foggs.designmynight.com/6717b061c3c5f46c0f612fc8
- /live-music-brunch
-LOCATION:Mr Fogg’s City Tavern\, Broadgate Circle\, London
-URL:https://mr-foggs.designmynight.com/6717b061c3c5f46c0f612fc8/live-music-
- brunch
+UID:772dac471af7@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260801
+SUMMARY:Endo Kazutoshi Omakase Pop-Up
+DESCRIPTION:Sushi master's £245 omakase menu at Annabel's.\n\nPrice: £245
+ \n\nTickets/Info: https://londontheinside.com/map/pop-ups/
+LOCATION:Annabel's\, Mayfair\, London
+URL:https://londontheinside.com/map/pop-ups/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:c31b884ffa3c@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-SUMMARY:Pottery Painting & Pizza
-DESCRIPTION:Creative pottery painting session with included pizza and drink
- s.\n\nPrice: from £43.39\n\nTickets/Info: https://theexhibit.designmynigh
- t.com/69df88b201759115f515f03c/pottery-painting-pizza
-LOCATION:Exhibit\, Balham\, London
-URL:https://theexhibit.designmynight.com/69df88b201759115f515f03c/pottery-p
- ainting-pizza
+UID:f4ed81e41709@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260525
+SUMMARY:Belgravia in Bloom
+DESCRIPTION:A Snow White-themed floral display in Belgravia.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.thehari.com/london/whats-on-in-london-
+ may-2026/
+LOCATION:The Hari London\, Belgravia\, London
+URL:https://www.thehari.com/london/whats-on-in-london-may-2026/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b0d492805725@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Big London Bake South
-DESCRIPTION:Bake-off challenge with pre-measured ingredients and themes.\n\
- nPrice: Check site\n\nTickets/Info: https://the-big-bake.designmynight.com
- /59197b3dde7e7861dd19f3d2/the-big-london-bake
-LOCATION:The Castle Tooting\, Tooting\, London
-URL:https://the-big-bake.designmynight.com/59197b3dde7e7861dd19f3d2/the-big
- -london-bake
+UID:8a3b14333ac5@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Opera at Cutty Sark with Monteverdi Choir
+DESCRIPTION:Immersive performance of Purcell’s Dido and Aeneas.\n\nPrice:
+  £40 – £80\n\nTickets/Info: https://www.rmg.co.uk/whats-on
+LOCATION:Cutty Sark\, Greenwich\, London
+URL:https://www.rmg.co.uk/whats-on
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d02bdd2ae5bd@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260518
-SUMMARY:The Wild Table
-DESCRIPTION:Woodland dining with open-fire cooking and seasonal ingredients
- .\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/may-activiti
- es-things-to-do-london/
-LOCATION:Tey Brook Orchard\, Just outside of London\, London
-URL:https://secretldn.com/may-activities-things-to-do-london/
+UID:082b07e19e3d@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Before Sunset
+DESCRIPTION:35mm screening of the romantic drama.\n\nPrice: £1\n\nTickets/
+ Info: https://princecharlescinema.com/next-7-days/
+LOCATION:Prince Charles Cinema\, London\, London
+URL:https://princecharlescinema.com/next-7-days/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:4a4b24a722b3@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260517
-SUMMARY:Japanese whisky and ice carving masterclass
-DESCRIPTION:A guided tasting and live ice carving demonstration.\n\nPrice: 
- Check site\n\nTickets/Info: https://secretldn.com/things-to-do-in-london-w
- eekend/
-LOCATION:Waltz\, 28 Scrutton St\, London\, EC2A 4RP\, Shoreditch\, London
-URL:https://secretldn.com/things-to-do-in-london-weekend/
+UID:e585280c21e3@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Cabaret
+DESCRIPTION:Immersive revival of the multi-award-winning musical at the Pla
+ yhouse.\n\nPrice: £75\n\nTickets/Info: https://www.lovetheatre.com/shows/
+ cabaret-tickets/
+LOCATION:Playhouse\, London
+URL:https://www.lovetheatre.com/shows/cabaret-tickets/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b18a2f9bc583@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Ham Open Gardens
-DESCRIPTION:A chance to explore private gardens around Ham Common near Rich
- mond.\n\nPrice: £12\n\nTickets/Info: https://www.ianvisits.co.uk/calendar
- /ham-open-gardens-2026-430733/
-LOCATION:Various locations\, Richmond\, London
-URL:https://www.ianvisits.co.uk/calendar/ham-open-gardens-2026-430733/
+UID:b1306460c846@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:London Symphony Orchestra Open Air Concert
+DESCRIPTION:Annual free outdoor classical music concert in Trafalgar Square
+ .\n\nPrice: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/l
+ ondon-events-in-may-explore-things-to-do/
+LOCATION:Trafalgar Square\, Westminster\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:280b7680038f@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Magic at the Temple
-DESCRIPTION:Immersive magic and masonry show at Andaz Liverpool Street.\n\n
- Price: Check site\n\nTickets/Info: https://the-magic-hour.designmynight.co
- m/66604f7aa942dc17ab253281/magic-at-the-temple
-LOCATION:Andaz London\, Liverpool Street\, London
-URL:https://the-magic-hour.designmynight.com/66604f7aa942dc17ab253281/magic
- -at-the-temple
+UID:985a4a131829@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Tempted Boat Party
+DESCRIPTION:Summer boat party with house music and Thames views.\n\nPrice: 
+ £30.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-
+ in-london-this-weekend/
+LOCATION:Temple Pier London\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
+ /
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:d14dcf969218@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Silent Disco at Kew Gardens
-DESCRIPTION:Silent disco in the Royal Botanic Gardens.\n\nPrice: From £35.
- 20\n\nTickets/Info: https://feverup.com/en/london/nightlife-clubs
-LOCATION:Royal Botanic Gardens\, Kew\, Kew\, London
-URL:https://feverup.com/en/london/nightlife-clubs
+UID:23459881e9f7@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Cole Porter: High Society
+DESCRIPTION:A Golden Age musical theatre production with glamorous escapism
+ .\n\nPrice: From £39\n\nTickets/Info: https://www.barbican.org.uk/whats-o
+ n/2026/event/cole-porter-high-society
+LOCATION:Barbican Centre\, Theatre & Dance\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/cole-porter-high-societ
+ y
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
