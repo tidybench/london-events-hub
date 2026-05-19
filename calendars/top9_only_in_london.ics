@@ -8,124 +8,123 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:faebb8cfa1ff@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Leicester Square & Hippodrome Tour
-DESCRIPTION:A walking tour of Leicester Square and the Hippodrome.\n\nPrice
- : £20\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Rock 'n' Roll Walking Tour of Soho with a Funny Music Nerd\, Leice
- ster Square\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+UID:b0462a8dfa6d@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Art of the London Blitz
+DESCRIPTION:Walking tour exploring the Blitz and its artistic responses.\n\
+ nPrice: starting at £100\n\nTickets/Info: https://www.eventbrite.co.uk/e/
+ art-of-the-london-blitz-85-years-on-may-2026-tickets-1664217462229
+LOCATION:City of London\, London
+URL:https://www.eventbrite.co.uk/e/art-of-the-london-blitz-85-years-on-may-
+ 2026-tickets-1664217462229
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:512bf301ef7d@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Billingsgate Roman House and Baths Tour
-DESCRIPTION:Explore ancient Roman ruins in the heart of London.\n\nPrice: 1
- 6.96\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/billingsgate-ro
- man-house-and-baths-tour-429370/
-LOCATION:Royal Albert Hall\, London
-URL:https://www.ianvisits.co.uk/calendar/billingsgate-roman-house-and-baths
- -tour-429370/
+UID:cbcad436d58c@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:KOJEY RADICAL
+DESCRIPTION:Live performance by the rapper at the iconic Royal Albert Hall.
+ \n\nPrice: Check site\n\nTickets/Info: https://guides.ticketmaster.co.uk/c
+ oncerts-and-tours-guide/
+LOCATION:Royal Albert Hall\, London\, London
+URL:https://guides.ticketmaster.co.uk/concerts-and-tours-guide/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:b42038109c0f@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260601
-SUMMARY:Football Shirt Exhibition Near Emirates Stadium
-DESCRIPTION:An exhibition celebrating 140 years of Arsenal football shirts.
- \n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/footb
- all-shirt-exhibition-near-emirates-stadium/
-LOCATION:n5 1ns\, Islington\, London
-URL:https://eventsforlondon.co.uk/event/football-shirt-exhibition-near-emir
- ates-stadium/
+UID:06acb3bcf031@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:London Underground Costume Party
+DESCRIPTION:A themed social where guests dress as their favorite Tube stati
+ ons.\n\nPrice: Tickets via Partiful\n\nTickets/Info: https://scouts.yutori
+ .com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
+LOCATION:Location TBC\, London\, London
+URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:676dbf92a497@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Threads and Petals
-DESCRIPTION:Exhibition of liturgical textiles and floral art.\n\nPrice: Fre
- e\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/threads-and-petals
- -429947/
-LOCATION:Southwark Cathedral\, Southwark\, Southwark\, London
-URL:https://www.ianvisits.co.uk/calendar/threads-and-petals-429947/
+UID:a78011379f99@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Westminster Abbey after hours
+DESCRIPTION:Self-guided evening visit to explore the historic abbey.\n\nPri
+ ce: £15\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/0
+ 5/
+LOCATION:Westminster Abbey\, Westminster\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/05/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:09ce9cad731e@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Pirate Pubs of Old London Tour
-DESCRIPTION:Half-day tour exploring historic pirate pubs.\n\nPrice: £410.0
- 0\n\nTickets/Info: https://feverup.com/en/london/nightlife-clubs
-LOCATION:Rotherhithe\, Rotherhithe\, London
-URL:https://feverup.com/en/london/nightlife-clubs
+UID:45cae45d47c8@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Hackney History Festival: Cazenove Ward Stories
+DESCRIPTION:Local history talks and storytelling.\n\nPrice: Free\n\nTickets
+ /Info: https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSel
+ ectItemsPrompt.TcsWebMenuItem_436.TcsWebTab_437
+LOCATION:Rio Cinema\, Hackney\, London
+URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectI
+ temsPrompt.TcsWebMenuItem_436.TcsWebTab_437
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:b6fc413bb806@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-SUMMARY:Northern Soul all-dayer at the Rivoli Ballroom
-DESCRIPTION:All-day Northern Soul dance event in a 1950s ballroom.\n\nPrice
- : £12\n\nTickets/Info: https://northern-soul-at-the-rivoli-ballroom.desig
- nmynight.com/69aae97c7b5e6c4ddb1832d2/northern-soul-all-dayer-at-the-rivol
- i-ballroom
-LOCATION:Rivoli Ballroom\, London
-URL:https://northern-soul-at-the-rivoli-ballroom.designmynight.com/69aae97c
- 7b5e6c4ddb1832d2/northern-soul-all-dayer-at-the-rivoli-ballroom
+UID:f17f6cd62731@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Southbank Centre Spring Walks & Talks
+DESCRIPTION:Guided walks and talks exploring South Bank’s art and culture
+ .\n\nPrice: £10 – £25\n\nTickets/Info: https://www.londonbackpackers.c
+ om/blog/london-events-in-may-explore-things-to-do/
+LOCATION:Southbank Centre\, Southbank\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:6304ab6abdcc@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260518
-SUMMARY:Heritage Crafts Weekend
-DESCRIPTION:Celebrating the craft skills used to build and maintain Cutty S
- ark with hands-on activities.\n\nPrice: Free with entry to Cutty Sark - Ad
- ults £22 | Students £16.50 | Children £11\n\nTickets/Info: https://www.
- rmg.co.uk/whats-on
-LOCATION:Cutty Sark\, Experiences\, London
-URL:https://www.rmg.co.uk/whats-on
+UID:3dc954d76c85@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260622
+SUMMARY:End of the Rainbow
+DESCRIPTION:Jinkx Monsoon performs as Judy Garland in a musical tribute.\n\
+ nPrice: £20\n\nTickets/Info: https://www.todaytix.com/london/shows/46345-
+ end-of-the-rainbow
+LOCATION:Soho Theatre\, Walthamstow\, London
+URL:https://www.todaytix.com/london/shows/46345-end-of-the-rainbow
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:5422a14b4887@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260614
-SUMMARY:Silent Disco Thames Boat Party
-DESCRIPTION:Silent disco cruise on the River Thames.\n\nPrice: £35\n\nTick
- ets/Info: https://feverup.com/m/167032
-LOCATION:Tower Millennium Pier\, London\, London
-URL:https://feverup.com/m/167032
+UID:547f17776764@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260526
+SUMMARY:Circus Spectacles at Hampton Court
+DESCRIPTION:Family-friendly circus comedy and spectacle in the palace groun
+ ds.\n\nPrice: Check site\n\nTickets/Info: https://www.cntraveller.com/gall
+ ery/things-to-do-in-london-this-weekend
+LOCATION:Hampton Court Palace\, Richmond\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:b0dfbc75bf78@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:The Grand Flaneur Walk
-DESCRIPTION:A long walk through London led by dandies and dandizettes.\n\nP
- rice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/the-third
- -grand-flaneur-walk-323496/
-LOCATION:Courtyard Wine Cellars\, Covent Garden\, Covent Garden\, London
-URL:https://www.ianvisits.co.uk/calendar/the-third-grand-flaneur-walk-32349
- 6/
+UID:014e9aba468f@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Tour of Kirkaldy's Testing Works
+DESCRIPTION:A guided tour of Kirkaldy's historic testing museum with live d
+ emonstrations.\n\nPrice: 25.63\n\nTickets/Info: https://www.ianvisits.co.u
+ k/venues/kirkaldy-testing-museum/
+LOCATION:Kirkaldy Testing Museum\, London
+URL:https://www.ianvisits.co.uk/venues/kirkaldy-testing-museum/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
