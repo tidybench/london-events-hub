@@ -8,123 +8,121 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:c0611eb6bfc5@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260613
-SUMMARY:The Queen and the Playwright: A Royal Visit at the Prague Castle
-DESCRIPTION:Photographs of Queen Elizabeth II's visit to Prague Castle.\n\n
- Price: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/the-queen
- -and-the-playwright-a-royal-visit-at-the-prague-castle/
-LOCATION:Czech Embassy London\, London\, London
-URL:https://eventsforlondon.co.uk/event/the-queen-and-the-playwright-a-roya
- l-visit-at-the-prague-castle/
+UID:6f630ebd1d66@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260629
+SUMMARY:David Bowie Immersive Experience
+DESCRIPTION:An immersive journey into the mind of David Bowie.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://londontheinside.com/whats-on-this-week/
+LOCATION:Lightroom\, London
+URL:https://londontheinside.com/whats-on-this-week/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:2d53a8e8cc1d@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260517
-SUMMARY:Noisy World Exhibition
-DESCRIPTION:Art exhibition featuring line drawings of everyday objects.\n\n
- Price: Check site\n\nTickets/Info: https://eventsforlondon.co.uk/event/noi
- sy-world/2026-04-25/
-LOCATION:The Stone Space\, London\, London
-URL:https://eventsforlondon.co.uk/event/noisy-world/2026-04-25/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:353acc71a6c4@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:Mel Brooks' The Producers
-DESCRIPTION:A critically acclaimed musical comedy about a shady Broadway pr
- oduction.\n\nPrice: £25.00\n\nTickets/Info: https://ticketing.nimaxtheatr
- es.com/tickets/series/GATPR01M/the-producers-1837942
-LOCATION:Garrick Theatre\, London\, London
-URL:https://ticketing.nimaxtheatres.com/tickets/series/GATPR01M/the-produce
- rs-1837942
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6d1f0d2bc275@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260531
-SUMMARY:YAMATO The Drummers of Japan
-DESCRIPTION:A powerful drumming performance by Japanese drummers.\n\nPrice:
-  Check site\n\nTickets/Info: https://www.sadlerswells.com/whats-on/yamato-
- hito-no-chika-the-power-of-human-strength/
-LOCATION:Peacock Theatre\, London
-URL:https://www.sadlerswells.com/whats-on/yamato-hito-no-chika-the-power-of
- -human-strength/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:4215a356097e@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260518
-SUMMARY:Wimbledon Art Fair
-DESCRIPTION:Discover original artworks from 180 London artists in open stud
- ios.\n\nPrice: £200\n\nTickets/Info: https://londoncheapo.com/events/may/
-LOCATION:Wimbledon\, Wimbledon\, London
-URL:https://londoncheapo.com/events/may/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5264e954b1cd@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260518
-SUMMARY:Seurat and the Sea
-DESCRIPTION:First exhibition dedicated to Georges Seurat's seascapes.\n\nPr
- ice: £18\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/seurat-and
- -the-sea-426054/
-LOCATION:Courtauld Institute of Art\, Strand\, Strand\, London
-URL:https://www.ianvisits.co.uk/calendar/seurat-and-the-sea-426054/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:ad8a02e8fa48@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260505
+UID:888280fb0029@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260601
-SUMMARY:Catherine Opie Exhibition
-DESCRIPTION:Major UK exhibition of Catherine Opie's work on identity and po
- litics.\n\nPrice: 50% off exhibitions\n\nTickets/Info: https://www.artfund
- .org/explore/get-inspired/features/best-exhibitions-in-london-open-now
-LOCATION:National Portrait Gallery\, Saint Martin's Place\, London\, London
-URL:https://www.artfund.org/explore/get-inspired/features/best-exhibitions-
- in-london-open-now
+SUMMARY:Chelsea Flower Fringe
+DESCRIPTION:Citywide celebration of community gardens\, pop-up floral insta
+ llations\, and creative displays.\n\nPrice: £0 – £35\n\nTickets/Info: 
+ https://www.londonbackpackers.com/blog/london-events-in-may-explore-things
+ -to-do/
+LOCATION:Various locations across London\, London-wide\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:f82c980e138f@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260518
-SUMMARY:London Craft Week 2026
-DESCRIPTION:A city-wide festival showcasing craftsmanship\, design\, and li
- ve demonstrations.\n\nPrice: Check site\n\nTickets/Info: https://jafexecut
- ivetravels.com/upcoming-events-in-london-england/may/
-LOCATION:Multiple venues across London\, Citywide\, London
-URL:https://jafexecutivetravels.com/upcoming-events-in-london-england/may/
+UID:966b883e2a58@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260522
+SUMMARY:David Černý’s Butterfly Effect
+DESCRIPTION:Bold outdoor installation by Czech artist David Černý arrives
+  in London.\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/
+ event/david-cernys-butterfly-effect-arrives-in-london/
+LOCATION:Atelier Bohemia\, London\, London
+URL:https://eventsforlondon.co.uk/event/david-cernys-butterfly-effect-arriv
+ es-in-london/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:fb2b4e712a74@london-events-scraper
-DTSTAMP:20260516T000000Z
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260518
-SUMMARY:Georges Seurat Seascapes Exhibition
-DESCRIPTION:First UK exhibition in 30 years dedicated to Seurat's seascapes
- .\n\nPrice: Free\n\nTickets/Info: https://londontheinside.com/free-events-
- on-in-london/
-LOCATION:The Courtauld\, London\, London
-URL:https://londontheinside.com/free-events-on-in-london/
+UID:a8c9bb9e6954@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Delcy Morelos: origo
+DESCRIPTION:A site-specific art installation exploring humanity's relations
+ hip with the earth.\n\nPrice: Free\n\nTickets/Info: https://www.barbican.o
+ rg.uk/whats-on
+LOCATION:Barbican Centre\, Art & Design\, London
+URL:https://www.barbican.org.uk/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:0eda59aa7f31@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260524
+SUMMARY:Northern Ballet - Gentleman Jack
+DESCRIPTION:Ballet performance based on the life of Anne Lister.\n\nPrice: 
+ Check site\n\nTickets/Info: https://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells Theatre\, London
+URL:https://www.sadlerswells.com/whats-on
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1859d398bbc5@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260713
+SUMMARY:Ramses and the Pharaohs' Gold
+DESCRIPTION:Exhibition of 3\,000-year-old Egyptian treasures.\n\nPrice: £2
+ 4\n\nTickets/Info: https://feverup.com/m/503872
+LOCATION:London\, London
+URL:https://feverup.com/m/503872
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b610bd1b24d8@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260524
+SUMMARY:RHS Chelsea Flower Show
+DESCRIPTION:Annual flower show featuring gardens and horticulture.\n\nPrice
+ : £107.00 – £137.00\n\nTickets/Info: https://londoncheapo.com/events/r
+ hs-chelsea-flower-show/
+LOCATION:Chelsea\, Chelsea\, London
+URL:https://londoncheapo.com/events/rhs-chelsea-flower-show/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:5719727089f7@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260525
+SUMMARY:A Midsummer Night's Dream
+DESCRIPTION:Shakespeare's classic comedy at the Globe Theatre.\n\nPrice: Ch
+ eck site\n\nTickets/Info: https://www.london-theatreland.co.uk/shows/shake
+ speares-globe-theatre/shakespeares-globe-a-midsummer-nights-dream/tickets/
+ calendar
+LOCATION:Shakespeare's Globe Theatre\, London\, London
+URL:https://www.london-theatreland.co.uk/shows/shakespeares-globe-theatre/s
+ hakespeares-globe-a-midsummer-nights-dream/tickets/calendar
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:733892250a78@london-events-scraper
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260524
+SUMMARY:DroneArt Show: Four Seasons
+DESCRIPTION:Illuminated drones create sky art synchronized with classical m
+ usic.\n\nPrice: £23.9\n\nTickets/Info: https://feverup.com/m/559834
+LOCATION:Kempton Park Racecourse\, London\, London
+URL:https://feverup.com/m/559834
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
