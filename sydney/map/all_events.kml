@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sydney Events — 25 May 26 to 31 May 26 TEST-1829</name>
+    <description>Weekend events in Sydney, 25 May 26 to 31 May 26 TEST-1829. Pins coloured by category.</description>
+  <Style id="blue-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="green-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="ltblue-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/ltblue-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="orange-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/orange-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="purple-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/purple-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="red-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="yellow-dot.png">
+    <IconStyle>
+      <Icon><href>https://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+    <Placemark>
+      <name>The Mad Botanist: Family Adventure</name>
+      <description><![CDATA[<b>The Mad Botanist: Family Adventure</b><br><i>Family</i><br>Thu 2nd Apr – Sun 31st May<br>The Royal Botanic Garden, Sydney<br>Check site<br><br>Self-guided scavenger hunt through the gardens.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/adventure-clues-edit">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.215711,-33.8627694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Experimental Sculpture in Clay</name>
+      <description><![CDATA[<b>Experimental Sculpture in Clay</b><br><i>Arts &amp; Culture</i><br>Sat 18th Apr – Sat 27th Jun<br>National Art School, Darlinghurst<br>Check site<br><br>Hands-on clay-building techniques workshop.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/experimental-sculpture-in-clay">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2185078,-33.8797924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anastasia</name>
+      <description><![CDATA[<b>Anastasia</b><br><i>Theatre</i><br>Fri 24th Apr – Sat 18th Jul<br>Sydney Lyric Theatre, Sydney<br>Check site<br><br>Musical theatre production based on the historical story.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/anastasia">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.214808,-33.856765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Greatest Showman Circus Spectacular</name>
+      <description><![CDATA[<b>The Greatest Showman Circus Spectacular</b><br><i>Theatre</i><br>Tue 19th May – Sun 2nd Aug<br>The Entertainment Quarter, Moore Park<br>Free<br><br>Come Alive! The Greatest Showman Spectacular arrives at the Entertainment Quarter in 2026<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/come-alive-the-greatest-showman-circus-spectacular-sydney">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2262965,-33.8949874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Light Nights Silent Disco</name>
+      <description><![CDATA[<b>Light Nights Silent Disco</b><br><i>Nightlife</i><br>Fri 22nd May – Fri 29th May<br>Museum of Contemporary Art, The Rocks<br>Check site<br><br>Immersive silent disco with light and sound.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/mca-light-nights">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2089549,-33.8599598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vivid Fire Kitchen</name>
+      <description><![CDATA[<b>Vivid Fire Kitchen</b><br><i>Food &amp; Drink</i><br>Fri 22nd May – Sat 13th Jun<br>Barangaroo Reserve, Sydney<br>Check site<br><br>Open every night of Vivid Sydney the Vivid Fire Kitchen is a dining hub with open-fire cooking, food vendors + more.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2011648,-33.8584893,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vivid at Hollywood Quarter</name>
+      <description><![CDATA[<b>Vivid at Hollywood Quarter</b><br><i>Festival</i><br>Sat 30th May<br>Hollywood Quarter, Surry Hills<br>Check site<br><br>Vivid is lighting up Hollywood Quarter in Surry Hills with food, music, and after-dark fun on Saturday, May 30 from 4pm until 4am the next morning.<br><br><a href="https://www.timeout.com/sydney/things-to-do/things-to-do-in-sydney-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.212781,-33.885877,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
