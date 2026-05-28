@@ -8,121 +8,126 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:6f630ebd1d66@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260422
+UID:222365460f87@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260529
+SUMMARY:QUEER EAST 2026
+DESCRIPTION:A festival celebrating queer culture and arts.\n\nPrice: Check 
+ site\n\nTickets/Info: https://richmix.org.uk/events/queer-east-2026/
+LOCATION:Rich Mix\, Bethnal Green\, London
+URL:https://richmix.org.uk/events/queer-east-2026/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e16443dd918d@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260530
+SUMMARY:STASH Exhibition
+DESCRIPTION:A retrospective exhibition celebrating the life and work of pai
+ nter Anastasia Lewis\, known as Stash\, showcasing a collection of her art
+ .\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/stas
+ h-exhibition/2026-05-19/
+LOCATION:Great Pulteney Street Gallery\, London\, London
+URL:https://eventsforlondon.co.uk/event/stash-exhibition/2026-05-19/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ff4b0e0be6@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260627
+SUMMARY:Disruptors: Fractured Images and Migrant World
+DESCRIPTION:A collaborative exhibition featuring works from the Ben Uri and
+  William Allen Collections\, exploring themes of migration and disrupted i
+ mages.\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event
+ /disruptors-fractured-images-and-migrant-wordl/2026-05-14/
+LOCATION:Ben Uri Gallery\, St John's Wood\, London
+URL:https://eventsforlondon.co.uk/event/disruptors-fractured-images-and-mig
+ rant-wordl/2026-05-14/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2fcebfd327@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260701
+SUMMARY:Banksy Limitless: Reframed
+DESCRIPTION:Art exhibition featuring Banksy's work.\n\nPrice: From £22.18\
+ n\nTickets/Info: https://feverup.com/en/london/night-clubs
+LOCATION:Sussex Mansions\, London\, London
+URL:https://feverup.com/en/london/night-clubs
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b919dbc5c22d@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260629
-SUMMARY:David Bowie Immersive Experience
-DESCRIPTION:An immersive journey into the mind of David Bowie.\n\nPrice: Fr
- ee\n\nTickets/Info: https://londontheinside.com/whats-on-this-week/
-LOCATION:Lightroom\, London
-URL:https://londontheinside.com/whats-on-this-week/
+SUMMARY:Dark Secrets: The Esoteric Exhibition
+DESCRIPTION:An immersive exhibition exploring esotericism\, occultism\, and
+  folklore through 27 themed rooms\, featuring over 1\,000 original objects
+  and historical artifacts.\n\nPrice: Free\n\nTickets/Info: https://feverup
+ .com/m/427444
+LOCATION:Vaults - Leake Street\, London\, London
+URL:https://feverup.com/m/427444
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:888280fb0029@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
+UID:6f8bd83c1e06@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Shakespeare and Brecht Talk
+DESCRIPTION:A talk featuring Co-Artistic Director of the RSC Daniel Evans\,
+  the Globe’s Artistic Director Michelle Terry\, and Associate Artistic D
+ irector Sean Holmes discussing the relationship between Shakespeare and Br
+ echt.\n\nPrice: Free\n\nTickets/Info: https://www.shakespearesglobe.com/wh
+ ats-on/globe-talks-shakespeare-brecht-rsc/
+LOCATION:BANKSIDE\, Bankside\, London
+URL:https://www.shakespearesglobe.com/whats-on/globe-talks-shakespeare-brec
+ ht-rsc/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:0933f68a6ae1@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260531
+SUMMARY:Almost Here: The Pool That Never Existed
+DESCRIPTION:A participatory workshop reimagining the hidden past of Batters
+ ea Arts Centre\, exploring what might have been if it had become a swimmin
+ g pool.\n\nPrice: Check site\n\nTickets/Info: https://bac.org.uk/whats-on-
+ highlights
+LOCATION:Battersea Arts Centre\, Battersea\, London
+URL:https://bac.org.uk/whats-on-highlights
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae12d174b59@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
-SUMMARY:Chelsea Flower Fringe
-DESCRIPTION:Citywide celebration of community gardens\, pop-up floral insta
- llations\, and creative displays.\n\nPrice: £0 – £35\n\nTickets/Info: 
- https://www.londonbackpackers.com/blog/london-events-in-may-explore-things
- -to-do/
-LOCATION:Various locations across London\, London-wide\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
+SUMMARY:Untitled Artists Fair
+DESCRIPTION:The UK’s largest artists’ fair\, featuring up to 170 exhibi
+ tors showcasing a wide range of artistic works.\n\nPrice: Free\n\nTickets/
+ Info: https://eventsforlondon.co.uk/event/untitled-artists-fair-2/
+LOCATION:Chelsea Old Town Hall\, Chelsea\, London
+URL:https://eventsforlondon.co.uk/event/untitled-artists-fair-2/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:966b883e2a58@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260522
-SUMMARY:David Černý’s Butterfly Effect
-DESCRIPTION:Bold outdoor installation by Czech artist David Černý arrives
-  in London.\n\nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/
- event/david-cernys-butterfly-effect-arrives-in-london/
-LOCATION:Atelier Bohemia\, London\, London
-URL:https://eventsforlondon.co.uk/event/david-cernys-butterfly-effect-arriv
- es-in-london/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:a8c9bb9e6954@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-SUMMARY:Delcy Morelos: origo
-DESCRIPTION:A site-specific art installation exploring humanity's relations
- hip with the earth.\n\nPrice: Free\n\nTickets/Info: https://www.barbican.o
- rg.uk/whats-on
-LOCATION:Barbican Centre\, Art & Design\, London
-URL:https://www.barbican.org.uk/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:0eda59aa7f31@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260524
-SUMMARY:Northern Ballet - Gentleman Jack
-DESCRIPTION:Ballet performance based on the life of Anne Lister.\n\nPrice: 
- Check site\n\nTickets/Info: https://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, London
-URL:https://www.sadlerswells.com/whats-on
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:1859d398bbc5@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260713
-SUMMARY:Ramses and the Pharaohs' Gold
-DESCRIPTION:Exhibition of 3\,000-year-old Egyptian treasures.\n\nPrice: £2
- 4\n\nTickets/Info: https://feverup.com/m/503872
-LOCATION:London\, London
-URL:https://feverup.com/m/503872
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:b610bd1b24d8@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260524
-SUMMARY:RHS Chelsea Flower Show
-DESCRIPTION:Annual flower show featuring gardens and horticulture.\n\nPrice
- : £107.00 – £137.00\n\nTickets/Info: https://londoncheapo.com/events/r
- hs-chelsea-flower-show/
-LOCATION:Chelsea\, Chelsea\, London
-URL:https://londoncheapo.com/events/rhs-chelsea-flower-show/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5719727089f7@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260525
-SUMMARY:A Midsummer Night's Dream
-DESCRIPTION:Shakespeare's classic comedy at the Globe Theatre.\n\nPrice: Ch
- eck site\n\nTickets/Info: https://www.london-theatreland.co.uk/shows/shake
- speares-globe-theatre/shakespeares-globe-a-midsummer-nights-dream/tickets/
- calendar
-LOCATION:Shakespeare's Globe Theatre\, London\, London
-URL:https://www.london-theatreland.co.uk/shows/shakespeares-globe-theatre/s
- hakespeares-globe-a-midsummer-nights-dream/tickets/calendar
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:733892250a78@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260524
-SUMMARY:DroneArt Show: Four Seasons
-DESCRIPTION:Illuminated drones create sky art synchronized with classical m
- usic.\n\nPrice: £23.9\n\nTickets/Info: https://feverup.com/m/559834
-LOCATION:Kempton Park Racecourse\, London\, London
-URL:https://feverup.com/m/559834
+UID:a6b273c219dc@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Katharina Grosse: I Set Out\, I walked Fast
+DESCRIPTION:Contemporary art exhibition by Katharina Grosse.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.culturalwednesday.co.uk/best-london-ex
+ hibitions-2/
+LOCATION:White Cube Bermondsey\, Bermondsey\, London
+URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
