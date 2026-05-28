@@ -8,122 +8,137 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:ccdc79cf1000@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-SUMMARY:CHOOKY Supper Club
-DESCRIPTION:Mexican-inspired four-course dinner with citrus and spice flavo
- rs.\n\nPrice: from £45.00\n\nTickets/Info: https://the-chocolate-cocktail
- -club.designmynight.com/61d82c1d00390d0a953f85ad/chocolate-afternoon-tea-a
- t-the-chocolate-cocktail-club
-LOCATION:The William Morris Pub\, London
-URL:https://the-chocolate-cocktail-club.designmynight.com/61d82c1d00390d0a9
- 53f85ad/chocolate-afternoon-tea-at-the-chocolate-cocktail-club
+UID:000c3537407a@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:5 Dish Menu for £29
+DESCRIPTION:Enjoy a 5-dish tasting menu at Ayllu\, blending Japanese and Pe
+ ruvian flavors. Start with edamame and sushi\, then choose from ceviche\, 
+ skewers\, and mains like Yasai Katsu Curry or Beef Rib. Available Monday t
+ o Friday\, 12pm–6pm.\n\nPrice: £55\n\nTickets/Info: https://ayllu-resta
+ urant.designmynight.com/671a09f881884a2a685f6c25/6-courses-for-29
+LOCATION:Ayllu\, London
+URL:https://ayllu-restaurant.designmynight.com/671a09f881884a2a685f6c25/6-c
+ ourses-for-29
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:772dac471af7@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260801
-SUMMARY:Endo Kazutoshi Omakase Pop-Up
-DESCRIPTION:Sushi master's £245 omakase menu at Annabel's.\n\nPrice: £245
- \n\nTickets/Info: https://londontheinside.com/map/pop-ups/
-LOCATION:Annabel's\, Mayfair\, London
-URL:https://londontheinside.com/map/pop-ups/
+UID:b112a5dddf9b@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260601
+SUMMARY:Claridge's X The Newt
+DESCRIPTION:Claridge’s collaborates with The Newt in Somerset\, featuring
+  a six-meter sculptural installation\, willow sculptures\, and 800 apples 
+ in a hallway display. Menus at Claridge’s will include ingredients from 
+ The Newt’s estate.\n\nPrice: Check site\n\nTickets/Info: https://www.cnt
+ raveller.com/gallery/things-to-do-in-london-this-weekend
+LOCATION:Claridge’s\, Mayfair\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:f4ed81e41709@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260525
-SUMMARY:Belgravia in Bloom
-DESCRIPTION:A Snow White-themed floral display in Belgravia.\n\nPrice: Chec
- k site\n\nTickets/Info: https://www.thehari.com/london/whats-on-in-london-
- may-2026/
-LOCATION:The Hari London\, Belgravia\, London
-URL:https://www.thehari.com/london/whats-on-in-london-may-2026/
+UID:a13c3dfe117b@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:London Never Sleeps
+DESCRIPTION:Experience a glamorous evening at The London Cabaret Club with 
+ a sumptuous dinner\, live DJ\, and performances inspired by British espion
+ age. Enjoy talented singers\, dancers\, and specialty acts all night long.
+ \n\nPrice: from £52.47 – £196.60\n\nTickets/Info: https://www.designmy
+ night.com/london/event-space/holborn/the-london-cabaret-club/london-never-
+ sleeps
+LOCATION:The London Cabaret Club\, London
+URL:https://www.designmynight.com/london/event-space/holborn/the-london-cab
+ aret-club/london-never-sleeps
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:8a3b14333ac5@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:Opera at Cutty Sark with Monteverdi Choir
-DESCRIPTION:Immersive performance of Purcell’s Dido and Aeneas.\n\nPrice:
-  £40 – £80\n\nTickets/Info: https://www.rmg.co.uk/whats-on
-LOCATION:Cutty Sark\, Greenwich\, London
-URL:https://www.rmg.co.uk/whats-on
+UID:91741676beca@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Little Venice – the pursuit of pleasure
+DESCRIPTION:Explore Little Venice and the canal towpath\, discovering remna
+ nts of the Age of Canals along the way. This walk offers a glimpse into th
+ e area's rich history.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisi
+ ts.co.uk/calendar/weekend/
+LOCATION:Warwick Avenue tube station\, Little Venice\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:082b07e19e3d@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:Before Sunset
-DESCRIPTION:35mm screening of the romantic drama.\n\nPrice: £1\n\nTickets/
- Info: https://princecharlescinema.com/next-7-days/
+UID:c88470860007@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Rooftop Cinema Night
+DESCRIPTION:Watch a feel-good film at Moorings Social Club’s indoor cinem
+ a in Greenwich. Enjoy cocktails\, hot food\, and fresh popcorn while takin
+ g in a classic movie.\n\nPrice: Early Bird - £5.5\, Standard Cinema Ticke
+ t - £6.5\, Door Admission Ticket - £8\n\nTickets/Info: https://www.desig
+ nmynight.com/london/whats-on/film-and-movie-bar-nights
+LOCATION:Moorings Social Club\, Greenwich\, London
+URL:https://www.designmynight.com/london/whats-on/film-and-movie-bar-nights
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:4adc0005e66c@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:In the Mood for Love
+DESCRIPTION:A 35mm screening of the romantic drama film.\n\nPrice: £1\n\nT
+ ickets/Info: https://princecharlescinema.com/next-7-days/
 LOCATION:Prince Charles Cinema\, London\, London
 URL:https://princecharlescinema.com/next-7-days/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:e585280c21e3@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:Cabaret
-DESCRIPTION:Immersive revival of the multi-award-winning musical at the Pla
- yhouse.\n\nPrice: £75\n\nTickets/Info: https://www.lovetheatre.com/shows/
- cabaret-tickets/
-LOCATION:Playhouse\, London
-URL:https://www.lovetheatre.com/shows/cabaret-tickets/
+UID:bdfb241c794a@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:R&B Lovers: The Lovers Brunch
+DESCRIPTION:Celebrate the spring bank holiday with The Lovers Brunch at BOX
+ HALL City. Enjoy 90s and 00s R&B music in a historic Edwardian arcade turn
+ ed sanctuary for R&B fans.\n\nPrice: from £27.50\n\nTickets/Info: https:/
+ /old-school-rb-brunch.designmynight.com/690b38f1f9231a199c7e3387/old-schoo
+ l-rb-brunch-london-32
+LOCATION:Boxhall City\, Liverpool Street\, London
+URL:https://old-school-rb-brunch.designmynight.com/690b38f1f9231a199c7e3387
+ /old-school-rb-brunch-london-32
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b1306460c846@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:London Symphony Orchestra Open Air Concert
-DESCRIPTION:Annual free outdoor classical music concert in Trafalgar Square
- .\n\nPrice: Free\n\nTickets/Info: https://www.londonbackpackers.com/blog/l
- ondon-events-in-may-explore-things-to-do/
-LOCATION:Trafalgar Square\, Westminster\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
+UID:ff822c18a7c1@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:The Thames SKA Party Cruise
+DESCRIPTION:Join the Thames SKA Party Cruise for a full-on party with DJ Sk
+ a n Mash playing the biggest Ska anthems. All aboard for a lively evening 
+ on the Thames.\n\nPrice: £25.00\n\nTickets/Info: https://www.skiddle.com/
+ gigs/London
+LOCATION:Thames Boat Cruises At Temple Pier\, London\, London
+URL:https://www.skiddle.com/gigs/London
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:985a4a131829@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:Tempted Boat Party
-DESCRIPTION:Summer boat party with house music and Thames views.\n\nPrice: 
- £30.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-
- in-london-this-weekend/
-LOCATION:Temple Pier London\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:23459881e9f7@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-SUMMARY:Cole Porter: High Society
-DESCRIPTION:A Golden Age musical theatre production with glamorous escapism
- .\n\nPrice: From £39\n\nTickets/Info: https://www.barbican.org.uk/whats-o
- n/2026/event/cole-porter-high-society
-LOCATION:Barbican Centre\, Theatre & Dance\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/cole-porter-high-societ
- y
+UID:59ac2affb448@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Fleetwood Mac by Candlelight
+DESCRIPTION:West End singers perform the music of Fleetwood Mac by candleli
+ ght at the London Palladium. Enjoy an intimate and enchanting evening of c
+ lassic hits.\n\nPrice: from £17\n\nTickets/Info: https://www.london-theat
+ reland.co.uk/shows/the-london-palladium/fleetwood-mac-by-candlelight
+LOCATION:London Palladium\, London
+URL:https://www.london-theatreland.co.uk/shows/the-london-palladium/fleetwo
+ od-mac-by-candlelight
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
