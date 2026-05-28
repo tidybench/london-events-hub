@@ -1,0 +1,18 @@
+{
+  "cities": [
+    {
+      "slug": "london",
+      "name": "London This Week",
+      "url": "https://tidybench.github.io/london-events-hub/",
+      "calendar_base_url": "https://tidybench.github.io/london-events-hub/calendars",
+      "map_base_url": "https://tidybench.github.io/london-events-hub/map"
+    },
+    {
+      "slug": "sydney",
+      "name": "Sydney This Week",
+      "url": "https://tidybench.github.io/london-events-hub/sydney/",
+      "calendar_base_url": "https://tidybench.github.io/london-events-hub/sydney/calendars",
+      "map_base_url": "https://tidybench.github.io/london-events-hub/sydney/map"
+    }
+  ]
+}
