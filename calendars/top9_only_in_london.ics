@@ -8,123 +8,125 @@ X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere e
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b0462a8dfa6d@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:Art of the London Blitz
-DESCRIPTION:Walking tour exploring the Blitz and its artistic responses.\n\
- nPrice: starting at £100\n\nTickets/Info: https://www.eventbrite.co.uk/e/
- art-of-the-london-blitz-85-years-on-may-2026-tickets-1664217462229
-LOCATION:City of London\, London
-URL:https://www.eventbrite.co.uk/e/art-of-the-london-blitz-85-years-on-may-
- 2026-tickets-1664217462229
+UID:b96a6930bfda@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Join a guided walk through Soho's alleyways and townhouses\, en
+ countering historical figures like madams\, body snatchers\, and doctors i
+ n a two-hour tour.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.c
+ o.uk/calendar/weekend/
+LOCATION:Tottenham Court Road tube station\, Soho\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:cbcad436d58c@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:KOJEY RADICAL
-DESCRIPTION:Live performance by the rapper at the iconic Royal Albert Hall.
- \n\nPrice: Check site\n\nTickets/Info: https://guides.ticketmaster.co.uk/c
- oncerts-and-tours-guide/
-LOCATION:Royal Albert Hall\, London\, London
-URL:https://guides.ticketmaster.co.uk/concerts-and-tours-guide/
+UID:333aca0a23b5@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:London’s Roman Amphitheatre Tour
+DESCRIPTION:Guided tour of the Roman ruins in Guildhall Yard.\n\nPrice: £7
+ .50\n\nTickets/Info: https://www.thecityofldn.com/event/london-roman-amphi
+ theatre-guided-tour/
+LOCATION:Guildhall Yard\, The City\, London
+URL:https://www.thecityofldn.com/event/london-roman-amphitheatre-guided-tou
+ r/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:06acb3bcf031@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:London Underground Costume Party
-DESCRIPTION:A themed social where guests dress as their favorite Tube stati
- ons.\n\nPrice: Tickets via Partiful\n\nTickets/Info: https://scouts.yutori
- .com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
-LOCATION:Location TBC\, London\, London
-URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
+UID:6a75ed304acc@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Surgery and the Victorian Operating Theatre
+DESCRIPTION:Explore historical medical practices in a preserved 19th-centur
+ y operating theatre.\n\nPrice: 17\n\nTickets/Info: https://www.ianvisits.c
+ o.uk/calendar/weekend/
+LOCATION:Old Operating Theatre Museum and Herb Garret\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:a78011379f99@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:Westminster Abbey after hours
-DESCRIPTION:Self-guided evening visit to explore the historic abbey.\n\nPri
- ce: £15\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/date/2026/0
- 5/
-LOCATION:Westminster Abbey\, Westminster\, London
-URL:https://www.ianvisits.co.uk/calendar/date/2026/05/
+UID:9959bd0a9b28@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Queen's House Treasures Tour
+DESCRIPTION:Explore the history of the Queen's House\, a former royal resid
+ ence\, and enjoy a drink in its picturesque surroundings.\n\nPrice: £25 (
+ plus £3 booking fee per booking)\n\nTickets/Info: https://www.rmg.co.uk/w
+ hats-on
+LOCATION:Queen's House\, Art and culture\, London
+URL:https://www.rmg.co.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:45cae45d47c8@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:Hackney History Festival: Cazenove Ward Stories
-DESCRIPTION:Local history talks and storytelling.\n\nPrice: Free\n\nTickets
- /Info: https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSel
- ectItemsPrompt.TcsWebMenuItem_436.TcsWebTab_437
-LOCATION:Rio Cinema\, Hackney\, London
-URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectI
- temsPrompt.TcsWebMenuItem_436.TcsWebTab_437
+UID:c4d179d7b84f@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Roman fort gate tours
+DESCRIPTION:Explore the hidden remains of Roman London's military fort.\n\n
+ Price: Free\n\nTickets/Info: https://www.londonmuseum.org.uk/whats-on/
+LOCATION:Museum of London Docklands\, London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:f17f6cd62731@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:Southbank Centre Spring Walks & Talks
-DESCRIPTION:Guided walks and talks exploring South Bank’s art and culture
- .\n\nPrice: £10 – £25\n\nTickets/Info: https://www.londonbackpackers.c
- om/blog/london-events-in-may-explore-things-to-do/
-LOCATION:Southbank Centre\, Southbank\, London
-URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
- ngs-to-do/
+UID:e2c67a605dc4@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260719
+SUMMARY:A Midsummer Night's Dream
+DESCRIPTION:Watch Atri Banerjee's production of 'A Midsummer Night's Dream'
+  at Regent's Park Open Air Theatre\, featuring a folk-infused score and a 
+ tale of tangled relationships in fairyland.\n\nPrice: £18.00\n\nTickets/I
+ nfo: https://www.londonboxoffice.co.uk/all-london-shows
+LOCATION:Regent's Park Open Air Theatre\, Primrose Hill\, London
+URL:https://www.londonboxoffice.co.uk/all-london-shows
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:3dc954d76c85@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260622
-SUMMARY:End of the Rainbow
-DESCRIPTION:Jinkx Monsoon performs as Judy Garland in a musical tribute.\n\
- nPrice: £20\n\nTickets/Info: https://www.todaytix.com/london/shows/46345-
- end-of-the-rainbow
-LOCATION:Soho Theatre\, Walthamstow\, London
-URL:https://www.todaytix.com/london/shows/46345-end-of-the-rainbow
+UID:7d5740f41ae6@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Jock McFadyen with Jem Finer: Underground Exhibition
+DESCRIPTION:An art exhibition exploring London's Tube system.\n\nPrice: fro
+ m £35\n\nTickets/Info: https://www.thecityofldn.com/event/jock-mcfadyen-w
+ ith-jem-finer-underground-and-surface-exhibition/
+LOCATION:Guildhall Art Gallery\, City of London\, London
+URL:https://www.thecityofldn.com/event/jock-mcfadyen-with-jem-finer-undergr
+ ound-and-surface-exhibition/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:547f17776764@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260526
-SUMMARY:Circus Spectacles at Hampton Court
-DESCRIPTION:Family-friendly circus comedy and spectacle in the palace groun
- ds.\n\nPrice: Check site\n\nTickets/Info: https://www.cntraveller.com/gall
- ery/things-to-do-in-london-this-weekend
-LOCATION:Hampton Court Palace\, Richmond\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend
+UID:955b0a5db22b@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Tours of the Lyceum Theatre
+DESCRIPTION:Take a guided tour of the historic Lyceum Theatre's backstage a
+ reas.\n\nPrice: 17.50\n\nTickets/Info: https://www.ianvisits.co.uk/calenda
+ r/theatre-royal-drury-lane-guided-tours-422378/
+LOCATION:Central Criminal Court (Old Bailey)\, City of London\, London
+URL:https://www.ianvisits.co.uk/calendar/theatre-royal-drury-lane-guided-to
+ urs-422378/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:014e9aba468f@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:Tour of Kirkaldy's Testing Works
-DESCRIPTION:A guided tour of Kirkaldy's historic testing museum with live d
- emonstrations.\n\nPrice: 25.63\n\nTickets/Info: https://www.ianvisits.co.u
- k/venues/kirkaldy-testing-museum/
-LOCATION:Kirkaldy Testing Museum\, London
-URL:https://www.ianvisits.co.uk/venues/kirkaldy-testing-museum/
+UID:a62db2cac9da@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260614
+SUMMARY:The Last Man
+DESCRIPTION:Catch a performance of 'The Last Man' at Southwark Playhouse El
+ ephant\, with tickets starting from £30.\n\nPrice: from £30\n\nTickets/I
+ nfo: https://ticketing.timeout.com/london/shows/46828-the-last-man
+LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
+URL:https://ticketing.timeout.com/london/shows/46828-the-last-man
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
