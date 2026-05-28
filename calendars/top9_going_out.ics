@@ -8,122 +8,142 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:61d2607c0901@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Bashment Whine Shoreditch Party
-DESCRIPTION:A dance party in Shoreditch with free entry before midnight.\n\
- nPrice: Free\n\nTickets/Info: https://www.skiddle.com/whats-on/London/rave
- -events/
+UID:66939204d042@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:BADDIIE ARMY: R&B\, HIP-HOP\, AFROBEATS
+DESCRIPTION:A night of R&B\, hip-hop\, and Afrobeats music.\n\nPrice: Check
+  site\n\nTickets/Info: https://www.oslohackney.com/events/baddiie-army-rb-
+ hip-hop-afrobeats-more-3/
+LOCATION:Oslo\, Hackney\, London
+URL:https://www.oslohackney.com/events/baddiie-army-rb-hip-hop-afrobeats-mo
+ re-3/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8fd1b2ab0d@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Get Wild Shoreditch Party
+DESCRIPTION:A high-energy party in Shoreditch with free entry before midnig
+ ht.\n\nPrice: Buy Tickets\n\nTickets/Info: https://www.skiddle.com/whats-o
+ n/London/rave-events/
 LOCATION:The Lighthouse Bar And Club\, London\, Shoreditch\, London
 URL:https://www.skiddle.com/whats-on/London/rave-events/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:889024044a25@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260524
-SUMMARY:SINEMATIC: London's Late-Night Immersive Cabaret
-DESCRIPTION:Burlesque and stunt performances in an immersive cabaret settin
- g.\n\nPrice: £55.00\n\nTickets/Info: https://www.skiddle.com/whats-on/Lon
- don/whats-on-in-london-this-weekend/
-LOCATION:The Emerald Theatre\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:fd2cc45b6d71@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-SUMMARY:Circuit Festival London Pre-Party
-DESCRIPTION:Pre-party celebrations for the world's biggest gay festival.\n\
- nPrice: £35.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/w
- hats-on-in-london-this-weekend/
-LOCATION:FIRE Nightclub London\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:7a1eafd3ab46@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:POP-KID™ - SETLIST
-DESCRIPTION:Family-friendly dance party with food and music.\n\nPrice: £19
- .00\n\nTickets/Info: https://feverup.com/m/546334
-LOCATION:Somerset House\, Strand\, London
-URL:https://feverup.com/m/546334
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:9704ffd0ae2b@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:R&B Lovers Summer Open Air Festival
-DESCRIPTION:Outdoor festival celebrating 90s and 00s R&B hits.\n\nPrice: £
- 42.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in
- -london-this-weekend/
-LOCATION:LDN EAST\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:e3dbef401d54@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:Strawberry Sundae 32nd Birthday
-DESCRIPTION:Old skool house music party celebrating 32 years of events.\n\n
- Price: £26.50\n\nTickets/Info: https://www.skiddle.com/whats-on/London/wh
- ats-on-in-london-this-weekend/
-LOCATION:The Steel Yard\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
- /
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:fa18341bb4c8@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:Cross The Tracks 2026
-DESCRIPTION:Jazz\, funk\, and soul music festival in Brixton.\n\nPrice: £3
- 00.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/whats-on-in
- -london-this-weekend/
+UID:76a1215acea0@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260601
+SUMMARY:Mighty Hoopla
+DESCRIPTION:A pop-focused festival in Brockwell Park with colorful staging\
+ , nostalgic headliners\, and inclusive programming. Enjoy chart music\, dr
+ ag performances\, dance acts\, and themed party zones.\n\nPrice: £60 – 
+ £110\n\nTickets/Info: https://www.londonbackpackers.com/blog/london-event
+ s-in-may-explore-things-to-do/
 LOCATION:Brockwell Park\, Brixton\, London
+URL:https://www.londonbackpackers.com/blog/london-events-in-may-explore-thi
+ ngs-to-do/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:685d765f8636@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Dialled In London
+DESCRIPTION:Celebrating 5 years\, Dialled In offers a day-to-night journey 
+ through iconic venues. Expect a spirit of discovery and a diverse lineup o
+ f music and performances.\n\nPrice: Check site\n\nTickets/Info: https://ea
+ rthackney.co.uk/events/dialled-in-london-30th-may-the-shacklewell-arms-lon
+ don-cafe-oto-london-total-refreshment-centre-london-earth-london-dalston-d
+ en-london-the-marquee-moon-london-tickets-xe28rk/
+LOCATION:EartH\, Dalson\, London
+URL:https://earthackney.co.uk/events/dialled-in-london-30th-may-the-shackle
+ well-arms-london-cafe-oto-london-total-refreshment-centre-london-earth-lon
+ don-dalston-den-london-the-marquee-moon-london-tickets-xe28rk/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:b2eb8554bf38@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:House of Burlesque Speakeasy
+DESCRIPTION:Experience a night of fun\, feathers\, and fizz at the House of
+  Burlesque Speakeasy. Enjoy a secretive evening of burlesque performances 
+ and entertainment.\n\nPrice: from £15\n\nTickets/Info: https://www.design
+ mynight.com/london/whats-on/burlesque-cabaret/house-of-burlesque-speakeasy
+LOCATION:QT at The Middle Eight Hotel\, West End\, London
+URL:https://www.designmynight.com/london/whats-on/burlesque-cabaret/house-o
+ f-burlesque-speakeasy
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:d2f2a2333a9f@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Raindance at fabric 2026
+DESCRIPTION:Raindance returns to fabric London with over 30 artists playing
+  across three rooms. Enjoy Old Skool\, Hardcore\, Rave\, Jungle\, DnB\, Ac
+ id\, and Early House music.\n\nPrice: £20.00\n\nTickets/Info: https://www
+ .skiddle.com/whats-on/London/whats-on-in-london-this-weekend/
+LOCATION:Fabric London\, London\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend
  /
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a54cd77bb73e@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260526
-SUMMARY:Soul Session Day Party
-DESCRIPTION:House music and dancing at 93 Feet East in Shoreditch.\n\nPrice
- : £15.00\n\nTickets/Info: https://www.skiddle.com/whats-on/London/
-LOCATION:93 Feet East\, Shoreditch\, London
-URL:https://www.skiddle.com/whats-on/London/
+UID:1c66ad1dc557@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:90s RnB Brunch
+DESCRIPTION:Enjoy a 90s RnB brunch with bottomless cocktails\, a scrumptiou
+ s meal\, and DJs spinning your favorite RnB singalongs and floor fillers. 
+ Expect games\, trivia\, and live performances.\n\nPrice: Tickets from £27
+ .50 – £59.40\n\nTickets/Info: https://hiphopbrunchldn.designmynight.com
+ /6926dfec35ee831e8042ceff/the-90s-rnb-edition-may-30th
+LOCATION:The Dark Horse Camden\, Camden\, London
+URL:https://hiphopbrunchldn.designmynight.com/6926dfec35ee831e8042ceff/the-
+ 90s-rnb-edition-may-30th
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:57b6ea024ce7@london-events-scraper
-DTSTAMP:20260519T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-SUMMARY:RAYE - THIS TOUR MAY CONTAIN NEW MUSIC
-DESCRIPTION:A concert by singer RAYE featuring new music.\n\nPrice: Free\n\
- nTickets/Info: https://www.gig-guide.co.uk/listings/london
-LOCATION:The O2\, Peninsula Square\, Greenwich\, London
-URL:https://www.gig-guide.co.uk/listings/london
+UID:f854f9388005@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Beats and Boards
+DESCRIPTION:Join DJ\, broadcaster\, and historian Haseeb Iqbal for a night 
+ of board games and music. Enjoy games from around the world and an eclecti
+ c record collection in a space of connection and inclusivity.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://www.barbican.org.uk/whats-on/2026/event/haseeb
+ -iqbal-presents-beats-and-boards
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/haseeb-iqbal-presents-b
+ eats-and-boards
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:8d24fbf1c326@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Ginger's Big Drag Bingo
+DESCRIPTION:Ginger's Big Drag Bingo offers a glitzy bingo night with prizes
+ \, party anthems\, dance-offs\, and drag performances. Enjoy a raucous nig
+ ht of fun and outrageous campery.\n\nPrice: from £16.50\n\nTickets/Info: 
+ https://party-with-ginger.designmynight.com/5cab21830653b141b15c7336/ginge
+ rs-big-drag-bingo-london
+LOCATION:The Joiner on Worship\, Shoreditch\, London
+URL:https://party-with-ginger.designmynight.com/5cab21830653b141b15c7336/gi
+ ngers-big-drag-bingo-london
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
