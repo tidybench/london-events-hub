@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sydney Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇦🇺 Top 9 – All Sydney Events
+X-WR-CALDESC:Sydney's top 36 picks this week across Date Night\, Only in Sydney\, Culture & Arts and Going Out.
+X-WR-TIMEZONE:Australia/Sydney
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:716226f96082@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260719
+SUMMARY:Date Night · Anastasia
+DESCRIPTION:Musical theatre production based on the historical story.\n\nPr
+ ice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/e
+ vents/anastasia
+LOCATION:Sydney Lyric Theatre\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/anastasia
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:70da207780ff@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260614
+SUMMARY:Date Night · Vivid Fire Kitchen
+DESCRIPTION:Open every night of Vivid Sydney the Vivid Fire Kitchen is a di
+ ning hub with open-fire cooking\, food vendors + more.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-fi
+ re-kitchen
+LOCATION:Barangaroo Reserve\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb9b034a6f3@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Date Night · Vivid at Hollywood Quarter
+DESCRIPTION:Vivid is lighting up Hollywood Quarter in Surry Hills with food
+ \, music\, and after-dark fun on Saturday\, May 30 from 4pm until 4am the 
+ next morning.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.co
+ m/sydney/things-to-do/things-to-do-in-sydney-this-week
+LOCATION:Hollywood Quarter\, Surry Hills\, Sydney
+URL:https://www.timeout.com/sydney/things-to-do/things-to-do-in-sydney-this
+ -week
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9df3051018@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260628
+SUMMARY:Date Night · Experimental Sculpture in Clay
+DESCRIPTION:Hands-on clay-building techniques workshop.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/experime
+ ntal-sculpture-in-clay
+LOCATION:National Art School\, Darlinghurst\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/experimental-sculpture-i
+ n-clay
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:b890865f3203@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260530
+SUMMARY:Date Night · Light Nights Silent Disco
+DESCRIPTION:Immersive silent disco with light and sound.\n\nPrice: Check si
+ te\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/mca-lig
+ ht-nights
+LOCATION:Museum of Contemporary Art\, The Rocks\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/mca-light-nights
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:2580e0493da4@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260803
+SUMMARY:Date Night · The Greatest Showman Circus Spectacular
+DESCRIPTION:Come Alive! The Greatest Showman Spectacular arrives at the Ent
+ ertainment Quarter in 2026\n\nPrice: Free\n\nTickets/Info: https://whatson
+ .cityofsydney.nsw.gov.au/events/come-alive-the-greatest-showman-circus-spe
+ ctacular-sydney
+LOCATION:The Entertainment Quarter\, Moore Park\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/come-alive-the-greatest-
+ showman-circus-spectacular-sydney
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:70da207780ff@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260614
+SUMMARY:Only in Sydney · Vivid Fire Kitchen
+DESCRIPTION:Open every night of Vivid Sydney the Vivid Fire Kitchen is a di
+ ning hub with open-fire cooking\, food vendors + more.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-fi
+ re-kitchen
+LOCATION:Barangaroo Reserve\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb9b034a6f3@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Only in Sydney · Vivid at Hollywood Quarter
+DESCRIPTION:Vivid is lighting up Hollywood Quarter in Surry Hills with food
+ \, music\, and after-dark fun on Saturday\, May 30 from 4pm until 4am the 
+ next morning.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.co
+ m/sydney/things-to-do/things-to-do-in-sydney-this-week
+LOCATION:Hollywood Quarter\, Surry Hills\, Sydney
+URL:https://www.timeout.com/sydney/things-to-do/things-to-do-in-sydney-this
+ -week
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:716226f96082@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260719
+SUMMARY:Only in Sydney · Anastasia
+DESCRIPTION:Musical theatre production based on the historical story.\n\nPr
+ ice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/e
+ vents/anastasia
+LOCATION:Sydney Lyric Theatre\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/anastasia
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:b890865f3203@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260530
+SUMMARY:Only in Sydney · Light Nights Silent Disco
+DESCRIPTION:Immersive silent disco with light and sound.\n\nPrice: Check si
+ te\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/mca-lig
+ ht-nights
+LOCATION:Museum of Contemporary Art\, The Rocks\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/mca-light-nights
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9df3051018@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260628
+SUMMARY:Culture & Arts · Experimental Sculpture in Clay
+DESCRIPTION:Hands-on clay-building techniques workshop.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/experime
+ ntal-sculpture-in-clay
+LOCATION:National Art School\, Darlinghurst\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/experimental-sculpture-i
+ n-clay
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:716226f96082@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260719
+SUMMARY:Culture & Arts · Anastasia
+DESCRIPTION:Musical theatre production based on the historical story.\n\nPr
+ ice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/e
+ vents/anastasia
+LOCATION:Sydney Lyric Theatre\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/anastasia
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:2580e0493da4@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260803
+SUMMARY:Culture & Arts · The Greatest Showman Circus Spectacular
+DESCRIPTION:Come Alive! The Greatest Showman Spectacular arrives at the Ent
+ ertainment Quarter in 2026\n\nPrice: Free\n\nTickets/Info: https://whatson
+ .cityofsydney.nsw.gov.au/events/come-alive-the-greatest-showman-circus-spe
+ ctacular-sydney
+LOCATION:The Entertainment Quarter\, Moore Park\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/come-alive-the-greatest-
+ showman-circus-spectacular-sydney
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:70da207780ff@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260614
+SUMMARY:Culture & Arts · Vivid Fire Kitchen
+DESCRIPTION:Open every night of Vivid Sydney the Vivid Fire Kitchen is a di
+ ning hub with open-fire cooking\, food vendors + more.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-fi
+ re-kitchen
+LOCATION:Barangaroo Reserve\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb9b034a6f3@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Culture & Arts · Vivid at Hollywood Quarter
+DESCRIPTION:Vivid is lighting up Hollywood Quarter in Surry Hills with food
+ \, music\, and after-dark fun on Saturday\, May 30 from 4pm until 4am the 
+ next morning.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.co
+ m/sydney/things-to-do/things-to-do-in-sydney-this-week
+LOCATION:Hollywood Quarter\, Surry Hills\, Sydney
+URL:https://www.timeout.com/sydney/things-to-do/things-to-do-in-sydney-this
+ -week
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b890865f3203@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260530
+SUMMARY:Culture & Arts · Light Nights Silent Disco
+DESCRIPTION:Immersive silent disco with light and sound.\n\nPrice: Check si
+ te\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/mca-lig
+ ht-nights
+LOCATION:Museum of Contemporary Art\, The Rocks\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/mca-light-nights
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b890865f3203@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260530
+SUMMARY:Going Out · Light Nights Silent Disco
+DESCRIPTION:Immersive silent disco with light and sound.\n\nPrice: Check si
+ te\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/mca-lig
+ ht-nights
+LOCATION:Museum of Contemporary Art\, The Rocks\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/mca-light-nights
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb9b034a6f3@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Going Out · Vivid at Hollywood Quarter
+DESCRIPTION:Vivid is lighting up Hollywood Quarter in Surry Hills with food
+ \, music\, and after-dark fun on Saturday\, May 30 from 4pm until 4am the 
+ next morning.\n\nPrice: Check site\n\nTickets/Info: https://www.timeout.co
+ m/sydney/things-to-do/things-to-do-in-sydney-this-week
+LOCATION:Hollywood Quarter\, Surry Hills\, Sydney
+URL:https://www.timeout.com/sydney/things-to-do/things-to-do-in-sydney-this
+ -week
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:70da207780ff@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260614
+SUMMARY:Going Out · Vivid Fire Kitchen
+DESCRIPTION:Open every night of Vivid Sydney the Vivid Fire Kitchen is a di
+ ning hub with open-fire cooking\, food vendors + more.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-fi
+ re-kitchen
+LOCATION:Barangaroo Reserve\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:2580e0493da4@sydney-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260803
+SUMMARY:Going Out · The Greatest Showman Circus Spectacular
+DESCRIPTION:Come Alive! The Greatest Showman Spectacular arrives at the Ent
+ ertainment Quarter in 2026\n\nPrice: Free\n\nTickets/Info: https://whatson
+ .cityofsydney.nsw.gov.au/events/come-alive-the-greatest-showman-circus-spe
+ ctacular-sydney
+LOCATION:The Entertainment Quarter\, Moore Park\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/come-alive-the-greatest-
+ showman-circus-spectacular-sydney
+CATEGORIES:Going Out
+END:VEVENT
+END:VCALENDAR
